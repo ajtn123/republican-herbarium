@@ -1,0 +1,32 @@
+---
+interface Props {
+  month: { slug: string; zh: string };
+  class?: string;
+  decorative?: boolean;
+  loading?: 'eager' | 'lazy';
+}
+const { month, class: className, decorative = false, loading = 'lazy' } = Astro.props;
+const descriptions: Record<string, string> = {
+  vendemiaire: '葡萄串、掌状藤叶与卷须',
+  brumaire: '低雾穿过落叶树与远处果园',
+  frimaire: '枝条、卷叶与六角霜晶',
+  nivose: '积雪覆盖针叶枝，雪花飘落林间',
+  pluviose: '雨滴落在柳叶与水面涟漪之间',
+  ventose: '长风卷过向同一方向倾斜的枝叶',
+  germinal: '裂开的种子、初生叶片和向下延伸的根',
+  floreal: '野蔷薇、雏菊与尚未开放的花蕾',
+  prairial: '高草、三叶草和草甸上的小花',
+  messidor: '三束成熟麦穗、芒针与收束的秸秆',
+  thermidor: '盛夏太阳、升腾热浪与干燥地面',
+  fructidor: '果枝上的梨与苹果，以及剖开的无花果',
+};
+---
+<img
+  class:list={['month-illustration', className]}
+  src={`/assets/months/${month.slug}.svg`}
+  width="360"
+  height="360"
+  alt={decorative ? '' : `${month.zh}：${descriptions[month.slug]}`}
+  loading={loading}
+  decoding="async"
+/>

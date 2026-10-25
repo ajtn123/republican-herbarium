@@ -19,6 +19,7 @@ npm run dev
 - `content.py`: original Chinese editorial content, 12 months, 360 ordinary days, six festivals and ten decade-day names.
 - `export_data.py`: produces `src/data/calendar.json` and the on-demand search index.
 - `src/layouts/Base.astro`: shared document, navigation, metadata, footer and native search dialog.
+- `public/assets/months/`: twelve independent SVG drawings, shared by month cards, month details and the atlas headings.
 - `src/components/`: genuinely shared clock, converter, month card and decorative linework.
 - `src/pages/`: independent home, history, time, atlas and source pages; data-driven routes for months, days, festivals and decade names.
 - `src/styles/global.css`: shared design tokens, typography, responsive layout and thematic details.
