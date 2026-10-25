@@ -1,0 +1,10 @@
+---
+import { getDayNavigation } from '../lib/day-navigation';
+interface Props { currentHref: string; }
+const { previous, group, next } = getDayNavigation(Astro.props.currentHref);
+---
+<nav class="page-pagination day-pagination" aria-label="日期导航">
+  <a href={previous.href} rel="prev" aria-label={`前一日：${previous.label}`}>← {previous.label}</a>
+  <a href={group.href} aria-label={`返回${group.label}总览`}>返回{group.label}</a>
+  <a href={next.href} rel="next" aria-label={`后一日：${next.label}`}>{next.label} →</a>
+</nav>

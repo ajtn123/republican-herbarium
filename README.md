@@ -22,6 +22,7 @@ npm run dev
 - `src/components/`: genuinely shared clock, converter, month card and decorative linework.
 - `src/pages/`: independent home, history, time, atlas and source pages; data-driven routes for months, days, festivals and decade names.
 - `src/styles/global.css`: shared design tokens, typography, responsive layout and thematic details.
+- `src/lib/day-navigation.ts`: shared reading sequence for all 360 ordinary and six complementary days, grouped by the twelve months and a separate complementary-day section.
 - `src/lib/calendar.ts`: calendar arithmetic. Historical dates are supported from 1792-09-22; modern displays use an explicitly documented fixed four-year extension. See `/method/`.
 - `scripts/validate.mjs`: complete static route and internal-link validation.
 - `scripts/browser_qa.py`: optional browser interaction checks, requires Playwright and Chromium in a development environment. Not needed to build or serve.
