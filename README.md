@@ -12,7 +12,7 @@ npm run build
 npm run dev
 ```
 
-`npm run build` exports the structured editorial data, runs Astro's static production build, then validates all generated routes, local links, anchors, assets and metadata. Deployment serves `dist/` directly.
+`npm run build` exports the structured editorial data, runs Astro's static production build, then validates all generated routes, local links, anchors, assets, metadata and rendered serif glyph coverage. Deployment serves `dist/` directly.
 
 ## Structure
 
@@ -25,7 +25,7 @@ npm run dev
 - `src/lib/calendar.ts`: calendar arithmetic. Historical dates are supported from 1792-09-22; modern displays use an explicitly documented fixed four-year extension. See `/method/`.
 - `scripts/validate.mjs`: complete static route and internal-link validation.
 - `scripts/browser_qa.py`: optional browser interaction checks, requires Playwright and Chromium in a development environment. Not needed to build or serve.
-- `scripts/subset_font.py`: optional font asset maintenance utility requiring fontTools and the source Noto CJK font. The generated font is already included.
+- `scripts/subset_font.py`: optional font asset maintenance utility requiring fontTools and the source Noto CJK font. The generated font and its coverage manifest are already included. Collection includes component props and data-driven titles; rebuilds fail if rendered serif text lacks a glyph.
 
 397 HTML pages are generated, including the 404 page. The sitemap includes the 396 content pages. All essays remain readable without JavaScript; clock, search, filtering and conversion use small native scripts. The search index is fetched only when search is opened. All images and fonts are local.
 
