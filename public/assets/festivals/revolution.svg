@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <title>Révolution — liberty and new growth</title>
+  <desc>A softly folded terracotta Phrygian cap rests beside a few worn iron chain links. An oak shoot rises through a separated, broken link, its lobed leaves opening into the quiet space beside the felt.</desc>
+  <defs>
+    <linearGradient id="rv-felt" x1="109" y1="109" x2="211" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c08b73"/><stop offset=".39" stop-color="#af6b51"/><stop offset=".76" stop-color="#a2563d"/><stop offset="1" stop-color="#824a38"/>
+    </linearGradient>
+    <linearGradient id="rv-fold" x1="176" y1="85" x2="225" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c38e76"/><stop offset=".55" stop-color="#b5765c"/><stop offset="1" stop-color="#8c4b36"/>
+    </linearGradient>
+    <linearGradient id="rv-rim" x1="139" y1="222" x2="146" y2="264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b4755a"/><stop offset=".49" stop-color="#a2563d"/><stop offset="1" stop-color="#774534"/>
+    </linearGradient>
+    <linearGradient id="rv-iron" x1="221" y1="266" x2="224" y2="289" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#85867a"/><stop offset=".28" stop-color="#60665b"/><stop offset=".75" stop-color="#4b5147"/><stop offset="1" stop-color="#737568"/>
+    </linearGradient>
+    <linearGradient id="rv-leaf" x1="259" y1="157" x2="289" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#98a087"/><stop offset=".6" stop-color="#7c896e"/><stop offset="1" stop-color="#66765d"/>
+    </linearGradient>
+    <linearGradient id="rv-ground" x1="179" y1="270" x2="179" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6a6251" stop-opacity=".08"/><stop offset="1" stop-color="#6a6251" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- A few dry, uneven marks hold the objects on the same surface. -->
+  <path d="M58 265C99 251 138 261 176 267C205 272 229 269 250 279C268 275 299 277 318 291C288 303 252 302 216 298C168 296 132 289 93 286C76 283 60 275 58 265Z" fill="url(#rv-ground)"/>
+  <g stroke="#777565" stroke-width=".6" opacity=".28">
+    <path d="M70 273L92 277M98 281L116 282M149 284L165 286M180 290L196 291M245 301L262 302M299 304L313 302M305 293L321 294"/>
+  </g>
+
+  <!-- The short chain has irregular forged sections, rather than perfect circles. -->
+  <g stroke="#414a40" stroke-width="1.2" fill="url(#rv-iron)" fill-rule="evenodd">
+    <path d="M191 250C198 246 208 250 218 256L233 265C241 271 240 278 233 281C225 284 215 279 205 273L191 264C184 258 185 253 191 250ZM195 255C192 257 195 260 200 263L215 272C222 276 228 279 232 276C235 274 232 271 227 268L212 259C204 255 198 252 195 255Z"/>
+    <path d="M223 268C230 265 239 267 250 271L262 275C270 278 274 283 270 288C266 293 256 291 247 288L231 282C222 280 218 273 223 268ZM228 272C226 274 230 276 235 278L251 284C257 286 264 288 266 285C268 283 264 281 259 279L247 275C239 272 231 270 228 272Z"/>
+  </g>
+  <g stroke="#adb09d" stroke-width=".65" opacity=".68">
+    <path d="M191 253C198 250 208 255 218 261L231 269M224 270C230 267 242 272 250 274L261 278"/>
+  </g>
+  <g stroke="#363f35" stroke-width=".55" opacity=".7">
+    <path d="M199 267L199 264M203 269L204 267M216 277L217 274M229 281L230 278M233 280L234 277M235 281L236 278M247 287L248 284M250 288L251 285M263 290L262 287"/>
+  </g>
+
+  <!-- The cap's high, narrowing crown turns forward into a long, soft felt tip. -->
+  <path d="M67 238C65 219 75 194 88 176C103 154 107 128 120 105C133 80 150 68 169 72C190 75 203 88 221 93C238 100 249 111 249 127C249 139 241 150 229 151C220 151 211 147 205 140C205 167 218 190 226 210C230 220 232 230 229 239C204 254 107 260 67 238Z" fill="url(#rv-felt)" stroke="#754735" stroke-width="1.7"/>
+  <!-- The turn of the tip covers a shadowed crease on the front of the crown. -->
+  <path d="M157 90C172 87 186 98 192 113C198 128 206 142 220 147C230 152 239 146 243 140C233 145 224 137 220 129C211 113 203 99 187 88C177 81 166 81 157 90Z" fill="#7d4635" opacity=".36"/>
+  <path d="M154 85C169 76 183 81 194 89C207 99 226 98 238 110C248 120 248 134 240 142C233 149 222 145 216 137C206 124 201 106 187 97C176 89 165 87 154 91" fill="url(#rv-fold)" stroke="#81503c" stroke-width="1.15"/>
+  <path d="M160 89C171 86 182 92 190 100C200 112 202 126 212 138" stroke="#d3a28a" stroke-width=".8" opacity=".6"/>
+  <path d="M214 137C220 144 228 147 235 143M221 141C226 143 230 144 234 142" stroke="#714534" stroke-width=".75" opacity=".7"/>
+
+  <!-- Long, slack folds converge on the collapsed opening, with broad unmarked felt between. -->
+  <path d="M120 113C110 146 104 176 86 201C77 215 73 228 75 238C90 220 100 200 106 180C110 156 116 135 120 113Z" fill="#744632" opacity=".15"/>
+  <path d="M155 111C146 140 141 164 145 188C148 212 164 235 173 245C160 218 157 203 156 185C153 160 154 135 155 111Z" fill="#d3a187" opacity=".18"/>
+  <path d="M197 161C194 183 196 204 203 224L214 242C208 221 205 203 202 186Z" fill="#703f2f" opacity=".21"/>
+  <path d="M98 224C114 223 125 229 138 236C151 244 171 246 183 245C162 250 148 246 132 240C118 234 108 231 98 234Z" fill="#784332" opacity=".22"/>
+  <g stroke="#7c4936" stroke-width=".8" opacity=".67">
+    <path d="M121 115C112 141 111 159 104 177C97 196 86 210 81 224M128 106C118 131 117 157 111 174M150 112C144 133 143 149 144 164M145 175C145 200 154 219 164 234M182 123C187 143 180 158 179 176M201 176C199 193 204 213 211 229M105 223C119 222 129 228 142 234M90 231C101 229 112 235 124 239"/>
+    <path d="M106 190L98 206M109 191L103 205M113 185L109 196M147 194L151 209M150 194L153 203M180 166L180 178M184 160L183 170M203 208L209 223M205 208L208 216" stroke-width=".55"/>
+  </g>
+  <g stroke="#d9ac91" stroke-width=".6" opacity=".4">
+    <path d="M132 101C124 115 122 126 120 137M133 112L129 127M137 110L134 120M141 116L139 124M156 138L155 151M159 143L158 154M161 171L163 186M164 177L166 189M117 208L121 204M119 213L125 207M123 217L129 211M135 222L141 219M170 216L175 224M173 214L177 220M190 202L191 213M192 201L193 207"/>
+  </g>
+  <!-- Dry short fibres soften the surface without stippling every plane. -->
+  <g stroke="#704432" stroke-width=".48" opacity=".33">
+    <path d="M124 148L123 151M128 155L127 158M134 145L133 147M135 159L135 161M128 173L127 175M137 181L137 184M123 187L122 189M124 199L123 202M113 215L114 217M136 210L137 213M142 216L143 218M161 127L161 130M169 119L170 121M171 140L171 143M164 159L164 161M171 176L170 179M171 189L172 192M179 200L179 203M182 216L184 218M190 225L191 228M202 232L204 234M95 206L93 209M91 217L90 220M210 111L213 113M226 117L228 120M232 128L233 131M221 128L223 130"/>
+  </g>
+
+  <!-- The opening settles into an asymmetric shallow oval, with a rumpled lower lip. -->
+  <path d="M68 234C87 236 105 246 137 248C173 252 209 247 230 235C233 241 230 248 220 253C190 267 106 265 75 249C69 245 66 240 68 234Z" fill="#694332" stroke="#704431" stroke-width="1.2"/>
+  <path d="M67 230C79 236 92 237 110 241C139 248 176 250 207 243C217 241 225 237 231 232C232 236 232 242 227 246C218 252 197 257 174 258C140 260 112 255 90 251C77 248 66 242 65 237C64 234 65 232 67 230Z" fill="url(#rv-rim)" stroke="#754735" stroke-width="1.45"/>
+  <path d="M70 236C86 242 98 243 113 247C146 254 176 255 203 250C213 248 220 246 225 243" stroke="#d2a086" stroke-width=".8" opacity=".58"/>
+  <g stroke="#784633" stroke-width=".65" opacity=".7">
+    <path d="M81 242L83 247M86 243L88 249M105 248L108 254M111 249L113 255M129 253L131 257M134 254L135 258M183 254L183 258M188 254L188 257M214 247L212 252M218 246L216 251"/>
+  </g>
+
+  <!-- A separated link is open at one worn end. Its centre remains truly transparent. -->
+  <path d="M305 279C300 274 289 272 280 275C269 278 265 285 270 292C275 298 288 300 299 296C307 293 312 286 309 282L304 284C306 287 301 291 296 293C288 296 278 294 274 290C271 287 274 283 282 280C289 278 297 279 301 283Z" fill="url(#rv-iron)" stroke="#414a40" stroke-width="1.2"/>
+  <path d="M305 279L301 283L299 281L302 277ZM309 282L304 284L305 287L310 285Z" fill="#8b8877" stroke="#414a40" stroke-width=".8"/>
+  <path d="M273 283C278 277 290 275 299 279M273 292C279 297 292 297 299 294" stroke="#a1a28f" stroke-width=".65" opacity=".67"/>
+  <g stroke="#363f35" stroke-width=".55" opacity=".66">
+    <path d="M276 295L278 292M280 297L281 294M284 298L285 295M295 296L294 294M269 286L272 285M273 280L275 282M305 289L307 289"/>
+  </g>
+
+  <!-- A young oak rises through the empty link; the front of the iron overlaps its foot. -->
+  <path d="M287 292C285 284 279 275 277 263C273 248 275 229 278 214C281 198 280 182 284 169" stroke="#52604b" stroke-width="2.05"/>
+  <path d="M287 291C284 278 279 269 279 258C277 241 279 227 280 215" stroke="#a3aa8d" stroke-width=".65"/>
+  <path d="M277 240C269 231 259 221 252 212M280 216C289 208 297 200 302 189M280 195L269 180" stroke="#52604b" stroke-width="1.1"/>
+  <g fill="url(#rv-leaf)" stroke="#53604b" stroke-width="1.05">
+    <path d="M254 215C249 215 245 211 245 207C240 209 234 205 236 201C230 202 226 198 229 194C221 194 218 189 222 185C215 183 213 176 218 173C216 167 220 162 224 164C224 158 230 155 233 159C239 154 244 158 242 163C250 162 253 167 249 172C257 173 260 178 256 183C263 186 263 191 258 194C263 200 260 208 254 215Z"/>
+    <path d="M296 197C293 192 293 186 298 183C293 179 295 173 300 172C295 166 298 160 304 162C303 154 308 150 312 153C314 147 320 146 323 151C328 153 327 159 323 162C328 167 325 173 319 173C322 180 317 184 312 182C312 189 305 190 303 189C304 194 299 197 296 197Z"/>
+    <path d="M271 183C265 183 262 179 263 175C256 177 252 173 255 169C248 168 246 163 250 160C244 157 244 151 249 150C245 145 249 140 253 142C253 136 260 134 263 138C268 135 273 139 271 144C277 145 280 151 275 154C282 158 281 163 276 166C281 173 277 180 271 183Z"/>
+  </g>
+  <g stroke="#53604b" stroke-width=".66" opacity=".88">
+    <path d="M254 213C245 197 231 179 224 165M248 202L237 201M243 194L229 190M237 186L223 180M231 177L232 161M242 192L247 178M250 204L256 192M270 181C265 167 259 151 258 140M265 167L252 162M269 176L275 169M263 159L273 150M260 150L250 148M299 193C307 180 314 166 320 152M305 182L300 173M310 173L306 162M314 165L320 165M302 188L310 181"/>
+    <path d="M240 196L234 194M245 202L242 206M251 208L253 202M235 184L231 185M266 170L260 168M269 177L273 174M260 153L262 148M308 178L312 178M311 168L310 164M317 160L319 156" stroke-width=".48" opacity=".62"/>
+  </g>
+  <path d="M284 170C282 163 283 155 287 151C291 155 291 164 287 170Z" fill="#95836a" stroke="#52604b" stroke-width=".85"/>
+  <path d="M286 166L287 156M284 161L289 160" stroke="#665e48" stroke-width=".55"/>
+  <!-- The front edge of the ring passes in front of the small, living stem. -->
+  <path d="M280 296C284 297 289 298 294 296" stroke="#52594d" stroke-width="3.5"/>
+  <path d="M280 295C284 296 289 297 293 295" stroke="#929684" stroke-width=".6" opacity=".75"/>
+</svg>

@@ -1,0 +1,12 @@
+---
+import FestivalIllustration from './FestivalIllustration.astro';
+import { festivalArtwork } from '../lib/festival-art';
+interface Props { festival: { slug: string; zh: string; fr: string }; index: number; compact?: boolean; }
+const { festival: f, index, compact = false } = Astro.props;
+---
+<a class:list={['festival-card', { 'day-cell': compact }]} href={`/festivals/${f.slug}/`} style={`--accent:${festivalArtwork[f.slug].color}`} data-cat="节日" data-name={`${f.zh} ${f.zh}节 ${f.fr}`}>
+  <div class="festival-card-top"><span class="day-num">{String(index + 1).padStart(2, '0')}</span>{index === 5 && <span class="leap-label">仅闰年</span>}</div>
+  <FestivalIllustration slug={f.slug} decorative/>
+  <h3>{f.zh}节</h3>
+  <span class="fr" lang="fr">{f.fr}</span>
+</a>

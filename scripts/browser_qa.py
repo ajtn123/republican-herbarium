@@ -15,7 +15,11 @@ async def main():
   await page.goto(BASE+'/atlas/');await page.select_option('#atlas-category','大地材料');assert await page.locator('.day-cell:visible').count()==24
   await page.fill('#atlas-query','煤');assert await page.locator('.day-cell:visible').count()==1
   await page.fill('#atlas-query','不存在');assert await page.locator('#atlas-empty').is_visible()
-  await page.click('button[type=reset]');await page.wait_for_function("document.querySelectorAll('.day-cell:not([hidden])').length===360")
+  await page.click('button[type=reset]');await page.wait_for_function("document.querySelectorAll('.day-cell:not([hidden])').length===366")
+  await page.select_option('#atlas-category','节日');assert await page.locator('.day-cell:visible').count()==6
+  await page.select_option('#atlas-month','13');assert await page.locator('.day-cell:visible').count()==6
+  await page.fill('#atlas-query','genie');assert await page.locator('.day-cell:visible').count()==1
+  await page.click('button[type=reset]');await page.wait_for_function("document.querySelectorAll('.day-cell:not([hidden])').length===366")
   await page.goto(BASE+'/time/');await page.fill('#gregorian-date','1794-07-27');await page.click('#panel-gregorian button');assert '热月 9 日' in await page.locator('#converted-date').inner_text()
   await page.fill('#gregorian-date','1795-09-22');await page.click('#panel-gregorian button');assert '革命节' in await page.locator('#converted-date').inner_text()
   await page.click('#tab-republican');await page.fill('#republican-year','3');await page.select_option('#republican-month','13');await page.fill('#republican-day','6');await page.click('#panel-republican button');assert '1795 年 9 月 22 日' in await page.locator('#converted-date').inner_text()

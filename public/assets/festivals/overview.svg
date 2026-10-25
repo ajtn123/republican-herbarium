@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fest-overview-title fest-overview-desc">
+  <title id="fest-overview-title">The remaining gifts of the year</title>
+  <desc id="fest-overview-desc">A shallow handwoven basket gathers an acorn, an opened dry seed pod, a feather, an olive sprig and a small wildflower. Beside its rim a sixth gift, a split seed with two young leaves, begins to grow. Quiet ochre and olive washes with fine natural-history engraving.</desc>
+  <defs>
+    <linearGradient id="fo-basket" x1="107" y1="201" x2="229" y2="283" gradientUnits="userSpaceOnUse"><stop stop-color="#bcab84"/><stop offset=".48" stop-color="#a48e64"/><stop offset="1" stop-color="#8b7451"/></linearGradient>
+    <linearGradient id="fo-inside" x1="176" y1="165" x2="178" y2="222" gradientUnits="userSpaceOnUse"><stop stop-color="#8b7451"/><stop offset="1" stop-color="#ac9872"/></linearGradient>
+    <linearGradient id="fo-rim" x1="148" y1="177" x2="154" y2="219" gradientUnits="userSpaceOnUse"><stop stop-color="#bfad85"/><stop offset=".55" stop-color="#a18a60"/><stop offset="1" stop-color="#89734e"/></linearGradient>
+    <linearGradient id="fo-feather" x1="77" y1="67" x2="137" y2="165" gradientUnits="userSpaceOnUse"><stop stop-color="#b5ac90" stop-opacity=".43"/><stop offset=".51" stop-color="#a49673" stop-opacity=".6"/><stop offset="1" stop-color="#8b7451" stop-opacity=".77"/></linearGradient>
+    <linearGradient id="fo-leaf" x1="239" y1="98" x2="277" y2="153" gradientUnits="userSpaceOnUse"><stop stop-color="#a0a084"/><stop offset=".54" stop-color="#8a9070"/><stop offset="1" stop-color="#687358"/></linearGradient>
+    <linearGradient id="fo-acorn" x1="104" y1="155" x2="130" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#bba372"/><stop offset=".5" stop-color="#a28a5b"/><stop offset="1" stop-color="#776341"/></linearGradient>
+    <linearGradient id="fo-pod" x1="170" y1="141" x2="195" y2="169" gradientUnits="userSpaceOnUse"><stop stop-color="#c2ae81"/><stop offset=".53" stop-color="#a48c5d"/><stop offset="1" stop-color="#796342"/></linearGradient>
+    <linearGradient id="fo-linen" x1="94" y1="266" x2="142" y2="309" gradientUnits="userSpaceOnUse"><stop stop-color="#b9b5a2" stop-opacity=".75"/><stop offset="1" stop-color="#aaa48f" stop-opacity=".38"/></linearGradient>
+    <clipPath id="fo-weave"><path d="M49 189C63 223 89 263 129 279C173 298 224 287 258 261C279 244 296 210 305 186C277 206 234 222 184 224C132 226 80 211 49 189Z"/></clipPath>
+  </defs>
+
+  <!-- A small, doubled linen corner peeks from beneath the broad bowl. -->
+  <g stroke="#7e7d68" stroke-width="1.05">
+    <path d="M75 263C100 265 129 276 153 280C178 286 202 286 226 294L213 302C182 300 165 304 144 310C119 309 97 303 79 294L46 280C57 277 67 271 75 263Z" fill="url(#fo-linen)"/>
+    <path d="M46 280C78 282 102 298 128 301C157 305 183 293 210 296L226 294M79 294L75 284M144 310L130 301" stroke-width=".7"/>
+    <path d="M57 279L82 286M65 276L88 284M76 272L92 278M84 290L109 298M89 287L117 297M108 303L125 306M154 305L173 301M181 298L194 298" stroke-width=".45" opacity=".7"/>
+    <path d="M53 282L51 286M58 284L57 288M63 286L61 290M68 288L67 292M73 291L72 295M79 294L77 298" stroke-width=".55" opacity=".75"/>
+  </g>
+
+  <!-- The far lip is seen behind the things gathered inside. -->
+  <path d="M48 185C54 164 111 151 174 153C235 152 293 165 307 184C313 202 258 224 184 227C111 228 53 209 48 185Z" fill="url(#fo-rim)" stroke="#6a5c42" stroke-width="1.6"/>
+  <path d="M58 184C69 168 120 159 174 160C231 159 281 169 296 183C297 197 249 216 183 220C122 222 71 204 58 184Z" fill="url(#fo-inside)" stroke="#716045" stroke-width="1"/>
+  <path d="M67 179C98 166 141 163 176 164C220 164 257 169 280 179" stroke="#c8b58a" stroke-width=".9" opacity=".7"/>
+  <g stroke="#736145" stroke-width=".65" opacity=".85">
+    <path d="M59 174L63 180M68 170L72 176M80 166L83 173M92 162L95 170M105 160L107 168M119 157L120 165M133 155L134 163M148 154L148 162M164 153L164 161M181 153L181 160M198 154L197 161M214 155L212 163M229 157L226 165M244 160L240 167M258 164L253 171M271 168L266 174M283 173L277 178M294 178L288 183M302 183L296 187"/>
+  </g>
+
+  <!-- One naturally frayed feather leans into the back of the basket. -->
+  <path d="M147 184C134 179 120 170 110 160L106 153L103 154L94 143L94 139L90 139L82 125L83 120L79 120C68 98 64 72 77 54C92 55 106 69 117 88L118 96L122 97L127 110L126 115L130 117L135 132L134 140L137 142L141 158L140 166C142 173 144 179 147 184Z" fill="url(#fo-feather)" stroke="#716b51" stroke-width="1.2"/>
+  <path d="M77 56C81 90 100 126 122 156C136 174 148 188 161 203" stroke="#635e48" stroke-width="1.55"/>
+  <path d="M79 65C85 92 100 123 117 148C129 166 143 181 150 189" stroke="#c0b89a" stroke-width=".9" opacity=".8"/>
+  <g stroke="#776e50" stroke-width=".6" opacity=".74">
+    <path d="M81 76C77 69 76 63 77 59M83 84C76 76 72 70 73 66M87 94C79 88 72 81 71 75M90 103C80 99 74 91 71 85M95 113C83 108 77 103 73 96M100 122C89 119 81 112 76 105M106 132C95 129 88 122 80 116M112 142C101 139 91 132 86 127M118 151C108 149 101 143 93 137M125 160C113 156 107 152 102 148M133 170L115 161M140 178L128 173"/>
+    <path d="M81 76C88 72 92 72 98 74M85 88C94 84 101 86 109 89M89 99C101 96 109 100 118 105M94 110C106 109 117 114 124 120M100 121C113 122 123 129 130 136M106 132C120 134 130 142 134 149M113 143C126 147 134 155 137 162M121 155L139 172M129 166L143 179"/>
+    <path d="M73 80L78 86M75 91L82 98M80 106L88 113M88 124L96 130M98 139L108 145M90 76L97 77M97 89L106 92M106 103L116 108M114 118L123 124M123 135L130 143" stroke-width=".45" opacity=".6"/>
+  </g>
+
+  <!-- A quiet olive spray bends toward the other gathered stems. -->
+  <g stroke="#5e684e">
+    <path d="M212 210C224 187 238 165 250 145C265 121 276 100 287 80" stroke-width="1.8"/>
+    <path d="M228 181L223 170M240 161L255 157M253 140L244 125M267 115L280 115M277 97L273 88" stroke-width=".85"/>
+    <g fill="url(#fo-leaf)" stroke-width="1.15">
+      <path d="M224 172C210 163 205 148 206 135C219 141 226 156 224 172Z"/>
+      <path d="M254 158C265 143 282 139 295 139C286 152 271 161 254 158Z"/>
+      <path d="M246 129C232 118 229 99 233 87C245 98 250 115 246 129Z"/>
+      <path d="M279 116C289 102 303 97 316 97C309 110 296 117 279 116Z"/>
+      <path d="M274 91C264 79 265 65 271 55C279 66 280 80 274 91Z"/>
+      <path d="M286 82C291 69 302 60 311 58C309 70 299 80 286 82Z"/>
+    </g>
+    <g stroke-width=".6" opacity=".85">
+      <path d="M223 170L208 138M256 157C269 150 282 144 292 141M246 126L234 90M281 115L312 99M274 88L271 58M287 80L309 60"/>
+      <path d="M217 156L217 145M216 156L211 151M269 150L274 143M278 146L287 145M241 110L240 99M241 111L234 104M293 107L298 101M300 104L307 104M273 75L269 69M298 70L300 64" stroke-width=".45" opacity=".6"/>
+    </g>
+    <path d="M238 166C230 166 226 174 229 182C231 187 237 187 240 182C244 176 244 168 238 166Z" fill="#7c8060" stroke-width="1.05"/>
+    <path d="M236 168C231 172 230 178 232 181" stroke="#b0af8a" stroke-width=".75"/>
+  </g>
+
+  <!-- A small field flower threads through the pod and the olive stem. -->
+  <g stroke="#667052">
+    <path d="M195 205C202 183 207 160 204 143C203 129 195 116 193 106" stroke-width="1.45"/>
+    <path d="M205 164C194 158 187 149 186 140C197 143 204 151 205 164Z" fill="#969c79" stroke-width="1"/>
+    <path d="M204 146C213 143 218 135 218 129C208 132 204 138 204 146Z" fill="#8b9571" stroke-width=".95"/>
+    <path d="M204 162L188 143M205 145L216 132" stroke-width=".55"/>
+    <path d="M190 108L186 101L193 104L198 100L197 108Z" fill="#81906a" stroke-width=".85"/>
+  </g>
+  <g fill="#c6b893" stroke="#8b7451" stroke-width="1">
+    <path d="M191 99C183 95 180 87 185 83C190 79 197 86 197 94C201 86 208 85 211 90C214 96 207 102 199 102C207 106 209 112 203 115C197 117 192 110 192 104C190 112 183 115 179 110C175 105 182 99 191 99Z"/>
+    <path d="M192 96C184 94 180 99 182 103C184 107 190 105 194 102" fill="#baaa82" stroke-width=".65"/>
+  </g>
+  <path d="M192 96C195 93 200 96 199 100C199 103 194 105 191 102C189 101 190 98 192 96Z" fill="#8b7451" stroke="#6d6447" stroke-width=".8"/>
+  <g stroke="#8b7451" stroke-width=".5" opacity=".65"><path d="M191 91L188 86M203 96L207 92M201 108L197 104M184 108L189 104M193 98L196 99M193 102L195 100"/></g>
+
+  <!-- The acorn nestles low against the feather, partly inside the rim. -->
+  <path d="M104 163C97 174 100 191 111 203C115 208 119 210 123 210C133 204 142 189 138 175L104 163Z" fill="url(#fo-acorn)" stroke="#6c593d" stroke-width="1.4"/>
+  <path d="M109 174C106 184 110 196 118 202M133 180C132 190 128 199 123 203" stroke="#71603e" stroke-width=".65" opacity=".65"/>
+  <path d="M113 177C110 184 113 194 117 198" stroke="#c7b182" stroke-width=".9" opacity=".8"/>
+  <path d="M123 209L125 212" stroke="#625337" stroke-width="1.2"/>
+  <path d="M117 155C118 150 119 145 116 140L120 140C124 146 122 151 121 156Z" fill="#89744c" stroke="#66583e" stroke-width="1"/>
+  <path d="M99 168C100 157 109 152 120 155C132 157 141 166 142 175C132 181 114 176 101 172Z" fill="#8f805b" stroke="#665a40" stroke-width="1.3"/>
+  <path d="M100 168C111 173 129 179 141 174" stroke="#c1ad80" stroke-width=".9"/>
+  <g stroke="#635b42" stroke-width=".65">
+    <path d="M103 163L108 166L112 162L117 167L122 164L127 170L132 168L136 173M108 157L112 162L116 157L122 164L126 160M102 168L108 166L112 172L117 167L122 174L127 170L131 176M132 168L132 164M107 171L111 174M136 173L140 173"/>
+  </g>
+
+  <!-- A dry pod opens obliquely across the basket, with uneven ripe seeds. -->
+  <path d="M149 194C149 180 159 165 173 150C191 133 211 126 228 126C217 140 210 151 196 166C180 184 165 195 149 194Z" fill="url(#fo-pod)" stroke="#73603f" stroke-width="1.45"/>
+  <path d="M153 188C161 173 174 158 188 148C201 139 212 133 222 130C210 147 192 166 178 177C168 186 158 190 153 188Z" fill="#78623f" stroke="#7a6543" stroke-width=".75"/>
+  <path d="M149 194C166 191 186 177 200 160C215 143 217 133 228 126C217 127 207 129 196 135" stroke="#c2ad7f" stroke-width="1.2"/>
+  <path d="M227 127C229 124 232 121 234 118" stroke="#746341" stroke-width="1.25"/>
+  <g fill="#ac9364" stroke="#67563a" stroke-width=".8">
+    <path d="M160 177C164 174 170 176 169 181C168 186 161 189 158 186C156 184 157 179 160 177Z"/>
+    <path d="M173 162C178 159 184 161 183 166C182 172 176 175 172 173C169 171 170 165 173 162Z"/>
+    <path d="M188 148C192 145 198 146 198 151C197 157 192 161 187 159C184 157 185 152 188 148Z"/>
+    <path d="M204 137C208 134 213 134 213 138C212 143 207 147 203 145C200 144 201 140 204 137Z"/>
+  </g>
+  <g stroke="#d0b88a" stroke-width=".65" opacity=".85"><path d="M160 182L164 179M173 168L177 164M189 154L193 150M204 141L208 138"/></g>
+  <g stroke="#796442" stroke-width=".55" opacity=".8">
+    <path d="M153 180L158 176M156 173L162 171M162 164L169 162M169 156L176 153M178 146L186 143M188 139L196 137M200 132L207 131M165 191L167 187M177 184L178 179M188 175L189 171M201 160L199 157M211 147L208 146M218 136L215 136"/>
+  </g>
+
+  <!-- The near wall occludes the bases; its weave follows the bowl's volume. -->
+  <path d="M49 189C63 223 89 263 129 279C173 298 224 287 258 261C279 244 296 210 305 186C277 206 234 222 184 224C132 226 80 211 49 189Z" fill="url(#fo-basket)" stroke="#6c5b3e" stroke-width="1.6"/>
+  <g clip-path="url(#fo-weave)">
+    <g stroke="#6f5f41" stroke-width="1" opacity=".7">
+      <path d="M54 201C119 242 237 248 300 198M59 211C125 251 236 257 295 210M66 223C131 261 235 267 290 222M73 235C135 270 231 277 283 235M83 248C141 281 226 285 274 248M97 261C149 290 217 293 263 260M115 273C158 296 204 298 246 273"/>
+    </g>
+    <g stroke="#c9b58a" stroke-width=".75" opacity=".65">
+      <path d="M54 205C121 246 237 252 299 202M61 216C127 255 237 261 294 214M69 228C132 265 234 271 287 227M78 240C139 275 229 280 280 240M89 253C146 286 224 290 270 253M105 267C153 294 214 296 257 266"/>
+    </g>
+    <g stroke="#736043" stroke-width=".85" opacity=".78">
+      <path d="M59 196C73 231 93 259 125 282M73 202C84 235 106 268 139 287M89 208C97 237 119 274 153 290M108 215C113 244 135 278 168 292M127 220C131 249 149 279 183 293M147 223C150 253 166 280 199 291M167 225C170 253 184 279 215 285M188 224C189 249 201 274 230 280M209 221C207 245 221 269 244 272M230 216C224 242 237 261 256 263M250 209C240 232 251 253 268 252M268 202C257 223 266 241 279 238M286 194C272 215 280 228 291 222"/>
+    </g>
+    <g stroke="#d0bb8d" stroke-width=".65" opacity=".6">
+      <path d="M78 217L87 235M93 226L102 244M111 234L122 255M131 239L140 258M152 245L162 265M173 247L182 264M193 247L201 263M215 243L222 260M234 236L239 252M252 226L256 242M270 215L272 230M113 263L124 274M140 274L151 282M166 279L178 286M192 278L205 282M216 273L229 275M241 262L250 264"/>
+    </g>
+    <g stroke="#695b3f" stroke-width=".55" opacity=".55">
+      <path d="M77 232L82 238M88 245L95 250M99 253L105 258M118 264L125 268M137 270L144 274M157 275L164 279M180 278L186 281M202 275L208 278M224 269L230 272M246 257L251 260M263 242L269 243M277 224L282 224M97 224L103 228M116 230L122 234M137 234L143 239M158 237L164 241M180 239L185 242M202 235L208 239M224 230L229 233M247 219L252 223M267 209L272 212"/>
+    </g>
+  </g>
+  <!-- A bound, imperfect rolled rim makes the shallow shape legible at a glance. -->
+  <path d="M49 184C69 202 122 218 179 218C233 217 279 202 305 183L306 191C280 212 232 227 180 227C124 228 69 211 50 192Z" fill="url(#fo-rim)" stroke="#6b5b3f" stroke-width="1.35"/>
+  <path d="M53 187C83 208 132 222 181 221C231 220 279 205 302 188" stroke="#c5b087" stroke-width="1.1"/>
+  <g stroke="#715f41" stroke-width=".7">
+    <path d="M56 189L57 196M64 194L65 201M73 198L74 205M83 202L84 210M94 206L95 214M106 210L107 218M119 213L120 221M133 216L133 224M147 218L147 226M162 219L161 227M177 219L176 227M192 219L190 227M207 217L205 225M222 215L219 223M237 212L233 220M251 208L247 217M264 204L260 212M277 199L272 207M288 194L283 202M299 188L294 196"/>
+  </g>
+  <path d="M128 279C155 289 191 292 220 282" stroke="#66573d" stroke-width="1.05" opacity=".75"/>
+
+  <!-- The exceptional sixth gift rests just outside the basket: a living seed. -->
+  <g stroke="#5f674d">
+    <path d="M290 273C291 262 295 249 300 239C303 233 304 228 303 222" stroke-width="1.55"/>
+    <path d="M301 237C290 233 282 226 279 215C291 215 300 223 301 237Z" fill="#959b78" stroke-width="1.2"/>
+    <path d="M303 225C306 213 315 208 325 207C323 217 315 225 303 225Z" fill="#82916a" stroke-width="1.15"/>
+    <path d="M301 235L282 218M304 224L322 209" stroke-width=".6"/>
+    <path d="M294 228L291 220M310 220L318 217" stroke-width=".45" opacity=".6"/>
+  </g>
+  <path d="M290 268C284 262 275 265 274 273C272 280 277 287 283 288C289 287 292 279 290 268Z" fill="#a28b5f" stroke="#6f5c3e" stroke-width="1.3"/>
+  <path d="M292 269C296 262 305 265 306 272C308 279 303 286 296 287C290 283 289 277 292 269Z" fill="#b39c6d" stroke="#6f5c3e" stroke-width="1.2"/>
+  <path d="M288 271C289 276 286 283 283 285M295 270C293 275 295 282 298 284" stroke="#786342" stroke-width=".65"/>
+  <path d="M279 269C276 274 278 279 280 281M301 269L303 273" stroke="#cbb282" stroke-width=".75"/>
+  <path d="M289 281C287 288 288 295 294 300C299 304 296 309 292 311M292 295C289 296 287 299 288 302" stroke="#817453" stroke-width=".9"/>
+  <g stroke="#8b7451" stroke-width=".55" opacity=".45"><path d="M269 290L278 292M304 290L312 288M299 305L304 303"/></g>
+</svg>

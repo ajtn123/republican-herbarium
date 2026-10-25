@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <title>Génie — the growing page</title>
+  <desc>A worn book lies open in gentle perspective. A finely barbed goose quill rests diagonally over its blank, curled parchment pages, while a small two-leaved seedling rises from the binding seam. Muted blue-grey engraving with warm paper washes.</desc>
+  <defs>
+    <linearGradient id="gn-cover" x1="82" y1="208" x2="221" y2="312" gradientUnits="userSpaceOnUse"><stop stop-color="#8d989c"/><stop offset="1" stop-color="#687d8c"/></linearGradient>
+    <linearGradient id="gn-block" x1="163" y1="256" x2="170" y2="307" gradientUnits="userSpaceOnUse"><stop stop-color="#d9ccb0"/><stop offset="1" stop-color="#b7aa91"/></linearGradient>
+    <linearGradient id="gn-page-left" x1="81" y1="200" x2="174" y2="253" gradientUnits="userSpaceOnUse"><stop stop-color="#e3dac4"/><stop offset=".72" stop-color="#d8ccb2"/><stop offset="1" stop-color="#b6aa91"/></linearGradient>
+    <linearGradient id="gn-page-right" x1="284" y1="195" x2="181" y2="241" gradientUnits="userSpaceOnUse"><stop stop-color="#e6ddc8"/><stop offset=".75" stop-color="#dbd0b8"/><stop offset="1" stop-color="#b7aa93"/></linearGradient>
+    <linearGradient id="gn-curl" x1="285" y1="249" x2="287" y2="267" gradientUnits="userSpaceOnUse"><stop stop-color="#b8ad95"/><stop offset="1" stop-color="#ded4bc"/></linearGradient>
+    <linearGradient id="gn-feather" x1="195" y1="113" x2="248" y2="153" gradientUnits="userSpaceOnUse"><stop stop-color="#d1d6d0"/><stop offset=".45" stop-color="#bac6c7"/><stop offset="1" stop-color="#96a7ae"/></linearGradient>
+    <linearGradient id="gn-leaf" x1="145" y1="131" x2="175" y2="163" gradientUnits="userSpaceOnUse"><stop stop-color="#a2aa91"/><stop offset="1" stop-color="#7e8a72"/></linearGradient>
+    <clipPath id="gn-vane-clip"><path d="M158 215C157 204 159 190 164 179L161 180C164 166 171 153 179 143L175 145C180 132 189 118 199 108L196 109C203 94 216 80 231 71C248 61 265 56 283 48C279 61 282 69 277 84L279 82C277 99 269 114 260 126L264 124C255 143 242 158 226 171L231 170C215 188 194 202 174 212C167 215 163 215 158 215Z"/></clipPath>
+  </defs>
+  <!-- The rounded boards show through beneath the irregular paper block. -->
+  <g stroke="#4e5e65" stroke-width="1.4">
+    <path d="M47 191C87 182 130 191 165 214C207 186 263 182 307 194L325 268C293 269 258 281 221 295C203 302 191 310 180 310C168 308 157 301 143 297C108 286 76 280 39 275L37 268Z" fill="url(#gn-cover)"/>
+    <path d="M41 272C81 277 119 286 153 298C164 302 173 306 180 306C190 305 205 296 220 290C257 277 291 265 321 266" stroke-width=".7" opacity=".78"/>
+    <path d="M169 296C170 304 174 309 180 310C186 310 190 307 193 302" fill="#687d8c" stroke-width=".9"/>
+    <path d="M45 264C89 261 130 267 180 288C224 267 271 254 313 255L315 266C271 267 224 283 181 302C131 281 89 275 43 274Z" fill="url(#gn-block)" stroke="#706d5e" stroke-width="1.2"/>
+  </g>
+  <!-- Several unruled fore-edges vary slightly in length and curvature. -->
+  <g stroke="#89816d" stroke-width=".58" opacity=".84">
+    <path d="M45 267C91 264 136 276 179 294M45 270C91 268 134 279 175 295M56 273C100 272 135 283 170 296M183 294C226 274 270 262 312 260M185 297C227 278 268 266 312 263M191 296C235 278 272 267 306 266"/>
+    <path d="M56 269L69 269M90 272L102 274M132 284L145 288M246 277L262 273M284 268L295 266" opacity=".55"/>
+  </g>
+  <!-- The top leaves rise at the gutter and curl at their outer corners. -->
+  <g stroke="#696c62" stroke-width="1.3">
+    <path d="M49 186C85 175 129 182 165 205C170 225 174 257 180 288C133 266 91 256 43 264C47 240 47 214 49 186Z" fill="url(#gn-page-left)"/>
+    <path d="M165 205C205 179 261 173 302 188C305 211 309 235 315 255C267 250 221 267 180 288C174 260 173 229 165 205Z" fill="url(#gn-page-right)"/>
+    <path d="M49 186C53 192 54 197 53 203C52 224 50 246 43 264C48 262 52 262 58 262" stroke-width=".75" opacity=".57"/>
+    <path d="M302 188C300 206 305 229 312 244C315 250 318 253 321 256C311 260 298 263 286 264C291 260 295 255 296 251" fill="url(#gn-curl)" stroke-width="1.1"/>
+    <path d="M296 251C304 251 313 253 321 256" stroke-width=".7"/>
+  </g>
+  <g stroke="#83816f" stroke-width=".65" opacity=".64">
+    <path d="M59 191C88 186 123 192 152 208M59 195C67 193 73 193 81 193M50 253C83 248 119 254 148 264M193 202C222 187 263 183 289 189M196 205C207 199 218 195 227 193M190 279C221 263 257 252 280 252"/>
+    <path d="M55 203L57 214M53 238L51 246M68 187L75 186M111 190L120 193M284 186L291 188M310 247L315 252M307 255L304 258M297 258L293 261"/>
+  </g>
+  <!-- Small wear marks stop at the edge; the broad page faces stay blank. -->
+  <g stroke="#7c7767" stroke-width=".5" opacity=".53">
+    <path d="M47 258L52 257M48 260L55 259M55 261L60 260M47 248L49 245M50 207L51 201M55 189L59 188M61 187L65 186M142 278L149 281M148 279L155 282M155 282L162 285M211 281L218 278M215 282L222 279M225 277L230 275M306 264L310 263"/>
+    <path d="M174 264L175 271M174 274L177 284M170 241L171 249M166 214L168 223M173 233L175 242M174 250L177 261" opacity=".65"/>
+  </g>
+  <path d="M165 205C170 225 174 257 180 288" stroke="#68756f" stroke-width="1.45"/>
+  <path d="M168 207C174 231 178 260 183 283" stroke="#888b79" stroke-width=".65" opacity=".7"/>
+  <g stroke="#516874" stroke-width=".55" opacity=".57">
+    <path d="M42 267L45 271M47 269L49 273M52 270L55 274M58 272L60 275M145 294L147 298M151 296L153 300M157 298L159 302M164 301L166 305M172 304L174 308M186 305L187 308M193 301L195 304M202 297L204 300M291 274L294 276M299 271L302 273M307 269L310 271M315 267L318 269"/>
+  </g>
+  <g fill="#8f846d" opacity=".28">
+    <ellipse cx="80" cy="224" rx=".65" ry=".45"/><ellipse cx="87" cy="229" rx=".45" ry=".65"/><ellipse cx="74" cy="232" rx=".45" ry=".45"/><ellipse cx="118" cy="246" rx=".55" ry=".4"/><ellipse cx="231" cy="224" rx=".6" ry=".45"/><ellipse cx="239" cy="220" rx=".4" ry=".55"/><ellipse cx="254" cy="228" rx=".6" ry=".4"/><ellipse cx="271" cy="208" rx=".4" ry=".55"/>
+  </g>
+  <!-- A goose feather: unequal vanes, interrupted barbs, and a tapered rachis. -->
+  <path d="M158 215C157 204 159 190 164 179L161 180C164 166 171 153 179 143L175 145C180 132 189 118 199 108L196 109C203 94 216 80 231 71C248 61 265 56 283 48C279 61 282 69 277 84L279 82C277 99 269 114 260 126L264 124C255 143 242 158 226 171L231 170C215 188 194 202 174 212C167 215 163 215 158 215Z" fill="url(#gn-feather)" stroke="#526873" stroke-width="1.3"/>
+  <g clip-path="url(#gn-vane-clip)" stroke="#5d7480" stroke-width=".65" opacity=".84">
+    <path d="M161 210C158 203 159 196 161 190M166 204C161 196 162 184 164 179M171 197C165 188 166 176 168 166M176 190C169 181 172 166 176 153M181 183C173 173 178 157 181 140M187 175C179 164 184 147 188 125M193 168C185 156 189 135 196 111M199 160C190 147 196 126 204 99M205 152C196 137 202 115 214 86M212 143C202 129 210 104 224 77M218 134C209 119 218 94 235 69M225 125C217 110 227 87 246 64M232 116C226 101 239 77 258 59M239 106C235 92 249 70 268 55M246 96C244 82 257 64 276 51M254 86C254 73 267 57 281 49"/>
+    <path d="M162 211C174 208 182 202 192 194M168 203C185 197 201 187 212 175M175 194C192 188 210 174 221 160M182 184C199 179 220 161 233 145M189 175C210 168 229 150 243 132M196 165C220 155 238 135 250 118M203 155C228 143 247 123 258 104M211 145C236 131 253 110 265 91M218 135C244 120 261 97 271 79M226 125C250 110 267 87 276 67M234 114C256 100 271 77 280 55M242 103C261 90 272 71 282 49"/>
+  </g>
+  <g clip-path="url(#gn-vane-clip)" stroke="#cbd2cd" stroke-width=".7" opacity=".65">
+    <path d="M173 196C167 186 168 172 172 162M184 181C177 166 181 151 185 134M195 165C187 150 193 129 201 105M209 147C199 130 207 110 219 82M223 128C214 109 225 87 240 67M240 105C236 86 254 65 272 54"/>
+    <path d="M178 190C197 183 217 167 231 150M190 172C214 162 235 141 249 121M204 153C230 141 250 118 264 94M220 133C245 117 264 89 276 65"/>
+  </g>
+  <g clip-path="url(#gn-vane-clip)" stroke="#617782" stroke-width=".43" opacity=".56">
+    <path d="M165 195L163 184M169 187L168 176M174 176L174 164M179 165L180 151M185 152L188 138M192 140L196 125M199 126L205 111M208 111L214 98M218 95L226 83M230 81L238 71M242 72L252 63M255 63L264 57M179 202L189 196M187 195L199 186M199 186L211 176M211 175L223 162M224 162L235 148M237 146L248 129M249 129L259 111M260 111L268 94M269 92L275 78"/>
+  </g>
+  <!-- A few separated barb tips keep the edge soft and observed. -->
+  <g stroke="#526873" stroke-width=".55" opacity=".78">
+    <path d="M161 208L155 203M163 200L157 196M165 190L161 183M168 180L166 175M173 166L173 158M181 149L182 141M199 112L203 102M226 76L235 70M248 64L257 61M271 58L278 53M176 212L184 207M194 202L204 195M211 188L220 180M232 166L240 157M259 129L263 122M272 101L275 92"/>
+  </g>
+  <!-- The exposed calamus is slim, slightly flattened, and split at its cut tip. -->
+  <path d="M94 278C117 249 136 226 156 201C194 152 239 91 282 49C245 91 203 151 159 207C136 236 116 259 98 280L93 284Z" fill="#c0c7c1" stroke="#536975" stroke-width="1.05"/>
+  <path d="M96 279C123 246 146 218 171 186C209 135 248 84 278 54" stroke="#748a93" stroke-width=".55"/>
+  <path d="M94 283L100 274M101 273L108 265" stroke="#536975" stroke-width=".65"/>
+  <!-- The sprout is rooted in the open gutter, with the cotyledons unfolding. -->
+  <path d="M175 234C174 221 168 205 167 191C167 177 169 167 165 155" stroke="#566757" stroke-width="2.2"/>
+  <path d="M177 234C175 219 170 205 169 191C169 179 171 169 167 156" stroke="#a2aa91" stroke-width=".8"/>
+  <path d="M166 160C152 159 141 152 133 139C148 137 162 144 166 160Z" fill="url(#gn-leaf)" stroke="#566757" stroke-width="1.15"/>
+  <path d="M168 168C166 154 173 142 187 136C188 149 182 163 168 168Z" fill="url(#gn-leaf)" stroke="#566757" stroke-width="1.15"/>
+  <g stroke="#5e705c" stroke-width=".6">
+    <path d="M165 159C156 152 145 145 135 140M168 167C175 155 181 145 186 138M154 151L147 151M154 151L151 144M177 152L176 146M177 152L183 150M172 160L178 157"/>
+    <path d="M160 154L158 148M171 161L170 156" opacity=".52"/>
+  </g>
+  <path d="M172 229C174 232 175 235 176 239M172 236L176 239L178 235" stroke="#68756b" stroke-width=".75"/>
+</svg>
