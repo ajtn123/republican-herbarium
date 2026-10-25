@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://republican-herbarium.ideal-petal-8456.chatgpt.site/sitemap.xml

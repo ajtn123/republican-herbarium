@@ -1,0 +1,27 @@
+---
+import '../styles/global.css';
+const {title='共和历',description='探索法国共和历：从年到秒的时间设计，十二个月、三百六十个日名和六个年终节日的自然与历史。',accent='#65704d',section=''}=Astro.props;
+const canonical=new URL(Astro.url.pathname,Astro.site);
+
+---
+<!doctype html><html lang="zh-CN" style={`--accent:${accent}`}><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>{title} · 共和历</title><meta name="description" content={description}/><link rel="canonical" href={canonical}/><meta property="og:title" content={`${title} · 时间的自然史`}/><meta property="og:description" content={description}/><meta property="og:type" content="website"/><meta property="og:url" content={canonical}/><meta property="og:image" content={new URL('/assets/botanical.webp',Astro.site)}/><meta name="theme-color" content="#f3f0e6"/><link rel="icon" href="/favicon.svg" type="image/svg+xml"/></head><body>
+<a class="skip" href="#main">跳至正文</a>
+<header class="site-header"><a class="brand" href="/" aria-label="共和历首页"><span class="sun-mark" aria-hidden="true">✺</span><span>共和历<span class="brand-fr" lang="fr">Le calendrier républicain</span></span></a><nav aria-label="主要导航">{[['/months/','十二个月','months'],['/atlas/','每日图谱','atlas'],['/time/','时间尺度','time'],['/history/','历史与思想','history']].map(([url,label,id])=><a href={url} aria-current={section===id?'page':undefined}>{label}</a>)}</nav><button class="search-trigger" aria-label="搜索全站" aria-haspopup="dialog"><svg viewBox="0 0 24 24" width="20" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg><span>检索</span></button></header>
+<main id="main"><slot/></main>
+<footer class="site-footer"><span>✺ &nbsp; 时间的自然史</span><p>以自然为名，以理性计时。</p><div><a href="/sources/">资料与译名</a><a href="/method/">换算说明</a><a href="/atlas/">完整索引 ↗</a></div></footer>
+<dialog id="search-dialog" aria-labelledby="search-title"><div class="dialog-top"><h2 id="search-title">寻找一个名字</h2><button class="dialog-close" aria-label="关闭搜索">×</button></div><label class="sr-only" for="global-search">中法文名称</label><input id="global-search" type="search" placeholder="输入中文或法文，如：葡萄、Raisin" autocomplete="off"/><p id="search-count" aria-live="polite">从月份、日名与节日中检索。</p><ul id="search-results"></ul></dialog>
+
+<script>
+ const dialog=document.querySelector<HTMLDialogElement>('#search-dialog')!;
+ const input=document.querySelector<HTMLInputElement>('#global-search')!;
+ const list=document.querySelector('#search-results')!;
+ const count=document.querySelector('#search-count')!;
+ let records:any[]=[];let loading:Promise<void>|undefined;async function loadIndex(){if(!loading)loading=fetch('/search-index.json').then(r=>{if(!r.ok)throw new Error('search');return r.json()}).then(d=>{records=d;input.dispatchEvent(new Event('input'))}).catch(()=>{count.textContent='索引暂时无法读取，请前往每日图谱。';loading=undefined});await loading;}
+ const norm=(x:string)=>x.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+ document.querySelector('.search-trigger')?.addEventListener('click',()=>{dialog.showModal();input.focus();loadIndex()});
+ document.querySelector('.dialog-close')?.addEventListener('click',()=>dialog.close());
+ dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
+ input.addEventListener('input',()=>{const q=norm(input.value.trim());list.replaceChildren();const hits=q?records.filter((x:any)=>norm(x.title+' '+x.fr+' '+x.type).includes(q)):[];count.textContent=q?`找到 ${hits.length} 项`:'从月份、日名与节日中检索。';for(const x of hits){const li=document.createElement('li'),a=document.createElement('a'),name=document.createElement('span'),meta=document.createElement('span');a.href=x.path;name.textContent=x.title+' · '+x.fr;meta.textContent=x.type;a.append(name,meta);li.append(a);list.append(li)}});
+ document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes((e.target as HTMLElement).tagName)){e.preventDefault();dialog.showModal();input.focus();loadIndex()}});
+</script>
+</body></html>

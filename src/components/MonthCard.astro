@@ -1,0 +1,6 @@
+---
+import Specimen from './Specimen.astro';
+const {month:m}=Astro.props;
+const kinds=['grape','tree','tree','mineral','flower','flower','flower','flower','grain','grain','flower','fruit'];
+---
+<a class="month-card" href={`/months/${m.slug}/`} style={`--month-color:${m.color}`}><div class="month-card-top"><span>{String(m.id).padStart(2,'0')}</span><span>{m.season}</span></div><Specimen kind={kinds[m.id-1]} seed={m.id} label={`${m.zh}的季节意象示意`}/><div class="month-card-bottom"><h3>{m.zh}</h3><span lang="fr">{m.fr}</span><span class="card-arrow" aria-hidden="true">↗</span></div></a>
