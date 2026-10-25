@@ -1,10 +1,11 @@
 ---
 import '../styles/global.css';
+import fontCoverage from '../data/font-coverage.json';
 const {title='共和历',description='探索法国共和历：从年到秒的时间设计，十二个月、三百六十个日名和六个年终节日的自然与历史。',accent='#65704d',section=''}=Astro.props;
 const canonical=new URL(Astro.url.pathname,Astro.site);
 
 ---
-<!doctype html><html lang="zh-CN" style={`--accent:${accent}`}><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>{title} · 共和历</title><meta name="description" content={description}/><link rel="canonical" href={canonical}/><meta property="og:title" content={`${title} · 时间的自然史`}/><meta property="og:description" content={description}/><meta property="og:type" content="website"/><meta property="og:url" content={canonical}/><meta property="og:image" content={new URL('/assets/botanical.webp',Astro.site)}/><meta name="theme-color" content="#f3f0e6"/><link rel="icon" href="/favicon.svg" type="image/svg+xml"/></head><body>
+<!doctype html><html lang="zh-CN" style={`--accent:${accent}`}><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>{title} · 共和历</title><meta name="description" content={description}/><link rel="canonical" href={canonical}/><meta property="og:title" content={`${title} · 时间的自然史`}/><meta property="og:description" content={description}/><meta property="og:type" content="website"/><meta property="og:url" content={canonical}/><meta property="og:image" content={new URL('/assets/botanical.webp',Astro.site)}/><link rel="preload" as="font" type="font/woff" href={`/${fontCoverage.file}`} crossorigin="anonymous"/><meta name="theme-color" content="#f3f0e6"/><link rel="icon" href="/favicon.svg" type="image/svg+xml"/></head><body>
 <a class="skip" href="#main">跳至正文</a>
 <header class="site-header"><a class="brand" href="/" aria-label="共和历首页"><span class="sun-mark" aria-hidden="true">✺</span><span>共和历<span class="brand-fr" lang="fr">Le calendrier républicain</span></span></a><nav aria-label="主要导航">{[['/months/','十二个月','months'],['/atlas/','每日图谱','atlas'],['/time/','时间尺度','time'],['/history/','历史与思想','history']].map(([url,label,id])=><a href={url} aria-current={section===id?'page':undefined}>{label}</a>)}</nav><button class="search-trigger" aria-label="搜索全站" aria-haspopup="dialog"><svg viewBox="0 0 24 24" width="20" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg><span>检索</span></button></header>
 <main id="main"><slot/></main>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <title>Colchique — Colchicum autumnale</title>
+  <desc>Two leafless autumn colchicum flowers rise on long, gently bent pale tubes from a small brown corm. Six elongated pink-lilac tepals surround six yellow anthers in the open flower; a smaller bloom is seen obliquely. Fine warm grey veins and restrained violet washes recall a botanical engraving.</desc>
+  <defs>
+    <linearGradient id="vc04-tube" x1="143" y1="179" x2="181" y2="304" gradientUnits="userSpaceOnUse"><stop stop-color="#d4b9c5"/><stop offset=".52" stop-color="#e0d1cc"/><stop offset="1" stop-color="#c1b59e"/></linearGradient>
+    <linearGradient id="vc04-rear" x1="127" y1="47" x2="138" y2="153" gradientUnits="userSpaceOnUse"><stop stop-color="#e4d5df"/><stop offset=".62" stop-color="#d2b8cd"/><stop offset="1" stop-color="#ad8ca9"/></linearGradient>
+    <linearGradient id="vc04-left" x1="62" y1="69" x2="134" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#e5d6dd"/><stop offset=".58" stop-color="#d5bdcd"/><stop offset="1" stop-color="#b194af"/></linearGradient>
+    <linearGradient id="vc04-right" x1="203" y1="76" x2="139" y2="151" gradientUnits="userSpaceOnUse"><stop stop-color="#e6d8e2"/><stop offset=".61" stop-color="#d4b9cf"/><stop offset="1" stop-color="#ae8da9"/></linearGradient>
+    <linearGradient id="vc04-front" x1="132" y1="143" x2="132" y2="197" gradientUnits="userSpaceOnUse"><stop stop-color="#b295af"/><stop offset=".36" stop-color="#d1b6ca"/><stop offset="1" stop-color="#e4d1d9"/></linearGradient>
+    <linearGradient id="vc04-side" x1="277" y1="119" x2="231" y2="219" gradientUnits="userSpaceOnUse"><stop stop-color="#e5d4de"/><stop offset=".57" stop-color="#cfb0c7"/><stop offset="1" stop-color="#aa89a1"/></linearGradient>
+    <linearGradient id="vc04-corm" x1="146" y1="291" x2="186" y2="322" gradientUnits="userSpaceOnUse"><stop stop-color="#b2a18a" stop-opacity=".65"/><stop offset=".5" stop-color="#95836b" stop-opacity=".83"/><stop offset="1" stop-color="#7b6b56" stop-opacity=".88"/></linearGradient>
+  </defs>
+  <!-- The long perianth tubes, with no leaves at the autumn flowering. -->
+  <g stroke="#8c7d83" stroke-width="1.35">
+    <path d="M151 300C157 279 156 250 151 226C145 204 135 181 132 159L141 158C144 182 155 205 160 229C165 252 165 279 161 301Z" fill="url(#vc04-tube)"/>
+    <path d="M163 302C173 275 192 254 209 236C220 225 228 212 230 199L237 201C234 218 226 230 214 243C196 263 179 282 172 304Z" fill="url(#vc04-tube)"/>
+  </g>
+  <g stroke="#9d8b91" stroke-width=".65" opacity=".65">
+    <path d="M137 172C141 190 150 209 154 228C159 253 160 274 157 291M232 211C226 230 212 240 198 258C184 275 176 289 171 297"/>
+    <path d="M146 205L149 217M153 235L155 248M157 270L157 282M213 240L204 252M190 269L183 279" stroke-width=".48"/>
+  </g>
+  <!-- Smaller, obliquely seen flower: six separate tapering tepals. -->
+  <g stroke="#8f7c8c" stroke-width="1.2">
+    <path d="M231 212C222 190 224 159 234 136C239 126 245 119 250 121C257 129 251 151 245 172C239 190 238 205 237 214Z" fill="url(#vc04-side)"/>
+    <path d="M232 213C237 181 248 147 265 124C272 114 282 109 286 113C290 124 278 147 263 169C249 188 241 205 237 217Z" fill="url(#vc04-side)"/>
+    <path d="M231 213C214 192 203 170 202 150C201 141 204 136 208 138C221 145 229 172 235 193L238 215Z" fill="#d9c2d2"/>
+    <path d="M234 215C247 190 262 166 281 154C290 148 300 146 303 152C304 162 288 179 273 190C255 202 245 212 239 220Z" fill="url(#vc04-side)"/>
+  </g>
+  <g stroke="#927b8e" stroke-width=".6" opacity=".57">
+    <path d="M234 202C234 177 239 149 248 126M237 203C247 177 270 136 282 117M229 197C220 174 214 153 207 142M244 207C261 187 284 164 299 154"/>
+    <path d="M238 173C239 160 242 149 245 141M248 183C257 166 265 149 275 137M253 198C267 187 285 172 294 161M222 177L216 154" stroke-width=".48"/>
+  </g>
+  <!-- Short yellow stamens are visible above the nearer tepals. -->
+  <g stroke="#8c825e" stroke-width=".7">
+    <path d="M235 205Q231 182 229 169M237 204Q238 179 244 162M238 207Q247 184 254 174M235 208Q228 189 218 177M238 208Q248 194 262 185M235 207L236 179"/>
+  </g>
+  <g fill="#b4a275" stroke="#897b58" stroke-width=".65">
+    <path d="M227 169C225 166 225 162 228 161C231 161 232 166 231 169C230 171 229 172 227 169Z"/>
+    <path d="M242 162C241 158 244 154 246 155C249 157 247 162 245 165Z"/>
+    <path d="M251 175C251 172 254 169 256 171C258 173 256 178 253 179Z"/>
+    <path d="M216 178C214 176 214 172 217 173C220 174 222 178 220 180Z"/>
+    <path d="M259 185C260 182 264 180 266 182C267 184 264 187 261 188Z"/>
+    <path d="M234 179C232 175 234 172 237 173C239 175 238 180 236 182Z"/>
+  </g>
+  <g stroke="#8f7c8c" stroke-width="1.2">
+    <path d="M231 214C218 205 210 192 208 178C208 172 210 168 214 170C226 178 232 196 237 210L238 219Z" fill="url(#vc04-side)"/>
+    <path d="M232 214C242 197 256 187 271 182C280 179 287 179 288 183C286 192 270 204 255 211C247 215 241 220 237 223Z" fill="url(#vc04-side)"/>
+  </g>
+  <g stroke="#927b8e" stroke-width=".6" opacity=".65">
+    <path d="M233 211C224 194 217 180 212 174M240 216C251 205 270 192 283 184M239 213C245 205 258 195 269 190M229 208C223 198 217 190 213 184"/>
+    <path d="M242 216L252 211M245 210L255 204M249 205L261 198M228 204L223 199M225 197L220 191" stroke-width=".46"/>
+  </g>
+  <!-- The open flower has six long tepals, irregularly spread. -->
+  <g stroke="#8b788b" stroke-width="1.35">
+    <path d="M125 145C115 121 110 88 119 59C122 48 129 38 136 39C147 44 151 66 150 86C149 111 140 134 134 149Z" fill="url(#vc04-rear)"/>
+    <path d="M131 144C141 117 158 89 181 72C191 64 203 60 208 66C211 76 200 96 185 112C166 132 149 144 136 151Z" fill="url(#vc04-right)"/>
+    <path d="M129 149C107 137 86 118 70 98C59 84 53 69 59 63C67 58 83 67 98 82C116 101 128 123 135 143Z" fill="url(#vc04-left)"/>
+  </g>
+  <g stroke="#957d94" stroke-width=".67" opacity=".58">
+    <path d="M130 135C126 107 124 68 135 43M134 128C140 106 143 78 139 54M123 112C120 96 120 80 124 66M140 135C160 110 183 83 203 68M148 128C161 109 178 87 191 77M152 135C172 122 187 106 198 87M125 136C108 112 82 77 63 66M118 137C102 123 81 101 70 81M116 121C103 101 92 89 81 80"/>
+    <path d="M128 92L130 75M132 111L132 92M142 95L142 81M158 116L169 99M172 106L184 93M99 109L88 95M111 119L99 102M121 131L113 117" stroke-width=".46" opacity=".65"/>
+  </g>
+  <!-- Six yellow anthers, with pale styles tucked into the throat. -->
+  <path d="M125 144C125 138 130 135 135 137C139 136 144 140 143 146L137 156L130 153Z" fill="#a48aa3" fill-opacity=".38"/>
+  <g stroke="#8d8160" stroke-width=".8">
+    <path d="M131 147C124 132 118 121 115 110M133 146C130 131 128 115 128 104M135 147C137 132 141 116 145 108M136 148C144 135 150 126 155 120M133 150C128 142 123 136 119 132M137 150L142 133"/>
+  </g>
+  <g fill="#b9a778" stroke="#887a58" stroke-width=".7">
+    <path d="M113 111C110 107 111 101 114 100C118 100 120 106 118 110C117 113 115 114 113 111Z"/>
+    <path d="M126 105C123 101 124 95 128 95C131 96 132 101 130 106C129 108 127 108 126 105Z"/>
+    <path d="M142 109C141 105 144 99 147 100C151 102 148 108 146 112C144 113 143 112 142 109Z"/>
+    <path d="M151 121C151 117 156 112 159 115C161 118 157 123 154 125C152 126 150 124 151 121Z"/>
+    <path d="M116 133C113 131 112 126 115 125C119 124 121 130 122 133C121 136 118 136 116 133Z"/>
+    <path d="M139 133C138 129 141 124 144 125C147 127 145 133 143 135C141 137 140 136 139 133Z"/>
+  </g>
+  <g stroke="#b4ab8e" stroke-width=".8">
+    <path d="M131 153C131 145 130 139 129 134M134 154L135 136M137 153C139 147 141 143 144 141"/>
+    <path d="M127 134L130 133M133 135L136 135M143 140L145 142" stroke-width="1.2"/>
+  </g>
+  <!-- Three nearer tepals reveal the centre without concealing its stamens. -->
+  <g stroke="#8b788b" stroke-width="1.35">
+    <path d="M135 146C156 132 181 127 202 131C218 133 230 140 231 147C228 157 208 166 187 167C165 167 148 159 135 152Z" fill="url(#vc04-right)"/>
+    <path d="M130 147C111 144 91 148 77 160C64 170 58 183 63 188C71 196 93 190 109 179C125 168 132 157 134 151Z" fill="url(#vc04-front)"/>
+    <path d="M133 148C148 149 161 159 168 172C176 186 174 199 167 204C157 205 142 191 136 177C130 164 130 154 133 148Z" fill="url(#vc04-front)"/>
+  </g>
+  <g stroke="#957d94" stroke-width=".65" opacity=".59">
+    <path d="M147 149C170 145 207 144 225 147M153 153C175 156 199 157 218 152M159 141C179 135 199 136 213 140M125 153C104 160 78 179 66 186M119 160C104 174 86 183 74 186M115 153C97 156 83 166 73 175M136 155C143 173 154 193 166 201M143 157C156 169 164 183 168 194M135 168C138 181 147 193 155 198"/>
+    <path d="M173 146L186 143M185 147L200 145M178 156L193 157M98 169L89 179M108 162L99 173M149 179L156 192M145 169L150 181" stroke-width=".45" opacity=".7"/>
+  </g>
+  <g stroke="#88718a" stroke-width=".48" opacity=".36">
+    <path d="M127 145L120 133M125 146L115 135M122 147L111 140M139 145L147 137M143 145L155 138M148 146L162 141M137 155L140 166M140 155L146 169M143 157L151 169M126 155L116 164M124 158L111 168M154 153L166 155M160 152L173 153"/>
+    <path d="M122 58L125 52M126 51L129 46M60 72L63 79M66 73L71 81M196 72L190 78M201 74L194 82M223 147L217 150M220 154L212 157M69 184L76 181M73 188L81 184M166 193L162 188M168 198L163 193"/>
+  </g>
+  <!-- Dry tunic and a few short roots: a discreet underground indication. -->
+  <g stroke="#81735f" stroke-linejoin="round">
+    <path d="M153 288C149 290 145 296 145 304C144 314 150 322 162 324C173 327 184 320 187 312C190 304 182 293 173 290L168 282L160 285L158 294Z" fill="url(#vc04-corm)" stroke-width="1.25"/>
+    <path d="M153 289C154 304 157 316 163 324M162 288C164 300 171 309 174 321M174 293C177 298 183 304 185 310M148 301C153 308 155 316 159 321" stroke-width=".7"/>
+    <path d="M149 312L154 316M150 306L154 310M165 297L170 304M170 306L174 312M176 299L181 305M161 316L165 321M175 317L178 320" stroke-width=".5" opacity=".65"/>
+    <path d="M153 321C150 325 143 324 139 329M161 324C159 330 153 331 152 334M168 325C173 329 179 328 184 333M178 322C185 323 190 328 195 327" stroke-width=".8"/>
+    <path d="M130 310L140 309M190 314L204 312M133 317L141 316M197 318L212 316" stroke-width=".65" opacity=".48"/>
+  </g>
+</svg>

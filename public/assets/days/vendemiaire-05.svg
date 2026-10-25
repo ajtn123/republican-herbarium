@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="v05-title v05-desc">
+  <title id="v05-title">Vendémiaire 5 — Cheval</title>
+  <desc id="v05-desc">Un cheval de travail adulte, calme et sans harnachement, se tient de profil vers la gauche. Sa robe alezane est ombrée de fines tailles de gravure, sa crinière et sa longue queue restent tranquilles, et ses quatre jambes portent des sabots sombres.</desc>
+  <defs>
+    <linearGradient id="v05-coat" x1="175" y1="102" x2="194" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b29878" stop-opacity=".55"/>
+      <stop offset=".42" stop-color="#ab8768" stop-opacity=".64"/>
+      <stop offset="1" stop-color="#80634e" stop-opacity=".82"/>
+    </linearGradient>
+    <linearGradient id="v05-far-coat" x1="180" y1="197" x2="204" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8e735a" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#76634e" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="v05-hair" x1="292" y1="161" x2="320" y2="273" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72604b" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#5e5544" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="v05-muzzle" x1="51" y1="135" x2="64" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b8aa8c" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#8e846a" stop-opacity=".72"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#5b5040">
+    <!-- Far limbs are set a little apart from the two nearer bearing limbs. -->
+    <path d="M145 187C155 191 159 208 158 224L156 249L155 285C155 291 155 295 159 299L160 306L156 310L142 310L140 304L145 296L145 273L142 249C137 230 136 209 139 195Z" fill="url(#v05-far-coat)" stroke-width="1.4"/>
+    <path d="M248 188C258 190 265 197 263 209C260 220 249 226 245 231L256 250C259 255 259 260 255 266L245 291L244 298L247 303L244 309L227 309L226 304L234 296L243 265C245 261 246 258 244 255L232 238C228 232 229 226 232 219L239 198Z" fill="url(#v05-far-coat)" stroke-width="1.4"/>
+    <path d="M144 298C149 300 154 300 158 298L160 306L156 310L142 310L140 304Z" fill="#69614e" stroke-width="1.1"/>
+    <path d="M234 298C238 300 242 300 244 298L247 303L244 309L227 309L226 304Z" fill="#69614e" stroke-width="1.1"/>
+    <g stroke-width=".65" opacity=".7">
+      <path d="M149 225L150 246M149 257L150 283M148 288L148 294M240 234L248 250M250 269L242 290M237 295L238 298"/>
+      <path d="M143 244L148 248M144 250L149 254M146 260L150 264M146 270L150 274M235 230L240 234M239 240L245 243M244 250L250 253M247 272L251 275M244 281L248 284M241 290L245 293"/>
+      <path d="M144 305L154 305M230 305L241 305" stroke="#c0af8e"/>
+    </g>
+    <!-- The tail grows from the dock and falls in a single quiet, uneven curtain. -->
+    <path d="M283 158C298 160 309 174 313 188C317 202 316 218 321 233C326 249 321 266 310 276C312 268 313 262 311 255C306 240 305 226 304 213C303 193 299 176 285 169Z" fill="url(#v05-hair)" stroke-width="1.35"/>
+    <g stroke-width=".65" opacity=".82">
+      <path d="M290 166C304 180 308 195 308 214C308 234 318 251 313 267M294 169C308 185 311 200 311 220C312 237 319 252 315 265M299 174C311 190 313 203 313 220C315 238 322 249 316 263M306 189C315 214 313 232 319 246"/>
+      <path d="M289 166C300 180 303 197 305 213M308 232C310 246 316 256 313 267" stroke="#bbab8b" opacity=".72"/>
+    </g>
+    <!-- One continuous contour joins the near legs to the chest, barrel and haunch. -->
+    <path d="M112 85C127 88 137 105 145 122L156 139C177 140 205 149 233 142C251 136 269 138 281 153C290 164 291 179 286 194C285 210 276 224 268 235L280 253C284 257 282 262 279 267L276 291C275 296 277 299 279 302L277 309L259 309L258 304L266 296L267 267C267 263 266 260 263 256L247 239C240 233 239 226 241 217C221 224 192 225 167 215C156 211 150 206 146 202L139 239C141 246 140 254 138 261L135 291L137 300L133 309L115 309L115 304L123 296L128 258C129 251 128 244 127 238C122 221 122 205 126 190C115 176 111 158 104 141L96 127C92 137 85 148 74 151L60 159C54 160 43 156 41 151L39 144C39 139 42 135 46 132L70 111C76 104 83 93 93 88L103 84Z" fill="url(#v05-coat)" stroke-width="1.65"/>
+    <!-- Long, mobile ears, the far one slightly turned. -->
+    <path d="M112 89C110 82 107 75 109 69C115 73 119 80 119 86" fill="#a58c6c" fill-opacity=".78" stroke-width="1.2"/>
+    <path d="M102 88C99 82 97 75 98 69C104 73 108 80 110 85" fill="#b29b7b" fill-opacity=".83" stroke-width="1.3"/>
+    <path d="M102 82L100 74C104 78 105 81 106 84M113 82L111 74L116 83" fill="#7c6952" fill-opacity=".58" stroke-width=".65"/>
+    <!-- A short, soft mane follows the crest rather than making a sawtooth edge. -->
+    <path d="M109 84C123 83 132 96 139 110C145 121 150 132 157 140L154 147L148 141L147 145C141 136 138 126 134 117C127 102 120 93 112 91L105 98L101 95L103 90L97 93C99 88 103 85 109 84Z" fill="#74604a" fill-opacity=".86" stroke-width="1.1"/>
+    <g stroke-width=".6" opacity=".8">
+      <path d="M111 87C124 90 132 104 137 117M116 87C129 93 134 107 141 122L150 140M123 92C134 104 138 119 144 132M130 99C139 113 142 126 150 137M109 88L104 94M114 90L109 96"/>
+      <path d="M118 91C129 101 135 117 140 128M140 123L147 139" stroke="#c0aa87" opacity=".68"/>
+    </g>
+    <!-- Facial planes: long nasal bone, rounded cheek and a soft grey muzzle. -->
+    <path d="M48 132C54 133 59 137 61 143C61 149 64 151 69 153L60 159C54 160 43 156 41 151L39 144C39 139 42 135 48 132Z" fill="url(#v05-muzzle)" stroke-width=".75"/>
+    <path d="M94 97C85 103 82 111 75 118C68 124 62 131 57 136M91 119C91 131 85 140 76 143C71 145 67 145 63 144M94 119C99 125 100 131 101 137" stroke-width=".85" opacity=".8"/>
+    <path d="M94 105C90 104 86 106 84 110C87 112 91 113 94 110" fill="#b9a382" fill-opacity=".48" stroke-width=".8"/>
+    <path d="M85 109C87 106 91 106 93 109C91 112 87 112 85 109Z" fill="#504b3e" stroke-width=".6"/>
+    <circle cx="89.2" cy="108.6" r=".7" fill="#d0c2a4" stroke="none"/>
+    <path d="M83 112L85 114M92 114L94 113M83 104C87 101 91 102 94 104" stroke-width=".6" opacity=".64"/>
+    <path d="M48 139C51 137 54 138 55 141C54 143 51 145 48 144C46 143 46 141 48 139Z" fill="#6a6351" stroke-width=".8"/>
+    <path d="M48 140C50 138 53 139 54 141M42 151C47 153 52 153 57 152L62 151M43 148L47 149" stroke-width=".75"/>
+    <path d="M73 124C75 128 74 132 72 135M80 133C80 137 77 140 74 141M55 154L59 154" stroke-width=".55" opacity=".56"/>
+    <!-- The scapula, elbow and the expansive ribs are drawn as changing planes. -->
+    <path d="M145 146C135 153 130 166 130 177C130 190 138 200 146 202M147 151C156 165 157 181 151 195M126 190C128 195 131 199 135 202M132 205C130 218 132 230 134 239M133 241C137 244 138 249 135 255" stroke-width=".9" opacity=".77"/>
+    <path d="M121 111C126 124 130 137 130 151M111 126C120 143 122 158 126 170M134 135C137 139 140 142 143 144" stroke-width=".8" opacity=".57"/>
+    <path d="M160 154C185 162 214 160 235 154M159 183C176 207 211 216 238 207M176 161C172 177 176 194 186 205M195 162C192 180 197 198 207 209M216 161C215 177 221 193 228 200" stroke-width=".65" opacity=".36"/>
+    <path d="M246 151C231 160 228 175 235 188C240 196 246 199 252 200M272 157C281 170 280 185 273 196C264 207 254 211 247 224M251 201C247 208 244 216 244 224M250 231C256 234 261 235 267 235M268 242L276 255M270 260C273 260 276 260 279 258" stroke-width=".9" opacity=".7"/>
+    <path d="M252 149C241 154 236 165 237 175M258 153C269 156 274 167 274 177M168 211C190 220 216 220 233 214M137 219L137 232M272 272L270 291" stroke="#c9b592" stroke-width="1.1" opacity=".6"/>
+    <!-- Lower-limb tendons, small fetlocks, coronets and the four true hooves. -->
+    <path d="M134 261L130 289M129 290L127 298M273 269L271 290M270 291L270 298" stroke-width=".75" opacity=".78"/>
+    <path d="M123 296C127 299 132 299 135 297L137 300L133 309L115 309L115 304Z" fill="#68604c" stroke-width="1.1"/>
+    <path d="M266 296C269 298 273 299 276 297L279 302L277 309L259 309L258 304Z" fill="#68604c" stroke-width="1.1"/>
+    <path d="M119 305L131 305M262 305L275 305M125 300L123 307M271 301L269 307" stroke="#b7aa8b" stroke-width=".6" opacity=".66"/>
+    <!-- Local, curved engraving strokes follow the lay of the short coat. -->
+    <g stroke="#725d47" stroke-width=".58" opacity=".62">
+      <path d="M117 99L121 106M119 108L123 116M122 119L126 129M125 132L129 141M112 135L116 143M115 144L119 153M118 155L122 164M121 166L125 175M122 175L126 182"/>
+      <path d="M131 155L129 163M134 154L132 162M136 158L134 167M137 165L136 174M137 175L138 184M139 183L143 191M142 184L146 192M146 179L148 187M149 171L151 178M147 162L151 170"/>
+      <path d="M156 196L163 202M158 202L166 207M167 205L175 210M178 210L187 214M189 213L199 216M203 215L213 216M218 214L227 213M229 210L236 207"/>
+      <path d="M163 157L170 159M183 157L191 158M204 155L214 155M225 152L232 151M163 175L167 183M169 183L174 191M178 192L185 198M187 199L195 203M204 203L212 206" opacity=".57"/>
+      <path d="M233 171L233 178M236 181L239 188M240 186L244 192M245 192L252 196M248 190L256 194M257 187L263 189M270 185L274 179M273 190L278 184M269 199L274 194M264 207L271 200M259 211L265 206M250 215L255 209"/>
+      <path d="M245 224L249 229M246 230L252 236M251 238L257 243M256 245L262 249M262 252L268 256M274 251L279 256M269 275L273 279M269 285L272 288M128 212L132 217M128 223L133 229M130 237L135 241M130 247L136 252M129 265L133 269M127 277L132 281M126 288L130 291"/>
+      <path d="M80 117L76 122M76 123L71 128M69 129L65 133M85 124L83 131M84 134L80 139M90 119L89 124M103 109L107 116M106 119L110 127M99 141L103 147"/>
+    </g>
+    <g stroke="#c7b28f" stroke-width=".65" opacity=".56">
+      <path d="M126 110C130 119 132 129 135 135M139 153C133 166 134 176 139 184M161 150C180 156 205 156 222 152M254 145C264 145 273 151 277 158M151 190L154 184M169 170L170 179M187 167L187 177M208 167L210 178M245 156L241 164M262 163L267 169"/>
+    </g>
+  </g>
+</svg>

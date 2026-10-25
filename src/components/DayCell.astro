@@ -1,0 +1,13 @@
+---
+import DayIllustration from './DayIllustration.astro';
+import { dayArtwork } from '../lib/day-art';
+interface Props { day: { slug: string; day: number; zh: string; fr: string; category: string }; }
+const { day: d } = Astro.props;
+const illustrated = Boolean(dayArtwork[d.slug]);
+---
+<a class:list={['day-cell', { 'has-day-icon': illustrated }]} href={`/days/${d.slug}/`} data-cat={d.category} data-name={`${d.zh} ${d.fr}`}>
+  <span class="day-num">{String(d.day).padStart(2,'0')}</span>
+  {illustrated && <DayIllustration slug={d.slug} class="day-cell-art" decorative/>}
+  <h3>{d.zh}</h3>
+  <span class="fr" lang="fr">{d.fr}</span>
+</a>

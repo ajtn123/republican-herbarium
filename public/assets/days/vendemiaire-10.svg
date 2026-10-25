@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="cuve-title cuve-desc">
+  <title id="cuve-title">Cuve — an open winemaking vat</title>
+  <desc id="cuve-desc">A large upright fermentation vat assembled from slightly tapered oak staves, bound by three worn iron hoops. Its thick elliptical open rim reveals the shaded inner wood and a low surface of purple grape must. Fine grain, stave joints and hand-cut hatching describe the warm umber vessel.</desc>
+  <defs>
+    <linearGradient id="cuve-wood" x1="64" y1="179" x2="302" y2="219" gradientUnits="userSpaceOnUse"><stop stop-color="#74664c"/><stop offset=".17" stop-color="#a38e62"/><stop offset=".44" stop-color="#b3a078"/><stop offset=".72" stop-color="#97815b"/><stop offset="1" stop-color="#655b45"/></linearGradient>
+    <linearGradient id="cuve-rim" x1="93" y1="66" x2="265" y2="148" gradientUnits="userSpaceOnUse"><stop stop-color="#b4a282"/><stop offset=".46" stop-color="#a08d67"/><stop offset="1" stop-color="#827153"/></linearGradient>
+    <linearGradient id="cuve-inside" x1="179" y1="68" x2="181" y2="137" gradientUnits="userSpaceOnUse"><stop stop-color="#74694e"/><stop offset=".48" stop-color="#625b46"/><stop offset="1" stop-color="#403f34"/></linearGradient>
+    <linearGradient id="cuve-must" x1="159" y1="91" x2="190" y2="143" gradientUnits="userSpaceOnUse"><stop stop-color="#786568"/><stop offset=".5" stop-color="#645359"/><stop offset="1" stop-color="#4e444a"/></linearGradient>
+    <linearGradient id="cuve-iron" x1="64" y1="165" x2="298" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#555747"/><stop offset=".25" stop-color="#86836a"/><stop offset=".5" stop-color="#8f8d75"/><stop offset=".79" stop-color="#676956"/><stop offset="1" stop-color="#484d40"/></linearGradient>
+    <clipPath id="cuve-front"><path d="M57 103C59 146 67 230 78 283C94 321 260 321 283 283C293 224 299 156 303 103C298 126 245 148 180 148C114 148 65 127 57 103Z"/></clipPath>
+    <clipPath id="cuve-opening"><ellipse cx="180" cy="103" rx="113.5" ry="34.5"/></clipPath>
+  </defs>
+  <!-- The sides taper to a broad foot; they never bulge like a cask. -->
+  <path d="M57 103C59 146 67 230 78 283C94 321 260 321 283 283C293 224 299 156 303 103C298 126 245 148 180 148C114 148 65 127 57 103Z" fill="url(#cuve-wood)" stroke="#514d3b" stroke-width="1.65"/>
+  <g clip-path="url(#cuve-front)">
+    <path d="M57.0 103.0Q64.5 118.1 72.0 124.1L90.1 295.2Q83.9 291.2 77.7 283.5Z" fill="#5f5b40" fill-opacity=".19"/>
+    <path d="M72.0 124.1Q80.0 128.6 88.0 132.2L103.5 300.7Q96.8 298.3 90.1 295.2Z" fill="#c7b18a" fill-opacity=".19"/>
+    <path d="M88.0 132.2Q98.5 136.0 109.0 138.9L120.9 305.4Q112.2 303.3 103.5 300.7Z" fill="#6a6248" fill-opacity=".19"/>
+    <path d="M109.0 138.9Q121.0 141.6 133.0 143.7L140.9 308.7Q130.9 307.3 120.9 305.4Z" fill="#c2aa7d" fill-opacity=".19"/>
+    <path d="M133.0 143.7Q146.0 145.3 159.0 146.4L162.5 310.6Q151.7 309.8 140.9 308.7Z" fill="#78694b" fill-opacity=".19"/>
+    <path d="M159.0 146.4Q173.0 146.9 187.0 146.9L185.8 311.0Q174.2 311.0 162.5 310.6Z" fill="#cbb68e" fill-opacity=".19"/>
+    <path d="M187.0 146.9Q200.0 146.4 213.0 145.4L207.5 309.9Q196.6 310.6 185.8 311.0Z" fill="#7e704f" fill-opacity=".19"/>
+    <path d="M213.0 145.4Q225.0 143.9 237.0 142.0L227.4 307.5Q217.4 308.9 207.5 309.9Z" fill="#c3a77a" fill-opacity=".19"/>
+    <path d="M237.0 142.0Q247.0 139.9 257.0 137.3L244.1 304.3Q235.7 306.1 227.4 307.5Z" fill="#6f614a" fill-opacity=".19"/>
+    <path d="M257.0 137.3Q266.0 134.5 275.0 130.9L259.0 299.9Q251.6 302.3 244.1 304.3Z" fill="#b29b6b" fill-opacity=".19"/>
+    <path d="M275.0 130.9Q283.0 127.1 291.0 122.0L272.4 293.7Q265.7 297.2 259.0 299.9Z" fill="#554f3e" fill-opacity=".19"/>
+    <path d="M291.0 122.0Q297.0 116.6 303.0 103.0L282.3 283.5Q277.3 290.1 272.4 293.7Z" fill="#9c8a60" fill-opacity=".19"/>
+    <g stroke="#514d39" stroke-width=".8" opacity=".85">
+      <path d="M72.0 124.1C75.5 172.1 84.7 248.2 90.1 295.2"/>
+      <path d="M88.0 132.2C92.0 180.2 98.8 253.7 103.5 300.7"/>
+      <path d="M109.0 138.9C111.1 186.9 117.3 258.4 120.9 305.4"/>
+      <path d="M133.0 143.7C135.3 191.7 138.5 261.7 140.9 308.7"/>
+      <path d="M159.0 146.4C159.3 194.4 161.5 263.6 162.5 310.6"/>
+      <path d="M187.0 146.9C187.3 194.9 186.2 264.0 185.8 311.0"/>
+      <path d="M213.0 145.4C211.3 193.4 209.1 262.9 207.5 309.9"/>
+      <path d="M237.0 142.0C235.5 190.0 230.3 260.5 227.4 307.5"/>
+      <path d="M257.0 137.3C253.7 185.3 247.9 257.3 244.1 304.3"/>
+      <path d="M275.0 130.9C272.1 178.9 263.8 252.9 259.0 299.9"/>
+      <path d="M291.0 122.0C286.4 170.0 277.9 246.7 272.4 293.7"/>
+    </g>
+    <!-- Long grain is broken and unequal; knots bend the fibres locally. -->
+    <g stroke="#675c42" stroke-width=".6" opacity=".72">
+      <path d="M78 138C79 160 82 178 83 195M84 213L89 256M90 274L93 291M94 147C95 163 96 179 97 190M99 202C101 222 102 239 105 257M105 271L108 296M116 151C117 167 116 188 117 204M118 220C119 235 120 255 122 271M122 283L124 303M139 154C139 176 140 199 140 218M142 231C141 247 141 268 144 283M144 294L145 309M166 154L166 181M164 196C162 211 163 233 166 245M168 255L169 285M168 293L168 309M194 152C193 169 193 188 194 203M194 216C191 236 191 259 192 277M192 288L191 309M220 148C218 167 218 184 216 201M216 215C214 236 212 254 211 274M211 285L209 306M243 142C242 155 240 168 240 181M238 193C237 214 236 231 232 251M231 268L227 302M264 132C262 151 260 170 259 184M257 194L251 231M249 247C248 265 244 282 242 296M282 125C279 145 278 165 276 184M274 199L268 239M267 253L260 286"/>
+      <path d="M126 154L126 175M126 188C124 205 126 215 128 222M129 239L131 270M150 162L151 191M151 218C150 237 151 260 153 274M180 154L179 183M180 204C178 223 181 247 179 265M181 281L180 301M202 154L201 177M202 191C199 212 201 228 200 246M203 274L201 298M229 150L227 177M227 202C225 217 223 230 223 241M251 144L248 169M248 185L245 213M272 146L267 179M287 141L284 162" opacity=".7"/>
+      <path d="M150 201C147 197 147 190 150 187C154 188 155 195 152 201C151 203 150 202 150 201ZM150 191C149 194 150 197 151 197M146 183C142 193 145 205 149 210M156 184C159 194 157 202 154 208M220 269C217 265 218 259 220 256C223 259 224 265 220 269ZM217 252C213 261 215 271 217 277M225 253C226 264 224 275 221 281M100 232C98 228 98 224 100 222C103 225 104 231 100 232Z"/>
+    </g>
+    <g stroke="#d1bd96" stroke-width=".7" opacity=".53">
+      <path d="M91 157L95 186M101 210L104 242M111 264L114 289M115 158L116 182M132 174L133 202M134 238L136 267M159 158L160 181M159 213C158 229 159 245 160 254M173 273L174 300M188 162L187 188M186 216L187 243M205 196L204 219M207 246L205 275M234 163L231 185M230 215L227 236M246 271L241 291M257 146L255 170M270 200L264 234"/>
+    </g>
+    <g stroke="#5d553f" stroke-width=".5" opacity=".58">
+      <path d="M66 139L72 148M67 149L73 159M69 162L74 171M71 174L76 183M73 187L78 198M75 203L80 213M77 217L82 227M79 231L84 241M81 245L86 256M83 260L88 270M86 276L91 285M92 290L98 300M98 295L104 305M278 144L284 136M277 154L283 146M275 165L281 157M274 175L280 167M273 186L278 180M270 205L276 197M269 215L275 207M267 227L273 219M265 239L271 231M263 251L269 244M261 265L267 257M256 280L263 272M249 294L256 287M242 301L248 295M233 307L239 301M153 299L157 306M156 299L160 307M160 300L164 307M173 303L177 310M177 303L181 310M181 303L185 310"/>
+      <path d="M107 159L110 166M108 170L112 177M110 183L113 190M134 280L137 287M135 290L138 297M229 187L232 181M228 196L231 190M207 291L211 285M206 301L210 295M252 218L256 212M251 228L255 222"/>
+    </g>
+  </g>
+  <!-- The rear and inner wall stay visible above the grape must. -->
+  <ellipse cx="180" cy="103" rx="123" ry="44" fill="url(#cuve-rim)" stroke="#514d3b" stroke-width="1.65"/>
+  <ellipse cx="180" cy="103" rx="113.5" ry="34.5" fill="url(#cuve-inside)" stroke="#58523d" stroke-width="1.15"/>
+  <g clip-path="url(#cuve-opening)">
+    <g stroke="#433f31" stroke-width=".7" opacity=".8">
+      <path d="M76 87L81 122M88 78L93 121M107 73L111 119M129 69L132 115M154 68L155 115M179 68L179 115M207 69L205 116M231 72L227 117M252 77L247 119M273 85L266 124M288 94L280 126"/>
+      <path d="M84 94L87 113M101 85L104 106M120 78L123 101M143 74L144 95M167 72L168 93M192 73L191 95M217 75L215 97M241 81L237 102M262 88L258 111M279 98L274 116" stroke-width=".5" opacity=".7"/>
+    </g>
+    <ellipse cx="180" cy="118" rx="108" ry="24" fill="url(#cuve-must)" stroke="#49413e" stroke-width=".85"/>
+    <path d="M79 113C94 103 115 100 140 99M154 97C184 94 221 97 241 102M254 105L271 111" stroke="#a18a82" stroke-width=".65" opacity=".63"/>
+    <g stroke="#9f8985" stroke-width=".55" opacity=".56">
+      <path d="M105 111C115 108 127 108 135 109M148 105L166 104M183 102C196 102 210 103 220 105M225 111L241 114M129 122C143 123 153 123 163 122M173 114C184 113 193 114 202 115M218 126L232 124M93 119L103 120M159 131L178 132M244 119L254 120"/>
+    </g>
+    <g fill="#aa9290" opacity=".45">
+      <ellipse cx="111" cy="106" rx="1.3" ry=".6"/><ellipse cx="116" cy="105" rx=".8" ry=".5"/><ellipse cx="154" cy="101" rx="1.1" ry=".6"/><ellipse cx="201" cy="108" rx="1.3" ry=".6"/><ellipse cx="204" cy="109" rx=".7" ry=".4"/><ellipse cx="237" cy="117" rx="1.3" ry=".65"/><ellipse cx="240" cy="116" rx=".7" ry=".4"/><ellipse cx="144" cy="125" rx="1" ry=".6"/>
+    </g>
+  </g>
+  <!-- Thick end grain on the front lip, with the joints cut through it. -->
+  <path d="M57 103C62 127 114 147 180 147C245 147 296 127 303 103L293.5 103C288 122 240 137.5 180 137.5C120 137.5 72 122 66.5 103Z" fill="url(#cuve-rim)" stroke="#57503b" stroke-width="1.05"/>
+  <path d="M63 105C75 126 121 141 179 141C238 142 283 126 297 107M75 91C91 76 132 64 178 64C223 64 264 75 284 90" stroke="#d0bb94" stroke-width=".8" opacity=".65"/>
+  <g stroke="#64583f" stroke-width=".65">
+    <path d="M68 86L76 91M84 76L90 83M105 68L110 76M129 62L132 70M154 60L155 68M180 59L180 68M207 61L205 69M232 64L229 72M254 70L249 78M275 79L268 85M292 91L283 96M72 123L79 118M88 132L94 125M109 140L113 132M133 144L135 135M159 147L160 137M187 147L186 137M213 145L211 136M237 141L234 132M257 133L252 126M275 124L269 118M291 113L283 109"/>
+    <path d="M139 63L140 66M144 63L145 67M163 62L164 66M167 62L168 66M218 65L217 69M222 66L221 70M245 72L243 76M248 74L246 78M102 133L104 130M119 138L120 135M144 142L145 138M149 143L150 139M195 142L195 139M200 142L200 139M224 139L223 136M228 138L227 135M265 125L262 122" opacity=".6"/>
+  </g>
+  <!-- Worn iron bands follow the circumference and cover the stave joints. -->
+  <g fill="url(#cuve-iron)" stroke="#4e5242" stroke-width="1.15">
+    <path d="M61 139C84 162 130 173 180 173C232 173 278 160 299 140L298 151C276 173 231 185 180 185C127 185 84 172 62 151Z"/>
+    <path d="M69 210C94 231 132 241 180 241C229 241 269 229 291 210L289.5 221C267 242 228 253 180 253C132 253 95 242 70.5 222Z"/>
+    <path d="M77 270C101 289 137 298 180 298C224 298 261 287 284 269L282 280C258 300 223 309 180 309C137 309 102 300 79 281Z"/>
+  </g>
+  <g stroke="#bab597" stroke-width=".65" opacity=".65">
+    <path d="M68 148C93 170 136 180 180 180C227 180 267 169 291 150M77 220C100 239 137 248 180 248C223 248 261 237 283 220M85 280C110 297 141 304 179 304C218 304 250 295 275 279"/>
+    <path d="M106 168L121 172M144 176L157 177M201 177L216 176M246 169L259 165M119 241L133 244M157 247L170 248M206 246L219 244M244 236L256 231M115 297L127 300M151 303L163 304M204 303L216 301M245 293L257 288" stroke-width=".5"/>
+  </g>
+  <!-- Short overlapped joins and peened rivets, placed off the brightest face. -->
+  <g stroke="#464c3d" fill="#6a6c56">
+    <path d="M247 163L262 157L261 169L247 174Z" stroke-width=".75"/>
+    <path d="M101 231L114 236L114.5 248L102 243Z" stroke-width=".75"/>
+    <path d="M235 291L249 286L247 298L235 302Z" stroke-width=".75"/>
+  </g>
+  <g fill="#494e3f" stroke="#aaa88b" stroke-width=".5">
+    <ellipse cx="251" cy="168" rx="1.1" ry="1.2"/><ellipse cx="258" cy="165" rx="1.1" ry="1.2"/>
+    <ellipse cx="105.5" cy="238" rx="1" ry="1.2"/><ellipse cx="111" cy="240" rx="1" ry="1.2"/>
+    <ellipse cx="238.5" cy="297" rx="1" ry="1.1"/><ellipse cx="245" cy="294" rx="1" ry="1.1"/>
+  </g>
+  <g stroke="#5e5942" stroke-width=".55" opacity=".7">
+    <path d="M83 157L85 165M88 160L90 167M269 163L271 157M273 160L275 154M87 231L89 237M92 234L94 240M271 235L274 229M267 238L270 232M95 291L98 298M102 295L105 302M259 293L262 286M254 296L257 290"/>
+  </g>
+</svg>

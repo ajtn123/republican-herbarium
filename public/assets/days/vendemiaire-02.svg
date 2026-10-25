@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vs02-title vs02-desc">
+  <title id="vs02-title">Safran — Crocus sativus</title>
+  <desc id="vs02-desc">One low autumn saffron crocus opens six softly veined lilac tepals around three golden stamens and three long, separate rust-red stigma branches. Very narrow leaves with pale central stripes rise from its papery basal sheaths; one smaller closed flower stands beside it.</desc>
+  <defs>
+    <linearGradient id="vs02-rear" x1="151" y1="44" x2="181" y2="206" gradientUnits="userSpaceOnUse"><stop stop-color="#c9bdcf"/><stop offset=".53" stop-color="#b7a1bf"/><stop offset="1" stop-color="#8c789b"/></linearGradient>
+    <linearGradient id="vs02-left" x1="90" y1="98" x2="176" y2="207" gradientUnits="userSpaceOnUse"><stop stop-color="#c8b5cb"/><stop offset=".54" stop-color="#bca7c4"/><stop offset="1" stop-color="#9883a1"/></linearGradient>
+    <linearGradient id="vs02-right" x1="267" y1="115" x2="182" y2="208" gradientUnits="userSpaceOnUse"><stop stop-color="#cabbcf"/><stop offset=".58" stop-color="#baa6c3"/><stop offset="1" stop-color="#927e9b"/></linearGradient>
+    <linearGradient id="vs02-near" x1="141" y1="172" x2="180" y2="224" gradientUnits="userSpaceOnUse"><stop stop-color="#d0bfd2"/><stop offset=".57" stop-color="#bca7c4"/><stop offset="1" stop-color="#93819b"/></linearGradient>
+    <linearGradient id="vs02-leaf" x1="144" y1="220" x2="188" y2="322" gradientUnits="userSpaceOnUse"><stop stop-color="#919876" stop-opacity=".7"/><stop offset="1" stop-color="#667053"/></linearGradient>
+    <linearGradient id="vs02-tube" x1="166" y1="220" x2="184" y2="313" gradientUnits="userSpaceOnUse"><stop stop-color="#b7a2b5"/><stop offset=".52" stop-color="#c7bcb1"/><stop offset="1" stop-color="#a79d7b"/></linearGradient>
+    <linearGradient id="vs02-bud" x1="239" y1="204" x2="256" y2="245" gradientUnits="userSpaceOnUse"><stop stop-color="#c7b7cd"/><stop offset="1" stop-color="#97839e"/></linearGradient>
+  </defs>
+  <!-- Grasslike foliage has the pale midline characteristic of Crocus. -->
+  <g fill="url(#vs02-leaf)" stroke="#586348" stroke-width="1.15">
+    <path d="M176 325C157 292 127 252 106 223C93 204 82 188 72 177C86 200 94 220 107 239C129 273 156 302 172 328Z"/>
+    <path d="M177 326C169 291 155 257 146 226C141 207 139 188 139 170C135 193 136 214 142 235C151 269 162 300 172 328Z"/>
+    <path d="M180 326C191 282 198 250 208 218C214 200 220 188 228 175C217 204 213 229 205 256C195 290 188 314 185 329Z"/>
+    <path d="M185 326C216 283 251 246 287 223C266 243 242 271 224 292C212 307 202 318 191 331Z"/>
+  </g>
+  <g stroke="#d0d0ae" stroke-width=".85" opacity=".9">
+    <path d="M174 323C148 281 110 237 80 191M175 322C159 274 139 217 139 181M182 324C197 272 208 218 224 184M188 327C217 290 248 252 280 229"/>
+  </g>
+  <g stroke="#69724f" stroke-width=".5" opacity=".7">
+    <path d="M103 227L113 245M121 254L131 270M149 291L158 306M143 225L147 241M153 264L158 281M203 243L199 258M195 276L190 294M248 261L236 276M217 298L205 313"/>
+  </g>
+  <!-- Both flowers emerge directly through a papery sheath, without a leafy stem. -->
+  <path d="M181 320C199 300 221 276 238 246L244 247C226 280 208 306 189 326Z" fill="#b5af8e" stroke="#6f7053" stroke-width="1.2"/>
+  <path d="M187 319C209 295 228 268 240 249" stroke="#e0d5b7" stroke-width=".7"/>
+  <path d="M165 215C167 241 172 270 172 292C172 304 171 315 174 325L186 325C183 313 183 302 182 290C182 265 179 240 183 216Z" fill="url(#vs02-tube)" stroke="#756d63" stroke-width="1.25"/>
+  <path d="M170 227C173 255 177 281 176 307M180 233C177 257 181 278 179 299" stroke="#8d7f82" stroke-width=".65" opacity=".7"/>
+  <path d="M174 324C166 308 161 291 162 276C172 283 179 297 181 311C180 290 182 271 188 260C189 283 188 303 185 320L191 329C185 331 180 330 174 331Z" fill="#b8b093" fill-opacity=".9" stroke="#787456" stroke-width="1.1"/>
+  <g stroke="#817c5e" stroke-width=".6" opacity=".8"><path d="M166 284C168 299 173 310 178 322M184 273C184 291 184 306 181 320M169 299L174 309M170 307L175 317M188 319L185 324"/></g>
+  <!-- Three inner tepals form the far wall of the open funnel. -->
+  <g stroke="#7b6c81" stroke-width="1.35">
+    <path d="M173 204C150 181 122 156 110 127C101 107 101 83 112 71C117 64 122 63 128 68C146 83 156 110 164 138C171 162 175 184 180 204Z" fill="url(#vs02-left)"/>
+    <path d="M174 205C164 172 149 124 147 88C145 61 151 43 165 36C171 32 176 33 181 40C195 55 199 75 194 103C189 135 182 172 182 204Z" fill="url(#vs02-rear)"/>
+    <path d="M178 204C182 169 194 132 215 105C228 86 247 77 259 82C265 93 260 115 248 135C230 165 204 191 185 208Z" fill="url(#vs02-right)"/>
+  </g>
+  <g stroke="#8a738f" stroke-width=".7" opacity=".68">
+    <path d="M173 193C151 151 123 101 119 72M166 182C146 143 116 116 110 90M169 170C163 136 143 94 128 76M175 194C170 151 164 91 169 43M178 177C178 130 189 88 181 49M169 158C160 119 151 82 159 54M184 192C201 151 228 103 252 87M190 192C217 161 246 126 255 96M189 174C194 148 212 119 226 103M177 135L178 100M164 113L161 93M137 121L126 100M208 137L222 120M229 144L242 126"/>
+  </g>
+  <g stroke="#76677c" stroke-width=".48" opacity=".36">
+    <path d="M158 156L151 141M160 166L152 150M164 175L156 160M169 181L162 164M172 155L168 137M173 145L169 124M177 151L178 132M181 157L184 140M186 164L193 146M191 166L201 150M199 166L211 150M204 173L218 159M111 89L113 97M114 82L116 90M156 51L155 61M161 44L160 54M185 56L188 67M248 88L243 96M255 91L251 101"/>
+  </g>
+  <!-- Two outer tepals sweep outward; the sixth folds toward the viewer below. -->
+  <g stroke="#7b6c81" stroke-width="1.4">
+    <path d="M177 217C146 202 114 186 91 159C76 143 69 125 74 111C76 105 81 104 87 108C112 122 129 147 148 166C161 179 173 192 184 207Z" fill="url(#vs02-left)"/>
+    <path d="M177 211C198 181 220 159 244 145C259 136 275 136 280 144C281 155 267 174 248 187C225 204 204 215 185 219Z" fill="url(#vs02-right)"/>
+    <path d="M182 220C167 224 149 215 135 201C122 189 115 175 120 166C125 159 140 164 152 170C167 178 180 188 186 202C190 210 188 216 182 220Z" fill="url(#vs02-near)"/>
+  </g>
+  <path d="M165 208C154 196 138 181 122 169C135 176 150 184 163 193C173 200 181 210 183 219C177 217 171 213 165 208Z" fill="#e0ccdd" fill-opacity=".3"/>
+  <g stroke="#8a738f" stroke-width=".7" opacity=".7">
+    <path d="M174 208C137 179 106 130 79 112M163 205C129 190 94 155 79 125M160 192C137 159 112 131 94 122M184 212C216 190 249 153 274 145M192 213C220 205 253 178 271 155M196 201C221 171 246 154 261 150M180 215C168 201 144 177 124 168M174 215C152 205 134 189 124 176M181 207C171 189 152 178 142 174"/>
+    <path d="M122 173L106 159M128 169L114 151M145 194L132 182M148 186L135 173M216 199L230 189M225 186L240 173M235 169L247 159M157 202L146 192M161 198L150 187" stroke-width=".5"/>
+  </g>
+  <g stroke="#77647d" stroke-width=".5" opacity=".4">
+    <path d="M167 211L153 204M164 206L149 197M159 198L144 187M153 187L139 175M179 215L173 206M175 214L166 205M190 212L204 204M195 213L209 207M205 207L218 200M216 200L231 191M75 115L77 123M80 112L85 118M274 144L268 147M276 150L270 154M122 166L129 168M120 172L125 176M134 198L141 202M138 204L145 208"/>
+  </g>
+  <!-- Crocus has precisely three stamens, set behind the three longer stigmas. -->
+  <g stroke="#847048" stroke-width="1" fill="#c3ae6c">
+    <path d="M174 189C160 174 150 159 145 143" fill="none" stroke="#b7a568" stroke-width="2"/>
+    <path d="M178 186C178 166 175 148 173 133" fill="none" stroke="#b7a568" stroke-width="2"/>
+    <path d="M180 190C190 175 198 160 201 147" fill="none" stroke="#b7a568" stroke-width="2"/>
+    <path d="M141 133C140 129 142 127 144 129C148 132 151 143 151 150C151 154 148 155 146 151C144 146 141 138 141 133Z"/>
+    <path d="M169 120C169 116 172 115 174 119C177 125 178 135 176 141C175 144 172 143 171 139C170 133 168 126 169 120Z"/>
+    <path d="M199 135C200 131 203 131 204 135C205 140 203 151 200 157C198 160 195 158 196 154C196 147 198 140 199 135Z"/>
+  </g>
+  <g stroke="#8d7845" stroke-width=".55" opacity=".75"><path d="M143 132L148 150M172 120L174 140M202 135L198 156M142 137L146 138M170 127L175 128M199 143L203 142"/></g>
+  <!-- One style separates into three unmistakably long, trumpet-ended red branches. -->
+  <path d="M178 190C178 180 177 171 178 160" stroke="#a67d48" stroke-width="2"/>
+  <g fill="#a74f3e" stroke="#864c3f" stroke-width=".8">
+    <path d="M178 162C164 153 151 139 140 126C136 122 131 119 127 117L129 111C136 114 141 118 145 123C155 137 167 149 179 159Z"/>
+    <path d="M177 162C181 146 183 130 181 113C180 107 179 102 177 97L183 94C186 101 187 108 187 115C187 134 183 149 179 163Z"/>
+    <path d="M178 160C192 152 205 144 215 135C220 131 224 126 227 121L233 124C229 131 224 136 219 140C206 150 192 157 179 163Z"/>
+  </g>
+  <g stroke="#d59569" stroke-width=".6" opacity=".85"><path d="M131 115C139 120 143 127 149 133M180 98C184 107 185 118 183 130M229 124C224 133 215 139 207 144"/></g>
+  <g stroke="#753f37" stroke-width=".5"><path d="M127 113L131 115M128 116L131 117M179 96L182 98M181 95L183 97M229 122L228 125M231 123L230 126"/></g>
+  <!-- A small closed companion keeps the same long, narrow floral tube. -->
+  <path d="M239 250C234 242 234 231 236 221C238 211 244 203 248 200C254 205 257 215 256 226C255 235 250 244 244 251Z" fill="url(#vs02-bud)" stroke="#7b6c81" stroke-width="1.2"/>
+  <g stroke="#8a738f" stroke-width=".65"><path d="M241 246C240 232 246 215 248 202M244 247C252 234 254 218 250 205M238 220C237 230 238 237 240 241M247 216C246 225 246 234 244 241"/></g>
+  <path d="M238 252C233 247 232 239 232 231C238 235 240 241 241 246C247 237 252 231 257 229C253 239 250 248 244 254Z" fill="#aaa98a" stroke="#737359" stroke-width="1"/>
+  <path d="M239 249L235 238M243 250L251 238" stroke="#dad1af" stroke-width=".6"/>
+</svg>
