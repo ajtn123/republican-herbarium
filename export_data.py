@@ -22,3 +22,6 @@ search += [dict(title=d['zh'],fr=d['fr'],path='/days/'+d['slug']+'/',type=out['m
 search += [dict(title=f['zh']+'节',fr=f['fr'],path='/festivals/'+f['slug']+'/',type='补充日') for f in out['festivals']]
 search += [dict(title=d['zh'],fr=d['fr'],path='/decades/'+d['slug']+'/',type='旬日') for d in out['decades']]
 Path('public/search-index.json').write_text(json.dumps(search,ensure_ascii=False,separators=(',',':')))
+
+client=dict(months=[dict(zh=m['zh'],slug=m['slug']) for m in out['months']],days=[dict(zh=d['zh'],fr=d['fr']) for d in out['days']],festivals=[dict(zh=f['zh'],slug=f['slug']) for f in out['festivals']])
+Path('src/data/client-calendar.json').write_text(json.dumps(client,ensure_ascii=False,separators=(',',':')))
