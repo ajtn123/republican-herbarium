@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vp13-title vp13-desc">
+  <title id="vp13-title">Potiron — courge gris-bleu</title>
+  <desc id="vp13-desc">A heavy, flattened blue-grey pumpkin, suggestive of a Cucurbita maxima type, with broad unequal ribs, a sunken crown and a short rounded corky stalk. Muted sage and grey washes and fine olive engraving describe its matte, weathered rind. The old crop name is broader than a single modern species.</desc>
+  <defs>
+    <radialGradient id="vp13-rind" cx=".35" cy=".28" r=".82">
+      <stop stop-color="#bec4b6"/>
+      <stop offset=".42" stop-color="#a7b3a5"/>
+      <stop offset=".76" stop-color="#8b9d91"/>
+      <stop offset="1" stop-color="#778679"/>
+    </radialGradient>
+    <linearGradient id="vp13-left" x1="62" y1="164" x2="121" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c3c6b3" stop-opacity=".5"/>
+      <stop offset=".53" stop-color="#a4b2a3" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#707f70" stop-opacity=".44"/>
+    </linearGradient>
+    <linearGradient id="vp13-middle" x1="138" y1="152" x2="194" y2="295" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#cbd0be" stop-opacity=".64"/>
+      <stop offset=".51" stop-color="#bbc5b7" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#7b8978" stop-opacity=".25"/>
+    </linearGradient>
+    <linearGradient id="vp13-right" x1="222" y1="157" x2="285" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#bbc4b5" stop-opacity=".46"/>
+      <stop offset=".6" stop-color="#a2b2a5" stop-opacity=".21"/>
+      <stop offset="1" stop-color="#65776a" stop-opacity=".48"/>
+    </linearGradient>
+    <linearGradient id="vp13-cork" x1="170" y1="101" x2="192" y2="109" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b2a788"/>
+      <stop offset=".46" stop-color="#c8ba97"/>
+      <stop offset="1" stop-color="#8e8769"/>
+    </linearGradient>
+    <path id="vp13-body" d="M177 132C161 121 145 121 132 129C111 124 92 136 82 149C62 151 48 167 44 185C32 200 34 226 45 242C46 259 65 274 85 278C103 294 127 297 147 289C169 301 194 302 216 293C238 296 259 289 273 278C295 275 312 260 316 243C329 226 326 202 315 186C313 166 297 151 277 147C264 132 244 124 225 131C209 120 191 122 177 132Z"/>
+    <clipPath id="vp13-fruit-clip"><use href="#vp13-body"/></clipPath>
+  </defs>
+
+  <!-- Unequal shoulders and a broad low body, with the weight resting on its ribs. -->
+  <use href="#vp13-body" fill="url(#vp13-rind)" stroke="#5e6857" stroke-width="1.65"/>
+  <g clip-path="url(#vp13-fruit-clip)">
+    <path d="M174 140C148 130 122 140 101 158C74 180 64 212 70 238C74 256 89 273 111 285C92 285 70 276 56 260C37 238 34 211 44 190C56 161 77 149 96 147C119 127 148 124 174 140Z" fill="url(#vp13-left)"/>
+    <path d="M174 145C147 143 127 158 115 181C103 204 102 230 113 251C120 267 134 280 147 289C125 292 107 279 96 262C83 240 84 213 93 190C108 160 134 141 162 138Z" fill="#6c8274" fill-opacity=".17"/>
+    <path d="M178 146C154 153 139 176 136 205C132 238 144 269 166 290C172 295 179 297 185 298C164 299 147 289 136 274C114 246 109 218 116 192C124 163 149 144 178 146Z" fill="url(#vp13-middle)"/>
+    <path d="M185 147C177 167 178 185 184 207C192 236 197 270 188 298C208 298 223 287 229 269C240 238 229 198 210 173C201 161 193 151 185 147Z" fill="url(#vp13-middle)"/>
+    <path d="M198 146C224 155 245 177 254 205C266 243 252 276 230 292C249 291 269 278 278 259C292 230 281 195 258 172C242 155 220 145 198 146Z" fill="url(#vp13-right)"/>
+    <path d="M210 142C242 140 278 159 294 185C312 215 303 252 283 271C302 264 315 246 318 229C322 204 313 183 298 167C274 145 240 132 210 142Z" fill="#75897c" fill-opacity=".24"/>
+    <path d="M91 174C111 148 142 135 166 140C149 143 134 150 121 161C109 171 100 183 93 198C90 190 89 182 91 174ZM136 184C141 169 157 154 173 151C161 162 153 177 149 191C145 204 143 221 144 233C135 216 132 199 136 184ZM199 162C216 173 228 191 233 208C233 195 225 174 215 164C208 155 201 151 194 150Z" fill="#dae0cd" fill-opacity=".13"/>
+    <!-- Broad faint blooms on the rind keep the wash dry and matte. -->
+    <g fill="#c6c9ad" opacity=".13">
+      <path d="M65 207C68 197 76 190 81 190C82 199 77 201 78 210C78 217 73 222 68 221C64 218 64 211 65 207Z"/>
+      <path d="M118 222C122 214 127 211 130 214C129 222 125 224 126 230C127 236 122 241 119 239C116 235 115 228 118 222Z"/>
+      <path d="M155 174C158 165 164 161 166 164C165 171 160 174 161 180C161 186 157 189 154 187C151 182 154 179 155 174Z"/>
+      <path d="M203 242C207 235 214 233 216 237C214 242 216 245 214 251C211 257 207 259 205 255C202 251 201 247 203 242Z"/>
+      <path d="M254 191C257 186 262 189 265 194C268 202 264 207 261 204C260 199 254 197 254 191Z"/>
+      <path d="M280 235C285 230 289 231 288 237C285 243 285 251 280 253C276 250 279 245 277 243C276 240 278 237 280 235Z"/>
+    </g>
+    <!-- The furrows bow around full lobes, then turn beneath the fruit. -->
+    <g stroke="#657561" stroke-width="1.05" opacity=".77">
+      <path d="M169 140C141 134 111 148 95 169C74 197 71 225 82 248C88 262 102 276 116 284"/>
+      <path d="M174 144C149 144 127 160 115 182C101 207 103 232 113 253C121 270 134 283 147 289"/>
+      <path d="M181 148C166 161 157 180 156 204C153 238 164 276 184 297"/>
+      <path d="M190 148C205 160 220 181 226 207C234 240 231 271 216 293"/>
+      <path d="M199 145C224 151 247 173 257 201C270 236 261 267 240 288"/>
+      <path d="M206 141C238 139 269 156 288 182C307 209 305 237 291 259C287 266 279 273 273 278"/>
+      <path d="M166 139C137 127 106 139 90 155C71 160 57 176 52 195C46 213 49 228 56 240" opacity=".7"/>
+      <path d="M212 136C238 128 259 140 273 154C292 160 305 176 308 193" opacity=".7"/>
+    </g>
+    <g stroke="#ced2bd" stroke-width=".8" opacity=".62">
+      <path d="M119 170C109 186 106 204 108 221M112 240C118 259 129 274 141 282"/>
+      <path d="M169 160C161 178 158 195 160 216M164 239C169 261 176 277 184 287"/>
+      <path d="M204 166C217 185 224 208 225 228M223 255C223 267 220 277 216 285"/>
+      <path d="M239 170C251 184 259 205 260 225M258 246C254 263 249 272 244 278"/>
+      <path d="M93 184C83 201 81 221 85 235M277 175C291 191 298 209 297 225"/>
+    </g>
+    <!-- Short, individually placed curved cuts accumulate beside creases. -->
+    <g stroke="#586b59" stroke-width=".58" opacity=".52">
+      <path d="M86 199Q83 205 82 212M84 209Q81 215 81 221M83 219Q82 226 83 232M85 235Q87 242 90 246M88 245Q91 252 95 256M95 256Q99 263 103 265M102 265L109 273M111 274L119 280"/>
+      <path d="M111 178Q107 185 105 190M108 187Q104 194 103 201M106 200Q103 207 103 213M106 218L106 227M108 230L110 239M112 241Q114 248 118 252M118 253L123 261M126 267L132 273M135 277L142 283"/>
+      <path d="M155 174L152 183M154 186L152 195M154 201L153 212M155 217L155 228M157 231L159 241M161 244L164 254M166 257L170 266M172 270L177 280M180 282L186 290"/>
+      <path d="M218 182L222 192M222 193L226 205M227 209L230 220M229 223L232 234M230 238L231 248M228 254L229 263M224 269L224 277M220 282L218 289"/>
+      <path d="M252 183L257 192M257 196L261 206M262 211L265 222M265 227L266 238M263 242L263 251M259 255L258 264M253 267L251 275M246 279L242 284"/>
+      <path d="M291 188L297 196M297 201L301 212M301 217L302 226M300 232L300 240M296 245L295 253M289 258L285 264M282 268L277 272M54 206L53 213M54 218L56 226M58 234L63 243M68 251L74 257"/>
+    </g>
+    <g stroke="#657563" stroke-width=".5" opacity=".39">
+      <path d="M72 182L70 186M76 180L74 184M65 213L64 218M73 230L74 235M92 254L95 259M97 271L101 274M129 193L127 199M128 209L128 213M136 247L138 253M145 267L148 272M145 157L142 160M152 151L147 154M168 186L167 191M171 205L172 210M176 236L178 242M181 256L182 260M194 284L194 289M201 190L204 196M212 221L213 227M211 257L211 262M205 271L204 276M236 187L239 193M244 219L245 224M247 239L247 244M238 265L236 270M273 208L275 213M281 222L282 227M278 249L277 254M268 269L264 273M300 183L303 188M310 208L311 213M309 231L307 237"/>
+    </g>
+    <path d="M82 277C102 288 124 292 147 286C171 296 196 298 216 290C240 293 260 284 273 275" stroke="#65705b" stroke-width=".8" opacity=".59"/>
+  </g>
+
+  <!-- A shallow corked crown cups a cylindrical, gently bent peduncle. -->
+  <path d="M163 143C165 137 173 135 178 136C184 131 193 134 195 138C202 138 206 142 203 146C196 151 187 153 178 150C171 151 166 148 163 143Z" fill="#a5a88a" stroke="#697055" stroke-width="1.05"/>
+  <path d="M170 143Q176 145 179 141M192 139L198 143M175 147L182 145M190 147L197 146" stroke="#6f7359" stroke-width=".65"/>
+  <g transform="translate(0 39.2) scale(1 .72)">
+  <path d="M177 146C169 136 170 124 172 111C174 100 173 90 169 81C167 76 171 72 177 72C184 71 191 74 192 79C193 86 188 94 186 104C183 117 183 130 192 141C194 145 191 148 187 149C182 150 179 149 177 146Z" fill="url(#vp13-cork)" stroke="#746e52" stroke-width="1.5"/>
+  <path d="M169 79C174 82 184 84 191 79C189 74 181 72 177 73C173 73 170 75 169 79Z" fill="#d0c2a0" stroke="#7e7659" stroke-width=".95"/>
+  <path d="M173 77Q180 75 186 78M176 79L181 80M182 76L187 78" stroke="#98886a" stroke-width=".6"/>
+  <g stroke="#8a8060" stroke-width=".7" opacity=".85">
+    <path d="M174 85C179 98 176 107 175 117M176 125C176 134 179 141 183 145M188 84C184 93 181 104 180 113M180 121C179 127 181 133 184 137"/>
+    <path d="M174 91L178 93L180 91M176 104L179 102M174 113L178 115L178 119M174 124L177 126M177 134L181 133L182 136M181 141L187 139M183 145L187 146M184 98L187 99M182 109L184 112M183 126L185 127"/>
+  </g>
+  <g stroke="#ddd0ad" stroke-width=".65" opacity=".65">
+    <path d="M172 84L175 89M178 95L178 101M176 108L175 113M175 119L175 123M178 130L179 134M181 138L184 143"/>
+  </g>
+  </g>
+  <path d="M167 141L164 139M169 146L166 147M199 141L202 140M199 148L202 150" stroke="#72765b" stroke-width=".7"/>
+</svg>

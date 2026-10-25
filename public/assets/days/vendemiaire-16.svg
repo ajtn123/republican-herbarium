@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vn16-title vn16-desc">
+  <title id="vn16-title">Belle de nuit — Mirabilis jalapa</title>
+  <desc id="vn16-desc">A curved, branching four-o'clock stem carries opposite pairs of broad, pointed, heart-based olive leaves. Two softly pigmented rose and cream trumpets show long narrow floral tubes, continuous five-lobed flared mouths and projecting stamens. One slender closed evening bud rises between them.</desc>
+  <defs>
+    <linearGradient id="vn16-stem" x1="166" y1="215" x2="183" y2="218" gradientUnits="userSpaceOnUse"><stop stop-color="#a4a889"/><stop offset=".45" stop-color="#929b78"/><stop offset="1" stop-color="#717d5e"/></linearGradient>
+    <linearGradient id="vn16-leaf-left" x1="90" y1="160" x2="150" y2="288" gradientUnits="userSpaceOnUse"><stop stop-color="#a6ac8e" stop-opacity=".64"/><stop offset=".58" stop-color="#929c7b" stop-opacity=".66"/><stop offset="1" stop-color="#778562" stop-opacity=".74"/></linearGradient>
+    <linearGradient id="vn16-leaf-right" x1="250" y1="183" x2="214" y2="283" gradientUnits="userSpaceOnUse"><stop stop-color="#afb398" stop-opacity=".58"/><stop offset=".57" stop-color="#949e7b" stop-opacity=".67"/><stop offset="1" stop-color="#7a875f" stop-opacity=".7"/></linearGradient>
+    <linearGradient id="vn16-rose-tube" x1="115" y1="101" x2="174" y2="166" gradientUnits="userSpaceOnUse"><stop stop-color="#cda7a3"/><stop offset=".46" stop-color="#ba8c90"/><stop offset=".8" stop-color="#d0b6a5"/><stop offset="1" stop-color="#b5b18b"/></linearGradient>
+    <radialGradient id="vn16-rose-mouth" cx=".65" cy=".65" r=".73"><stop stop-color="#9e6f79"/><stop offset=".28" stop-color="#bd9099"/><stop offset=".62" stop-color="#d0a9ad"/><stop offset="1" stop-color="#ddbfba"/></radialGradient>
+    <linearGradient id="vn16-cream-tube" x1="215" y1="164" x2="283" y2="113" gradientUnits="userSpaceOnUse"><stop stop-color="#a5a782"/><stop offset=".35" stop-color="#c8bea0"/><stop offset=".73" stop-color="#dbceb0"/><stop offset="1" stop-color="#c8b496"/></linearGradient>
+    <radialGradient id="vn16-cream-mouth" cx=".3" cy=".7" r=".8"><stop stop-color="#b8a587"/><stop offset=".28" stop-color="#d3c1a2"/><stop offset=".72" stop-color="#e5d8bd"/><stop offset="1" stop-color="#e9dec5"/></radialGradient>
+    <linearGradient id="vn16-bud" x1="187" y1="61" x2="200" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#c99da1"/><stop offset=".4" stop-color="#d3b3ad"/><stop offset=".8" stop-color="#bfb197"/><stop offset="1" stop-color="#9fA380"/></linearGradient>
+  </defs>
+  <!-- The slender, slightly swollen nodes carry clearly opposite leaf stalks. -->
+  <g stroke="#5c684e">
+    <path d="M172 330C183 311 187 293 181 274C176 256 165 241 164 223C161 204 168 187 178 171C187 156 192 144 192 130L196 128C198 145 190 161 182 174C172 189 167 206 170 222C172 241 182 255 187 274C192 293 188 312 177 332Z" fill="url(#vn16-stem)" stroke-width="1.45"/>
+    <path d="M174 327C184 309 187 292 183 278M183 269C177 251 168 238 168 222M167 212C167 196 174 184 180 173M187 161C192 150 195 139 194 131" stroke-width=".6" opacity=".73"/>
+    <path d="M176 179C175 170 173 163 168 158L171 155C178 161 180 168 181 173M188 157C201 160 211 157 221 151L222 155C211 162 202 165 186 162" fill="url(#vn16-stem)" stroke-width="1.2"/>
+    <path d="M193 133C199 122 201 109 198 99L201 98C204 110 202 123 197 134" fill="url(#vn16-stem)" stroke-width="1.15"/>
+    <path d="M180 267C165 270 155 274 146 278M180 267C190 266 197 266 206 265M166 208C158 203 153 200 144 197M167 208C180 205 191 200 202 196" stroke-width="2"/>
+    <path d="M175 266Q180 270 185 266M162 207Q166 210 171 206M188 158Q193 160 197 156" stroke-width="1.1"/>
+    <path d="M194 130C184 124 177 118 172 111M195 130C207 130 218 127 226 119" stroke-width="1.35"/>
+  </g>
+  <!-- Entire ovate blades, their rounded basal lobes meeting the petiole. -->
+  <g stroke="#59674d" stroke-width="1.3">
+    <path d="M147 276C141 259 122 248 105 252C80 254 64 268 36 276C61 281 78 300 104 302C123 304 142 290 149 282C143 283 142 279 147 276Z" fill="url(#vn16-leaf-left)"/>
+    <path d="M204 263C198 249 211 233 229 231C253 226 286 241 315 238C296 249 283 275 257 283C235 290 211 278 204 269C211 271 211 266 204 263Z" fill="url(#vn16-leaf-right)"/>
+    <path d="M144 195C141 182 139 165 123 157C104 147 83 153 62 143C74 164 74 187 96 199C113 209 134 206 146 201C138 201 137 197 144 195Z" fill="url(#vn16-leaf-left)"/>
+    <path d="M201 193C196 180 205 167 220 164C239 160 257 170 278 167C263 178 254 199 234 204C219 209 205 203 200 199C207 200 207 195 201 193Z" fill="url(#vn16-leaf-right)"/>
+    <path d="M174 115C163 118 147 106 143 87C159 92 173 97 178 108C180 112 178 116 174 115Z" fill="url(#vn16-leaf-left)"/>
+    <path d="M218 125C214 120 216 111 223 106C232 101 241 103 251 99C245 110 240 122 230 125C225 127 220 127 218 125Z" fill="url(#vn16-leaf-right)"/>
+  </g>
+  <g stroke="#5e704f" stroke-width=".7" opacity=".84">
+    <path d="M146 279C115 279 78 277 41 276M134 279C128 268 116 259 107 255M117 279C110 266 94 262 82 262M97 278C91 270 80 268 73 268M134 279C124 290 112 295 101 298M115 279C103 290 92 290 82 291M95 278C85 285 75 284 68 283M70 277L59 274"/>
+    <path d="M205 266C240 258 280 247 309 240M219 263C222 248 232 237 242 233M239 258C247 243 258 238 267 239M261 252C270 243 278 242 286 241M220 263C232 276 247 278 258 279M240 258C252 271 264 270 275 268M261 252C273 258 283 255 290 252M284 245L295 245"/>
+    <path d="M143 198C115 186 88 165 66 146M132 193C130 177 123 164 113 157M116 183C111 170 104 159 94 154M99 171C96 163 88 158 82 155M132 193C119 201 109 200 98 198M116 183C105 189 94 187 88 184M100 172C89 175 83 171 78 167"/>
+    <path d="M201 196C227 190 253 177 274 169M214 192C216 178 222 170 231 166M231 185C237 176 242 173 250 170M214 192C228 202 239 199 247 194M233 185C243 191 253 185 258 181M174 112C161 104 151 95 146 90M167 108L162 97M165 106L154 105M220 123C229 116 239 107 248 101M229 116L230 108M229 116L240 115"/>
+  </g>
+  <g stroke="#687753" stroke-width=".48" opacity=".53">
+    <path d="M137 285L130 289M130 286L123 291M115 292L108 295M113 267L106 263M101 270L94 266M82 274L76 271M220 269L228 274M229 270L237 275M246 271L254 274M234 246L239 241M251 246L258 242M275 249L283 246M123 197L115 198M113 194L105 195M120 174L116 168M104 170L101 165M220 198L228 199M231 195L238 195M221 179L224 174M237 178L242 175M151 99L155 102"/>
+  </g>
+  <!-- A closed, tightly twisted corolla sits above its little green involucre. -->
+  <path d="M196 102C189 95 187 85 188 75C189 67 191 60 190 53C199 58 204 68 205 78C207 87 204 97 200 103Z" fill="url(#vn16-bud)" stroke="#8c7772" stroke-width="1.25"/>
+  <g stroke="#9b7e7e" stroke-width=".65"><path d="M197 99C202 84 195 69 191 56M199 98C195 86 192 79 193 68M201 93C205 83 202 73 199 67M190 77C191 86 195 93 197 96"/></g>
+  <path d="M196 106C191 102 188 96 188 91C192 93 195 96 198 100C197 94 200 87 203 84C204 92 202 98 201 101C205 98 208 97 211 96C209 102 204 107 200 109Z" fill="#909975" stroke="#626f51" stroke-width="1.05"/>
+  <path d="M198 104L191 96M200 105L202 93M202 105L207 100" stroke="#bbc2a0" stroke-width=".65"/>
+  <!-- The rose flower is one fused trumpet: a long tube under a flared limb. -->
+  <path d="M167 165C151 151 136 142 121 126C108 112 98 96 93 82L116 76C126 99 137 120 153 137C161 146 169 153 174 159Z" fill="url(#vn16-rose-tube)" stroke="#8d7076" stroke-width="1.4"/>
+  <path d="M169 161C148 142 130 121 117 95M163 160C143 147 120 122 110 103M152 144C135 128 123 110 116 91" stroke="#a17b83" stroke-width=".75" opacity=".77"/>
+  <path d="M170 160C154 147 139 127 128 108" stroke="#dfc4b6" stroke-width=".65" opacity=".8"/>
+  <path d="M167 170C161 168 158 163 157 157C161 158 165 160 168 164C169 158 172 152 175 150C176 157 174 164 173 167L178 165C177 171 172 173 167 170Z" fill="#929a77" stroke="#637050" stroke-width="1.1"/>
+  <path d="M168 168L162 161M171 168L173 157" stroke="#c2c3a1" stroke-width=".65"/>
+  <!-- Five shallow lobes, with the near edge gently folded over the throat. -->
+  <path d="M57 97C48 86 50 74 64 72C69 55 84 46 98 56C113 48 131 54 128 72C142 83 135 100 120 101C111 119 88 124 78 110C66 115 58 108 57 97Z" fill="url(#vn16-rose-mouth)" stroke="#916f79" stroke-width="1.45"/>
+  <path d="M98 93C100 87 109 86 115 91C120 97 117 104 111 108C105 106 101 101 98 93Z" fill="#9d737d" fill-opacity=".45"/>
+  <path d="M61 99C69 108 74 109 79 106C90 118 108 113 117 102C109 119 88 121 78 110C70 113 64 109 61 99Z" fill="#e4c5bf" fill-opacity=".46"/>
+  <g stroke="#a07a85" stroke-width=".68" opacity=".75">
+    <path d="M108 99C90 94 68 88 56 82M105 96C89 82 77 67 77 57M106 94C101 79 104 66 111 56M110 97C119 88 125 81 128 74M109 101C106 108 95 114 86 113M100 98C84 100 70 102 61 99M99 90C85 78 78 72 72 70M107 88C108 76 115 64 120 61M116 96C123 91 130 87 133 84M106 104L100 111M91 96L79 93M91 83L86 74M106 79L109 70"/>
+    <path d="M98 98L88 96M98 101L88 102M99 93L90 87M102 89L98 80M109 90L113 82M114 99L121 95M105 105L98 110" stroke-width=".48" opacity=".7"/>
+  </g>
+  <!-- Exserted filaments bend out of the mouth, with small paired anthers. -->
+  <g stroke="#9a8a68" stroke-width=".95">
+    <path d="M109 99C84 93 56 82 37 69M109 98C85 81 61 63 48 48M108 98C90 79 76 56 65 38M110 98C98 78 91 56 82 39M108 101C84 100 59 98 43 91"/>
+  </g>
+  <g fill="#ad9674" stroke="#806f54" stroke-width=".65">
+    <path d="M34 67C33 64 35 63 37 65L40 69C41 72 39 73 37 71Z"/>
+    <path d="M45 46C44 43 46 42 48 44L51 48C52 51 50 52 48 50Z"/>
+    <path d="M62 36C62 33 65 33 66 36L68 40C68 43 65 43 64 40Z"/>
+    <path d="M79 37C79 34 82 34 83 37L85 41C85 44 82 44 81 41Z"/>
+    <path d="M40 90C38 88 39 86 42 87L46 90C49 92 47 94 44 93Z"/>
+  </g>
+  <g stroke="#786a50" stroke-width=".45"><path d="M35 66L39 71M46 45L50 50M64 35L66 41M81 36L83 42M40 89L46 92"/></g>
+  <path d="M110 100C93 78 67 57 46 34" stroke="#9b7b73" stroke-width="1"/>
+  <path d="M45 35C42 35 40 33 41 31M45 35C43 32 45 29 47 30M45 35C47 33 49 33 50 34" stroke="#937572" stroke-width=".9"/>
+  <!-- The second trumpet turns right, its cream tube emerging from a green cup. -->
+  <path d="M218 155C236 143 249 131 258 116C266 105 273 94 276 86L293 109C279 114 267 124 256 135C244 147 233 156 222 162Z" fill="url(#vn16-cream-tube)" stroke="#8d896c" stroke-width="1.3"/>
+  <g stroke="#aa9e80" stroke-width=".65" opacity=".8"><path d="M223 157C244 143 262 123 276 104M226 157C247 147 267 128 282 115M234 147C249 135 261 120 269 108"/></g>
+  <path d="M223 156C238 145 250 134 260 121" stroke="#e4d6b6" stroke-width=".65"/>
+  <path d="M216 163C213 159 213 153 215 149C219 151 220 154 221 157C224 151 229 147 234 146C231 153 226 159 222 162L225 165C222 168 218 167 216 163Z" fill="#919c77" stroke="#627050" stroke-width="1.05"/>
+  <path d="M218 161L217 154M221 161L229 151" stroke="#c0c3a1" stroke-width=".6"/>
+  <path d="M253 103C246 95 248 83 258 80C257 67 271 59 281 66C292 60 304 68 303 80C316 84 320 97 310 105C313 118 302 129 291 125C282 138 267 132 265 119C254 120 250 111 253 103Z" fill="url(#vn16-cream-mouth)" stroke="#9b8e75" stroke-width="1.3"/>
+  <path d="M265 111C261 105 265 97 270 96C277 96 281 102 278 108C275 113 270 115 265 111Z" fill="#af9e7c" fill-opacity=".45"/>
+  <path d="M267 120C273 127 281 128 290 121C301 127 307 117 309 110C308 122 301 128 291 125C282 138 268 131 267 120Z" fill="#eee2c8" fill-opacity=".65"/>
+  <g stroke="#b1a183" stroke-width=".67" opacity=".83">
+    <path d="M270 106C263 98 260 89 259 81M272 103C272 90 275 75 280 68M277 104C288 93 296 82 300 76M279 108C294 105 306 101 313 94M275 111C281 118 285 124 288 128M269 112C263 114 258 111 255 108M270 93L267 83M282 97L289 86M289 107L300 105M281 116L284 123M266 101L261 96"/>
+    <path d="M270 104L267 96M274 100L276 91M279 103L286 96M281 109L291 110M274 114L278 121M260 87L260 92M285 67L291 68M310 90L313 94M301 121L297 123" stroke-width=".48" opacity=".68"/>
+  </g>
+  <!-- Cream filaments extend beyond the right-facing limb. -->
+  <g stroke="#a39672" stroke-width=".9">
+    <path d="M270 107C283 97 303 84 323 78M271 106C284 87 300 74 312 65M272 107C292 105 313 100 328 94M271 108C290 114 309 115 326 109M271 105C276 86 285 72 294 60"/>
+  </g>
+  <g fill="#b19b70" stroke="#867751" stroke-width=".6">
+    <path d="M321 76C321 74 324 74 325 76L326 79C326 82 323 82 322 80Z"/>
+    <path d="M310 63C310 61 313 61 314 63L315 66C315 69 312 69 311 67Z"/>
+    <path d="M326 92C327 90 330 91 330 93L330 96C329 98 326 98 326 95Z"/>
+    <path d="M324 107C325 105 328 106 328 108L328 111C327 113 324 113 324 110Z"/>
+    <path d="M292 58C292 56 295 56 296 58L297 61C297 64 294 64 293 62Z"/>
+  </g>
+  <path d="M270 107C285 90 305 69 324 60" stroke="#a18d77" stroke-width=".95"/>
+  <path d="M323 61L326 59M325 60L326 56M325 60L329 60" stroke="#9c886f" stroke-width=".9"/>
+</svg>

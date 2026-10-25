@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="v17-title v17-desc">
+  <title id="v17-title">Citrouille — Cucurbita pepo</title>
+  <desc id="v17-desc">A round orange pumpkin with unequal, strongly marked vertical ribs, a little weathering on its rind, and a stout five-ridged stalk with a dry angular cut. One slender tendril curls beside the stalk. Restrained ochre-orange washes and fine umber engraving describe a representative pumpkin of the broad historic name Citrouille.</desc>
+  <defs>
+    <radialGradient id="v17-rind" cx=".35" cy=".32" r=".81"><stop stop-color="#cfa16c"/><stop offset=".48" stop-color="#c58a50"/><stop offset=".81" stop-color="#b77a45"/><stop offset="1" stop-color="#96633f"/></radialGradient>
+    <linearGradient id="v17-left" x1="68" y1="151" x2="117" y2="274" gradientUnits="userSpaceOnUse"><stop stop-color="#bc8750"/><stop offset=".5" stop-color="#c69156"/><stop offset="1" stop-color="#ac7443"/></linearGradient>
+    <linearGradient id="v17-near" x1="146" y1="124" x2="197" y2="321" gradientUnits="userSpaceOnUse"><stop stop-color="#d1a16b"/><stop offset=".41" stop-color="#ca9458"/><stop offset=".79" stop-color="#bf844b"/><stop offset="1" stop-color="#aa7446"/></linearGradient>
+    <linearGradient id="v17-right" x1="223" y1="145" x2="293" y2="262" gradientUnits="userSpaceOnUse"><stop stop-color="#bc824c"/><stop offset=".52" stop-color="#b87b45"/><stop offset="1" stop-color="#9e6940"/></linearGradient>
+    <linearGradient id="v17-stalk" x1="185" y1="64" x2="210" y2="78" gradientUnits="userSpaceOnUse"><stop stop-color="#77704d"/><stop offset=".4" stop-color="#a29568"/><stop offset=".61" stop-color="#8c8256"/><stop offset="1" stop-color="#5e6147"/></linearGradient>
+    <clipPath id="v17-body"><path d="M181 99C162 88 141 89 124 101C102 97 79 111 67 134C51 146 46 173 48 198C44 230 56 261 77 282C87 300 105 313 127 316C145 329 168 332 185 327C205 333 231 326 246 315C269 312 289 293 298 271C315 252 320 228 315 202C321 178 310 151 297 136C289 113 268 99 246 100C226 86 201 90 181 99Z"/></clipPath>
+  </defs>
+  <!-- The tendril comes from the stalk base, behind the fruit. -->
+  <path d="M184 96C200 78 221 76 237 66C247 60 252 51 264 53C275 54 280 64 274 72C270 79 259 78 256 71C253 65 258 59 263 61C267 62 268 67 264 69" stroke="#717451" stroke-width="1.55"/>
+  <path d="M192 89C207 77 224 76 237 68M252 57C259 52 269 54 272 60" stroke="#c2b690" stroke-width=".6"/>
+  <!-- The outline follows unequal lobes, including a lower, heavier right shoulder. -->
+  <path d="M181 99C162 88 141 89 124 101C102 97 79 111 67 134C51 146 46 173 48 198C44 230 56 261 77 282C87 300 105 313 127 316C145 329 168 332 185 327C205 333 231 326 246 315C269 312 289 293 298 271C315 252 320 228 315 202C321 178 310 151 297 136C289 113 268 99 246 100C226 86 201 90 181 99Z" fill="url(#v17-rind)" stroke="#69543b" stroke-width="1.7"/>
+  <g clip-path="url(#v17-body)">
+    <!-- Narrow far lobes give way to broad rounded ribs on the near face. -->
+    <path d="M124 101C96 117 75 151 71 183C64 229 83 281 112 308L127 316C106 307 90 284 85 258C73 207 89 145 128 111L181 99C162 88 141 89 124 101Z" fill="url(#v17-left)"/>
+    <path d="M180 102C152 101 127 116 111 141C91 170 86 211 94 246C101 278 113 302 136 320C155 328 173 330 185 327C161 300 143 265 140 225C135 181 146 132 180 102Z" fill="#d2a06a" fill-opacity=".43"/>
+    <path d="M181 102C156 127 146 166 147 208C145 255 159 300 185 327C202 332 222 327 235 321C256 286 266 241 257 197C249 151 218 115 190 103Z" fill="url(#v17-near)"/>
+    <path d="M195 102C226 110 252 140 267 178C285 220 279 281 246 315C272 311 289 293 298 271C309 236 303 189 286 156C277 136 262 116 246 100C227 88 211 91 195 102Z" fill="url(#v17-right)"/>
+    <path d="M246 100C283 132 300 168 301 206C306 230 305 250 298 271C318 249 321 223 315 202C321 178 310 151 297 136C289 113 268 99 246 100Z" fill="#9a7147" fill-opacity=".23"/>
+    <!-- Fine dark valleys are softly widened on their shaded sides. -->
+    <g fill="#89603d" fill-opacity=".2">
+      <path d="M176 104C139 117 113 149 106 185C94 231 108 288 137 320C118 304 101 270 99 236C91 182 111 132 149 113C157 109 166 105 176 104Z"/>
+      <path d="M182 105C158 141 153 183 154 220C154 267 168 303 185 327C162 304 149 266 147 224C144 176 155 133 182 105Z"/>
+      <path d="M193 105C221 138 232 174 234 214C237 254 229 293 217 328L226 325C243 286 246 245 242 206C237 162 217 126 193 105Z"/>
+      <path d="M205 105C242 129 263 167 268 208C272 251 266 288 246 315C271 286 279 245 272 202C266 158 241 122 205 105Z"/>
+      <path d="M131 106C102 133 86 168 84 203C80 248 97 291 119 311C90 282 78 237 81 206C81 166 100 129 131 106Z"/>
+    </g>
+    <g stroke="#80603d" stroke-width="1" opacity=".85">
+      <path d="M172 105C139 115 114 143 103 175C90 219 99 278 127 310"/>
+      <path d="M183 107C158 139 148 181 150 222C151 266 163 303 185 327"/>
+      <path d="M193 106C221 140 235 179 237 217C240 258 230 302 218 325"/>
+      <path d="M204 105C242 129 265 170 270 210C275 253 266 292 246 315"/>
+      <path d="M132 105C101 132 84 168 83 206C79 247 94 287 116 308"/>
+      <path d="M246 103C272 128 289 163 294 193C301 226 298 254 287 283"/>
+      <path d="M68 137C56 165 54 192 58 218C61 244 69 264 82 283"/>
+    </g>
+    <!-- Reflected light lies beside the grooves, without glossy highlights. -->
+    <g stroke="#e1bb82" stroke-width=".85" opacity=".65">
+      <path d="M165 115C140 129 119 155 112 180M108 196C103 222 107 253 115 273M181 118C163 151 159 184 160 213M160 237C162 267 173 295 183 312M200 120C222 151 230 180 231 204M230 229C231 262 224 290 219 303M217 116C246 138 263 173 266 195M278 152C290 180 292 202 292 222M122 121C103 142 94 164 91 185M88 214C89 244 99 267 108 281M63 174L62 197"/>
+    </g>
+    <!-- Short curved cuts follow the swelling ribs and become closer underneath. -->
+    <g stroke="#785a3b" stroke-width=".55" opacity=".57">
+      <path d="M51 174L56 163M51 185L55 174M51 199L56 187M52 211L56 201M53 224L58 215M56 237L61 228M60 247L64 241M66 259L70 253M72 270L76 264M81 282L85 277M89 291L93 286M97 299L101 293M109 307L113 301M119 313L122 307"/>
+      <path d="M91 156L96 146M87 169L92 158M84 183L90 171M82 199L88 187M82 214L88 202M83 229L89 218M86 244L92 233M90 259L96 249M95 271L101 263M101 283L107 275M109 295L115 288M117 304L124 298M127 313L134 306"/>
+      <path d="M139 159L144 149M136 174L141 165M134 189L140 178M134 205L140 194M135 221L141 210M137 238L143 227M140 254L147 242M144 270L151 257M150 284L157 273M157 298L165 288M166 311L174 301M177 320L183 314"/>
+      <path d="M224 159L228 167M229 174L234 183M231 190L236 199M232 206L238 215M233 223L239 231M232 240L239 247M230 255L237 263M227 272L234 279M222 289L229 296M217 305L223 312M211 319L216 325"/>
+      <path d="M258 156L264 163M263 171L269 178M267 188L273 194M269 205L276 211M271 221L278 226M271 237L278 242M270 252L277 257M267 269L274 273M261 285L269 289M254 298L260 302M245 310L251 314"/>
+      <path d="M299 157L305 166M303 172L310 181M306 188L312 197M307 206L315 214M307 224L315 232M305 241L313 249M301 256L307 264M294 272L300 280M285 286L291 292M274 298L279 305M261 310L266 315"/>
+      <path d="M145 313L153 319M153 314L161 322M161 315L169 324M170 317L178 325M187 319L194 327M196 319L203 327M205 317L211 325M225 313L231 320M232 309L239 317"/>
+    </g>
+    <!-- Uneven thin growth scratches and small healed scuffs on the rind. -->
+    <g stroke="#8f734b" stroke-width=".55" opacity=".62">
+      <path d="M117 157C114 168 112 177 112 185M119 191L118 207M119 223C119 234 121 244 124 251M128 269L132 279M178 138C174 149 173 160 172 168M174 180L173 195M176 225C176 237 179 250 181 259M190 280L195 291M210 160C214 170 217 182 217 190M211 210L213 224M211 246C212 254 211 266 208 275M247 164L250 174M252 190L254 201M252 229L253 241M247 261L244 271M281 186L283 197M283 219L283 230M279 251L277 261M70 190L68 203M70 228L72 239"/>
+      <path d="M124 205C127 202 130 201 132 203C133 206 130 208 127 209M125 207L130 204M129 211L132 208M182 241C186 239 190 240 191 243L187 246M184 244L188 242M186 248L189 246M253 282L257 279L259 280L255 284M256 285L259 283"/>
+    </g>
+    <g fill="#8b6c46" fill-opacity=".45">
+      <ellipse cx="131" cy="162" rx=".7" ry="1.05"/><ellipse cx="121" cy="181" rx=".6" ry=".85"/><ellipse cx="135" cy="231" rx=".65" ry=".95"/><ellipse cx="125" cy="260" rx=".75" ry=".85"/><ellipse cx="165" cy="173" rx=".65" ry="1.1"/><ellipse cx="191" cy="162" rx=".7" ry=".9"/><ellipse cx="185" cy="210" rx=".7" ry="1"/><ellipse cx="203" cy="192" rx=".55" ry=".85"/><ellipse cx="196" cy="265" rx=".7" ry=".85"/><ellipse cx="174" cy="288" rx=".65" ry=".9"/><ellipse cx="206" cy="305" rx=".65" ry=".8"/><ellipse cx="248" cy="218" rx=".6" ry="1.05"/><ellipse cx="259" cy="248" rx=".6" ry=".85"/><ellipse cx="280" cy="171" rx=".55" ry=".8"/><ellipse cx="290" cy="243" rx=".7" ry=".9"/><ellipse cx="74" cy="222" rx=".6" ry=".85"/><ellipse cx="92" cy="251" rx=".7" ry=".9"/><ellipse cx="113" cy="287" rx=".6" ry=".85"/>
+    </g>
+  </g>
+  <!-- The shallow crown is covered by a five-angled, hard peduncle. -->
+  <path d="M149 108C158 104 170 101 181 100C195 97 213 100 227 106C213 105 205 108 194 111C180 116 163 113 149 108Z" fill="#a27a49" fill-opacity=".62" stroke="#816644" stroke-width=".8"/>
+  <path d="M163 109L176 106L184 108M199 106L214 104M173 113L181 111M199 113L205 110" stroke="#725d3e" stroke-width=".65"/>
+  <path d="M191 43L207 46L213 42C212 57 207 66 204 79C201 90 202 97 209 104L201 108L194 113L185 109L174 106C184 98 184 87 185 77C187 64 191 54 191 43Z" fill="url(#v17-stalk)" stroke="#565941" stroke-width="1.55"/>
+  <!-- Angular longitudinal faces continue into the flared attachment. -->
+  <path d="M197 47C199 62 192 76 192 87C191 97 190 103 185 109L194 113C198 102 195 95 197 84C200 70 205 59 206 47Z" fill="#b0a173" fill-opacity=".65"/>
+  <path d="M208 47C205 67 198 82 199 94C200 100 202 103 201 108L209 104C201 96 202 88 205 78C208 67 211 56 213 42Z" fill="#62684a" fill-opacity=".53"/>
+  <g stroke="#5e6146" stroke-width=".85">
+    <path d="M197 47C199 61 193 73 192 85C191 95 191 102 185 109M206 47C205 61 200 74 198 85C196 96 199 104 194 113M191 52C192 63 187 75 188 84M208 66L204 80M203 91C203 97 206 101 209 104"/>
+  </g>
+  <g stroke="#d0bf90" stroke-width=".65" opacity=".7"><path d="M200 50C201 61 197 72 195 79M194 85L194 97M193 102L190 108M190 64L188 74M201 86L201 94"/></g>
+  <path d="M188 39L195 32L208 35L214 42L207 48L192 44Z" fill="#b1a17a" stroke="#666046" stroke-width="1.25"/>
+  <path d="M192 39L197 35L207 38L209 41L205 45L195 42Z" fill="#958965" stroke="#7c7354" stroke-width=".65"/>
+  <path d="M197 38L203 39L205 42L200 43L196 40M189 40L194 41M195 33L197 36M208 36L206 39M212 42L208 42M202 46L202 43" stroke="#756b4e" stroke-width=".55"/>
+  <g stroke="#575b40" stroke-width=".55" opacity=".75">
+    <path d="M188 61L191 64M186 70L189 73M186 79L190 82M185 89L189 92M183 99L187 102M201 57L204 59M199 67L202 69M197 77L200 79M196 90L199 92M196 100L199 102M201 104L204 106"/>
+  </g>
+</svg>

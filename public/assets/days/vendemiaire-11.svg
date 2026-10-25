@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vp11-title vp11-desc">
+  <title id="vp11-title">Pomme de terre — Solanum tuberosum</title>
+  <desc id="vp11-desc">Three uneven, ochre-skinned potato stem tubers gathered beneath a short compound-leaf sprig. Shallow clustered eyes, small corky scars and a slender broken stolon distinguish the rounded tubers; fine umber hatching describes their earthy skins.</desc>
+  <defs>
+    <linearGradient id="vp11-main" x1="103" y1="189" x2="161" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#c6b28a" stop-opacity=".78"/><stop offset=".45" stop-color="#b8a074" stop-opacity=".85"/><stop offset="1" stop-color="#957b56" stop-opacity=".91"/></linearGradient>
+    <linearGradient id="vp11-back" x1="226" y1="147" x2="280" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#c8b58c" stop-opacity=".79"/><stop offset=".53" stop-color="#b09a70" stop-opacity=".87"/><stop offset="1" stop-color="#8f7957" stop-opacity=".94"/></linearGradient>
+    <linearGradient id="vp11-small" x1="235" y1="255" x2="262" y2="317" gradientUnits="userSpaceOnUse"><stop stop-color="#bfa77e" stop-opacity=".91"/><stop offset=".56" stop-color="#ad9368" stop-opacity=".94"/><stop offset="1" stop-color="#8e7753" stop-opacity=".94"/></linearGradient>
+    <linearGradient id="vp11-leaf" x1="121" y1="63" x2="168" y2="164" gradientUnits="userSpaceOnUse"><stop stop-color="#a2a588" stop-opacity=".6"/><stop offset=".55" stop-color="#92997a" stop-opacity=".68"/><stop offset="1" stop-color="#738062" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="vp11-leaf-fold" x1="170" y1="103" x2="203" y2="127" gradientUnits="userSpaceOnUse"><stop stop-color="#a4a68b" stop-opacity=".48"/><stop offset="1" stop-color="#7b8768" stop-opacity=".7"/></linearGradient>
+  </defs>
+  <!-- A short pinnate potato leaf, with unequal ovate leaflets and two small intercalary leaflets. -->
+  <path d="M183 203C178 179 165 155 155 130C146 108 139 85 136 65" stroke="#66704f" stroke-width="2.5"/>
+  <path d="M181 199C175 176 162 153 153 131M145 110L138 85" stroke="#b6b59a" stroke-width=".65"/>
+  <g fill="url(#vp11-leaf)" stroke="#5e6b4d" stroke-width="1.25">
+    <path d="M138 85C125 81 117 71 118 59C118 48 125 39 128 32C135 37 143 41 147 51C152 64 147 77 138 85Z"/>
+    <path d="M148 115C134 116 115 112 105 103C94 94 94 83 87 76C101 74 115 78 125 84C138 91 143 103 148 115Z"/>
+    <path d="M150 118C152 104 158 90 169 84C179 78 190 80 199 77C198 91 194 103 184 111C176 119 162 121 150 118Z"/>
+    <path d="M163 151C146 153 130 148 121 139C113 132 112 122 106 117C119 114 133 119 143 125C155 131 159 140 163 151Z"/>
+    <path d="M165 154C168 142 179 132 190 130C200 127 209 131 217 130C213 141 207 151 197 155C187 159 175 157 165 154Z" fill="url(#vp11-leaf-fold)"/>
+    <path d="M154 129C149 127 145 122 145 117C152 118 157 121 159 127Z" stroke-width=".9"/>
+    <path d="M161 141C164 135 169 130 175 131C173 137 169 142 164 145Z" stroke-width=".9"/>
+  </g>
+  <g stroke="#60704f" stroke-width=".7" opacity=".85">
+    <path d="M138 83C136 68 133 50 129 35M137 73L125 61M135 61L141 49M136 67L144 58M133 55L124 48M147 114C128 103 112 90 91 79M133 106L129 94M120 96L115 85M132 105L117 106M119 96L107 97M152 116C165 102 179 90 196 80M164 104L163 92M176 93L177 83M165 104L179 105M178 92L190 92M161 149C143 138 127 127 109 119M149 141L145 128M135 132L130 122M148 141L132 142M135 132L121 132M166 153C180 145 197 138 213 132M180 146L183 134M193 140L199 133M180 146L194 151M194 140L204 142"/>
+  </g>
+  <g stroke="#657351" stroke-width=".48" opacity=".49"><path d="M121 53L123 58M121 61L125 68M142 57L140 65M104 86L112 91M108 102L116 104M173 88L169 94M184 94L190 89M123 124L130 128M121 135L128 139M196 134L190 138M198 149L205 145M132 44L135 50"/></g>
+  <!-- The slender stolon joins the heel of the rear tuber, rather than becoming a taproot. -->
+  <path d="M223 165C215 159 206 158 199 153C192 147 194 138 186 136C182 135 178 138 175 136" stroke="#7b7455" stroke-width="3.7"/>
+  <path d="M222 164C213 158 206 158 199 152C193 146 195 138 186 137" stroke="#b5aa87" stroke-width="1.3"/>
+  <path d="M194 145L190 146M210 158L209 161M179 135L178 138" stroke="#72694e" stroke-width=".7"/>
+  <!-- Rear tuber: a blunt heel and full, irregularly swelling crown. -->
+  <path d="M220 159C233 151 250 148 264 152C278 156 284 168 292 177C300 187 311 193 312 207C314 221 304 234 292 240C279 246 269 241 257 244C240 247 225 240 215 229C204 217 201 203 204 188C205 176 211 167 220 159Z" fill="url(#vp11-back)" stroke="#756448" stroke-width="1.6"/>
+  <path d="M217 170C230 160 247 157 259 160M280 174C289 185 303 195 305 206M307 217C303 228 291 236 280 235M212 190C208 204 214 220 225 229" stroke="#8b7654" stroke-width=".7" opacity=".66"/>
+  <path d="M225 166C222 169 221 172 222 175C227 173 230 169 230 166" stroke="#7a6749" stroke-width=".85"/>
+  <path d="M223 169L226 167L226 171" stroke="#68573e" stroke-width="1"/>
+  <g stroke="#776246" stroke-width=".8">
+    <path d="M252 174C254 170 260 168 264 170M255 172L258 173L261 171M284 200C287 196 293 196 296 199M286 199L289 201L292 198M251 214C255 212 259 213 261 216M254 214L256 217L258 214M275 232C277 229 281 228 284 229M277 231L280 231L282 229"/>
+  </g>
+  <g stroke="#76664b" stroke-width=".55" opacity=".56"><path d="M236 157L242 155M270 161L276 167M275 165L282 172M291 181L296 187M302 192L306 199M310 208L309 215M304 225L299 232M291 237L283 241M272 239L266 242M216 216L218 222M231 228L235 232M244 189L247 187M274 184L277 187M262 230L266 231M226 198L229 196"/></g>
+  <!-- The large fore tuber lies across the group, with an uneven skin and shallow eyes. -->
+  <path d="M61 208C71 197 85 194 100 187C118 178 135 177 152 181C164 183 175 191 188 194C207 199 222 208 231 225C240 243 235 260 222 273C209 285 194 286 179 291C162 298 150 307 131 306C115 306 104 299 91 297C73 294 60 283 53 269C45 253 46 236 51 223C53 217 57 213 61 208Z" fill="url(#vp11-main)" stroke="#78664a" stroke-width="1.7"/>
+  <path d="M63 215C75 205 88 203 102 197C116 191 131 187 144 189M58 237C54 251 60 270 71 279M85 289C101 289 113 299 129 298M157 296C174 286 189 281 204 277M224 229C231 242 224 256 216 262" stroke="#8e7751" stroke-width=".7" opacity=".61"/>
+  <path d="M74 222C81 218 87 219 91 222M77 220C80 221 80 224 82 224L86 221M117 205C120 201 127 199 131 202M120 203L123 206L127 202M157 221C162 217 168 218 171 221M161 220L164 223L167 220M198 239C202 235 208 235 211 238M202 238L204 241L207 237M142 267C146 264 152 264 155 267M145 266L148 269L151 265M84 265C89 261 94 262 97 264M88 264L91 267L94 263M179 280C183 277 187 276 191 277M183 278L185 280L188 277" stroke="#776044" stroke-width=".85"/>
+  <g stroke="#bca37c" stroke-width=".75" opacity=".92"><path d="M75 225C80 228 87 227 91 224M119 208C123 211 129 207 131 205M158 225C164 228 169 224 172 223M199 243C205 245 209 242 212 239M142 271C146 273 153 272 156 269M86 269C91 271 96 269 98 266"/></g>
+  <!-- Sparse corky scratches and lenticels follow the volume without stippling it flat. -->
+  <g stroke="#7c694b" stroke-width=".55" opacity=".57">
+    <path d="M53 229L51 239M53 250L55 257M58 263L63 271M66 275L72 282M77 286L84 289M95 295L103 298M109 299L117 303M127 303L137 303M144 300L154 296M164 294L171 290M197 282L205 278M214 270L221 263M227 251L230 241M228 229L223 222M215 213L209 209M196 202L188 200M179 195L174 193M149 182L142 181M113 186L107 189"/>
+    <path d="M66 239L69 238M103 228L106 226M139 237L143 238M120 249L123 248M177 248L180 246M189 216L192 218M119 284L122 282M163 285L166 284M69 258L72 259M211 251L214 249M90 201L94 200M144 197L147 198M99 282L102 284M154 252L157 251M187 264L191 263"/>
+  </g>
+  <g fill="#806c4e" opacity=".42"><circle cx="97" cy="239" r=".7"/><circle cx="130" cy="222" r=".65"/><circle cx="144" cy="215" r=".65"/><circle cx="113" cy="268" r=".65"/><circle cx="167" cy="268" r=".7"/><circle cx="177" cy="233" r=".65"/><circle cx="77" cy="246" r=".55"/><circle cx="195" cy="253" r=".65"/><circle cx="225" cy="182" r=".65"/><circle cx="238" cy="214" r=".7"/><circle cx="270" cy="202" r=".65"/><circle cx="287" cy="217" r=".6"/><circle cx="251" cy="187" r=".55"/></g>
+  <!-- A smaller squat tuber rests at the front, its broken heel visible at the right. -->
+  <path d="M237 250C247 245 260 246 270 249C283 251 290 258 298 264C308 272 315 283 310 295C305 307 294 314 282 315C268 317 257 322 244 318C231 314 226 305 220 297C213 286 215 274 221 264C226 257 230 255 237 250Z" fill="url(#vp11-small)" stroke="#786448" stroke-width="1.6"/>
+  <path d="M227 266C236 255 249 254 261 254M220 284C220 295 229 308 240 311M255 315C268 315 276 310 285 310M304 289C305 283 301 277 297 274" stroke="#8f7651" stroke-width=".65" opacity=".7"/>
+  <path d="M302 275C306 275 311 277 312 280L309 284L305 281Z" fill="#93805e" stroke="#79664a" stroke-width=".9"/>
+  <path d="M308 278L310 281M305 279L309 282" stroke="#b7a17a" stroke-width=".65"/>
+  <g stroke="#745e42" stroke-width=".85"><path d="M240 269C244 265 249 265 252 268M243 267L246 270L249 266M274 284C278 280 284 281 287 284M277 283L281 286L284 282M244 301C248 299 252 299 255 302M247 301L250 304L253 300"/></g>
+  <g stroke="#bfa57c" stroke-width=".7"><path d="M240 272C245 275 251 273 253 270M275 288C280 290 286 288 288 285M245 305C249 307 254 305 257 303"/></g>
+  <g stroke="#776346" stroke-width=".55" opacity=".61"><path d="M219 276L217 283M219 291L223 299M227 304L233 311M240 315L248 318M263 318L270 315M283 313L291 311M300 305L306 300M310 290L311 285M291 261L296 266M268 251L275 254M234 254L229 258M258 277L261 276M231 287L234 289M269 302L272 301M292 293L295 292M264 261L267 262"/></g>
+  <g fill="#7c6748" opacity=".45"><circle cx="232" cy="276" r=".65"/><circle cx="259" cy="291" r=".65"/><circle cx="277" cy="271" r=".55"/><circle cx="283" cy="302" r=".65"/><circle cx="239" cy="289" r=".55"/><circle cx="262" cy="309" r=".55"/></g>
+</svg>

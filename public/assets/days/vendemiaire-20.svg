@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="pres20-title pres20-desc">
+  <title id="pres20-title">Pressoir — upright screw wine press</title>
+  <desc id="pres20-desc">An old wooden wine press with two massive pegged uprights and a heavy crossbeam. A central threaded spindle, turned with a long hand bar, bears through its foot onto a round pressing plate within a staved grape basket. The basket stands on a grooved drainage bed with a short spout and one small drop of juice. Worn oak, dark iron and fine grain are drawn in muted umber and olive.</desc>
+  <defs>
+    <linearGradient id="pres20-timber" x1="78" y1="140" x2="282" y2="176" gradientUnits="userSpaceOnUse"><stop stop-color="#9e8c66"/><stop offset=".26" stop-color="#b5a17a"/><stop offset=".64" stop-color="#9b8762"/><stop offset="1" stop-color="#796d51"/></linearGradient>
+    <linearGradient id="pres20-beam" x1="108" y1="61" x2="109" y2="94" gradientUnits="userSpaceOnUse"><stop stop-color="#ae9b77"/><stop offset=".48" stop-color="#a3906b"/><stop offset="1" stop-color="#827351"/></linearGradient>
+    <linearGradient id="pres20-screw" x1="169" y1="99" x2="189" y2="102" gradientUnits="userSpaceOnUse"><stop stop-color="#73654a"/><stop offset=".36" stop-color="#9c8861"/><stop offset=".66" stop-color="#a38c63"/><stop offset="1" stop-color="#615a42"/></linearGradient>
+    <linearGradient id="pres20-staves" x1="108" y1="238" x2="249" y2="245" gradientUnits="userSpaceOnUse"><stop stop-color="#796c50"/><stop offset=".2" stop-color="#a08d65"/><stop offset=".43" stop-color="#b4a079"/><stop offset=".66" stop-color="#a08b62"/><stop offset="1" stop-color="#6d634a"/></linearGradient>
+    <linearGradient id="pres20-iron" x1="111" y1="224" x2="245" y2="237" gradientUnits="userSpaceOnUse"><stop stop-color="#4f5547"/><stop offset=".35" stop-color="#7f8068"/><stop offset=".58" stop-color="#898a71"/><stop offset="1" stop-color="#4e5547"/></linearGradient>
+    <linearGradient id="pres20-bed" x1="161" y1="270" x2="181" y2="299" gradientUnits="userSpaceOnUse"><stop stop-color="#a69774"/><stop offset=".44" stop-color="#968561"/><stop offset="1" stop-color="#756b4f"/></linearGradient>
+    <linearGradient id="pres20-plate" x1="142" y1="181" x2="215" y2="211" gradientUnits="userSpaceOnUse"><stop stop-color="#b5a27d"/><stop offset=".62" stop-color="#9e8b64"/><stop offset="1" stop-color="#766c50"/></linearGradient>
+    <clipPath id="pres20-basket"><path d="M108 203C110 221 114 250 119 266C130 284 225 287 239 268L249 203C239 218 121 221 108 203Z"/></clipPath>
+  </defs>
+  <!-- The rear edges of the feet, tenoned to the two upright timbers. -->
+  <g stroke="#5b5741" stroke-width="1.35">
+    <path d="M67 282L102 278L128 307L111 313L53 305Z" fill="#8c7e5d"/>
+    <path d="M243 278L275 281L308 309L291 316L230 307Z" fill="#85785a"/>
+    <path d="M53 305L111 313L111 322L44 313L44 305L67 288Z" fill="url(#pres20-timber)"/>
+    <path d="M230 307L291 316L308 309L308 318L291 325L230 316Z" fill="#8d7c58"/>
+  </g>
+  <g stroke="#c5b28b" stroke-width=".7" opacity=".65"><path d="M49 308L107 317M236 311L289 320M254 286L294 310M66 293L91 288"/></g>
+  <g stroke="#665b43" stroke-width=".6" opacity=".75"><path d="M55 308L72 310M80 313L101 315M57 304L71 299M74 299L87 296M83 301L98 300M239 311L256 314M265 316L282 319M265 290L278 299M279 300L293 307M299 314L303 312M298 318L303 316"/></g>
+  <!-- Side faces are narrow; the pale fronts carry continuous, uneven wood grain. -->
+  <path d="M78 65L101 61L105 290L95 301L78 296Z" fill="url(#pres20-timber)" stroke="#57523d" stroke-width="1.65"/>
+  <path d="M101 61L111 69L113 285L105 290Z" fill="#766b4f" stroke="#57523d" stroke-width="1.1"/>
+  <path d="M253 64L274 65L274 295L253 300Z" fill="url(#pres20-timber)" stroke="#57523d" stroke-width="1.65"/>
+  <path d="M274 65L283 71L282 286L274 295Z" fill="#6b634a" stroke="#57523d" stroke-width="1.1"/>
+  <g stroke="#6f6348" stroke-width=".65" opacity=".78">
+    <path d="M83 94C85 121 82 146 85 167M85 179C86 196 84 218 85 240M84 252L86 287M91 95C90 115 92 135 91 151M93 168L93 198M93 214C90 231 93 252 94 267M96 273L96 292M99 100C97 121 99 144 98 162M101 180L102 219M101 235L102 269M258 95C260 119 256 144 258 164M258 179L260 207M259 223C257 245 258 267 259 289M266 99L266 127M266 144C269 161 264 181 265 198M267 216L267 249M268 264L267 288M278 107L278 138M278 152L278 183M277 220L277 256"/>
+    <path d="M86 171C82 168 82 160 85 157C89 159 89 168 86 171ZM84 154C79 164 82 176 86 182M90 155C94 166 90 178 89 183M263 212C260 208 260 202 263 199C266 202 266 209 263 212ZM260 195C255 205 258 216 261 221M267 197C271 207 268 217 266 221"/>
+  </g>
+  <g stroke="#cbbb95" stroke-width=".65" opacity=".7"><path d="M81 101L81 133M87 189L88 213M89 244L89 272M95 103L96 127M97 203L97 232M256 106L256 138M261 166L261 187M263 233L263 259M269 110L270 138M271 155L270 183M271 254L271 280"/></g>
+  <g stroke="#5b563f" stroke-width=".55" opacity=".7"><path d="M79 104L83 109M79 114L83 119M79 127L83 132M79 141L83 146M79 186L83 192M79 199L83 204M79 213L83 218M79 264L83 270M80 277L84 283M269 103L273 108M269 113L273 118M269 126L273 131M269 238L273 243M269 249L273 254M269 281L273 286M107 102L110 107M108 114L111 119M108 125L111 130M278 264L281 259M278 275L281 270"/></g>
+  <g stroke="#655c43" stroke-width=".48" opacity=".65"><path d="M86 111L87 122M88 127L88 139M94 138L95 149M94 154L95 162M88 184L89 193M87 220L88 233M96 246L97 258M87 273L88 282M103 150L104 165M104 235L105 250M255 147L256 158M262 118L262 130M263 137L263 148M263 173L262 183M263 185L262 191M260 229L261 241M265 267L264 280M271 205L271 220M273 157L273 170M279 192L279 211M279 236L279 249"/></g>
+  <!-- A thick crossbeam, its end joints and wooden pegs remain distinct from the screw. -->
+  <path d="M58 67L72 55L284 56L294 65L280 77L64 77Z" fill="#b1a07c" stroke="#58543e" stroke-width="1.4"/>
+  <path d="M58 67C113 66 171 68 223 67L294 65L294 88L282 94L59 94Z" fill="url(#pres20-beam)" stroke="#57523c" stroke-width="1.7"/>
+  <path d="M294 65L294 88L282 94L282 77Z" fill="#70674b" stroke="#57523c" stroke-width="1.05"/>
+  <path d="M64 71C108 69 151 72 190 71M201 71L272 70M66 89C105 86 131 89 159 88M197 88C223 87 246 89 274 87M80 59L146 60M195 60L262 60" stroke="#cdbb94" stroke-width=".7" opacity=".73"/>
+  <g stroke="#6c6146" stroke-width=".65" opacity=".8"><path d="M67 78C94 76 113 79 136 78M145 78L164 78M195 78C214 76 229 79 242 78M248 78L277 77M69 83L101 83M114 83C133 85 147 82 164 83M196 83L218 83M231 83L273 82M76 61L114 62M124 63L155 62M196 63L241 63M259 63L278 61M231 76C227 73 217 73 214 76C218 80 228 79 231 76ZM211 72C220 69 231 71 237 75M208 79C219 84 232 81 239 77"/></g>
+  <g fill="#817454" stroke="#5a553e" stroke-width=".85"><path d="M83 73L96 73L96 88L83 88Z"/><path d="M257 72L270 72L270 87L257 88Z"/></g>
+  <g fill="#5f5b43" stroke="#b6a580" stroke-width=".65"><ellipse cx="89.5" cy="81" rx="2.6" ry="2.4"/><ellipse cx="263.5" cy="80.5" rx="2.5" ry="2.4"/></g>
+  <g stroke="#5c5740" stroke-width=".5" opacity=".8"><path d="M66 90L71 93M72 89L78 93M101 90L106 93M110 89L115 92M243 90L248 93M249 89L255 92M274 88L279 91M286 76L290 72M286 82L291 78M286 88L291 84"/></g>
+  <g stroke="#6a6045" stroke-width=".48" opacity=".62"><path d="M121 89L125 93M127 90L132 93M137 89L141 93M145 90L150 93M156 90L160 93M198 90L202 93M206 90L211 93M215 90L219 93M224 90L228 93M233 89L237 93M73 75L86 75M100 74L116 74M133 74L146 75M151 75L158 74M244 74L251 74M253 84L263 84M114 86L127 86M137 86L153 86M198 86L208 86M240 86L249 85M76 64L82 62M85 65L91 62M96 65L102 62M266 65L272 62M274 65L279 62"/></g>
+  <!-- Upper spindle and the threaded nut let into the crossbeam. -->
+  <path d="M170 39Q179 33 188 38L189 65L169 66Z" fill="url(#pres20-screw)" stroke="#56513c" stroke-width="1.35"/>
+  <path d="M170 39Q179 43 188 38M171 44L187 40M170 51L187 46M170 58L188 53M170 65L188 59" stroke="#514f3b" stroke-width="1"/>
+  <path d="M172 43L185 40M172 50L185 46M172 57L185 53M172 64L185 60" stroke="#c2ad7e" stroke-width=".6" opacity=".74"/>
+  <path d="M165 67L192 66L192 94L165 94Z" fill="#73725b" stroke="#4f5443" stroke-width="1.2"/>
+  <path d="M168 70L188 69M168 91L188 91" stroke="#aaa78a" stroke-width=".65"/>
+  <g fill="#454c3e" stroke="#9f9e80" stroke-width=".45"><circle cx="168.5" cy="74" r="1.15"/><circle cx="188.5" cy="73.5" r="1.15"/><circle cx="168.5" cy="87" r="1.15"/><circle cx="188.5" cy="86.5" r="1.15"/></g>
+  <path d="M169 94L188 94L188 164Q179 168 170 164Z" fill="url(#pres20-screw)" stroke="#514f3b" stroke-width="1.35"/>
+  <g stroke="#4f503b" stroke-width="1.1"><path d="M170 100L188 94M170 108L188 102M170 116L188 110M170 124L188 118M170 132L188 126M170 140L188 134M170 148L188 142M170 156L188 150M170 164L188 158"/></g>
+  <g stroke="#c1aa7b" stroke-width=".65" opacity=".78"><path d="M172 99L185 95M172 107L185 103M172 115L185 111M172 123L185 119M172 131L185 127M172 139L185 135M172 147L185 143M172 155L185 151M172 163L185 159"/></g>
+  <g stroke="#4f503c" stroke-width=".5" opacity=".77"><path d="M184 98L187 100M184 106L187 108M184 114L187 116M184 146L187 148M184 154L187 156M184 162L187 164M171 103L174 105M171 111L174 113M171 151L174 153M171 159L174 161M184 43L187 45M184 51L187 53M184 59L187 61"/></g>
+  <!-- The long hand bar passes through a stout square head, below the beam. -->
+  <path d="M111 130L237 119Q241 118 242 122Q243 126 238 127L112 138Q107 138 107 134Q107 130 111 130Z" fill="#8c7c59" stroke="#54533e" stroke-width="1.35"/>
+  <path d="M111 132L166 127M195 125L236 121" stroke="#c0ac83" stroke-width=".8"/>
+  <path d="M115 136L139 133M146 133L160 132M202 128L222 126M225 123L236 123" stroke="#665e44" stroke-width=".6"/>
+  <path d="M166 121L189 119L194 124L193 141L171 144L166 140Z" fill="#666a54" stroke="#4d523f" stroke-width="1.25"/>
+  <path d="M166 121L172 125L194 124M172 125L171 144" stroke="#96977a" stroke-width=".75"/>
+  <path d="M176 129L188 128L187 137L176 138Z" fill="#525744" stroke="#444d3d" stroke-width=".75"/>
+  <path d="M178 130L186 129M175 141L188 139" stroke="#a5a284" stroke-width=".5"/>
+  <!-- The spindle's rounded foot bears on the plate, with no gap in the load path. -->
+  <path d="M171 164L187 164L187 180Q180 188 172 180Z" fill="#777053" stroke="#4f523e" stroke-width="1.15"/>
+  <path d="M175 166L175 178M179 167L179 180" stroke="#b4a57c" stroke-width=".65"/>
+  <!-- A shallow basket, open and slatted, stands above the drainage bed. -->
+  <path d="M108 203C110 221 114 250 119 266C130 284 225 287 239 268L249 203C239 218 121 221 108 203Z" fill="url(#pres20-staves)" stroke="#57523d" stroke-width="1.55"/>
+  <ellipse cx="178.5" cy="203" rx="70.5" ry="19" fill="#756b50" stroke="#58533e" stroke-width="1.3"/>
+  <ellipse cx="178.5" cy="203" rx="64" ry="14.5" fill="#5d5b44" stroke="#524f3c" stroke-width=".8"/>
+  <!-- The plate fits inside the basket rim, its leading edge bears on the fruit. -->
+  <path d="M116 192C126 175 225 175 241 191L240 201C225 219 129 218 117 201Z" fill="url(#pres20-plate)" stroke="#5d563f" stroke-width="1.3"/>
+  <ellipse cx="178.5" cy="191.5" rx="62.5" ry="15.5" fill="#afa07a" stroke="#5a543e" stroke-width="1.3"/>
+  <path d="M123 188C148 180 209 180 234 190M124 200C148 211 213 210 235 199M139 180L139 203M161 177L161 206M199 177L199 206M219 180L219 203" stroke="#796b4c" stroke-width=".7"/>
+  <path d="M123 191C133 188 144 187 156 187M166 183L188 183M205 186L224 189M128 197L153 200M165 201L187 202M206 199L225 197" stroke="#d0bc90" stroke-width=".6" opacity=".75"/>
+  <g stroke="#7a6d4e" stroke-width=".5" opacity=".7"><path d="M126 189L137 187M143 184L154 183M143 190L154 189M143 195L153 195M166 188L172 188M185 190L192 190M166 197L176 197M182 198L194 197M204 183L215 185M204 191L219 192M226 190L234 192M225 195L234 195M121 196L126 200M124 201L129 205M130 203L135 207M145 207L148 211M150 208L153 212M208 207L211 210M215 205L218 209M221 204L224 208M229 201L232 205"/></g>
+  <ellipse cx="179" cy="183" rx="14" ry="5.3" fill="#646853" stroke="#4e5340" stroke-width="1"/>
+  <path d="M170 180L174 176Q180 174 185 177L189 181C188 186 171 186 170 180Z" fill="#7b7c61" stroke="#51543f" stroke-width="1"/>
+  <path d="M173 179Q180 182 186 179" stroke="#a7a285" stroke-width=".6"/>
+  <!-- Irregular separated staves allow juice to escape beneath two iron hoops. -->
+  <g clip-path="url(#pres20-basket)">
+    <g stroke="#514e3a" stroke-width="1.05"><path d="M115 211L125 272M126 216L134 277M139 219L144 280M152 221L156 282M168 222L169 283M184 222L183 284M201 221L198 283M216 219L211 281M229 216L223 277M240 211L232 272"/></g>
+    <g stroke="#d2ba8b" stroke-width=".65" opacity=".65"><path d="M118 214L123 241M128 219L131 246M141 224L143 247M155 224L156 251M171 225L171 250M187 225L186 253M204 223L202 249M220 222L217 249M231 220L228 245M240 217L237 239"/></g>
+    <g stroke="#6c6046" stroke-width=".55" opacity=".8"><path d="M121 225L124 242M128 254L130 267M135 224L136 240M137 252L139 272M148 229C146 241 149 252 150 260M150 267L151 277M162 226L162 243M162 255L163 275M177 228L177 243M176 254L176 278M194 226C192 237 195 249 193 259M192 269L192 278M209 226L207 242M206 254L204 275M222 227L220 240M219 254L216 273M235 220L233 235M231 251L228 266M144 244C142 240 143 235 145 234C149 238 148 244 144 244ZM143 231C139 237 141 247 145 250M149 233C152 240 151 247 149 250"/></g>
+    <g stroke="#514e3b" stroke-width=".5" opacity=".6"><path d="M112 223L117 229M113 234L119 241M115 246L121 253M118 260L124 267M122 270L129 276M130 274L136 280M233 257L239 250M231 266L237 259M227 273L233 266M221 278L227 272M177 276L181 282M182 277L186 283M187 277L191 283"/></g>
+  </g>
+  <g fill="url(#pres20-iron)" stroke="#4e5442" stroke-width="1.05">
+    <path d="M111 221C132 238 224 239 246 221L245 228C222 247 132 246 112 228Z"/>
+    <path d="M117 254C138 270 218 273 241 256L240 264C217 282 138 279 119 262Z"/>
+  </g>
+  <g stroke="#b3af8e" stroke-width=".6" opacity=".7"><path d="M117 228C143 243 219 242 240 228M124 262C147 276 215 277 235 264M142 239L157 241M184 242L199 241M145 274L159 275M186 276L199 276"/></g>
+  <g fill="#5b604c" stroke="#454e3d" stroke-width=".6"><path d="M220 234L230 231L229 238L219 241Z"/><path d="M132 264L142 268L142 276L133 273Z"/></g>
+  <g fill="#404a3b" stroke="#aaa78a" stroke-width=".4"><ellipse cx="223" cy="237" rx=".9" ry="1"/><ellipse cx="227" cy="235.5" rx=".9" ry="1"/><ellipse cx="135.5" cy="269.5" rx=".9" ry="1"/><ellipse cx="139.5" cy="271" rx=".9" ry="1"/></g>
+  <!-- The heavy bed has a continuous shallow collecting groove and a wooden outlet. -->
+  <path d="M67 281L87 270L271 270L293 282L292 296L273 305L67 300Z" fill="url(#pres20-bed)" stroke="#58533e" stroke-width="1.55"/>
+  <path d="M67 281C105 278 113 278 125 279C157 290 212 290 238 279L271 278L293 282L274 291L82 290Z" fill="#a99873" stroke="#6f6448" stroke-width="1"/>
+  <path d="M89 280C117 278 116 281 130 285C163 295 218 291 238 284C252 279 266 280 278 283L271 286C259 284 248 284 237 288C213 296 155 297 126 290C112 287 103 284 86 286Z" fill="#6e6a4f" stroke="#59583f" stroke-width=".8"/>
+  <path d="M93 282C111 282 117 285 129 288C157 296 216 294 239 286C252 282 264 282 274 284" stroke="#aa9b72" stroke-width=".7"/>
+  <path d="M268 282L298 282L319 288L319 294L305 297L282 289L270 289Z" fill="#9b8861" stroke="#58543d" stroke-width="1.15"/>
+  <path d="M270 285L296 285L315 290L309 292L292 288L272 288Z" fill="#625e48" stroke="#57533e" stroke-width=".65"/>
+  <path d="M273 285L295 286L311 290" stroke="#80686a" stroke-width=".9"/>
+  <path d="M312 295C311 299 308 302 309 305C310 308 314 307 314 304C315 301 313 298 312 295Z" fill="#81676b" stroke="#655558" stroke-width=".7"/>
+  <path d="M68 290C121 291 148 294 184 294M70 296L115 297M124 298L152 299M200 299L240 298M254 298L273 295M87 274L107 274M247 274L267 274M285 291L302 295" stroke="#665c43" stroke-width=".65" opacity=".8"/>
+  <path d="M72 285L83 286M72 293L96 294M165 299L189 299M244 294L269 292M299 284L310 287M296 293L305 296" stroke="#c3ae85" stroke-width=".6" opacity=".7"/>
+  <g stroke="#5a543d" stroke-width=".5" opacity=".75"><path d="M69 294L73 299M75 294L79 299M81 295L85 300M106 296L110 301M112 296L116 301M248 297L253 302M255 296L260 301M262 295L267 300M279 291L284 295M285 289L290 294M314 292L317 291"/></g>
+  <!-- End grain and retaining pins show the frame locked into its lower sills. -->
+  <g fill="#6c654a" stroke="#524f3b" stroke-width=".8"><path d="M81 291L97 292L97 299L81 298Z"/><path d="M254 294L270 292L270 300L254 302Z"/></g>
+  <g fill="#56553f" stroke="#b2a17a" stroke-width=".55"><ellipse cx="88.5" cy="295" rx="2.1" ry="1.9"/><ellipse cx="262" cy="297" rx="2.1" ry="2"/></g>
+</svg>

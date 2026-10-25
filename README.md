@@ -20,7 +20,7 @@ npm run dev
 - `export_data.py`: produces `src/data/calendar.json` and the on-demand search index.
 - `src/layouts/Base.astro`: shared document, navigation, metadata, footer and native search dialog.
 - `public/assets/festivals/`: six independent complementary-day allegories and their overview plate, reused on the month index, complementary-day overview, atlas and day details.
-- `public/assets/days/`: individual illustrations for Vendémiaire 2–10; day 1 references the existing grape-month asset. The shared DayCell keeps visible date numbers with quiet background art.
+- `public/assets/days/`: individual illustrations for Vendémiaire 1–20; days 1 and 19 reference the existing grape and sunflower month assets. The shared DayCell keeps visible date numbers with quiet background art.
 - `public/assets/months/`: twelve independent SVG drawings, shared by month cards, month details and the atlas headings.
 - `src/components/`: genuinely shared clock, converter, month card and decorative linework.
 - `src/pages/`: independent home, history, time, atlas and source pages; data-driven routes for months, days, festivals and decade names.
