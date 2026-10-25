@@ -1,7 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" color="#6b756c" role="img" aria-labelledby="title desc">
-<title id="title">雾月：低雾穿过落叶树与远处果园</title>
-<desc id="desc">为法国共和历雾月绘制的独立季节线描。低雾穿过落叶树与远处果园。</desc>
-<g stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
-<path d="M52 289q68-27 125-11t126-5M84 308q54-16 104-9t83-8" opacity=".4"/><path d="M171 279V95M171 225l-40-34-18-43M171 199l38-32 13-45M171 169l-34-30-9-38M171 139l26-31 3-26M132 191l-28-3M139 143l-23-7M208 167l25-2M214 147l-5-27M171 112l-14-24"/><path d="M88 269V174l-22-21M88 213l23-23M269 267V153l-22-27M269 193l24-33M269 225l-19-16" opacity=".45"/><path d="M38 116h91m61 0h133" stroke="#f3f0e6" stroke-width="11"/><path d="M38 116h91m61 0h133" stroke-width="1.2"/><path d="M59 143h78m48 0h96" stroke="#f3f0e6" stroke-width="11"/><path d="M59 143h78m48 0h96" stroke-width="1.2"/><path d="M27 176h82m33 0h178" stroke="#f3f0e6" stroke-width="11"/><path d="M27 176h82m33 0h178" stroke-width="1.2"/><path d="M48 208h105m32 0h110" stroke="#f3f0e6" stroke-width="11"/><path d="M48 208h105m32 0h110" stroke-width="1.2"/><path d="M24 238h146m33 0h132" stroke="#f3f0e6" stroke-width="11"/><path d="M24 238h146m33 0h132" stroke-width="1.2"/><path d="M65 262h189" stroke="#f3f0e6" stroke-width="11"/><path d="M65 262h189" stroke-width="1.2"/><path d="M61 122h36M245 149h43M72 214h47M225 244h56" stroke-width=".65" opacity=".5"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none">
+  <title>Brumaire — orchard in the river mist</title>
+  <desc>A gnarled, nearly bare orchard tree stands on a riverbank. Its tapering branches are sharply observed against soft grey-green washes, while smaller trees and the curving riverbank fade into low autumn fog.</desc>
+  <defs>
+    <linearGradient id="br-ground" x1="136" y1="224" x2="153" y2="319" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6b756c" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#6b756c" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#6b756c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="br-river" x1="238" y1="205" x2="256" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6b756c" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#6b756c" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#6b756c" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="br-haze" cx=".52" cy=".48" r=".55">
+      <stop stop-color="#6b756c" stop-opacity=".12"/>
+      <stop offset=".64" stop-color="#6b756c" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#6b756c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="br-distance" x1="0" y1="143" x2="0" y2="237" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity=".52"/>
+      <stop offset=".53" stop-color="white" stop-opacity=".26"/>
+      <stop offset=".78" stop-color="white" stop-opacity=".04"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="br-fog" maskUnits="userSpaceOnUse" x="145" y="110" width="190" height="150">
+      <path d="M145 110H335V260H145Z" fill="url(#br-distance)"/>
+    </mask>
+    <linearGradient id="br-bank-fade" x1="181" y1="246" x2="279" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#465044" stop-opacity=".7"/>
+      <stop offset=".7" stop-color="#6b756c" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#6b756c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- An open, uneven wash lets the paper itself become the fog. -->
+  <path d="M42 207C67 185 97 183 127 190C158 178 177 164 207 168C230 155 266 164 285 182C313 188 332 214 327 239C318 265 281 270 253 265C219 274 183 259 157 267C120 277 91 264 67 253C45 245 32 225 42 207Z" fill="url(#br-haze)"/>
+  <path d="M29 285C57 266 78 253 108 253C139 239 171 229 201 227C218 227 234 215 259 214C232 226 212 236 201 245C189 258 196 271 214 282C233 292 250 296 265 312C223 306 191 313 156 311C111 316 66 308 29 285Z" fill="url(#br-ground)"/>
+  <path d="M284 208C255 216 236 231 226 243C214 261 234 273 259 281C286 289 306 299 326 314C298 318 276 319 253 313C238 299 211 292 199 278C183 261 196 249 211 239C236 224 255 214 284 208Z" fill="url(#br-river)"/>
+
+  <!-- The far orchard is lost from the feet upwards in a low bank of mist. -->
+  <g mask="url(#br-fog)" stroke="#6b756c" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 232C194 215 193 202 190 186C188 174 189 161 185 151M191 192C181 182 176 174 172 161M189 177C197 165 199 154 198 143M193 180C202 179 211 172 215 164M182 177C175 176 168 173 162 165M185 151L182 142M173 164L175 151M199 159C204 153 207 149 207 143M211 169L220 167" stroke-width="1.7"/>
+    <path d="M247 228C245 213 248 202 245 189C242 178 243 165 239 159M245 193C235 186 232 177 227 172M243 178C251 169 254 158 253 151M246 186C255 184 264 178 267 169M235 185L224 182M252 169L264 158M260 180L272 180M239 159L240 151M227 173L226 165" stroke-width="1.5"/>
+    <path d="M293 225C293 211 290 202 291 192C293 180 290 173 289 168M291 197C282 192 278 188 274 181M292 189C300 184 304 177 305 172M290 179L282 174M301 182L312 180" stroke-width="1.3"/>
+    <g stroke-width=".65">
+      <path d="M171 160L165 151M174 154L172 145M184 151L190 142M196 148L193 138M206 147L215 140M214 164L213 156M167 170L158 168M227 172L219 164M230 178L233 168M248 167L246 158M260 163L268 161M265 173L264 165M282 187L281 180M299 187L307 188M305 175L309 166"/>
+    </g>
+  </g>
+  <path d="M165 234C192 229 204 230 219 226C241 220 257 209 285 209" stroke="url(#br-bank-fade)" stroke-width=".9" stroke-linecap="round"/>
+  <path d="M165 241C179 238 190 235 202 235M245 225C256 219 265 216 275 215" stroke="#6b756c" stroke-opacity=".16" stroke-width=".65" stroke-linecap="round"/>
+
+  <!-- The old foreground apple tree: irregular trunk and tapering boughs. -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 296C99 287 103 278 104 264C105 246 100 227 105 210C108 198 113 187 112 174C111 163 107 155 104 144C102 137 102 129 103 120L106 121C105 139 113 150 116 165C121 156 128 149 133 141C138 132 139 123 139 115L142 112C143 128 139 140 133 149C128 158 120 168 119 179C119 191 115 201 113 213C109 234 114 250 112 269C112 279 114 287 119 294L110 292L108 287L103 295L99 291Z" fill="#536052" stroke="#465044" stroke-width="1.25"/>
+    <path d="M108 222C99 207 95 196 89 186C80 173 70 165 64 153C60 145 58 134 57 126L60 128C63 143 66 151 74 160C82 169 89 175 94 184C101 193 106 204 110 215Z" fill="#536052" stroke="#465044" stroke-width="1.15"/>
+    <path d="M116 177C128 173 139 170 149 160C157 151 162 140 169 131L172 130C167 141 160 154 152 163C142 174 131 178 118 182Z" fill="#536052" stroke="#465044" stroke-width="1.1"/>
+    <path d="M107 152C99 145 92 137 88 127C82 116 82 105 76 95L77 91C85 103 85 115 91 124C97 134 102 140 108 144Z" fill="#536052" stroke="#465044" stroke-width="1.05"/>
+    <path d="M140 129C147 118 151 108 152 98C153 87 150 78 153 68" stroke="#465044" stroke-width="2.2"/>
+    <path d="M141 117C134 110 130 102 128 92C126 82 120 76 115 71" stroke="#465044" stroke-width="1.9"/>
+    <path d="M105 130C108 118 111 107 107 96C104 87 102 78 104 66" stroke="#465044" stroke-width="2"/>
+    <path d="M65 153C57 150 51 144 47 135C43 126 42 116 37 110" stroke="#465044" stroke-width="1.7"/>
+    <path d="M76 163C70 162 64 163 57 161C49 159 43 155 38 154" stroke="#465044" stroke-width="1.65"/>
+    <path d="M94 184C91 173 93 165 91 156C90 148 86 143 85 137" stroke="#465044" stroke-width="1.5"/>
+    <path d="M151 162C162 160 169 156 176 150C183 144 187 137 194 135" stroke="#465044" stroke-width="1.65"/>
+    <path d="M168 135C169 125 166 117 169 107C172 97 179 90 180 82" stroke="#465044" stroke-width="1.6"/>
+    <path d="M156 111C162 104 167 101 173 100" stroke="#465044" stroke-width="1.2"/>
+    <g stroke="#465044" stroke-width="1.05">
+      <path d="M152 87C145 82 142 76 141 68M152 77C158 70 160 63 159 56M130 101C136 94 137 86 136 80M123 81C117 82 112 79 107 76M107 101C116 95 119 88 119 81M104 83C98 78 93 76 90 69M81 108C73 105 68 99 64 92M86 119C90 111 88 101 89 96M60 137C61 129 65 122 63 115M49 139C53 135 55 130 54 124M42 121L33 118M58 161C57 154 53 149 50 147M91 159C97 154 99 147 98 143M168 119C161 115 160 108 159 103M176 92L185 91M179 151C186 151 191 148 196 145M187 141L187 132"/>
+    </g>
+    <g stroke="#465044" stroke-width=".7">
+      <path d="M158 66L167 62M159 61L155 52M143 75L135 72M141 69L144 61M136 87L142 82M135 80L132 74M119 87L125 82M119 81L116 76M105 69L111 60M104 73L98 65M91 71L85 64M67 97L68 89M64 93L59 91M89 100L95 94M64 122L69 117M54 128L50 120M39 115L39 106M35 118L28 115M44 156L38 161M51 149L48 143M96 150L104 148M171 103L173 94M181 91L187 85M184 149L185 155M193 138L201 133"/>
+    </g>
+    <!-- Broken bark follows the slow twist of the trunk. -->
+    <g stroke="#344032" stroke-opacity=".65" stroke-width=".65">
+      <path d="M107 281C107 270 110 262 108 251M107 242C105 230 107 220 109 214M111 206C114 194 116 187 115 180M113 169C111 158 108 150 107 142M116 166C120 158 124 153 127 148M102 208L96 195M95 190L86 178M110 286L113 291M104 285L99 292M109 273L110 260M106 225L105 215"/>
+      <path d="M108 254C112 247 110 239 109 235M107 275C104 269 106 263 107 260M111 199L113 190M114 181L117 174"/>
+    </g>
+    <path d="M111 230C114 232 113 238 110 240C107 238 108 233 111 230Z" fill="#465044" fill-opacity=".65"/>
+    <path d="M108 230C110 228 114 231 114 234" stroke="#344032" stroke-width=".7"/>
+  </g>
+
+  <!-- A handful of the last leaves; each still attached to its twig. -->
+  <g fill="#6b756c" fill-opacity=".49" stroke="#536052" stroke-width=".7" stroke-linejoin="round">
+    <path d="M166 63C170 57 175 56 178 56C178 61 174 65 166 63Z"/>
+    <path d="M185 91C187 85 192 81 196 82C196 87 193 92 185 91Z"/>
+    <path d="M196 145C201 143 205 145 208 149C203 151 199 150 196 145Z"/>
+    <path d="M39 161C35 165 31 166 27 164C29 160 34 158 39 161Z"/>
+  </g>
+
+  <!-- Tufted bank and a few broken reflections anchor the visible shore. -->
+  <g stroke="#536052" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 294C65 289 74 287 86 289C96 290 103 292 111 293C126 291 133 282 149 280C161 277 177 278 188 274C196 269 193 261 198 254C207 243 222 239 229 235" stroke-width="1.2" stroke-opacity=".7"/>
+    <path d="M113 299C127 296 136 287 149 286M143 291C160 283 177 287 187 281M199 270C208 284 230 287 245 294M251 298C268 303 281 309 292 314" stroke-width=".7" stroke-opacity=".35"/>
+    <path d="M79 289L75 278M82 287C82 280 86 273 90 269M87 287L91 279M71 290L65 285M127 288C126 280 128 275 131 269M129 287L137 277M145 280L142 272M150 280L154 271M172 277L176 270M176 276L183 273M55 292L53 285" stroke-width=".8" stroke-opacity=".72"/>
+    <path d="M78 295L71 296M121 304L133 303M154 296L168 293M169 301L180 300M224 291L233 293M261 309L274 312M208 280L216 283" stroke-width=".65" stroke-opacity=".3"/>
+  </g>
+  <g fill="#6b756c" fill-opacity=".48">
+    <path d="M61 301C64 296 70 298 74 300C70 302 65 304 61 301Z"/>
+    <path d="M133 297C137 292 143 293 146 295C141 298 138 300 133 297Z"/>
+    <path d="M94 304C96 300 101 300 105 301C102 305 99 306 94 304Z"/>
+  </g>
 </svg>

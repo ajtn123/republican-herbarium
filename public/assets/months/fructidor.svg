@@ -1,7 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" color="#7d6952" role="img" aria-labelledby="title desc">
-<title id="title">果月：果枝上的梨与苹果，以及剖开的无花果</title>
-<desc id="desc">为法国共和历果月绘制的独立季节线描。果枝上的梨与苹果，以及剖开的无花果。</desc>
-<g stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
-<path d="M90 91q87 42 195-2M178 112l-16 45M226 106l16 24M110 100q14-51 55-47-5 41-45 51M232 100q-7-49 28-63 23 32-13 60" stroke-width="1.9"/><path d="M119 103l29-34M244 94l12-42" stroke-width=".8"/><path d="M162 158c-29-23-52-7-57 21-6 35-48 48-43 85 5 34 40 49 79 42 34-6 64-24 57-56-5-27-27-43-26-67 0-12-2-21-10-25Z" fill="currentColor" fill-opacity=".05"/><path d="M161 158q-1-26 16-34M99 248q-15 31 15 43M151 177q13 6 14 22" stroke-width="1.1"/><path d="M242 142c-37-25-62 1-65 27-5 36 23 72 47 65 25 17 60-12 65-49 4-32-19-52-47-43Z" fill="currentColor" fill-opacity=".08"/><path d="M241 142q-3-21 9-30M242 135q17-22 36-13-6 19-31 18M198 166q-10 20 2 34M265 156q13 6 13 20" stroke-width="1.05"/><path d="M244 260c-18 10-35 28-32 46 3 21 40 24 55 3 14-19-6-34-23-49Z" fill="currentColor" fill-opacity=".07"/><path d="M243 273c-13 11-20 21-17 31 3 11 22 12 30 0 7-10-3-21-13-31Z"/><circle cx="240" cy="287" r="1.1" fill="currentColor" stroke="none"/><circle cx="235" cy="297" r="1.1" fill="currentColor" stroke="none"/><circle cx="246" cy="299" r="1.1" fill="currentColor" stroke="none"/><circle cx="240" cy="307" r="1.1" fill="currentColor" stroke="none"/><circle cx="251" cy="307" r="1.1" fill="currentColor" stroke="none"/><path d="M46 328q133-13 268-2" opacity=".45"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none">
+  <title>Fructidor — poire et figues</title>
+  <desc>Une poire mûre, deux figues dont une ouverte, et une feuille lobée portées par un court rameau. Lavis d’ocre et d’olive, contours et tailles d’une gravure botanique.</desc>
+  <defs>
+    <linearGradient id="fr-pear" x1="78" y1="164" x2="191" y2="259" gradientUnits="userSpaceOnUse"><stop stop-color="#b0a36a" stop-opacity=".3"/><stop offset=".43" stop-color="#ae965e" stop-opacity=".53"/><stop offset=".78" stop-color="#9c8455" stop-opacity=".64"/><stop offset="1" stop-color="#7d6952" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="fr-fig" x1="214" y1="194" x2="290" y2="253" gradientUnits="userSpaceOnUse"><stop stop-color="#a29676" stop-opacity=".42"/><stop offset=".48" stop-color="#88745c" stop-opacity=".64"/><stop offset="1" stop-color="#685b4d" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="fr-leaf" x1="196" y1="121" x2="276" y2="52" gradientUnits="userSpaceOnUse"><stop stop-color="#657052" stop-opacity=".5"/><stop offset="1" stop-color="#929474" stop-opacity=".23"/></linearGradient>
+    <radialGradient id="fr-cut" cx=".43" cy=".4" r=".7"><stop stop-color="#a38368" stop-opacity=".42"/><stop offset=".67" stop-color="#9c7661" stop-opacity=".67"/><stop offset="1" stop-color="#7d6952" stop-opacity=".83"/></radialGradient>
+    <linearGradient id="fr-rind" x1="214" y1="263" x2="268" y2="315" gradientUnits="userSpaceOnUse"><stop stop-color="#9a9473"/><stop offset="1" stop-color="#6e6650"/></linearGradient>
+  </defs>
+  <g stroke="#554e3e" stroke-linecap="round" stroke-linejoin="round">
+    <!-- A bent, living fruit spur. The fine stalks join its underside. -->
+    <path d="M106 53C125 60 137 66 157 76C174 83 190 92 210 110C226 124 241 139 252 157L247 161C237 143 221 129 206 116C186 99 174 92 153 83C134 74 119 67 104 59Z" fill="#7d6952" fill-opacity=".56" stroke-width="1.35"/>
+    <path d="M111 58C134 67 147 74 160 80M173 87L179 91M199 104L208 112M226 129L241 146" stroke-width=".65"/>
+    <path d="M106 53L103 58L107 60M139 69L139 73M190 95L188 99" stroke-width=".85"/>
+    <path d="M151 125C148 112 152 101 156 91C158 87 158 83 157 78L163 81C165 89 160 96 158 103C155 112 157 119 156 126Z" fill="#74694b" stroke-width="1.1"/>
+    <path d="M248 178C249 170 249 163 247 157L251 155C255 163 255 171 253 180Z" fill="#70674c" stroke-width="1.2"/>
+    <!-- The fig leaf grows from the inner bend. -->
+    <path d="M203 109C215 103 223 94 231 84" stroke="#62674d" stroke-width="2"/>
+    <path d="M214 107C211 99 201 97 198 89C197 85 198 80 195 76C204 76 211 79 217 83C220 85 222 84 222 81C222 69 220 63 222 53C231 56 237 62 240 70C241 72 244 73 244 69C247 56 256 46 267 41C271 54 268 67 264 76C263 80 266 81 269 79C276 74 284 73 292 76C289 84 282 90 273 94C269 96 269 98 274 99C285 100 291 103 297 109C289 117 277 121 265 119C262 119 260 121 262 125C265 131 263 137 261 142C253 137 246 135 242 129C239 125 236 126 233 129C228 133 223 134 219 133C221 123 216 117 214 107Z" fill="url(#fr-leaf)" stroke="#63694f" stroke-width="1.35"/>
+    <g stroke="#687054" stroke-width=".75">
+      <path d="M214 108C233 99 252 78 266 43M230 97C225 84 225 69 223 56M239 89C252 90 276 83 288 78M219 106C211 98 205 87 198 79M245 81C246 73 253 60 260 52M229 101C245 104 268 113 292 110M222 106C228 116 239 126 258 137M238 103C242 96 250 94 259 94M249 108L262 104M245 118L254 118"/>
+      <path d="M228 91L230 76M233 88L236 77M254 67L253 59M256 78L268 66M261 86L279 80M265 110L279 109M230 115L236 124M209 97L205 89" opacity=".62" stroke-width=".5"/>
+    </g>
+    <!-- Pear: uneven neck, full low shoulders, a small tilted calyx. -->
+    <path d="M149 120C142 119 136 125 135 135C135 148 126 158 116 169C100 184 83 202 77 224C71 246 77 269 92 282C106 294 125 298 144 293C158 297 176 290 187 276C201 259 202 237 193 219C184 201 173 187 169 171C164 154 165 139 159 127C156 123 153 121 149 120Z" fill="url(#fr-pear)" stroke-width="1.6"/>
+    <path d="M141 124C145 128 153 129 158 126" stroke-width=".9"/>
+    <path d="M139 136C141 148 132 165 123 175C106 192 94 209 90 225" stroke="#9b8e5f" stroke-width=".8" opacity=".8"/>
+    <path d="M163 165C165 188 179 208 184 226C190 248 181 271 165 282" stroke-width=".85" opacity=".54"/>
+    <path d="M84 249C87 270 107 284 126 285" stroke-width=".7" opacity=".46"/>
+    <path d="M136 290C137 287 142 286 146 287L142 290L146 293L139 292L135 294Z" fill="#60533e" stroke-width=".75"/>
+    <g stroke="#746344" stroke-width=".6" opacity=".62">
+      <path d="M171 187L175 200M175 190L181 207M180 199L186 216M184 208L192 228M188 224L194 240M190 236L194 250M189 247L191 259M186 258L186 268M181 267L181 275M175 276L174 281M162 285L161 289M155 287L152 291M102 282L107 289M95 276L98 283M88 267L90 275M84 257L85 264M80 245L81 252"/>
+      <path d="M150 140L152 151M153 151L155 160M157 169L160 179M164 187L169 199M174 211L178 223M181 236L182 246M176 257L173 265M160 277L155 282M114 283L121 286" opacity=".55"/>
+    </g>
+    <g fill="#776747" stroke="none" opacity=".48">
+      <ellipse cx="137" cy="161" rx=".65" ry=".9"/><ellipse cx="126" cy="183" rx=".7" ry="1"/><ellipse cx="145" cy="186" rx=".6" ry=".9"/><ellipse cx="154" cy="201" rx=".8" ry="1"/><ellipse cx="116" cy="203" rx=".6" ry=".9"/><ellipse cx="108" cy="216" rx=".65" ry=".8"/><ellipse cx="125" cy="222" rx=".8" ry=".9"/><ellipse cx="141" cy="216" rx=".6" ry=".8"/><ellipse cx="154" cy="233" rx=".8" ry="1"/><ellipse cx="167" cy="225" rx=".6" ry=".9"/><ellipse cx="98" cy="238" rx=".7" ry=".9"/><ellipse cx="113" cy="249" rx=".6" ry=".9"/><ellipse cx="135" cy="242" rx=".7" ry=".8"/><ellipse cx="145" cy="258" rx=".8" ry="1"/><ellipse cx="129" cy="271" rx=".7" ry=".8"/><ellipse cx="104" cy="266" rx=".65" ry=".8"/><ellipse cx="161" cy="263" rx=".6" ry=".9"/><ellipse cx="93" cy="218" rx=".6" ry=".8"/><ellipse cx="169" cy="247" rx=".7" ry=".9"/><ellipse cx="151" cy="175" rx=".6" ry=".9"/>
+    </g>
+    <!-- Whole fig with a fluted, slightly crooked neck. -->
+    <path d="M248 176C241 178 244 189 238 197C232 205 220 210 214 222C207 235 208 250 217 262C225 273 241 280 256 277C274 275 288 263 291 247C294 231 286 216 275 207C265 198 259 189 258 181C257 175 251 173 248 176Z" fill="url(#fr-fig)" stroke-width="1.5"/>
+    <path d="M248 181C252 187 250 199 246 208C239 225 234 246 239 265M253 183C251 199 261 215 264 234C267 251 263 265 256 274M245 195C236 207 223 217 219 233C215 246 220 258 229 266M258 198C270 210 282 226 283 243C284 253 278 263 270 267" stroke="#514b3e" stroke-width=".8" opacity=".66"/>
+    <path d="M246 202C235 226 229 246 235 260M256 207C257 226 259 246 252 267M264 211C276 229 277 246 268 261" stroke="#bcab89" stroke-width="1" opacity=".48"/>
+    <g stroke="#4e493d" stroke-width=".55" opacity=".58">
+      <path d="M214 234L214 242M216 245L220 254M221 257L227 264M230 268L238 272M270 267L276 263M279 257L283 248M285 240L284 231M280 221L276 215M267 207L263 202M248 215L245 227M245 234L244 246M244 254L247 264M260 239L260 251"/>
+      <path d="M226 220L223 228M231 213L228 219M271 227L274 236M271 247L269 255M226 246L228 253"/>
+    </g>
+    <path d="M246 274L250 270L252 273L256 271L254 276L250 277Z" fill="#514a3c" stroke-width=".6"/>
+    <!-- A single longitudinal half rests against the two attached fruits. -->
+    <path d="M208 261C214 255 220 251 223 242C225 237 228 237 230 242C231 249 235 254 243 258C259 266 271 279 270 293C269 307 258 319 242 322C227 325 212 318 204 307C195 294 197 276 208 261Z" fill="url(#fr-rind)" stroke-width="1.4"/>
+    <path d="M211 264C216 258 222 254 225 247C228 255 234 259 242 263C255 270 266 281 265 293C264 305 254 315 241 317C229 319 216 314 209 304C202 294 203 276 211 264Z" fill="#c1b28e" stroke="#7d6952" stroke-width=".7"/>
+    <path d="M215 267C221 261 224 258 226 254C229 261 236 264 242 268C254 275 261 283 260 294C259 305 251 311 240 313C229 315 219 310 213 302C207 293 208 277 215 267Z" fill="url(#fr-cut)" stroke="#8e755c" stroke-width=".65"/>
+    <path d="M226 259C223 272 222 285 230 293C234 298 241 299 247 296C244 302 235 305 229 301C219 295 216 284 220 274" stroke="#d0b99a" stroke-width="1.7" opacity=".75"/>
+    <g stroke="#765d48" stroke-width=".7" fill="#b5a07b" fill-opacity=".65">
+      <path d="M217 272C214 270 213 274 215 276C217 277 219 274 217 272ZM215 282C212 281 212 285 215 286C217 286 217 284 215 282ZM214 291C212 290 213 294 215 295C217 295 217 292 214 291ZM220 301C217 300 217 303 220 305C222 305 222 303 220 301ZM227 307C225 305 223 307 226 309C229 310 229 308 227 307ZM237 309C235 306 233 307 234 310C237 312 239 311 237 309ZM247 307C245 305 243 308 245 309C248 310 249 308 247 307ZM254 300C251 298 249 301 251 303C254 304 255 302 254 300ZM255 291C252 289 251 292 253 294C255 295 257 293 255 291ZM252 282C250 280 249 282 250 285C252 287 254 285 252 282ZM245 276C243 273 241 275 243 278C245 280 247 278 245 276ZM236 269C234 267 232 268 233 271C235 273 238 272 236 269ZM226 266C224 264 222 267 224 269C226 271 228 269 226 266Z"/>
+      <path d="M231 278C229 277 228 279 230 281C232 282 233 280 231 278ZM237 284C235 282 234 285 236 287C238 288 239 286 237 284ZM244 289C242 287 240 290 242 292C244 293 246 291 244 289ZM231 293C229 291 227 293 229 295C231 297 233 295 231 293Z"/>
+    </g>
+    <g stroke="#655941" stroke-width=".55" opacity=".7"><path d="M203 282L202 291M204 298L207 305M211 311L217 316M225 319L232 321M248 318L256 314M261 309L266 302M265 279L269 287"/></g>
+  </g>
 </svg>

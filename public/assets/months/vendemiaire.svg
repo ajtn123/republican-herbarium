@@ -1,7 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" color="#8b593e" role="img" aria-labelledby="title desc">
-<title id="title">葡月：葡萄串、掌状藤叶与卷须</title>
-<desc id="desc">为法国共和历葡月绘制的独立季节线描。葡萄串、掌状藤叶与卷须。</desc>
-<g stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
-<path d="M158 312C164 249 175 193 195 131C205 103 211 83 208 54M187 152l-36-57M200 112l48-37M208 69c-13-31-49-27-46-9 3 16 27 17 30 1M235 88c35 13 51-12 34-22-13-7-20 11-10 14"/><path d="M150 94L121 74l-4-29-18 16-26-11 6 24-24 16 27 9-2 27 26-11 24 17 3-27 17-11Z" fill="currentColor" fill-opacity=".08"/><path d="M150 94 99 72M126 84l-9-20M112 80l-28 7M126 84l-16 25M99 72l-14-12" stroke-width=".9"/><path d="M244 76l17-30 22 5 13-19 10 25 24 5-16 17 10 21-25-1-12 23-11-25-23 3-9-24Z" fill="currentColor" fill-opacity=".05"/><path d="M244 76l59-13M264 72l20-17M277 69l16 22" stroke-width=".9"/><path d="M193 134l-22 23M190 141l21 18"/><circle cx="144" cy="170" r="21" fill="currentColor" fill-opacity=".055"/><path d="M133.5 163.7q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="184" cy="167" r="22" fill="currentColor" fill-opacity=".055"/><path d="M173.0 160.4q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="223" cy="173" r="20" fill="currentColor" fill-opacity=".055"/><path d="M213.0 167.0q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="127" cy="205" r="20" fill="currentColor" fill-opacity=".055"/><path d="M117.0 199.0q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="165" cy="205" r="21" fill="currentColor" fill-opacity=".055"/><path d="M154.5 198.7q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="205" cy="209" r="21" fill="currentColor" fill-opacity=".055"/><path d="M194.5 202.7q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="242" cy="208" r="18" fill="currentColor" fill-opacity=".055"/><path d="M233.0 202.6q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="145" cy="242" r="20" fill="currentColor" fill-opacity=".055"/><path d="M135.0 236.0q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="184" cy="245" r="21" fill="currentColor" fill-opacity=".055"/><path d="M173.5 238.7q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="222" cy="244" r="19" fill="currentColor" fill-opacity=".055"/><path d="M212.5 238.3q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="164" cy="277" r="20" fill="currentColor" fill-opacity=".055"/><path d="M154.0 271.0q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="201" cy="278" r="19" fill="currentColor" fill-opacity=".055"/><path d="M191.5 272.3q-5 7-2 14" stroke-width=".8" opacity=".6"/><circle cx="182" cy="308" r="17" fill="currentColor" fill-opacity=".055"/><path d="M173.5 302.9q-5 7-2 14" stroke-width=".8" opacity=".6"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none">
+  <title>Vendémiaire — the grape harvest</title>
+  <desc>A ripe, softly russet bunch of grapes hangs from a curved woody vine, beside a veined five-lobed grape leaf and a fine coiling tendril. Irregular fruit, overlapping skins and delicate engraved strokes give the cluster its weight.</desc>
+  <defs>
+    <radialGradient id="ven-fruit" cx="31%" cy="25%" r="82%">
+      <stop stop-color="#c7a38a" stop-opacity=".76"/>
+      <stop offset=".53" stop-color="#a2785d" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#75523f"/>
+    </radialGradient>
+    <radialGradient id="ven-shadow" cx="27%" cy="21%" r="88%">
+      <stop stop-color="#ac8a70"/>
+      <stop offset=".55" stop-color="#8b654e"/>
+      <stop offset="1" stop-color="#654c3f"/>
+    </radialGradient>
+    <radialGradient id="ven-bloom" cx="28%" cy="24%" r="87%">
+      <stop stop-color="#c2af98" stop-opacity=".88"/>
+      <stop offset=".58" stop-color="#a08065"/>
+      <stop offset="1" stop-color="#815c45"/>
+    </radialGradient>
+    <linearGradient id="ven-leaf" x1="79" y1="59" x2="153" y2="157" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a4a17d" stop-opacity=".36"/>
+      <stop offset=".56" stop-color="#90916c" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#737c59" stop-opacity=".65"/>
+    </linearGradient>
+  </defs>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- One broad, recognisably palmate leaf; the small teeth follow its lobes. -->
+    <path d="M151 136 C142 144 135 156 124 163 L126 153 L115 161 L115 152 L103 156 L105 146 L94 150 L96 141 L83 146 L86 136 L73 139 L76 128 L62 129 L67 120 L52 117 L60 110 L45 102 L56 99 L47 87 L59 88 L55 76 L69 81 L71 72 L83 80 L87 72 L92 77 L96 62 L101 67 L105 48 L111 54 L119 36 L124 49 L132 45 L132 60 L141 56 L140 70 L151 65 L148 77 L160 74 L156 87 L169 82 L166 95 L178 96 L170 106 L182 112 L170 119 L178 128 L163 129 L165 140 Z" fill="url(#ven-leaf)" stroke="#5a6550" stroke-width="1.45"/>
+    <path d="M151 136 C139 115 128 87 119 48 M145 123 C120 118 91 112 57 103 M145 123 C129 133 113 142 99 145 M143 120 C149 109 158 101 169 96 M129 91 C119 92 100 88 82 81 M129 91 C133 81 136 73 139 66 M117 111 C105 101 97 90 93 78 M117 111 C98 117 83 123 69 125 M132 129 C129 142 126 151 123 157 M107 121 L88 136 M149 132 L163 132" stroke="#58674e" stroke-width=".95" opacity=".88"/>
+    <g stroke="#616e51" stroke-width=".55" opacity=".72">
+      <path d="M121 66 L109 61 M124 76 L110 73 M127 84 L137 76 M111 91 L100 83 M103 96 L94 93 M94 99 L82 90 M85 101 L71 93 M76 104 L61 97 M102 114 L88 107 M89 119 L76 114 M135 105 L148 88 M139 113 L155 103 M119 134 L114 148 M109 139 L101 140 M144 112 L158 111 M143 129 L139 141 M150 124 L164 121"/>
+      <path d="M116 83 L113 78 M119 92 L114 85 M123 103 L116 96 M107 109 L100 104 M96 112 L89 109 M83 115 L78 112 M131 119 L123 116 M124 125 L115 124 M112 131 L106 129 M138 94 L144 85 M144 104 L153 96 M132 140 L129 149 M138 136 L135 147"/>
+    </g>
+    <!-- The woody branch, petiole and stalk all terminate above their fruit. -->
+    <path d="M52 91 C83 69 111 63 143 66 C176 68 193 79 228 77 C263 75 289 68 308 48" stroke="#64543f" stroke-width="4.2"/>
+    <path d="M53 90 C87 69 110 65 142 68 C176 70 195 80 229 78 C267 75 290 65 307 49" stroke="#ad9271" stroke-width="1.55"/>
+    <path d="M204 79 C201 89 203 98 210 109 C215 119 210 130 208 141 M207 119 C195 119 184 126 176 140 M211 124 C223 124 235 133 241 147 M204 96 C184 101 171 121 151 136" stroke="#655d43" stroke-width="2.25"/>
+    <path d="M204 81 C204 95 212 107 212 116 M204 99 C184 108 169 125 154 133" stroke="#a49b70" stroke-width=".85"/>
+    <g stroke="#65543e" stroke-width=".65" opacity=".8">
+      <path d="M72 80 L79 79 M93 72 L100 70 M123 67 L129 69 M151 69 L157 72 M177 74 L184 76 M238 76 L245 74 M267 69 L272 66 M289 59 L292 55 M206 105 L210 108 M205 91 L207 95"/>
+    </g>
+    <path d="M258 73 C271 76 285 83 293 93 C302 105 296 119 284 119 C272 119 267 108 273 100 C277 95 285 95 289 101 C293 108 285 113 281 108 C279 105 282 102 284 104" stroke="#6f7653" stroke-width="1.15"/>
+    <path d="M261 74 C271 81 273 88 273 93" stroke="#6f7653" stroke-width=".6"/>
+    <!-- Receding berries establish the broad shoulders of the hanging cluster. -->
+    <g stroke="#604c3c" stroke-width="1.2">
+      <path d="M173 130 C165 128 157 133 155 142 C152 150 156 159 163 162 C171 167 180 162 183 153 C187 143 182 132 173 130Z" fill="url(#ven-shadow)"/>
+      <path d="M198 124 C190 123 181 131 181 141 C180 150 187 156 195 158 C205 159 213 151 213 140 C212 131 206 124 198 124Z" fill="url(#ven-bloom)"/>
+      <path d="M225 128 C216 126 209 133 208 142 C208 152 213 159 222 161 C230 163 239 156 240 147 C242 138 234 129 225 128Z" fill="url(#ven-shadow)"/>
+      <path d="M248 140 C238 137 231 142 231 152 C230 161 235 171 243 173 C252 176 261 169 262 160 C263 151 257 143 248 140Z" fill="url(#ven-fruit)"/>
+      <path d="M157 154 C149 152 139 159 137 169 C135 179 140 187 150 188 C160 190 168 182 170 173 C171 164 166 157 157 154Z" fill="url(#ven-shadow)"/>
+      <path d="M264 169 C255 164 246 170 244 180 C241 189 246 200 254 202 C262 205 271 199 275 190 C278 182 273 172 264 169Z" fill="url(#ven-shadow)"/>
+      <path d="M146 187 C137 186 130 194 131 205 C131 215 138 222 147 221 C157 220 163 212 161 203 C159 193 154 188 146 187Z" fill="url(#ven-fruit)"/>
+      <path transform="translate(-12 -9)" d="M260 204 C251 202 243 209 242 219 C242 228 247 236 256 237 C265 237 273 229 272 219 C272 212 268 207 260 204Z" fill="url(#ven-fruit)"/>
+      <path d="M156 218 C149 217 143 224 144 234 C145 244 152 251 160 250 C169 248 174 239 172 230 C171 224 163 219 156 218Z" fill="url(#ven-shadow)"/>
+      <path transform="translate(-13 -10)" d="M244 235 C236 231 229 237 227 247 C225 257 231 266 239 268 C247 271 255 262 257 253 C258 245 253 238 244 235Z" fill="url(#ven-shadow)"/>
+      <path d="M172 251 C164 250 159 258 161 268 C163 277 169 283 177 281 C185 279 191 270 187 262 C184 255 179 251 172 251Z" fill="url(#ven-fruit)"/>
+      <path transform="translate(-9 -7)" d="M224 269 C216 267 209 273 208 283 C207 293 213 300 221 300 C230 300 236 291 236 283 C235 276 232 272 224 269Z" fill="url(#ven-shadow)"/>
+      <path d="M202 288 C194 287 187 293 187 301 C186 310 191 318 199 320 C207 321 214 314 215 304 C216 296 210 290 202 288Z" fill="url(#ven-fruit)"/>
+    </g>
+    <!-- Foreground fruit is individually drawn, with asymmetric shoulders and quiet bloom. -->
+    <g stroke="#654e3d" stroke-width="1.25">
+      <path d="M181 151 C173 149 165 153 162 161 C158 171 161 182 169 187 C177 192 187 188 191 179 C197 168 193 154 181 151Z" fill="url(#ven-fruit)"/>
+      <path d="M210 151 C200 148 191 155 190 165 C188 176 196 184 204 186 C215 189 224 181 225 171 C226 162 221 154 210 151Z" fill="url(#ven-bloom)"/>
+      <path d="M238 167 C228 164 220 171 219 181 C217 191 222 201 233 204 C242 206 251 200 253 190 C256 180 248 169 238 167Z" fill="url(#ven-fruit)"/>
+      <path d="M163 184 C154 183 146 190 145 200 C144 210 150 219 159 220 C169 221 178 214 179 204 C180 194 173 185 163 184Z" fill="url(#ven-bloom)"/>
+      <path d="M194 182 C184 179 176 187 175 197 C173 208 178 218 188 221 C198 224 209 216 211 205 C213 194 204 184 194 182Z" fill="url(#ven-fruit)"/>
+      <path d="M221 206 C211 202 201 209 200 219 C197 230 203 240 212 243 C221 246 231 239 234 229 C237 219 231 209 221 206Z" fill="url(#ven-shadow)"/>
+      <path d="M178 219 C168 216 159 224 159 234 C157 245 163 254 173 256 C183 258 191 251 193 241 C195 230 188 222 178 219Z" fill="url(#ven-fruit)"/>
+      <path d="M204 242 C195 239 185 246 184 256 C182 267 189 277 199 279 C208 281 217 274 219 264 C221 255 214 244 204 242Z" fill="url(#ven-bloom)"/>
+      <path d="M199 274 C190 272 182 279 183 288 C183 298 189 306 198 306 C207 306 213 300 214 290 C214 281 208 275 199 274Z" fill="url(#ven-fruit)"/>
+    </g>
+    <!-- Short curved burin marks describe the shaded edges, never every surface. -->
+    <g stroke="#654e3c" stroke-width=".6" opacity=".68">
+      <path d="M174 135 Q179 138 179 143 M177 135 Q181 138 182 143 M202 130 Q208 133 209 139 M247 146 Q254 150 255 155 M250 148 Q257 152 257 158 M263 175 Q269 180 268 186 M266 178 Q271 184 270 189 M141 197 Q137 203 140 210 M137 200 Q135 205 138 210"/>
+      <path d="M181 178 Q178 184 171 184 M184 175 Q183 184 176 187 M187 173 Q186 181 182 185 M208 179 Q216 179 219 172 M212 182 Q219 180 221 175 M239 196 Q245 192 246 186 M238 200 Q248 196 249 188 M236 202 Q245 201 249 195"/>
+      <path d="M164 212 Q171 208 172 201 M162 216 Q174 214 176 204 M192 212 Q201 208 202 201 M192 217 Q201 215 206 207 M196 219 Q204 216 207 212 M218 237 Q225 233 227 226 M216 240 Q226 238 230 229 M254 209 Q256 216 249 222 M251 207 Q255 214 251 218"/>
+      <path d="M177 247 Q184 244 185 237 M175 251 Q185 248 188 241 M164 243 Q167 247 171 248 M225 249 Q232 247 235 238 M227 253 Q236 248 238 241 M200 270 Q208 268 210 261 M201 274 Q211 272 214 264 M208 285 Q215 286 220 279 M210 289 Q218 288 222 283 M197 299 Q204 298 207 292 M197 302 Q207 301 210 295 M199 316 Q206 314 208 308"/>
+    </g>
+    <g stroke="#6e5846" stroke-width=".5" opacity=".42">
+      <path d="M170 159 l2 -1 M168 163 l1 -2 M174 157 l2 0 M201 159 l2 -1 M199 162 l0 2 M206 158 l2 0 M232 174 l2 0 M228 177 l1 -1 M236 176 l1 1 M156 192 l2 -1 M153 196 l0 2 M161 190 l2 1 M185 190 l2 -1 M183 194 l0 2 M192 188 l2 1 M211 214 l2 -1 M208 218 l1 -1 M217 213 l1 1 M169 226 l2 -1 M166 231 l0 2 M176 226 l1 0 M196 248 l2 -1 M191 253 l1 -1 M201 248 l1 1 M192 281 l2 -1 M191 285 l0 1 M197 279 l1 1"/>
+    </g>
+    <g stroke="#dfcbb2" stroke-width=".65" opacity=".46">
+      <path d="M168 164 Q170 157 176 157 M197 163 Q200 156 206 156 M228 180 Q230 172 237 173 M152 200 Q153 192 159 191 M181 199 Q181 191 187 189 M207 221 Q208 213 215 212 M165 236 Q166 227 172 225 M190 257 Q192 249 198 247 M189 288 Q189 281 195 279"/>
+    </g>
+  </g>
 </svg>

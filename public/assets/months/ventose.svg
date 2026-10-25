@@ -1,7 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" color="#71876e" role="img" aria-labelledby="title desc">
-<title id="title">风月：长风卷过向同一方向倾斜的枝叶</title>
-<desc id="desc">为法国共和历风月绘制的独立季节线描。长风卷过向同一方向倾斜的枝叶。</desc>
-<g stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
-<path d="M111 309C128 242 164 190 242 162M151 309C158 245 195 214 265 198M85 307C89 242 105 205 154 166" stroke-width="2"/><g transform="translate(116 260) rotate(76) scale(0.9)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(132 223) rotate(88) scale(1)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(163 191) rotate(102) scale(0.8)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(190 180) rotate(122) scale(0.7)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(157 272) rotate(75) scale(0.75)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(175 238) rotate(93) scale(0.9)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(210 213) rotate(115) scale(0.8)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(92 257) rotate(49) scale(0.8)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(111 209) rotate(70) scale(0.8)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><path d="M33 109h185c42 0 46-53 10-53-19 0-25 22-10 29M61 135h217c40 0 40-42 16-43-13-1-20 11-13 20M24 162h80c33 0 35-32 13-33M57 73h79M259 252c48 1 62-35 39-46-17-8-25 10-13 17M45 326q103 8 208-8"/><path d="M41 119h89M86 145h62M275 261h26M177 80h27" stroke-width=".7" opacity=".5"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="ventose-title ventose-desc">
+  <title id="ventose-title">Ventôse — willow in a passing wind</title>
+  <desc id="ventose-desc">A supple willow spray bends to the right. Its slender twigs carry individually curved, grey-green leaves, with fine veins and a few engraved shadows; two tiny willow seeds drift above it.</desc>
+  <defs>
+    <linearGradient id="ventose-leaf" x1="0" y1="0" x2="0.2" y2="1">
+      <stop stop-color="#71876e" stop-opacity=".16"/>
+      <stop offset=".48" stop-color="#8b9c82" stop-opacity=".39"/>
+      <stop offset="1" stop-color="#52654f" stop-opacity=".48"/>
+    </linearGradient>
+    <linearGradient id="ventose-pale" x1="0" y1="0" x2="0.4" y2="1">
+      <stop stop-color="#99a68e" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#71876e" stop-opacity=".28"/>
+    </linearGradient>
+    <linearGradient id="ventose-bark" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#465044" stop-opacity=".85"/>
+      <stop offset=".6" stop-color="#71876e" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#465044" stop-opacity=".9"/>
+    </linearGradient>
+    <mask id="ventose-twig-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="360" height="360">
+      <rect width="360" height="360" fill="white"/>
+      <path d="M108 278 C126 277 141 281 157 288 C175 296 190 301 211 300 C192 309 173 306 157 300 C136 292 122 283 108 278 Z" fill="black"/>
+      <path d="M144 255 C162 249 178 254 196 265 C210 273 221 279 235 280 C216 284 201 277 187 269 C170 260 157 257 144 255 Z" fill="black"/>
+      <path d="M196 243 C214 232 237 234 256 240 C278 246 293 251 311 247 C297 259 279 255 261 251 C237 246 215 241 196 243 Z" fill="black"/>
+      <path d="M239 241 C257 226 278 225 303 229 C311 230 317 230 326 228 C305 239 289 237 273 236 C260 235 248 238 239 241 Z" fill="black"/>
+      <path d="M133 222 C149 221 167 229 180 242 C193 254 204 262 217 264 C201 266 185 258 173 247 C159 235 146 226 133 222 Z" fill="black"/>
+      <path d="M158 199 C178 195 191 198 208 204 C226 210 244 210 263 205 C248 218 228 219 209 213 C188 206 174 201 158 199 Z" fill="black"/>
+      <path d="M211 189 C232 177 250 176 268 179 C285 182 301 184 321 178 C307 190 288 193 270 188 C251 184 228 184 211 189 Z" fill="black"/>
+      <path d="M184 157 C202 154 220 158 239 165 C255 171 269 172 283 169 C267 181 249 178 233 171 C213 163 198 159 184 157 Z" fill="black"/>
+      <path d="M218 131 C235 121 254 124 270 132 C285 139 297 143 314 141 C297 150 280 146 264 139 C247 131 232 129 218 131 Z" fill="black"/>
+      <path d="M258 107 C270 95 286 91 302 90 C313 89 322 85 330 80 C323 93 310 99 296 101 C281 102 269 103 258 107 Z" fill="black"/>
+      <path d="M117 212 C114 197 117 181 130 171 C141 163 153 163 165 160 C153 172 142 179 133 192 C126 201 121 207 117 212 Z" fill="black"/>
+      <path d="M118 174 C131 162 147 158 165 158 C182 159 194 158 208 151 C195 166 178 169 162 167 C145 165 130 168 118 174 Z" fill="black"/>
+      <path d="M139 142 C156 127 177 126 194 128 C211 130 224 129 238 121 C226 136 210 140 191 136 C171 132 153 135 139 142 Z" fill="black"/>
+      <path d="M165 113 C181 100 195 98 212 99 C229 101 241 102 258 96 C245 108 230 111 211 107 C193 103 179 107 165 113 Z" fill="black"/>
+      <path d="M201 87 C217 73 233 70 249 69 C268 67 280 62 291 53 C280 70 266 76 249 76 C230 76 215 81 201 87 Z" fill="black"/>
+      <path d="M246 74 C259 61 275 57 293 56 C306 56 317 52 327 46 C317 60 305 65 292 65 C273 65 260 69 246 74 Z" fill="black"/>
+      <path d="M132 121 C138 104 151 94 166 88 C181 83 192 79 202 70 C194 85 181 92 168 97 C152 103 141 111 132 121 Z" fill="black"/>
+      <path d="M184 81 C192 67 203 59 215 54 C230 48 239 42 246 32 C242 48 233 56 221 61 C206 67 193 74 184 81 Z" fill="black"/>
+    </mask>
+  </defs>
+  <g stroke="#465044" stroke-linecap="round" stroke-linejoin="round">
+    <g mask="url(#ventose-twig-mask)">
+    <!-- The youngest spray is carried forward by the wind. -->
+    <path d="M115 254 C110 218 115 182 133 150 C155 111 202 81 250 73 C267 70 282 68 296 67" fill="none" stroke-width="1.55"/>
+    <path d="M120 198 C113 184 110 169 112 155 C117 129 143 104 164 94" fill="none" stroke-width="1.15"/>
+    <path d="M153 123 C163 100 184 78 209 65 C220 59 232 55 243 52" fill="none" stroke-width="1"/>
+    <path d="M109 274 C142 253 173 245 205 242 C229 240 251 241 271 245" fill="none" stroke-width="1.6"/>
+    <path d="M149 210 C173 197 193 190 214 189 C235 187 257 188 274 190" fill="none" stroke-width="1.3"/>
+    <!-- Tapered wood, with a little of the bark left in shadow. -->
+    <path d="M75 330 C91 296 104 258 124 224 C149 181 192 140 232 120 C252 110 276 102 296 96 C274 104 252 113 234 122 C194 145 153 183 127 226 C107 260 94 299 79 332 Z" fill="url(#ventose-bark)" stroke-width=".8"/>
+    <path d="M79 322 C96 288 107 252 128 220 M134 212 C151 187 170 167 190 150 M198 144 L226 126" fill="none" stroke="#9aa28b" stroke-width=".65" opacity=".65"/>
+    <path d="M98 281 L103 277 M108 257 L114 253 M124 225 L131 223 M150 186 L156 184 M179 157 L185 157 M226 123 L233 122" fill="none" stroke-width=".9"/>
+    </g>
+    <!-- The leaves are deliberately unequal: some broadside, some turned edge-on. -->
+    <g fill="url(#ventose-leaf)" stroke-width="1.05">
+      <path d="M108 278 C126 277 141 281 157 288 C175 296 190 301 211 300 C192 309 173 306 157 300 C136 292 122 283 108 278 Z"/>
+      <path d="M144 255 C162 249 178 254 196 265 C210 273 221 279 235 280 C216 284 201 277 187 269 C170 260 157 257 144 255 Z"/>
+      <path d="M196 243 C214 232 237 234 256 240 C278 246 293 251 311 247 C297 259 279 255 261 251 C237 246 215 241 196 243 Z"/>
+      <path d="M239 241 C257 226 278 225 303 229 C311 230 317 230 326 228 C305 239 289 237 273 236 C260 235 248 238 239 241 Z"/>
+      <path d="M133 222 C149 221 167 229 180 242 C193 254 204 262 217 264 C201 266 185 258 173 247 C159 235 146 226 133 222 Z"/>
+      <path d="M158 199 C178 195 191 198 208 204 C226 210 244 210 263 205 C248 218 228 219 209 213 C188 206 174 201 158 199 Z"/>
+      <path d="M211 189 C232 177 250 176 268 179 C285 182 301 184 321 178 C307 190 288 193 270 188 C251 184 228 184 211 189 Z"/>
+      <path d="M184 157 C202 154 220 158 239 165 C255 171 269 172 283 169 C267 181 249 178 233 171 C213 163 198 159 184 157 Z"/>
+      <path d="M218 131 C235 121 254 124 270 132 C285 139 297 143 314 141 C297 150 280 146 264 139 C247 131 232 129 218 131 Z"/>
+      <path d="M258 107 C270 95 286 91 302 90 C313 89 322 85 330 80 C323 93 310 99 296 101 C281 102 269 103 258 107 Z"/>
+    </g>
+    <g fill="url(#ventose-pale)" stroke-width="1">
+      <path d="M117 212 C114 197 117 181 130 171 C141 163 153 163 165 160 C153 172 142 179 133 192 C126 201 121 207 117 212 Z"/>
+      <path d="M118 174 C131 162 147 158 165 158 C182 159 194 158 208 151 C195 166 178 169 162 167 C145 165 130 168 118 174 Z"/>
+      <path d="M139 142 C156 127 177 126 194 128 C211 130 224 129 238 121 C226 136 210 140 191 136 C171 132 153 135 139 142 Z"/>
+      <path d="M165 113 C181 100 195 98 212 99 C229 101 241 102 258 96 C245 108 230 111 211 107 C193 103 179 107 165 113 Z"/>
+      <path d="M201 87 C217 73 233 70 249 69 C268 67 280 62 291 53 C280 70 266 76 249 76 C230 76 215 81 201 87 Z"/>
+      <path d="M246 74 C259 61 275 57 293 56 C306 56 317 52 327 46 C317 60 305 65 292 65 C273 65 260 69 246 74 Z"/>
+      <path d="M132 121 C138 104 151 94 166 88 C181 83 192 79 202 70 C194 85 181 92 168 97 C152 103 141 111 132 121 Z"/>
+      <path d="M184 81 C192 67 203 59 215 54 C230 48 239 42 246 32 C242 48 233 56 221 61 C206 67 193 74 184 81 Z"/>
+    </g>
+    <!-- Midribs follow the actual bend of each blade. -->
+    <g fill="none" stroke-width=".65" opacity=".88">
+      <path d="M105 276 C135 282 174 305 203 301"/>
+      <path d="M139 256 C173 252 202 280 229 280"/>
+      <path d="M190 244 C224 235 278 256 306 249"/>
+      <path d="M234 242 C269 228 294 236 320 230"/>
+      <path d="M129 220 C163 225 186 259 211 263"/>
+      <path d="M153 201 C185 195 222 220 256 209"/>
+      <path d="M205 190 C244 176 284 192 314 182"/>
+      <path d="M179 158 C210 151 252 180 277 172"/>
+      <path d="M214 132 C247 118 279 148 306 143"/>
+      <path d="M252 109 C274 96 309 101 326 84"/>
+      <path d="M117 215 C122 197 137 173 160 163"/>
+      <path d="M116 176 C143 157 179 173 202 156"/>
+      <path d="M135 145 C170 121 207 144 232 126"/>
+      <path d="M162 115 C194 93 227 117 251 100"/>
+      <path d="M197 89 C227 70 267 79 286 58"/>
+      <path d="M242 76 C273 58 302 68 322 51"/>
+      <path d="M128 125 C150 98 178 96 197 76"/>
+      <path d="M181 85 C202 59 231 61 243 39"/>
+    </g>
+    <!-- Sparse oblique nerves, finest on the silvery undersides. -->
+    <g fill="none" stroke-width=".48" opacity=".55">
+      <path d="M130 284 L136 282 M142 290 L151 287 M155 296 L167 293 M169 301 L181 299 M185 304 L194 302"/>
+      <path d="M168 259 L173 255 M180 265 L188 262 M194 273 L203 271 M208 279 L216 276"/>
+      <path d="M218 241 L226 237 M231 242 L241 237 M245 245 L253 241 M260 249 L270 246 M277 252 L287 248"/>
+      <path d="M263 234 L268 229 M277 233 L284 229 M294 233 L300 230"/>
+      <path d="M153 232 L161 232 M163 240 L173 241 M176 251 L186 252 M188 259 L199 259"/>
+      <path d="M182 202 L191 199 M195 206 L204 203 M210 211 L219 207 M226 213 L235 209 M243 213 L249 209"/>
+      <path d="M232 184 L241 179 M247 183 L255 178 M262 185 L270 181 M279 188 L287 184 M295 188 L301 185"/>
+      <path d="M207 160 L215 157 M220 164 L230 161 M236 171 L246 167 M252 176 L260 172"/>
+      <path d="M240 129 L248 125 M253 133 L262 129 M268 140 L277 137 M284 145 L292 141"/>
+      <path d="M278 100 L283 94 M291 98 L295 92 M305 95 L308 89"/>
+      <path d="M127 192 L126 182 M136 180 L137 170 M146 171 L152 166"/>
+      <path d="M138 165 L144 161 M151 164 L157 160 M167 165 L175 162 M183 163 L190 159"/>
+      <path d="M159 133 L166 128 M174 132 L182 127 M191 133 L200 130 M211 134 L220 130"/>
+      <path d="M186 104 L192 100 M201 104 L208 100 M219 107 L227 103 M235 106 L242 101"/>
+      <path d="M222 77 L228 72 M237 74 L244 70 M256 74 L262 69 M271 69 L275 63"/>
+      <path d="M269 64 L274 60 M283 62 L290 58 M298 62 L305 58"/>
+      <path d="M149 105 L151 97 M161 98 L164 90 M174 92 L180 85"/>
+      <path d="M202 65 L204 60 M214 60 L216 54 M228 54 L231 47"/>
+    </g>
+    <!-- A few short engraved shadows make the folded margins tangible. -->
+    <g fill="none" stroke="#53654f" stroke-width=".65" opacity=".5">
+      <path d="M156 299 L160 298 M161 301 L165 300 M167 303 L171 302 M174 304 L178 303"/>
+      <path d="M265 251 L269 249 M272 253 L276 250 M280 254 L284 251 M289 254 L292 252"/>
+      <path d="M210 215 L215 212 M217 217 L222 214 M225 217 L230 214 M233 217 L238 213"/>
+      <path d="M239 173 L243 170 M245 176 L249 173 M253 178 L257 175"/>
+      <path d="M267 141 L271 138 M274 144 L278 141 M282 146 L286 143"/>
+      <path d="M173 167 L176 165 M180 167 L184 164 M188 165 L191 162"/>
+    </g>
+    <!-- Two airborne willow seeds, almost weightless against the open paper. -->
+    <g fill="none" stroke-width=".6" opacity=".7">
+      <path d="M55 111 Q61 107 68 108 M57 110 Q54 105 54 100 M57 110 Q59 102 64 99 M57 110 Q64 103 70 104 M57 110 Q66 108 73 112 M57 110 Q62 112 67 116"/>
+      <path d="M93 76 Q99 72 105 74 M96 75 Q93 71 94 67 M96 75 Q99 68 104 66 M96 75 Q103 70 109 71 M96 75 Q104 75 110 79"/>
+    </g>
+    <path d="M52 112 Q54 109 57 110 Q56 114 53 115 Z M92 77 Q93 74 96 75 Q96 78 93 79 Z" fill="#71876e" stroke-width=".6"/>
+  </g>
 </svg>

@@ -1,7 +1,117 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" color="#547778" role="img" aria-labelledby="title desc">
-<title id="title">雨月：雨滴落在柳叶与水面涟漪之间</title>
-<desc id="desc">为法国共和历雨月绘制的独立季节线描。雨滴落在柳叶与水面涟漪之间。</desc>
-<g stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
-<path d="M109 270C130 207 150 165 184 112 205 79 234 65 258 64M157 154q46-26 95-9M134 202q-39-18-64-11M177 121q-11-27-10-48" stroke-width="2"/><g transform="translate(181 119) rotate(-8) scale(0.85)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(205 90) rotate(55) scale(0.8)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(235 72) rotate(65) scale(0.7)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(171 137) rotate(32) scale(0.85)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(210 141) rotate(58) scale(0.8)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(246 145) rotate(80) scale(0.68)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(143 178) rotate(-55) scale(0.85)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(121 198) rotate(-80) scale(0.75)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><g transform="translate(94 193) rotate(-45) scale(0.68)"><path d="M0 0C-21-7-42-24-39-49C-13-44 2-24 0 0Z" fill="currentColor" fill-opacity=".07"/><path d="M0 0-39-49M-12-16l-15-2M-19-25l-1-13M-26-34l-9-2" stroke-width=".8"/></g><path d="M63 83c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M59 102q-2 5 2 7" stroke-width=".7"/><path d="M109 104c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M105 123q-2 5 2 7" stroke-width=".7"/><path d="M135 47c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M131 66q-2 5 2 7" stroke-width=".7"/><path d="M226 209c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M222 228q-2 5 2 7" stroke-width=".7"/><path d="M281 175c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M277 194q-2 5 2 7" stroke-width=".7"/><path d="M283 256c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M279 275q-2 5 2 7" stroke-width=".7"/><path d="M68 244c-5 9-10 14-10 20a10 10 0 0 0 20 0c0-6-5-11-10-20Z" fill="currentColor" fill-opacity=".07"/><path d="M64 263q-2 5 2 7" stroke-width=".7"/><ellipse cx="164" cy="294" rx="87" ry="17"/><path d="M104 292q17-7 35-4m46-1q25 0 39 7M56 311q45 16 87 12m47-1q77 4 104-18" stroke-width="1.05"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" role="img" aria-labelledby="pluviose-title pluviose-desc">
+<title id="pluviose-title">Pluviôse — a willow in the rain</title>
+<desc id="pluviose-desc">A supple arching willow bough bears long, curved, lanceolate leaves. Small drops cling to their pointed tips above the uneven ellipses of a rain-disturbed pond. Muted blue-green washes and fine engraved veins.</desc>
+<defs>
+  <linearGradient id="pluviose-leaf" x1="0" y1="0" x2="1" y2=".3">
+    <stop stop-color="#547778" stop-opacity=".12"/>
+    <stop offset=".46" stop-color="#547778" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#547778" stop-opacity=".17"/>
+  </linearGradient>
+  <linearGradient id="pluviose-turn" x1="0" y1="0" x2="1" y2=".5">
+    <stop stop-color="#547778" stop-opacity=".28"/>
+    <stop offset=".55" stop-color="#8a9e94" stop-opacity=".12"/>
+    <stop offset="1" stop-color="#547778" stop-opacity=".24"/>
+  </linearGradient>
+  <radialGradient id="pluviose-water">
+    <stop stop-color="#547778" stop-opacity=".12"/>
+    <stop offset="1" stop-color="#547778" stop-opacity=".015"/>
+  </radialGradient>
+<mask id="pluviose-layer" maskUnits="userSpaceOnUse" x="0" y="0" width="360" height="360"><rect width="360" height="360" fill="white"/><path d="M104 98C89 109 75 137 69 159C65 172 62 185 62 195C72 177 81 163 88 146C96 128 103 109 104 98Z" fill="black" stroke="black" stroke-width=".6"/><path d="M107 131C118 148 123 174 118 196C116 209 110 222 108 231C107 209 108 193 107 177C106 159 104 141 107 131Z" fill="black" stroke="black" stroke-width=".6"/><path d="M87 164C73 176 65 197 60 220C57 234 54 244 51 253C62 242 72 225 77 208C83 188 85 175 87 164Z" fill="black" stroke="black" stroke-width=".6"/><path d="M91 198C99 212 99 237 94 256C91 268 85 279 81 285C83 269 84 251 85 236C84 219 87 206 91 198Z" fill="black" stroke="black" stroke-width=".6"/><path d="M73 226C65 237 63 253 63 269C63 278 61 286 59 291C67 283 73 270 74 259C76 246 75 235 73 226Z" fill="black" stroke="black" stroke-width=".6"/><path d="M175 118C190 137 193 162 188 185C185 201 180 212 175 222C178 202 179 184 177 165C174 147 171 128 175 118Z" fill="black" stroke="black" stroke-width=".6"/><path d="M158 150C144 163 135 187 130 212C128 226 125 239 121 248C132 234 141 216 146 198C154 177 156 161 158 150Z" fill="black" stroke="black" stroke-width=".6"/><path d="M168 186C179 202 185 227 180 247C177 260 171 273 167 280C170 261 168 241 167 226C164 210 165 193 168 186Z" fill="black" stroke="black" stroke-width=".6"/><path d="M147 223C135 233 128 249 124 266C121 278 118 287 115 293C124 286 133 273 137 260C143 244 145 232 147 223Z" fill="black" stroke="black" stroke-width=".6"/><path d="M240 151C254 160 267 179 271 199C274 213 274 224 273 233C266 215 261 202 254 188C247 173 240 159 240 151Z" fill="black" stroke="black" stroke-width=".6"/><path d="M222 182C211 195 206 217 208 238C210 253 212 265 211 275C218 259 221 242 220 227C218 210 220 194 222 182Z" fill="black" stroke="black" stroke-width=".6"/><path d="M234 218C247 229 255 247 256 265C258 276 260 286 264 293C253 284 245 271 242 257C237 240 233 227 234 218Z" fill="black" stroke="black" stroke-width=".6"/><path d="M280 189C297 199 309 217 315 239C319 252 319 262 320 270C312 255 302 244 296 232C286 213 280 198 280 189Z" fill="black" stroke="black" stroke-width=".6"/><path d="M268 233C258 246 256 262 260 276C263 287 267 293 270 299C269 287 270 277 270 265C272 250 270 240 268 233Z" fill="black" stroke="black" stroke-width=".6"/><path d="M121 67C126 84 140 110 141 134C142 147 140 157 139 164C131 149 125 131 122 112C118 94 119 77 121 67Z" fill="black" stroke="black" stroke-width=".6"/></mask>
+</defs>
+<!-- The far side of the bough: pale, turned leaves. -->
+<g mask="url(#pluviose-layer)">
+<g stroke="#587570" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="url(#pluviose-turn)" stroke-width="1.05">
+    <path d="M76 56C61 67 47 97 43 129C52 117 61 99 66 85C72 71 74 62 76 56Z"/>
+    <path d="M93 60C105 72 116 102 118 141C107 121 99 100 96 83C94 73 94 65 93 60Z"/>
+    <path d="M147 75C134 93 127 123 125 157C137 138 143 114 145 96C147 87 147 80 147 75Z"/>
+    <path d="M182 86C197 98 210 126 216 160C203 145 191 122 186 103C184 95 183 89 182 86Z"/>
+    <path d="M218 103C225 122 232 152 230 187C222 167 216 142 217 124C216 116 217 109 218 103Z"/>
+    <path d="M248 128C264 140 282 166 287 194C274 182 260 161 254 145C250 136 249 131 248 128Z"/>
+  </g>
+  <g stroke-width=".6" opacity=".68">
+    <path d="M75 58C61 82 51 105 44 126M94 62C101 88 110 115 117 138M146 77C136 107 131 133 126 153M183 87C197 114 207 136 215 157M219 106C221 133 227 162 230 183M250 130C264 154 277 177 285 191"/>
+    <path d="M60 84l1 9M54 99l1 9M102 91l6 5M107 108l6 6M137 108l-5 6M132 129l-4 7M198 119l8 5M207 138l5 4M222 137l6 8M226 160l4 8M266 157l8 4M277 178l6 5" stroke-width=".45"/>
+  </g>
+</g>
+<!-- Slender wood and pliant hanging shoots, tapered by their outlines. -->
+<g fill="#586b60" fill-opacity=".65" stroke="#455b52" stroke-linejoin="round">
+  <path d="M47 43C97 48 142 60 185 78C230 97 266 129 287 169C297 189 303 211 305 230C301 210 294 188 283 169C260 130 227 101 183 82C139 64 94 52 47 47Z" stroke-width=".85"/>
+  <path d="M104 59C114 84 108 111 100 139C91 169 88 199 76 231C81 210 86 185 89 163C92 145 100 124 103 105C106 85 106 71 102 61Z" stroke-width=".6"/>
+  <path d="M163 72C176 103 169 139 164 171C159 205 156 238 147 269C153 235 154 205 160 169C165 134 171 102 161 74Z" stroke-width=".65"/>
+  <path d="M223 101C236 132 231 163 227 192C225 220 229 243 235 265C225 240 222 219 224 192C228 161 233 130 221 103Z" stroke-width=".6"/>
+  <path d="M273 151C273 177 268 199 275 225C280 242 287 258 293 269C284 256 275 240 272 226C265 201 271 174 271 151Z" stroke-width=".55"/>
+</g>
+</g>
+<g stroke="#405b56" stroke-linecap="round" stroke-linejoin="round">
+  <!-- First pendant spray. -->
+  <g stroke-width=".85">
+    <path d="M106 94l-3 6M101 122l6 10M93 157l-6 7M86 188l5 10M79 219l-6 7"/>
+    <path d="M167 110l8 8M165 143l-7 7M160 178l8 8M155 215l-8 8"/>
+    <path d="M231 142l9 9M228 175l-6 7M226 211l8 7M232 250l-4 7"/>
+    <path d="M272 181l8 8M274 224l-6 9"/>
+  </g>
+  <g fill="url(#pluviose-leaf)" stroke-width="1.15">
+    <path d="M104 98C89 109 75 137 69 159C65 172 62 185 62 195C72 177 81 163 88 146C96 128 103 109 104 98Z"/>
+    <path d="M107 131C118 148 123 174 118 196C116 209 110 222 108 231C107 209 108 193 107 177C106 159 104 141 107 131Z"/>
+    <path d="M87 164C73 176 65 197 60 220C57 234 54 244 51 253C62 242 72 225 77 208C83 188 85 175 87 164Z"/>
+    <path d="M91 198C99 212 99 237 94 256C91 268 85 279 81 285C83 269 84 251 85 236C84 219 87 206 91 198Z"/>
+    <path d="M73 226C65 237 63 253 63 269C63 278 61 286 59 291C67 283 73 270 74 259C76 246 75 235 73 226Z"/>
+    <!-- Central spray; the reverse of one leaf catches a lighter wash. -->
+    <path d="M175 118C190 137 193 162 188 185C185 201 180 212 175 222C178 202 179 184 177 165C174 147 171 128 175 118Z"/>
+    <path d="M158 150C144 163 135 187 130 212C128 226 125 239 121 248C132 234 141 216 146 198C154 177 156 161 158 150Z"/>
+    <path d="M168 186C179 202 185 227 180 247C177 260 171 273 167 280C170 261 168 241 167 226C164 210 165 193 168 186Z"/>
+    <path d="M147 223C135 233 128 249 124 266C121 278 118 287 115 293C124 286 133 273 137 260C143 244 145 232 147 223Z"/>
+    <!-- Right-hand cascading leaves. -->
+    <path d="M240 151C254 160 267 179 271 199C274 213 274 224 273 233C266 215 261 202 254 188C247 173 240 159 240 151Z"/>
+    <path d="M222 182C211 195 206 217 208 238C210 253 212 265 211 275C218 259 221 242 220 227C218 210 220 194 222 182Z"/>
+    <path d="M234 218C247 229 255 247 256 265C258 276 260 286 264 293C253 284 245 271 242 257C237 240 233 227 234 218Z"/>
+    <path d="M280 189C297 199 309 217 315 239C319 252 319 262 320 270C312 255 302 244 296 232C286 213 280 198 280 189Z"/>
+    <path d="M268 233C258 246 256 262 260 276C263 287 267 293 270 299C269 287 270 277 270 265C272 250 270 240 268 233Z"/>
+  </g>
+  <!-- A folded leaf crossing the heart of the spray. -->
+  <path d="M121 67C126 84 140 110 141 134C142 147 140 157 139 164C131 149 125 131 122 112C118 94 119 77 121 67Z" fill="url(#pluviose-turn)" stroke-width="1.1"/>
+  <!-- Midribs follow the flex of the wet blades. -->
+  <g stroke-width=".65" opacity=".88">
+    <path d="M103 100C90 130 74 169 63 191M107 134C114 162 116 195 109 227M86 166C74 197 65 225 53 249M91 201C93 227 88 262 82 282M73 229C70 249 69 273 61 287"/>
+    <path d="M175 121C184 155 186 190 177 216M157 153C144 185 137 221 123 244M169 190C177 219 176 252 168 276M146 226C135 247 130 273 117 290"/>
+    <path d="M242 154C252 179 266 207 272 229M221 185C210 218 219 244 212 269M236 221C246 246 247 272 261 289M282 192C291 218 309 245 318 265M268 236C262 255 264 279 269 294"/>
+    <path d="M121 70C124 102 136 139 139 160"/>
+  </g>
+  <!-- A few oblique veins, lost and found in the wash. -->
+  <g stroke-width=".45" opacity=".5">
+    <path d="M87 137l-9 8M81 151l-9 8M73 170l-7 7M111 162l7 8M113 178l7 8M112 201l5 8M72 204l-8 7M65 225l-7 6M90 230l6 7M88 250l6 5M68 256l-4 7"/>
+    <path d="M182 152l7 9M183 173l7 7M181 194l5 5M145 183l-8 8M140 204l-8 8M133 224l-6 7M174 221l8 7M175 242l5 7M172 260l5 5M134 252l-7 5M127 274l-6 5"/>
+    <path d="M252 181l8 3M261 203l8 5M214 212l-6 8M215 232l-6 7M216 248l-4 9M245 249l7 5M251 273l7 5M296 226l10 5M306 245l9 7M264 262l6 6M265 282l4 6"/>
+    <path d="M125 103l7 6M130 125l8 9M135 145l6 8"/>
+  </g>
+</g>
+<!-- Short bark strokes settle the junctions without darkening the foliage. -->
+<g stroke="#52675c" stroke-linecap="round" stroke-width=".6" opacity=".65">
+  <path d="M56 47l11 2M79 51l15 4M122 61l14 4M145 68l9 3M191 84l12 6M238 112l8 6M259 133l7 8"/>
+  <path d="M104 72l2 10M103 110l-3 9M169 91l1 11M165 154l-2 12M230 121l2 9M227 189l-1 12M286 177l5 12"/>
+</g>
+<!-- Attached droplets: small asymmetrical beads with an open internal glint. -->
+<g stroke="#547778" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M62 195C61 199 58 201 59 204C60 208 65 208 66 204C67 201 64 199 62 195Z" fill="#547778" fill-opacity=".14" stroke-width=".9"/>
+  <path d="M108 231C107 235 104 239 106 242C108 245 112 243 112 240C112 237 109 234 108 231Z" fill="#547778" fill-opacity=".16" stroke-width=".9"/>
+  <path d="M211 275C211 279 208 282 209 285C210 288 214 288 215 285C216 282 213 279 211 275Z" fill="#547778" fill-opacity=".13" stroke-width=".9"/>
+  <path d="M318 269C318 272 316 274 317 277C318 279 321 279 322 277C323 274 320 271 318 269Z" fill="#547778" fill-opacity=".11" stroke-width=".8"/>
+  <path d="M60 202l1 2M107 239l1 2M210 283l1 2" stroke-width=".55"/>
+</g>
+<!-- Scattered rain is nearly weightless between the leaves. -->
+<g stroke="#547778" stroke-linecap="round" opacity=".52">
+  <path d="M62 78l-3 11M151 37l-4 14M211 49l-3 9M268 82l-4 13M302 112l-4 15M319 174l-3 11M47 178l-3 12M100 288l-3 9M288 285l-2 9" stroke-width=".8"/>
+  <path d="M208 61l-1 3M300 132l-1 3M45 195l-1 3M265 101l-1 3" stroke-width=".55"/>
+</g>
+<!-- The pond is a broken, slightly irregular ellipse, with the impact off centre. -->
+<path d="M131 309C139 297 185 293 225 295C265 296 298 302 298 311C296 320 258 325 219 325C178 325 139 320 131 309Z" fill="url(#pluviose-water)"/>
+<g stroke="#547778" stroke-linecap="round">
+  <path d="M138 305C151 299 184 296 216 296C251 295 282 300 292 306M295 312C292 319 259 323 225 323C188 324 151 320 136 313" stroke-width="1.15" opacity=".64"/>
+  <path d="M158 307C165 302 189 301 209 301C234 300 258 303 267 307C275 313 246 317 221 317C195 318 169 315 162 312" stroke-width=".9" opacity=".75"/>
+  <path d="M187 308C193 305 209 304 221 306C232 307 232 310 223 311C213 314 196 312 191 310" stroke-width="1.05"/>
+  <path d="M201 307C205 306 211 307 214 308" stroke-width=".65"/>
+  <path d="M118 316C126 320 139 323 153 325M260 328C277 326 294 322 302 317M173 330C190 332 210 333 227 331" stroke-width=".6" opacity=".4"/>
+  <path d="M209 299l-1-4M204 300l-2-2M213 300l2-2" stroke-width=".65" opacity=".6"/>
 </g>
 </svg>

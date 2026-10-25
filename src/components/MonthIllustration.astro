@@ -1,4 +1,7 @@
 ---
+import { createHash } from 'node:crypto';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 interface Props {
   month: { slug: string; zh: string };
   class?: string;
@@ -6,24 +9,26 @@ interface Props {
   loading?: 'eager' | 'lazy';
 }
 const { month, class: className, decorative = false, loading = 'lazy' } = Astro.props;
+const assetPath = `/assets/months/${month.slug}.svg`;
+const version = createHash('sha256').update(readFileSync(resolve('public', assetPath.slice(1)))).digest('hex').slice(0, 12);
 const descriptions: Record<string, string> = {
   vendemiaire: '葡萄串、掌状藤叶与卷须',
   brumaire: '低雾穿过落叶树与远处果园',
-  frimaire: '枝条、卷叶与六角霜晶',
-  nivose: '积雪覆盖针叶枝，雪花飘落林间',
-  pluviose: '雨滴落在柳叶与水面涟漪之间',
-  ventose: '长风卷过向同一方向倾斜的枝叶',
+  frimaire: '枯枝、卷曲叶片与贴附表面的霜晶',
+  nivose: '积雪覆盖的不对称云杉枝与垂挂的球果',
+  pluviose: '挂着雨滴的垂柳长叶与池面涟漪',
+  ventose: '随长风弯曲的柳枝与飘散的种子',
   germinal: '裂开的种子、初生叶片和向下延伸的根',
-  floreal: '野蔷薇、雏菊与尚未开放的花蕾',
-  prairial: '高草、三叶草和草甸上的小花',
+  floreal: '野蔷薇盛放的花朵、花蕾与锯齿状复叶',
+  prairial: '红三叶草的花球、三出叶与草穗',
   messidor: '三束成熟麦穗、芒针与收束的秸秆',
-  thermidor: '盛夏太阳、升腾热浪与干燥地面',
-  fructidor: '果枝上的梨与苹果，以及剖开的无花果',
+  thermidor: '暑热下微垂的向日葵、花盘与粗壮枝叶',
+  fructidor: '成熟的梨、无花果和剖开的果肉',
 };
 ---
 <img
   class:list={['month-illustration', className]}
-  src={`/assets/months/${month.slug}.svg`}
+  src={`${assetPath}?v=${version}`}
   width="360"
   height="360"
   alt={decorative ? '' : `${month.zh}：${descriptions[month.slug]}`}
