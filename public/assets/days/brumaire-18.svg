@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br18-title br18-desc">
+  <title id="br18-title">Dentelaire — Plumbago europaea</title>
+  <desc id="br18-desc">A slender, loosely branched dentelaire specimen with alternate oblong entire leaves and scattered pale rose-lilac five-lobed flowers. Long narrow corolla tubes rise from green five-ribbed calyces clothed in fine sticky glandular hairs; pointed buds and a few spent calyces remain on the terminal sprays.</desc>
+  <defs>
+    <linearGradient id="br18-stem" x1="174" y1="230" x2="180" y2="231" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b292"/><stop offset=".5" stop-color="#939a77"/><stop offset="1" stop-color="#788363"/></linearGradient>
+    <linearGradient id="br18-leaf" x1="97" y1="190" x2="220" y2="294" gradientUnits="userSpaceOnUse"><stop stop-color="#adb198" stop-opacity=".61"/><stop offset=".5" stop-color="#939f7d" stop-opacity=".7"/><stop offset="1" stop-color="#768566" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="br18-leaf-fold" x1="218" y1="145" x2="263" y2="223" gradientUnits="userSpaceOnUse"><stop stop-color="#b4b59b" stop-opacity=".55"/><stop offset="1" stop-color="#83916f" stop-opacity=".76"/></linearGradient>
+    <linearGradient id="br18-calyx" x1="-4" y1="-7" x2="4" y2="-7" gradientUnits="userSpaceOnUse"><stop stop-color="#a9ae88" stop-opacity=".8"/><stop offset=".45" stop-color="#b8bb98" stop-opacity=".8"/><stop offset="1" stop-color="#7f8c65" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="br18-tube" x1="-2" y1="-22" x2="3" y2="-22" gradientUnits="userSpaceOnUse"><stop stop-color="#e4d6d8"/><stop offset=".5" stop-color="#ddd2d5"/><stop offset="1" stop-color="#b59caf" stop-opacity=".85"/></linearGradient>
+    <radialGradient id="br18-petal" cx=".4" cy=".24" r=".85"><stop stop-color="#e8e0e3" stop-opacity=".86"/><stop offset=".57" stop-color="#d8c9d7" stop-opacity=".85"/><stop offset="1" stop-color="#b6a5bc" stop-opacity=".82"/></radialGradient>
+    <linearGradient id="br18-bud" x1="-2" y1="-25" x2="3" y2="-12" gradientUnits="userSpaceOnUse"><stop stop-color="#d6bfca"/><stop offset="1" stop-color="#b6acb8" stop-opacity=".85"/></linearGradient>
+    <!-- The five ribbed calyx carries distinct stalked glands along its sides. -->
+    <g id="br18-calyx-form">
+      <path d="M-.8 1C-3.7-2-4.1-7.2-3.7-12.7L-3-16L-1.7-13.6L-.4-16.4L.7-13.5L2.2-16.2L3-13.4L4.1-15.2C4.4-9.2 3.4-2.9 1.2.8Z" fill="url(#br18-calyx)" stroke="#7a805f" stroke-width=".8"/>
+      <path d="M-2.8-12.5C-2.8-7.7-2.1-3.5-.7-.3M-.7-13.5L-.2-.4M1.5-13.5C2-9.5 1.7-4.4.7-.2M3-12.7C3.2-8.5 2.4-4.4 1.5-2" stroke="#7d8964" stroke-width=".5"/>
+      <path d="M-1.9-11.7L-1.3-3.5M.6-12L.6-3.3" stroke="#d2cdb0" stroke-width=".45"/>
+      <g stroke="#8a8668" stroke-width=".46">
+        <path d="M-3.4-3.1Q-5.1-3.5-6.2-2.7M-3.7-5.6Q-5.4-6.2-6.3-5.7M-3.8-8.3L-6.6-9.2M-3.8-11L-6.3-12.8M-3.4-13L-5.3-15.1M3.1-3.5Q5-3.4 5.8-2.4M3.7-6Q5.2-6.2 6.5-5.6M4-8.5L6.6-9M4-11.4L6.5-12.6M3.5-13.3L5.2-15.1"/>
+      </g>
+      <g fill="#8b7a65"><circle cx="-6.2" cy="-2.7" r=".65"/><circle cx="-6.3" cy="-5.7" r=".6"/><circle cx="-6.6" cy="-9.2" r=".65"/><circle cx="-6.3" cy="-12.8" r=".65"/><circle cx="-5.3" cy="-15.1" r=".55"/><circle cx="5.8" cy="-2.4" r=".6"/><circle cx="6.5" cy="-5.6" r=".65"/><circle cx="6.6" cy="-9" r=".6"/><circle cx="6.5" cy="-12.6" r=".6"/><circle cx="5.2" cy="-15.1" r=".55"/></g>
+    </g>
+    <!-- One open corolla: a long pale tube and five broad, fused lobes. -->
+    <g id="br18-flower">
+      <path d="M-1.6-10.5C-1.6-17.5-1.6-22.3-2.7-28.5L1.7-29C1.3-22.1 1.5-16.8 2.2-10.8Z" fill="url(#br18-tube)" stroke="#a99aa8" stroke-width=".65"/>
+      <path d="M-.7-12C-.5-18.8-.9-24-.9-27" stroke="#f0e7e7" stroke-width=".65"/>
+      <use href="#br18-calyx-form"/>
+      <g fill="url(#br18-petal)" stroke="#a797a9" stroke-width=".7">
+        <path d="M0-29C-2.9-31.2-7.7-33.7-7.2-37.5C-6.8-41.4-3.3-43.3-.2-41.9C3.3-43 6.5-40.3 5.6-36.7C4.7-33.8 2-31.4 0-29Z"/>
+        <path d="M0-29C-2.7-31.8-6.1-35.1-5.3-38.2C-4.4-41.6-1.1-42.8 1.5-41.5C5.2-41.4 7.1-38.5 5.3-35.5C3.7-32.7 1.4-30.4 0-29Z" transform="rotate(72 0 -29)"/>
+        <path d="M0-29C-3.6-31.5-7.2-34.1-6.4-37.7C-5.8-41-2.7-43.1.4-41.7C3.5-42.9 7-39.9 5.6-36.5C4.5-33.6 1.5-30.8 0-29Z" transform="rotate(144 0 -29)"/>
+        <path d="M0-29C-2.7-31.9-6.5-34.3-6.1-37.8C-5.8-41.6-2.2-43.2.7-41.8C4-42.4 6.8-39.9 5.5-36.7C4.1-33.5 1.6-30.7 0-29Z" transform="rotate(216 0 -29)"/>
+        <path d="M0-29C-3.4-31.4-7.2-34.3-6.3-37.8C-5.5-41.7-2.3-42.8.5-41.4C4-42 6.5-39.4 5.4-36.4C4.2-33.2 1.5-30.7 0-29Z" transform="rotate(288 0 -29)"/>
+      </g>
+      <g stroke="#ab98ae" stroke-width=".43" opacity=".74"><path d="M-.4-30.5L-1-38.6M1.6-29.5L8.7-32.3M1.1-27.8L6.2-21.6M-1.3-27.6L-5.6-21.3M-2-29.2L-9.3-32"/></g>
+      <path d="M-2.2-30.4L.3-31.2L2-29.4L.9-27L-1.4-27.1L-2.4-28.7Z" fill="#aa91ac" stroke="#97849e" stroke-width=".5"/>
+      <path d="M-.7-29L-.5-33M.5-28.8L3-30.6M-.8-28.7L-3.4-29.9M.4-28.3L1.9-25.9M-.5-28.1L-1.9-25.7" stroke="#e6ddcd" stroke-width=".6"/>
+      <path d="M-1.2-28.7Q-.2-27.6 1-28.6" stroke="#f5ede7" stroke-width=".55"/>
+    </g>
+    <g id="br18-bud-form">
+      <path d="M-1.8-10.6C-2.5-15.4-3.6-19.6-1.5-25.5C1.5-23.1 3.3-18.8 2-11.1Z" fill="url(#br18-bud)" stroke="#a89b9b" stroke-width=".7"/>
+      <path d="M-1.5-24C-.6-20.1.5-15.3.2-12M-1.2-20.5L1.2-18.5" stroke="#b29da9" stroke-width=".5"/>
+      <use href="#br18-calyx-form"/>
+    </g>
+  </defs>
+  <!-- The slight woody curve and unequal branches keep the flowering tips separate. -->
+  <g fill="url(#br18-stem)" stroke="#758061" stroke-width="1.05">
+    <path d="M161 330C168 309 173 289 177 267C181 245 183 223 187 202C192 178 193 155 194 133C195 111 198 93 202 81L204 81C201 97 199 114 198 134C197 158 196 181 191 203C187 224 185 246 181 268C177 292 170 313 164 331Z"/>
+    <path d="M185 224C166 209 150 192 137 173C121 153 109 131 108 111L110 111C112 133 123 152 140 172C154 192 169 207 188 220Z"/>
+    <path d="M192 197C215 182 234 166 247 150C258 137 264 126 267 114L269 114C266 129 260 141 249 153C235 171 216 187 192 201Z"/>
+  </g>
+  <g stroke="#d0c9a7" stroke-width=".6" opacity=".82"><path d="M164 327C172 302 178 278 181 254M185 235C187 213 190 201 193 181M195 163L196 135M197 121L201 94M184 219C166 205 153 189 139 173M129 157C119 142 112 127 110 114M197 196C218 180 235 166 248 151M253 145C260 136 264 126 267 118"/></g>
+  <!-- Small, entire oblong blades are alternate and narrow towards their sessile bases. -->
+  <g fill="url(#br18-leaf)" stroke="#677658" stroke-width="1.15">
+    <path d="M173 287C160 285 151 286 137 282C122 278 106 268 101 258C99 253 100 249 105 250C118 251 127 263 140 272C152 280 164 281 175 283Z"/>
+    <path d="M181 258C196 247 210 237 226 233C235 230 244 231 246 236C247 243 239 252 230 255C213 262 197 258 181 261Z"/>
+    <path d="M185 230C172 226 157 224 148 216C137 209 131 197 134 192C137 187 145 192 152 200C162 212 173 220 187 225Z"/>
+    <path d="M188 210C200 207 210 203 222 194C229 189 237 186 241 189C244 194 239 199 234 203C221 213 203 214 188 214Z"/>
+    <path d="M143 180C129 179 117 174 105 166C95 160 86 149 88 144C90 139 97 143 105 149C117 158 126 169 144 177Z"/>
+    <path d="M195 166C195 154 198 143 206 135C213 128 220 126 222 130C225 137 218 147 212 153C205 159 201 163 197 170Z"/>
+    <path d="M234 170C249 173 261 171 270 173C276 174 279 178 276 182C270 189 258 186 251 182C245 179 239 175 232 174Z" fill="url(#br18-leaf-fold)"/>
+    <path d="M115 142C122 144 132 145 136 150C139 154 135 158 131 156C123 153 120 148 115 146Z" fill="url(#br18-leaf-fold)" stroke-width=".9"/>
+    <path d="M196 128C188 124 180 119 178 112C177 109 179 108 182 110C189 114 193 121 197 125Z" fill="url(#br18-leaf-fold)" stroke-width=".9"/>
+  </g>
+  <g stroke="#71805e" stroke-width=".65" opacity=".87">
+    <path d="M173 285C150 282 126 269 103 253M159 282L149 275M145 277L136 277M135 271L130 260M122 262L115 262M181 259C203 252 224 243 242 235M195 255L204 246M209 250L219 251M220 244L226 236M230 240L236 241"/>
+    <path d="M186 228C166 221 146 204 136 194M173 222L161 219M162 215L158 204M153 208L143 205M188 212C207 210 225 198 239 190M204 209L213 202M219 202L230 201M143 178C122 170 104 155 91 145M128 172L119 171M117 164L112 154M106 155L100 155M196 166C200 153 211 138 220 131M201 154L202 143M206 146L216 143M233 172C247 174 261 179 274 178M247 175L254 180M261 178L267 175M116 145L134 153M196 127L180 111"/>
+  </g>
+  <g stroke="#7b8764" stroke-width=".45" opacity=".5"><path d="M109 256L113 262M112 256L118 264M145 279L150 282M231 234L226 238M236 235L231 239M222 254L215 254M142 199L146 207M146 200L149 208M97 148L102 154M100 149L106 155M210 136L208 142M213 135L211 141M260 183L267 185"/></g>
+  <!-- Delicate unequal pedicels support a loose terminal spray, never a flower ball. -->
+  <g stroke="#7f8867" stroke-width=".95">
+    <path d="M197 129C201 115 203 99 202 83M200 110C194 107 189 104 185 103M201 119C209 118 215 116 220 113M202 93C208 91 212 86 213 81M202 108L211 102"/>
+    <path d="M117 143C113 132 111 121 110 113M114 134C109 131 103 130 98 130M119 145L124 137M123 151C111 151 103 151 94 151M110 124L119 117"/>
+    <path d="M247 154C259 147 264 135 267 126M252 149L250 150M260 147C266 147 274 148 280 146M257 157C261 163 265 167 269 169M266 144L270 142M268 126L276 119"/>
+  </g>
+  <g fill="#a6ac88" stroke="#7a8562" stroke-width=".65">
+    <path d="M196 133L190 129L194 136Z"/><path d="M201 112L197 107L198 114Z"/><path d="M201 120L206 116L204 122Z"/><path d="M118 145L111 142L116 148Z"/><path d="M122 151L125 147L124 153Z"/><path d="M249 154L244 150L247 157Z"/><path d="M258 157L263 154L261 160Z"/>
+  </g>
+  <use href="#br18-bud-form" transform="translate(213 81) rotate(20) scale(.78)"/>
+  <use href="#br18-bud-form" transform="translate(211 102) rotate(33) scale(.66)"/>
+  <use href="#br18-flower" transform="translate(202 83) rotate(-5) scale(.87)"/>
+  <use href="#br18-flower" transform="translate(185 103) rotate(-30) scale(.79)"/>
+  <use href="#br18-flower" transform="translate(220 113) rotate(35) scale(.8)"/>
+  <use href="#br18-bud-form" transform="translate(98 130) rotate(-47) scale(.79)"/>
+  <use href="#br18-bud-form" transform="translate(119 117) rotate(20) scale(.64)"/>
+  <use href="#br18-flower" transform="translate(110 113) rotate(-22) scale(.79)"/>
+  <use href="#br18-flower" transform="translate(124 137) rotate(40) scale(.76)"/>
+  <use href="#br18-flower" transform="translate(94 151) rotate(-48) scale(.72)"/>
+  <use href="#br18-bud-form" transform="translate(276 119) rotate(43) scale(.72)"/>
+  <use href="#br18-bud-form" transform="translate(270 142) rotate(12) scale(.73)"/>
+  <use href="#br18-flower" transform="translate(267 126) rotate(22) scale(.83)"/>
+  <use href="#br18-flower" transform="translate(250 150) rotate(-18) scale(.78)"/>
+  <use href="#br18-flower" transform="translate(280 146) rotate(52) scale(.72)"/>
+  <use href="#br18-flower" transform="translate(269 169) rotate(45) scale(.69)"/>
+  <!-- A spent calyx below the left spray shows the persistent sticky cup. -->
+  <path d="M128 162C125 158 124 154 124 151" stroke="#84906a" stroke-width=".8"/>
+  <use href="#br18-calyx-form" transform="translate(128 162) rotate(138) scale(.68)"/>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br26-title br26-desc">
+  <title id="br26-title">Pistache — Pistacia vera</title>
+  <desc id="br26-desc">A pistachio twig bearing two leaves, each divided into three broad, smooth-edged oval leaflets, and an open spray of pink and ochre oval fruit hulls. Below the twig lie two cream hard shells split along their natural seams to reveal muted green kernels, and a single shelled kernel with remnants of its violet skin. Fine curved hatching describes the shell grain.</desc>
+  <defs>
+    <linearGradient id="br26-leaf" x1="91" y1="49" x2="158" y2="145" gradientUnits="userSpaceOnUse"><stop stop-color="#b7b99d" stop-opacity=".55"/><stop offset=".52" stop-color="#9ca789" stop-opacity=".65"/><stop offset="1" stop-color="#7e8e70" stop-opacity=".76"/></linearGradient>
+    <linearGradient id="br26-leaf-lower" x1="59" y1="147" x2="126" y2="213" gradientUnits="userSpaceOnUse"><stop stop-color="#b6b99d" stop-opacity=".58"/><stop offset=".56" stop-color="#9ca584" stop-opacity=".64"/><stop offset="1" stop-color="#7d8b6a" stop-opacity=".72"/></linearGradient>
+    <linearGradient id="br26-wood" x1="127" y1="201" x2="134" y2="204" gradientUnits="userSpaceOnUse"><stop stop-color="#baa78c"/><stop offset=".45" stop-color="#a08f75"/><stop offset="1" stop-color="#86765f"/></linearGradient>
+    <linearGradient id="br26-hull-rose" x1="0" y1="0" x2=".9" y2=".8"><stop stop-color="#d8c1a7" stop-opacity=".73"/><stop offset=".49" stop-color="#c7a493" stop-opacity=".8"/><stop offset="1" stop-color="#ae837c" stop-opacity=".87"/></linearGradient>
+    <linearGradient id="br26-hull-ochre" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#dfd0a6" stop-opacity=".76"/><stop offset=".54" stop-color="#c9b68b" stop-opacity=".82"/><stop offset="1" stop-color="#b49c7e" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="br26-shell" x1="-22" y1="-24" x2="21" y2="23" gradientUnits="userSpaceOnUse"><stop stop-color="#f0e8cd" stop-opacity=".86"/><stop offset=".47" stop-color="#e2d5b7" stop-opacity=".82"/><stop offset="1" stop-color="#c7b693" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="br26-shell-light" x1="-16" y1="-23" x2="12" y2="28" gradientUnits="userSpaceOnUse"><stop stop-color="#f2ead3" stop-opacity=".92"/><stop offset=".55" stop-color="#e4d8ba" stop-opacity=".86"/><stop offset="1" stop-color="#cfbf9e" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="br26-kernel" x1="-7" y1="-23" x2="8" y2="26" gradientUnits="userSpaceOnUse"><stop stop-color="#b4b78a"/><stop offset=".42" stop-color="#9da875"/><stop offset="1" stop-color="#7e9066"/></linearGradient>
+    <linearGradient id="br26-loose-kernel" x1="231" y1="305" x2="252" y2="326" gradientUnits="userSpaceOnUse"><stop stop-color="#c1bf91"/><stop offset=".5" stop-color="#a7b17f"/><stop offset="1" stop-color="#849567"/></linearGradient>
+  </defs>
+  <!-- A slender woody twig; the compound leaf rachises leave alternate joints. -->
+  <path d="M101 290C113 268 121 245 132 220C142 197 150 172 160 148C169 125 177 104 189 87L192 88C181 108 173 128 164 151C154 177 147 199 136 223C125 248 118 270 105 292Z" fill="url(#br26-wood)" stroke="#817663" stroke-width="1.25"/>
+  <path d="M103 289C115 266 124 241 134 220M139 207C146 187 154 164 162 146M168 132C177 109 183 98 189 90" stroke="#d5c8ac" stroke-width=".7" opacity=".83"/>
+  <path d="M158 155C152 137 148 123 147 108C146 98 144 86 144 76M132 221C124 211 117 203 111 193C106 185 102 178 99 171" stroke="#7b8066" stroke-width="2.1"/>
+  <path d="M156 150C151 136 148 122 148 109M129 216C121 208 115 200 111 193" stroke="#c4c5a7" stroke-width=".7"/>
+  <path d="M147 108L131 101M147 106L165 98M111 193L98 193M110 191L121 181" stroke="#798166" stroke-width="1.35"/>
+  <!-- Upper leaf: a terminal leaflet and two broad, shortly stalked lateral leaflets. -->
+  <g fill="url(#br26-leaf)" stroke="#707c63" stroke-width="1.15">
+    <path d="M144 79C132 74 122 64 124 53C125 40 139 33 151 30C162 36 172 45 172 56C172 67 158 78 144 79Z"/>
+    <path d="M133 102C117 109 100 108 87 101C73 94 64 81 66 70C69 61 83 60 94 64C112 69 126 82 133 102Z"/>
+    <path d="M163 99C163 84 174 71 188 66C199 62 212 63 217 71C222 80 214 93 202 100C190 107 175 106 163 99Z"/>
+  </g>
+  <g stroke="#718063" stroke-width=".65" opacity=".86">
+    <path d="M144 77C146 61 150 46 151 33M146 66C136 62 131 56 128 49M148 56C158 51 161 46 161 41M145 70C154 67 163 61 167 55M149 49C143 46 141 41 141 36"/>
+    <path d="M131 100C112 88 91 74 69 69M118 92C115 82 107 72 101 68M105 83C93 87 82 84 72 79M118 93C110 100 100 102 92 100M91 77C90 71 85 65 82 64"/>
+    <path d="M165 98C180 86 197 76 214 71M177 89C178 79 183 72 188 68M190 81C201 84 211 82 216 77M178 90C184 99 192 101 199 100M202 75L205 66"/>
+  </g>
+  <g stroke="#7a886b" stroke-width=".45" opacity=".43"><path d="M130 52Q129 59 134 63M134 48Q133 54 137 58M157 66L162 61M159 63L164 58M79 87Q85 94 92 96M83 88Q90 94 97 96M111 76L116 83M115 78L120 86M174 81L178 76M175 84L180 78M201 92L208 88M203 94L210 90"/></g>
+  <!-- The lower leaf repeats the same three entire, leathery leaflets at a different angle. -->
+  <g fill="url(#br26-leaf-lower)" stroke="#737e63" stroke-width="1.15">
+    <path d="M99 174C85 170 76 156 76 142C76 132 81 124 88 121C101 125 111 138 113 149C115 161 109 170 99 174Z"/>
+    <path d="M99 194C87 207 71 214 58 209C45 204 40 191 43 181C45 172 59 169 71 173C82 176 92 183 99 194Z"/>
+    <path d="M120 183C115 172 118 159 127 151C136 143 149 140 158 145C162 154 157 166 148 174C140 183 129 186 120 183Z"/>
+  </g>
+  <g stroke="#738165" stroke-width=".65" opacity=".85">
+    <path d="M99 172C96 154 90 137 88 124M95 154C85 151 81 146 78 141M94 147C101 143 103 138 103 135M98 164C106 160 109 155 111 150M91 137L84 132"/>
+    <path d="M97 193C78 190 62 185 45 182M81 190C75 180 67 176 61 175M79 189C70 202 62 206 55 207M65 186L52 193M90 192C87 201 80 207 74 209"/>
+    <path d="M121 182C132 170 144 157 156 147M132 170C127 160 127 156 128 151M131 171C140 173 146 171 150 168M143 158C144 151 147 146 150 144M141 161L156 156"/>
+  </g>
+  <g stroke="#7d896c" stroke-width=".45" opacity=".44"><path d="M80 148L83 155M83 149L86 157M103 157L107 152M104 160L109 155M50 197L55 201M54 195L60 201M66 178L73 182M69 177L77 182M124 161L124 166M126 157L126 164M141 178L146 174M143 180L150 175"/></g>
+  <!-- An open panicle carries separate oval drupes, with their fleshy hulls intact. -->
+  <path d="M159 159C178 151 195 151 210 158C226 167 239 182 251 197" stroke="#8d8068" stroke-width="2.1"/>
+  <path d="M161 158C180 152 197 153 209 159M218 166C231 177 242 187 250 198" stroke="#c9b99a" stroke-width=".65"/>
+  <g stroke="#92846c" stroke-width="1.05">
+    <path d="M191 153C196 140 201 132 209 125M201 155C213 146 225 144 237 142M211 159C214 172 213 184 211 192M221 170C236 164 249 163 260 164M232 180C229 190 228 205 232 216M244 190C259 186 272 188 282 195M251 197C250 208 255 220 262 229M205 136L199 126M239 165L244 154"/>
+  </g>
+  <g stroke="#998776" stroke-width="1.05">
+    <path d="M207 126C198 124 196 113 201 104C205 96 215 93 220 99C226 107 220 118 213 125C211 127 209 128 207 126Z" fill="url(#br26-hull-rose)"/>
+    <path d="M198 128C192 129 184 124 184 116C183 109 187 103 193 104C200 106 203 115 201 122Z" fill="url(#br26-hull-ochre)"/>
+    <path d="M235 144C229 138 234 128 241 124C249 120 258 125 258 132C257 140 249 148 241 148Z" fill="url(#br26-hull-ochre)"/>
+    <path d="M245 155C239 150 243 141 250 137C257 133 267 138 266 145C265 153 256 160 249 159Z" fill="url(#br26-hull-rose)"/>
+    <path d="M261 163C264 154 273 151 280 156C287 160 288 170 282 176C277 181 269 176 265 172Z" fill="url(#br26-hull-rose)"/>
+    <path d="M210 190C203 189 195 197 197 207C199 216 207 220 214 216C222 212 221 200 216 193Z" fill="url(#br26-hull-rose)"/>
+    <path d="M232 214C224 215 221 226 225 234C229 243 239 246 245 240C251 233 244 221 238 216Z" fill="url(#br26-hull-ochre)"/>
+    <path d="M282 193C283 184 291 180 298 183C306 188 309 199 303 205C297 212 287 206 284 200Z" fill="url(#br26-hull-ochre)"/>
+    <path d="M262 227C255 228 252 238 257 246C262 254 272 256 277 249C283 240 274 231 268 228Z" fill="url(#br26-hull-rose)"/>
+  </g>
+  <g stroke="#a28d7c" stroke-width=".58" opacity=".74">
+    <path d="M207 123C207 115 211 105 217 101M190 108C188 114 192 123 197 125M238 142C242 134 248 130 254 128M248 155C253 148 259 143 263 142M266 164C271 161 277 162 282 168M211 192C207 200 208 209 212 214M232 217C230 225 234 234 241 239M287 191C291 190 299 197 301 203M262 231C260 239 265 247 272 250"/>
+  </g>
+  <g stroke="#dfc8b0" stroke-width=".65" opacity=".8"><path d="M202 107C204 102 210 99 214 100M187 113C186 116 188 121 191 123M240 129C244 125 250 125 253 128M248 141C252 137 258 138 261 141M269 158C274 156 279 158 281 161M201 198C198 204 200 211 204 214M227 224C225 230 229 236 233 238M291 185C296 185 301 191 302 195M258 236C257 241 262 247 266 249"/></g>
+  <g stroke="#8f7d6b" stroke-width=".7"><path d="M207 126L210 127M198 126L200 127M235 144L237 146M245 155L248 157M261 163L263 166M209 190L212 191M232 214L235 216M282 193L285 194M262 227L265 229"/></g>
+  <!-- A detached nut, its two hard valves parting naturally along the seam. -->
+  <g transform="translate(185 278) rotate(-27)">
+    <path d="M-13-31C-25-25-28-8-24 9C-22 24-13 34-2 35C11 35 21 25 24 11C28-5 21-22 12-30C5-36-5-36-13-31Z" fill="url(#br26-shell)" stroke="#92836b" stroke-width="1.3"/>
+    <path d="M-5-29C-13-16-11 6-8 25C-5 31 2 33 8 27C14 14 11-11 7-26C4-31 0-33-5-29Z" fill="#867968" stroke="#8f8069" stroke-width=".8"/>
+    <path d="M-2-25C-9-17-8-1-6 13C-5 22-1 28 4 26C10 22 10 6 7-7C6-17 2-24-2-25Z" fill="url(#br26-kernel)" stroke="#81876a" stroke-width=".75"/>
+    <path d="M-3-23C-7-16-7-8-6-2C-4-6-2-4-1-9C0-13 3-13 3-18L1-23Z" fill="#a58f8b" fill-opacity=".75"/>
+    <path d="M-5-29C-14-17-13 5-10 20C-9 26-7 30-3 33C-15 30-21 20-24 7C-26-8-23-23-13-30C-10-32-7-32-5-29Z" fill="url(#br26-shell-light)" stroke="#98886d" stroke-width=".85"/>
+    <path d="M7-28C11-16 15 3 12 18C11 25 8 31 3 34C15 31 22 21 24 8C26-7 19-24 11-30Z" fill="url(#br26-shell-light)" stroke="#98886d" stroke-width=".85"/>
+    <g stroke="#ac9c7d" stroke-width=".5" opacity=".73"><path d="M-14-26C-22-14-22 3-18 16M-11-25C-18-12-18 5-14 19M-9-21C-15-9-14 5-13 12M-21-12C-22-6-21 1-20 5M-17 19C-14 25-11 29-7 30M13-25C19-15 22 0 20 10M11-20C16-7 19 7 15 20M14-10C17 1 16 12 13 18M19 17C16 24 12 28 9 30M-22 11L-20 17M18-17L20-12"/></g>
+    <path d="M-5-27C-11-12-10 8-7 22M7-25C12-11 13 7 10 20" stroke="#f1e6cc" stroke-width=".8"/>
+    <path d="M1-17C-1-5 0 9 3 21M3-8L6-3M0 4L-3 8M2 15L5 17" stroke="#89996d" stroke-width=".5"/>
+  </g>
+  <!-- A second split nut seen more obliquely; fine shell grain follows its rounded body. -->
+  <g transform="translate(274 278) rotate(29)">
+    <path d="M-9-31C-21-29-28-13-24 2C-21 18-13 30-2 32C9 34 20 23 23 8C27-7 21-22 11-30C5-34-2-34-9-31Z" fill="url(#br26-shell)" stroke="#95866d" stroke-width="1.3"/>
+    <path d="M-5-29C-12-20-14-2-8 15C-5 24 0 29 6 25C13 17 12-6 5-25C2-30-2-32-5-29Z" fill="#877965" stroke="#938269" stroke-width=".8"/>
+    <path d="M-3-25C-10-18-10-2-5 13C-3 19 1 24 5 21C10 16 8 1 5-10C2-20 1-25-3-25Z" fill="url(#br26-kernel)" stroke="#7f8968" stroke-width=".75"/>
+    <path d="M-3-24C-8-19-9-12-8-5L-5-7L-3-4L-1-10L2-12L1-20Z" fill="#a18b88" fill-opacity=".72"/>
+    <path d="M-5-29C-15-16-15-1-11 13C-9 21-5 28 0 31C-13 29-20 16-23 1C-26-12-20-27-9-31Z" fill="url(#br26-shell-light)" stroke="#9b8a6e" stroke-width=".8"/>
+    <path d="M5-29C13-13 16 2 12 15C11 23 6 28 1 32C13 30 20 20 23 7C25-9 19-24 10-30Z" fill="url(#br26-shell-light)" stroke="#9b8a6e" stroke-width=".8"/>
+    <g stroke="#ac9b7c" stroke-width=".5" opacity=".73"><path d="M-13-27C-22-17-22-3-18 11M-10-24C-18-11-17 3-14 13M-11-17C-14-6-14 3-11 10M-18 14C-14 22-11 26-6 28M-21-9L-21-2M12-25C18-14 21-1 19 9M11-19C17-6 18 7 14 16M14-8C16 0 16 8 13 13M17 18C14 24 10 27 7 29M-20 9L-18 15M19-13L21-7"/></g>
+    <path d="M-5-27C-12-16-12-2-8 12M6-26C13-11 14 3 11 14" stroke="#f1e7cc" stroke-width=".8"/>
+    <path d="M-1-18C-1-8 1 6 4 17M0-3L-3 1M2 9L5 11" stroke="#88976a" stroke-width=".5"/>
+  </g>
+  <!-- The exposed kernel retains a small, papery violet-brown skin patch. -->
+  <path d="M233 306C239 302 248 305 252 312C257 319 254 326 248 328C241 330 232 323 229 316C227 311 229 308 233 306Z" fill="url(#br26-loose-kernel)" stroke="#858b6c" stroke-width="1.05"/>
+  <path d="M233 306C229 308 228 311 230 315C232 318 234 318 235 321L238 320L239 315L236 313L238 309Z" fill="#aa9290" fill-opacity=".76" stroke="#99877f" stroke-width=".5"/>
+  <path d="M237 308C241 311 248 318 251 324M241 314L246 314M245 319L242 322M232 310L234 313" stroke="#c7c9a0" stroke-width=".65"/>
+  <path d="M236 324L240 326M248 309L251 313M249 318L251 320" stroke="#879568" stroke-width=".5" opacity=".8"/>
+  <g stroke="#8f806a" stroke-width=".6"><path d="M108 279L112 278M119 253L122 252M136 221L140 220M151 181L155 180M164 147L167 147M179 110L182 109"/></g>
+</svg>

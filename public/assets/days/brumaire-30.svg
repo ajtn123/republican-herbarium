@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br30-title br30-desc">
+  <title id="br30-title">Rouleau — stone field roller</title>
+  <desc id="br30-desc">An eighteenth-century agricultural roller viewed obliquely. One massive solid stone cylinder turns on a through axle, carried in two iron-lined bearings at the ends of a pegged oak frame. Two long wooden tow shafts extend forward from its crossbeam. The round exposed stone end, gently worn rolling surface, axle collars, tenons and fine engraved marks show its construction.</desc>
+  <defs>
+    <linearGradient id="br30-stone" x1="178" y1="183" x2="161" y2="284" gradientUnits="userSpaceOnUse"><stop stop-color="#c8c4b1" stop-opacity=".86"/><stop offset=".3" stop-color="#b9b7a4" stop-opacity=".9"/><stop offset=".67" stop-color="#a5a693" stop-opacity=".94"/><stop offset="1" stop-color="#888e7f" stop-opacity=".96"/></linearGradient>
+    <linearGradient id="br30-end" x1="233" y1="216" x2="279" y2="279" gradientUnits="userSpaceOnUse"><stop stop-color="#b9b8a3"/><stop offset=".47" stop-color="#aaa995"/><stop offset="1" stop-color="#8f9482"/></linearGradient>
+    <linearGradient id="br30-oak" x1="127" y1="135" x2="124" y2="165" gradientUnits="userSpaceOnUse"><stop stop-color="#b6a17b"/><stop offset=".48" stop-color="#a38e67"/><stop offset="1" stop-color="#827352"/></linearGradient>
+    <linearGradient id="br30-shaft" x1="137" y1="98" x2="151" y2="99" gradientUnits="userSpaceOnUse"><stop stop-color="#a08b63"/><stop offset=".38" stop-color="#b6a17b"/><stop offset="1" stop-color="#857553"/></linearGradient>
+    <linearGradient id="br30-rail" x1="299" y1="208" x2="311" y2="213" gradientUnits="userSpaceOnUse"><stop stop-color="#b09b74"/><stop offset=".55" stop-color="#9b865f"/><stop offset="1" stop-color="#7c7052"/></linearGradient>
+    <linearGradient id="br30-iron" x1="285" y1="245" x2="305" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#898b74"/><stop offset=".48" stop-color="#666e5b"/><stop offset="1" stop-color="#4e594a"/></linearGradient>
+    <clipPath id="br30-surface"><path d="M111 170L254 201C291 209 294 287 254 297L111 266C72 258 72 178 111 170Z"/></clipPath>
+    <clipPath id="br30-endclip"><ellipse cx="254" cy="249" rx="29" ry="48"/></clipPath>
+  </defs>
+
+  <!-- The two long, slightly bowed shafts are tenoned through the forward beam. -->
+  <g stroke="#635d46" stroke-width="1.4">
+    <path d="M126 153C131 117 134 79 141 44Q143 40 148 42L153 45C145 79 143 118 139 156Z" fill="url(#br30-shaft)"/>
+    <path d="M139 156L144 151C148 115 149 80 157 47L153 45C145 79 143 118 139 156Z" fill="#837353" stroke-width=".95"/>
+    <path d="M256 178C260 143 265 105 272 68Q275 64 280 66L285 69C277 105 273 143 269 181Z" fill="url(#br30-shaft)"/>
+    <path d="M269 181L274 176C278 142 282 105 289 71L285 69C277 105 273 143 269 181Z" fill="#7f7252" stroke-width=".95"/>
+  </g>
+  <g stroke="#716448" stroke-width=".62" opacity=".82">
+    <path d="M131 145C135 120 136 100 139 79M140 72L144 49M135 145L138 122M140 110L143 85M145 72L149 49M262 167L267 126M268 116L274 78M266 171L270 141M272 130L275 108M277 95L281 73"/>
+    <path d="M137 94C134 90 135 85 138 82C141 86 141 91 137 94ZM137 79C131 87 133 97 137 101M142 83C146 92 141 99 140 103M271 136C268 133 269 127 272 124C275 128 274 133 271 136ZM269 120C264 128 267 138 270 143M276 123C279 131 276 140 274 144"/>
+  </g>
+  <g stroke="#d0bb92" stroke-width=".7" opacity=".76"><path d="M130 144L134 117M137 103L141 75M143 65L147 46M260 168L265 137M268 121L273 92M276 82L279 69"/></g>
+  <g stroke="#6b6249" stroke-width=".65" fill="#857756"><path d="M142 44L148 42L153 45L147 47Z"/><path d="M273 68L280 66L285 69L279 72Z"/></g>
+  <g fill="#5f634e" stroke="#4f5543" stroke-width=".7"><path d="M136 69L147 71L146 78L135 76Z"/><path d="M267 95L279 97L278 104L266 102Z"/></g>
+  <g stroke="#b5ae8b" stroke-width=".5"><path d="M137 71L146 73M268 97L278 99"/></g>
+
+  <!-- Far side of the open rectangular chassis, behind the stone. -->
+  <path d="M94 140L106 143L88 220L75 218Z" fill="url(#br30-oak)" stroke="#615b44" stroke-width="1.4"/>
+  <path d="M106 143L111 147L93 221L88 220Z" fill="#7d7051" stroke="#615b44" stroke-width=".95"/>
+  <path d="M99 149L85 210M101 156L96 180M91 193L87 211" stroke="#d0ba90" stroke-width=".65" opacity=".7"/>
+  <path d="M96 151L91 172M90 180L85 201M82 209L80 216" stroke="#716548" stroke-width=".65"/>
+  <path d="M70 202L87 205L92 212L88 228L70 225L65 218Z" fill="#8e805d" stroke="#605b43" stroke-width="1.3"/>
+  <path d="M70 202L76 209L92 212M76 209L70 225" stroke="#c1aa7d" stroke-width=".7"/>
+  <ellipse cx="78" cy="215" rx="6.5" ry="9" fill="url(#br30-iron)" stroke="#535b47" stroke-width="1.1"/>
+  <path d="M66 211L109 220L108 228L64 219Q61 214 66 211Z" fill="#6b715c" stroke="#515843" stroke-width="1.1"/>
+  <path d="M68 213L105 221" stroke="#b0af8f" stroke-width=".65"/>
+
+  <!-- A single monolithic cylinder: no staves, joints, hoops or hollow mouth. -->
+  <path d="M111 170L254 201C291 209 294 287 254 297L111 266C72 258 72 178 111 170Z" fill="url(#br30-stone)" stroke="#686c58" stroke-width="1.6"/>
+  <g clip-path="url(#br30-surface)">
+    <path d="M95 181C133 183 188 196 245 211M88 192C132 195 180 206 222 215M86 210C125 212 177 226 220 233M88 235C125 240 170 252 220 261M98 254C143 262 183 270 227 281M110 263L215 286" stroke="#d7d2bc" stroke-width=".72" opacity=".67"/>
+    <g stroke="#777d68" stroke-width=".6" opacity=".7">
+      <path d="M95 186C110 186 127 191 139 193M154 197L179 202M190 205L216 211M91 199C102 199 115 202 126 205M137 208L157 212M173 214C184 216 196 220 207 221M89 224C106 225 115 229 130 231M145 235L163 239M178 243L205 248M93 244C108 248 123 250 135 254M148 258L175 264M188 267L210 272M111 260L135 265M153 270L172 274"/>
+      <path d="M114 179L121 183M135 185L143 189M164 193L172 197M188 198L197 203M213 205L222 209M88 205L94 210M86 216L93 221M89 233L97 239M94 245L102 251M103 256L111 263M127 264L135 271M145 269L152 276M164 273L171 280M183 277L190 284M204 282L210 289"/>
+      <path d="M112 219L117 217L124 219M142 202L148 203L152 207M171 231L174 227L181 229M183 256L188 253L192 254M133 244L136 241L140 242M208 224L214 225L218 228M103 238L106 236M151 225L154 227M197 242L201 241M119 197L123 199"/>
+    </g>
+    <g stroke="#8c8e79" stroke-width=".48" opacity=".65"><path d="M101 190L106 192M129 197L134 198M158 206L163 207M188 214L192 215M100 212L107 213M120 224L126 225M155 233L160 235M201 235L207 236M109 249L115 251M143 253L149 254M162 263L168 264M196 273L202 275M92 226L96 227M178 219L182 221"/></g>
+  </g>
+  <!-- The full round end remains readable beyond its small central axle boss. -->
+  <ellipse cx="254" cy="249" rx="29" ry="48" fill="url(#br30-end)" stroke="#666c56" stroke-width="1.5"/>
+  <path d="M251 204C234 207 226 226 228 250C230 270 237 287 253 293" stroke="#d1cdb5" stroke-width="1" opacity=".72"/>
+  <path d="M261 207C274 218 279 241 276 260C274 275 269 286 260 291" stroke="#7d826c" stroke-width=".7" opacity=".7"/>
+  <g clip-path="url(#br30-endclip)" stroke="#727b63" stroke-width=".6" opacity=".7">
+    <path d="M243 211L238 218M249 209L244 217M267 218L272 226M269 229L274 235M270 269L274 262M264 284L270 276M240 281L235 273M234 267L231 258M231 244L234 236M236 225L240 220"/>
+    <path d="M247 226L243 230L244 236M261 219L258 223L259 228M268 239L264 242L266 246M241 255L238 259L241 264M254 277L259 274L261 276M250 287L248 283M263 261L259 263L260 268M246 241L243 243M257 235L261 237M247 270L249 273"/>
+    <path d="M231 223L235 227M229 233L232 236M229 254L233 257M232 267L236 271M238 279L243 283M248 289L252 294M267 283L270 286M273 270L278 273M276 253L281 255M276 235L281 238M269 218L275 221"/>
+  </g>
+  <g stroke="#d1c9ae" stroke-width=".55" opacity=".68"><path d="M240 230L237 238M235 248L237 257M245 278L250 283M259 211L265 217M269 248L269 257M257 281L260 278"/></g>
+
+  <!-- An iron sleeve in the stone receives the through axle. -->
+  <ellipse cx="254" cy="249" rx="8.6" ry="13.7" fill="#737b65" stroke="#58614e" stroke-width="1.1"/>
+  <ellipse cx="255" cy="249" rx="5.1" ry="9.2" fill="#4f5b49" stroke="#a8aa8a" stroke-width=".65"/>
+  <path d="M256 243L302 252L301 262L254 253Q251 247 256 243Z" fill="url(#br30-iron)" stroke="#515b46" stroke-width="1.15"/>
+  <path d="M258 245L299 254" stroke="#b7b295" stroke-width=".7"/>
+  <path d="M259 251L284 256" stroke="#4c5744" stroke-width=".65"/>
+  <path d="M265 243C268 244 270 251 267 256L271 257C275 251 273 245 270 244Z" fill="#68715b" stroke="#4f5945" stroke-width=".8"/>
+
+  <!-- Forward crossbeam and mortised near side rail complete the open frame. -->
+  <path d="M94 137L107 132L319 173L309 181Z" fill="#baa780" stroke="#625b44" stroke-width="1.35"/>
+  <path d="M94 137L309 178L309 193L94 152Z" fill="url(#br30-oak)" stroke="#605b43" stroke-width="1.55"/>
+  <path d="M309 178L319 173L319 188L309 193Z" fill="#7b7052" stroke="#605b43" stroke-width="1"/>
+  <path d="M302 179L315 182L300 261L286 258Z" fill="url(#br30-rail)" stroke="#615b44" stroke-width="1.45"/>
+  <path d="M315 182L320 186L306 262L300 261Z" fill="#796d50" stroke="#615b44" stroke-width="1"/>
+  <path d="M98 141L155 152M166 154L212 163M222 165L302 180M99 149L132 155M143 157L185 165M198 168L238 176M249 178L300 188" stroke="#cfb98e" stroke-width=".65" opacity=".74"/>
+  <g stroke="#706447" stroke-width=".62" opacity=".83">
+    <path d="M102 146L126 150M148 155L173 160M187 162L208 166M222 169L248 174M262 177L284 182M302 184L296 211M295 219L288 251M308 190L303 215M301 226L296 253M313 201L310 217M308 234L304 253"/>
+    <path d="M186 158C184 155 176 152 173 154C176 158 183 161 186 158ZM170 150C178 151 188 154 191 160M169 157C177 163 188 164 193 162M298 223C295 220 296 214 299 212C301 216 301 221 298 223ZM298 208C292 216 293 226 297 231M302 212C306 221 302 229 300 233"/>
+  </g>
+  <g stroke="#675f45" stroke-width=".5" opacity=".75"><path d="M98 147L101 152M104 148L107 153M110 149L113 154M145 156L148 161M152 158L155 163M220 171L223 176M227 172L230 177M277 182L280 187M284 183L287 188M301 240L305 244M299 248L303 252M315 190L318 187M314 197L317 194"/></g>
+  <g stroke="#d0bb94" stroke-width=".62" opacity=".74"><path d="M305 190L300 212M296 231L292 250M310 188L306 210M102 136L143 144M204 156L232 161M274 168L303 174"/></g>
+  <!-- Pegged shaft tenons and the bearing straps provide visible load paths. -->
+  <g fill="#8b7b58" stroke="#5e5841" stroke-width=".85"><path d="M126 143L141 146L140 160L125 157Z"/><path d="M256 168L271 171L270 185L255 182Z"/><path d="M300 181L311 184L309 197L298 194Z"/></g>
+  <g fill="#5b5b43" stroke="#c2ad82" stroke-width=".6"><ellipse cx="133" cy="152" rx="2.2" ry="2.5"/><ellipse cx="263" cy="177" rx="2.2" ry="2.5"/><ellipse cx="304.5" cy="189.5" rx="2" ry="2.3"/></g>
+  <path d="M287 244L302 247L308 255L304 272L286 268L281 261Z" fill="#97835d" stroke="#5e5941" stroke-width="1.35"/>
+  <path d="M287 244L292 252L308 255M292 252L286 268" stroke="#c7b087" stroke-width=".7"/>
+  <path d="M289 249C298 247 304 253 302 261L300 269L291 267L293 258C294 255 292 253 287 254Z" fill="url(#br30-iron)" stroke="#505a46" stroke-width="1"/>
+  <ellipse cx="297" cy="258" rx="4.3" ry="6.4" fill="#4e5947" stroke="#a5a78a" stroke-width=".65"/>
+  <path d="M296 253L310 256L310 263L296 260Q294 257 296 253Z" fill="#747b64" stroke="#4e5844" stroke-width="1"/>
+  <ellipse cx="309.5" cy="259.5" rx="2.2" ry="3.8" fill="#565f4c" stroke="#474f3e" stroke-width=".75"/>
+  <path d="M306 253L305 267M304 266L308 267" stroke="#4a5441" stroke-width="1.6"/>
+  <g fill="#505a46" stroke="#b5ad8b" stroke-width=".45"><ellipse cx="289" cy="250" rx="1.3" ry="1.5"/><ellipse cx="294" cy="265" rx="1.3" ry="1.5"/><ellipse cx="73" cy="207" rx="1.2" ry="1.4"/><ellipse cx="72" cy="222" rx="1.2" ry="1.4"/></g>
+</svg>

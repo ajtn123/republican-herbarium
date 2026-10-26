@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br13-title br13-desc">
+  <title id="br13-title">Topinambour — Helianthus tuberosus</title>
+  <desc id="br13-desc">A short Jerusalem artichoke sprig bears rough, toothed, three-veined leaves and a small yellow composite flower. Below it, two rose-ochre stem tubers swell into irregular segmented knobs, their pink bud scales and sunken necks connected by a thin winding stolon. Fine curved umber engraving describes the earthy skins.</desc>
+  <defs>
+    <linearGradient id="br13-tuber" x1="105" y1="226" x2="173" y2="311" gradientUnits="userSpaceOnUse"><stop stop-color="#dcc5a0" stop-opacity=".69"/><stop offset=".38" stop-color="#c5a382" stop-opacity=".79"/><stop offset=".74" stop-color="#bd9181" stop-opacity=".8"/><stop offset="1" stop-color="#a67f68" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="br13-rear" x1="246" y1="201" x2="280" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#dbc49b" stop-opacity=".76"/><stop offset=".45" stop-color="#c2a07c" stop-opacity=".8"/><stop offset="1" stop-color="#ad8270" stop-opacity=".87"/></linearGradient>
+    <linearGradient id="br13-leaf" x1="129" y1="108" x2="170" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#b3b499" stop-opacity=".58"/><stop offset=".45" stop-color="#98a083" stop-opacity=".64"/><stop offset="1" stop-color="#768767" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="br13-leaf-right" x1="269" y1="110" x2="196" y2="161" gradientUnits="userSpaceOnUse"><stop stop-color="#b1b296" stop-opacity=".63"/><stop offset="1" stop-color="#7f8b68" stop-opacity=".77"/></linearGradient>
+    <linearGradient id="br13-ray" x1="0" y1="-8" x2="0" y2="-28" gradientUnits="userSpaceOnUse"><stop stop-color="#b4964f" stop-opacity=".88"/><stop offset=".46" stop-color="#d0b664" stop-opacity=".88"/><stop offset="1" stop-color="#ddca83" stop-opacity=".76"/></linearGradient>
+    <radialGradient id="br13-disc"><stop stop-color="#a18b50"/><stop offset=".6" stop-color="#a38c4e"/><stop offset="1" stop-color="#7a7043"/></radialGradient>
+  </defs>
+  <!-- A short, slightly angled, rough stem; the long underground stem is much thinner. -->
+  <path d="M176 224C180 209 177 192 178 178C180 160 183 143 185 127C188 108 195 91 202 77L205 77C197 95 192 110 190 128C187 148 183 162 182 179C181 196 185 209 180 225Z" fill="#9b9e7b" stroke="#697353" stroke-width="1.25"/>
+  <path d="M179 218C182 202 179 190 180 179C183 158 185 144 187 128M190 114C194 98 198 89 202 81" stroke="#d1ceb0" stroke-width=".7"/>
+  <g stroke="#6a7453" stroke-width="1.6">
+    <path d="M181 177C169 172 160 168 151 162"/>
+    <path d="M185 151C197 147 203 143 211 138"/>
+    <path d="M189 119C180 114 172 109 165 101"/>
+  </g>
+  <!-- Coarse ovate blades, pointed and serrate, with three strong veins from each base. -->
+  <g stroke="#657052" stroke-width="1.2">
+    <path d="M153 163C145 176 129 179 117 172L110 171L112 167L102 164L105 161L96 155L100 152L91 145L95 143L86 134L91 133L79 119L97 124L98 120L109 126L111 122L122 129L124 126L134 134L138 132L144 142L148 141C154 148 156 156 153 163Z" fill="url(#br13-leaf)"/>
+    <path d="M208 140C207 127 213 116 225 110L232 106L233 110L244 104L246 108L257 102L258 106L273 100L269 113L273 113L266 123L269 125L259 134L261 137L250 142L251 146L240 149L238 153L226 151C218 151 211 147 208 140Z" fill="url(#br13-leaf-right)"/>
+    <path d="M166 103C155 108 144 103 138 96L132 93L134 90L127 83L130 81L124 72L128 71L123 59L136 66L138 63L146 70L149 68L156 77L159 76L164 86L167 87C171 93 170 99 166 103Z" fill="url(#br13-leaf)"/>
+  </g>
+  <g stroke="#667651" stroke-width=".73" opacity=".9">
+    <path d="M152 163C132 152 108 136 82 121M151 164C136 162 122 165 116 171M151 161C147 147 142 136 133 132M138 155C127 152 118 153 105 160M125 147C113 145 105 147 99 150M112 138C105 137 98 137 91 134M138 155C137 145 133 137 126 130M125 147C123 138 117 131 111 126M112 138L104 128M139 165C132 168 128 172 127 175M130 153L123 158M144 149L149 149"/>
+    <path d="M209 140C228 126 248 111 269 102M210 139C213 127 220 118 229 112M211 141C224 141 238 144 245 143M221 132C223 121 228 116 233 111M232 124C245 124 253 127 260 127M244 115L247 108M222 132C234 133 245 136 251 140M251 111L262 110M220 143C224 146 228 150 230 151M232 123L239 113M253 118L265 116"/>
+    <path d="M166 102C151 90 136 76 125 61M164 101C153 98 144 96 137 94M165 100C162 87 156 79 149 72M155 93C151 93 143 90 136 88M147 84L132 80M155 93L153 83M144 80L139 68"/>
+  </g>
+  <g stroke="#717c5d" stroke-width=".48" opacity=".58">
+    <path d="M104 144L111 148M106 148L113 152M117 158L124 161M119 162L125 165M136 143L140 149M139 141L143 148M130 169L136 167M222 120L217 128M226 118L221 126M241 132L248 133M241 135L247 136M257 119L252 124M257 122L253 126M142 88L146 92M141 91L146 95M153 80L157 87"/>
+    <path d="M179 189L176 187M181 194L184 192M177 204L175 201M180 212L183 210M182 167L185 166M186 138L183 136M192 106L195 105M188 119L185 117"/>
+  </g>
+  <!-- An involucre of narrow green bracts holds a small composite head. -->
+  <path d="M203 82L194 77L189 70L198 73L198 64L204 70L210 63L211 73L219 70L214 79L207 84Z" fill="#8d9470" stroke="#6e7755" stroke-width=".8"/>
+  <g transform="translate(207 60) rotate(9)" fill="url(#br13-ray)" stroke="#a58c4d" stroke-width=".78">
+    <path d="M-3-7C-6-13-7-22-4-28L-1-26L1-28C4-23 4-14 2-8Z"/>
+    <path d="M-3-7C-6-13-6-22-3-27L0-25L2-27C5-20 3-13 2-8Z" transform="rotate(31)"/>
+    <path d="M-3-7C-6-14-6-22-3-27L0-25L2-27C4-21 4-13 2-8Z" transform="rotate(62)"/>
+    <path d="M-3-7C-6-12-6-22-3-26L0-25L2-27C5-22 4-14 2-8Z" transform="rotate(94)"/>
+    <path d="M-3-7C-6-13-6-22-3-26L0-25L2-27C5-20 4-13 2-8Z" transform="rotate(124)"/>
+    <path d="M-3-7C-6-13-7-22-4-27L-1-25L2-27C5-21 4-13 2-8Z" transform="rotate(155)"/>
+    <path d="M-3-7C-6-14-5-22-3-27L0-25L2-26C5-20 3-13 2-8Z" transform="rotate(187)"/>
+    <path d="M-3-7C-6-13-7-21-4-26L-1-25L2-27C5-20 4-12 2-8Z" transform="rotate(218)"/>
+    <path d="M-3-7C-6-13-6-22-3-27L0-25L2-27C5-21 3-13 2-8Z" transform="rotate(248)"/>
+    <path d="M-3-7C-6-13-6-22-3-26L0-25L2-27C5-21 4-13 2-8Z" transform="rotate(279)"/>
+    <path d="M-3-7C-6-13-7-21-4-27L-1-25L2-27C5-20 4-13 2-8Z" transform="rotate(310)"/>
+  </g>
+  <g stroke="#b49d5c" stroke-width=".5" opacity=".8">
+    <path d="M206 49L207 36M211 50L220 40M216 56L230 51M216 63L231 67M213 68L224 79M206 69L207 84M200 68L191 79M197 61L182 65M198 55L184 48M201 50L196 39"/>
+  </g>
+  <ellipse cx="207" cy="60" rx="10" ry="9.7" transform="rotate(9 207 60)" fill="url(#br13-disc)" stroke="#7c7148" stroke-width=".9"/>
+  <g stroke="#d0ba78" stroke-width=".7" opacity=".8"><path d="M201 55l1-1M206 53l1-1M211 55l1 1M214 59l1 1M210 64l1 1M205 66l1 1M200 62l1 1M204 59l1-1M208 59l1 1M207 63l1-1"/></g>
+  <g stroke="#746942" stroke-width=".55"><path d="M202 57l1 1M207 55l1 1M212 58l1 1M203 64l1 1M210 62l1-1M199 59l1-1M207 60l-1 1M213 64l-1 1"/></g>
+  <!-- Pale slender stolons curve between the basal crown and the swollen storage stems. -->
+  <path d="M179 217C191 215 195 222 204 224C216 226 219 215 229 217C237 219 239 229 246 233M178 219C165 212 158 211 150 216C144 220 139 227 132 231" stroke="#88785d" stroke-width="3"/>
+  <path d="M179 217C192 216 195 223 204 224C216 225 219 215 229 217C237 220 240 230 245 232M177 218C163 213 158 213 150 217C143 222 139 228 132 231" stroke="#c3b394" stroke-width="1.35"/>
+  <path d="M204 223L204 227M224 216L223 219M238 223L235 226M149 216L151 219M138 225L140 227" stroke="#827058" stroke-width=".65"/>
+  <!-- Rear tuber has a compressed neck, transverse growth folds and rounded buds. -->
+  <path d="M246 230C245 224 243 219 248 215C253 212 259 216 261 220C269 211 283 212 289 220C293 224 293 230 291 234C303 231 315 239 314 250C314 258 307 263 301 265C307 273 302 285 291 287C283 289 276 285 272 280C267 288 258 289 252 283C246 278 247 271 249 266C237 267 229 260 231 251C232 243 239 239 246 237Z" fill="url(#br13-rear)" stroke="#806952" stroke-width="1.5"/>
+  <path d="M246 235C250 236 254 238 256 242M261 220C265 225 268 230 267 235M291 234C286 235 282 239 281 243M301 265C291 266 284 264 278 260M272 280C271 273 266 268 262 266M249 265C254 259 255 252 253 247" stroke="#98785e" stroke-width=".85" opacity=".83"/>
+  <path d="M248 234C252 233 255 234 258 237M262 223C265 228 265 231 265 234M292 239C287 240 285 242 284 245M299 262C291 263 284 261 281 258M270 279C270 274 266 269 263 268M247 261C250 256 251 253 250 250" stroke="#e0c2a1" stroke-width=".75" opacity=".8"/>
+  <g fill="#bd9084" fill-opacity=".61" stroke="#947265" stroke-width=".65">
+    <path d="M273 220C276 218 279 220 279 222L276 225L272 223Z"/>
+    <path d="M301 244C303 241 307 242 308 245L305 248L301 247Z"/>
+    <path d="M287 276C289 273 294 274 294 277L290 279L287 278Z"/>
+    <path d="M239 252C240 249 244 248 246 250L244 253L241 254Z"/>
+  </g>
+  <g stroke="#80674e" stroke-width=".54" opacity=".65"><path d="M250 219Q248 223 250 227M254 217Q257 219 257 223M267 218Q270 216 273 216M285 220Q289 224 288 229M298 238Q304 237 308 242M310 249Q313 253 308 258M297 270Q300 274 296 279M285 284Q279 284 276 279M256 281Q251 278 252 273M236 253Q235 257 240 261M270 247l4 2M287 253l4-1M263 257l3 2"/></g>
+  <!-- The larger tuber bends through swollen, tightly constricted segments. It has no ginger-like fingers. -->
+  <path d="M132 227C136 220 132 214 125 214C120 214 118 219 117 224C106 215 93 216 88 226C85 232 87 238 91 243C78 238 65 245 66 256C67 264 74 270 82 271C73 280 79 292 91 294C97 295 103 292 107 290C106 303 116 313 128 309C134 307 138 303 140 299C144 311 157 318 168 311C174 307 175 300 175 296C186 307 201 303 207 293C213 282 209 272 202 266C209 255 204 243 193 240C186 238 180 241 176 245C173 234 164 226 155 230C150 231 147 235 145 239C143 231 137 227 132 227Z" fill="url(#br13-tuber)" stroke="#816951" stroke-width="1.6"/>
+  <path d="M118 224C121 232 120 240 116 245M91 243C100 245 106 249 109 254M82 271C93 269 101 273 107 278M107 290C113 284 120 281 126 280M140 299C142 290 139 284 137 279M175 296C173 288 168 280 161 278M202 266C191 264 181 266 176 273M176 245C172 254 163 258 158 259M145 239C144 248 139 253 132 257" stroke="#9b7a63" stroke-width=".95" opacity=".85"/>
+  <path d="M120 226C124 235 122 240 119 245M94 240C102 243 108 247 111 252M84 268C94 266 103 271 109 276M110 292C116 286 120 285 126 283M143 299C145 290 142 283 140 280M177 292C176 285 170 278 164 276M200 263C188 261 180 264 174 269M173 244C170 253 162 255 157 256M142 239C142 247 137 252 131 254" stroke="#e5c6a4" stroke-width=".85" opacity=".8"/>
+  <g fill="#bd8e80" fill-opacity=".6" stroke="#947061" stroke-width=".7">
+    <path d="M96 226C98 222 103 222 105 225L103 230L98 230Z"/>
+    <path d="M76 252C79 249 83 250 85 252L82 257L78 256Z"/>
+    <path d="M87 280C90 277 95 278 96 282L92 285L88 283Z"/>
+    <path d="M117 296C121 292 126 293 127 296L124 301L119 300Z"/>
+    <path d="M153 300C156 297 160 297 162 301L158 305L154 303Z"/>
+    <path d="M188 284C190 280 196 280 198 283L195 288L191 288Z"/>
+    <path d="M184 247C187 244 192 245 193 249L189 252L185 251Z"/>
+    <path d="M153 238C155 235 159 236 161 239L158 243L154 242Z"/>
+  </g>
+  <g stroke="#80624d" stroke-width=".6"><path d="M99 226l3-1M79 253l3-1M90 281l3 1M121 296l3 1M156 301l3 1M192 284l3-1M187 248l3 1M155 239l3 1"/></g>
+  <!-- Short curved engraved lines follow the bulges and collect by the pinched necks. -->
+  <g stroke="#866b54" stroke-width=".53" opacity=".66">
+    <path d="M91 227Q88 233 92 237M94 221Q99 218 105 220M108 222Q111 224 112 228M124 217l3 1M130 221l-1 4M124 237Q124 244 119 250M128 240Q128 248 123 253M70 252Q68 258 74 263M75 245Q80 243 85 246M99 250Q105 253 106 258M96 253Q101 256 103 260M80 278Q78 284 84 288M86 291Q92 293 97 289M96 276Q102 278 105 282M112 294Q110 302 117 305M116 307Q123 309 129 304M134 287Q137 293 134 299M131 288Q133 293 130 298M146 301Q150 309 156 311M166 307Q172 303 171 298M167 291Q165 285 159 282M164 294Q162 286 157 283M181 294Q187 299 194 297M200 292Q205 286 204 280M194 269Q185 268 180 274M195 272Q188 272 183 277M202 258Q204 251 198 247M185 243Q179 246 178 251M169 245Q166 251 159 253M166 241Q163 248 157 250M156 231Q149 232 148 237M138 234Q140 239 138 245M137 250l-4 4M143 269l5 2M114 268l4-2M154 289l2 3M186 259l4-1"/>
+  </g>
+  <g stroke="#9f7c65" stroke-width=".6" opacity=".7"><path d="M92 258Q89 263 83 263M118 260Q124 262 127 266M149 254Q153 257 155 263M150 275Q154 272 159 272M130 275Q126 273 123 274M182 283Q178 280 176 275"/></g>
+  <!-- A few fine adventitious roots emerge from stem nodes, never from a cut face. -->
+  <g stroke="#9b8669" stroke-width=".66" opacity=".8"><path d="M83 292C77 298 77 305 71 308M75 301l-5 1M127 310C124 317 129 321 123 328M125 318l-5 3M207 286C216 289 220 294 226 293M217 290l3-3M293 286C297 294 304 294 306 300"/></g>
+</svg>

@@ -12,9 +12,13 @@ const numbers=['I','II','III','IV','V','VI'];
 <Base title={`${f.zh}节 · ${f.fr}`} description={f.identity} accent={art.color}><div class="container">
   <div class="breadcrumb"><a href="/festivals/">年终补充日</a> / {i+1}</div>
   <article>
-    <header class="month-hero month-detail-hero festival-detail-hero">
-      <div class="page-head"><p class="eyebrow">{i===5?'闰年独有 · 第六补充日':`第 ${i+1} 补充日`}</p><h1>{f.zh}节<span lang="fr">{art.french}</span></h1><p class="subtitle">{f.subtitle}</p></div>
-      <div class="month-visual"><span class="hero-number" aria-hidden="true">{numbers[i]}</span><FestivalIllustration slug={f.slug} loading="eager"/></div>
+    <header class="festival-day-heading day-heading has-day-art">
+      <p class="eyebrow day-eyebrow">{i===5?'闰年独有 · 第六补充日':`第 ${i+1} 补充日`}</p>
+      <div class="day-title-block festival-title-block">
+        <div><h1>{f.zh}节</h1><p class="foreign-title" lang="fr">{art.french}</p></div>
+        <div class="festival-title-art"><span class="festival-day-number" aria-hidden="true">{numbers[i]}</span><FestivalIllustration slug={f.slug} loading="eager"/></div>
+      </div>
+      <p class="subtitle">{f.subtitle}</p>
     </header>
     <div class="festival-essay"><p>{f.identity}</p><p>{f.story}</p><p class="converter-note">关于节庆方案与历史实施的差别，参见 <a class="text-link" href="/sources/">资料与译名 →</a>。</p></div>
   </article>

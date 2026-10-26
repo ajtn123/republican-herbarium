@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brumaire-17-title brumaire-17-desc">
+<title id="brumaire-17-title">Cresson — Nasturtium officinale</title>
+<desc id="brumaire-17-desc">A watercress sprig with pale fleshy branching stems, several pinnate leaves made of rounded oval leaflets and a larger terminal leaflet. Fine adventitious roots trail from the lower stem joints; a small upright raceme carries tiny white four-petalled flowers, green buds and narrow young seed pods. Sage watercolor and fine umber-green engraving lines describe the specimen.</desc>
+<defs>
+ <linearGradient id="brumaire-17-leaf" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#b4b99a" stop-opacity=".61" /><stop offset=".5" stop-color="#9aa784" stop-opacity=".68" /><stop offset="1" stop-color="#758c6b" stop-opacity=".76" /></linearGradient>
+ <linearGradient id="brumaire-17-leaf-dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7b18c" stop-opacity=".6" /><stop offset=".65" stop-color="#8a9d77" stop-opacity=".72" /><stop offset="1" stop-color="#708765" stop-opacity=".77" /></linearGradient>
+ <linearGradient id="brumaire-17-stem" x1="140" y1="218" x2="149" y2="223" gradientUnits="userSpaceOnUse"><stop stop-color="#c4c7a6" /><stop offset=".45" stop-color="#a7b38c" /><stop offset="1" stop-color="#82966f" /></linearGradient>
+ <linearGradient id="brumaire-17-petal" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fbf6e9" /><stop offset=".65" stop-color="#f0ead9" /><stop offset="1" stop-color="#dbdac4" /></linearGradient>
+<g id="brumaire-17-blade"><path d="M0 0C4.5 -4.5 4.8 -12 12.9 -14.7C19.5 -16.65 26.7 -13.05 29.4 -5.85C32.7 .45 28.5 9.3 22.2 12.9C15.6 16.2 8.1 13.35 5.4 7.35C3.3 3.6 2.1 1.35 0 0Z" stroke="#627651" stroke-width="1.02" vector-effect="non-scaling-stroke" /><path d="M.7 0C10.2 .375 20.7 -.3 28.8 -1.8" fill="none" stroke="#667e56" stroke-width=".62" vector-effect="non-scaling-stroke" /><path d="M9 0Q10.8 -5.7 13.2 -10.8M9 0Q10.8 5.7 13.2 10.8M14.7 0Q16.5 -5.7 18.9 -10.8M14.7 0Q16.5 5.7 18.9 10.8M20.4 0Q22.2 -5.7 24.6 -9M20.4 0Q22.2 5.7 24.6 9" fill="none" stroke="#70855e" stroke-width=".47" opacity=".82" vector-effect="non-scaling-stroke" /><path d="M7.8 -8.4Q9 -10.95 11.4 -11.7M11.1 11.7Q13.2 13.2 15.9 12.9M22.8 8.25L24.9 5.85" fill="none" stroke="#607650" stroke-width=".42" opacity=".4" vector-effect="non-scaling-stroke" /><path d="M6 -4.2Q8.4 -7.95 12 -8.7" fill="none" stroke="#d6d5b5" stroke-width=".65" opacity=".6" vector-effect="non-scaling-stroke" /></g><g id="brumaire-17-flower"><path d="M-2 1L-3 -2L0 -3L3 -1L2 2L0 3Z" fill="#a4af87" stroke="#7e8b66" stroke-width=".5" />
+<path d="M-.65 -.6C-2.5 -2.1 -3.1 -4.8 -1.9 -6.1C-.7 -7.4 1.8 -6.8 2.4 -5.2C3.1 -3.2 1.5 -1.7 .7 -.5Z" transform="rotate(0)" fill="url(#brumaire-17-petal)" stroke="#a4a78b" stroke-width=".57" />
+<path d="M0 -1.3Q-.4 -3.5 -.2 -5" transform="rotate(0)" stroke="#d1d0b9" stroke-width=".38" />
+<path d="M-.65 -.6C-2.5 -2.1 -3.1 -4.8 -1.9 -6.1C-.7 -7.4 1.8 -6.8 2.4 -5.2C3.1 -3.2 1.5 -1.7 .7 -.5Z" transform="rotate(90)" fill="url(#brumaire-17-petal)" stroke="#a4a78b" stroke-width=".57" />
+<path d="M0 -1.3Q-.4 -3.5 -.2 -5" transform="rotate(90)" stroke="#d1d0b9" stroke-width=".38" />
+<path d="M-.65 -.6C-2.5 -2.1 -3.1 -4.8 -1.9 -6.1C-.7 -7.4 1.8 -6.8 2.4 -5.2C3.1 -3.2 1.5 -1.7 .7 -.5Z" transform="rotate(180)" fill="url(#brumaire-17-petal)" stroke="#a4a78b" stroke-width=".57" />
+<path d="M0 -1.3Q-.4 -3.5 -.2 -5" transform="rotate(180)" stroke="#d1d0b9" stroke-width=".38" />
+<path d="M-.65 -.6C-2.5 -2.1 -3.1 -4.8 -1.9 -6.1C-.7 -7.4 1.8 -6.8 2.4 -5.2C3.1 -3.2 1.5 -1.7 .7 -.5Z" transform="rotate(270)" fill="url(#brumaire-17-petal)" stroke="#a4a78b" stroke-width=".57" />
+<path d="M0 -1.3Q-.4 -3.5 -.2 -5" transform="rotate(270)" stroke="#d1d0b9" stroke-width=".38" />
+<g stroke="#ad9c61" stroke-width=".42"><path d="M0 0L-1.9 -1.8M0 0L1.8 -1.9M0 0L2 1.5M0 0L-1.6 1.7M0 0L.1 -2.6M0 0L.3 2.4" /></g>
+<g fill="#b7a367"><ellipse cx="-1.9" cy="-1.8" rx=".66" ry=".45" /><ellipse cx="1.8" cy="-1.9" rx=".6" ry=".42" /><ellipse cx="2" cy="1.5" rx=".62" ry=".43" /><ellipse cx="-1.6" cy="1.7" rx=".59" ry=".41" /><ellipse cx=".1" cy="-2.6" rx=".58" ry=".38" /><ellipse cx=".3" cy="2.4" rx=".6" ry=".4" /></g><circle r=".85" fill="#8d9b6b" stroke="#7c8a61" stroke-width=".34" /></g></defs>
+
+<g stroke="#8b8267" stroke-width=".67" opacity=".8">
+ <path d="M142 297C140 305 131 307 132 315C132 321 126 322 123 328M138 307C131 309 125 309 122 315M132 315C136 319 134 323 134 327M125 324L119 327" />
+ <path d="M158 280C153 287 157 293 151 300C147 305 149 313 145 319M154 287C148 287 144 291 143 296M152 300C158 303 156 309 157 313M148 307L142 310" />
+ <path d="M171 257C168 262 171 269 166 274C162 278 165 284 161 288M169 267C176 272 171 278 174 281M165 278L160 282" />
+</g>
+<g fill="url(#brumaire-17-stem)" stroke="#697c59" stroke-width="1.16">
+ <path d="M117 313C137 304 151 292 161 276C173 256 179 231 188 209C194 193 194 173 198 156C202 138 207 120 211 103C214 90 220 78 226 68L229 69C223 82 219 92 216 105C212 123 207 140 203 158C199 176 200 194 193 211C184 233 180 257 166 279C155 297 139 309 119 317Z" />
+ <path d="M172 250C155 237 145 220 134 204L137 202C150 220 159 235 175 246Z" />
+ <path d="M188 214C204 208 217 198 226 191L229 193C219 203 207 213 190 218Z" />
+ </g>
+<g stroke="#d4d1af" stroke-width=".8" opacity=".85">
+ <path d="M120 314C143 304 156 291 164 277C178 254 181 231 190 211M193 202C198 186 196 170 201 156M204 142L213 104M215 96C218 86 223 77 227 71M172 247C156 234 146 218 136 205M193 214C207 208 219 199 227 193" />
+</g>
+
+<g transform="translate(163 274) rotate(-153)">
+<path d="M0 0C17.28 -1 43.2 -4 72 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C19.44 -2 39.6 -4 57.6 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(20.16 -1.4) rotate(-60)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7911 0.7689)" /></g>
+<g transform="translate(22.32 -1.6) rotate(54)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7200 0.7244)" /></g>
+<g transform="translate(41.04 -2.5) rotate(-45)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.8400 0.8533)" /></g>
+<g transform="translate(43.2 -2.7) rotate(51)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7444 0.7689)" /></g>
+<g transform="translate(62.64 -2.3) rotate(-1)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(1.1289 1.0800)" /></g>
+</g>
+<g transform="translate(178 246) rotate(25)">
+<path d="M0 0C19.2 -1 48 -4 80 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C21.6 -2 44 -4 64 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(22.4 -1.4) rotate(-56)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.8800 0.8533)" /></g>
+<g transform="translate(24.8 -1.6) rotate(61)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.8000 0.8044)" /></g>
+<g transform="translate(45.6 -2.5) rotate(-50)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.9333 0.9489)" /></g>
+<g transform="translate(48 -2.7) rotate(54)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.8267 0.8533)" /></g>
+<g transform="translate(69.6 -2.3) rotate(2)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(1.2533 1.2000)" /></g>
+</g>
+<g transform="translate(137 207) rotate(-148)">
+<path d="M0 0C15.36 -1 38.4 -4 64 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C17.28 -2 35.2 -4 51.2 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(17.92 -1.4) rotate(-64)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.7044 0.6822)" /></g>
+<g transform="translate(19.84 -1.6) rotate(54)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.6400 0.6444)" /></g>
+<g transform="translate(36.48 -2.5) rotate(-45)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7467 0.7600)" /></g>
+<g transform="translate(38.4 -2.7) rotate(48)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.6622 0.6822)" /></g>
+<g transform="translate(55.68 -2.3) rotate(-4)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(1.0022 0.9600)" /></g>
+</g>
+<g transform="translate(197 174) rotate(-135)">
+<path d="M0 0C13.68 -1 34.2 -4 57 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C15.39 -2 31.35 -4 45.6 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(15.96 -1.4) rotate(-60)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.6267 0.6089)" /></g>
+<g transform="translate(17.67 -1.6) rotate(61)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.5689 0.5733)" /></g>
+<g transform="translate(32.49 -2.5) rotate(-50)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.6644 0.6756)" /></g>
+<g transform="translate(34.2 -2.7) rotate(51)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.5889 0.6089)" /></g>
+<g transform="translate(49.59 -2.3) rotate(-1)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.8933 0.8556)" /></g>
+</g>
+<g transform="translate(226 193) rotate(-24)">
+<path d="M0 0C15.6 -1 39 -4 65 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C17.55 -2 35.75 -4 52 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(18.2 -1.4) rotate(-56)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7156 0.6933)" /></g>
+<g transform="translate(20.15 -1.6) rotate(54)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.6489 0.6533)" /></g>
+<g transform="translate(37.05 -2.5) rotate(-45)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7578 0.7711)" /></g>
+<g transform="translate(39 -2.7) rotate(54)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.6711 0.6933)" /></g>
+<g transform="translate(56.55 -2.3) rotate(2)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(1.0178 0.9756)" /></g>
+</g>
+<g transform="translate(208 129) rotate(-24)">
+<path d="M0 0C10.8 -1 27 -4 45 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C12.15 -2 24.75 -4 36 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(25.65 -2.5) rotate(-50)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.5244 0.5333)" /></g>
+<g transform="translate(27 -2.7) rotate(48)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.4644 0.4800)" /></g>
+<g transform="translate(39.15 -2.3) rotate(-4)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.7044 0.6756)" /></g>
+</g>
+<g transform="translate(217 96) rotate(-111)">
+<path d="M0 0C6.48 -1 16.2 -4 27 -2" stroke="#70835d" stroke-width="1.15" />
+<path d="M1 -1C7.29 -2 14.85 -4 21.6 -3" stroke="#c6cbaa" stroke-width=".42" />
+<g transform="translate(15.39 -2.5) rotate(-45)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf-dark)" transform="scale(0.3156 0.3200)" /></g>
+<g transform="translate(16.2 -2.7) rotate(51)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.2800 0.2889)" /></g>
+<g transform="translate(23.49 -2.3) rotate(-1)">
+<use href="#brumaire-17-blade" fill="url(#brumaire-17-leaf)" transform="scale(0.4222 0.4044)" /></g>
+</g>
+
+<g fill="#a6b48b" stroke="#738261" stroke-width=".65">
+ <path d="M137 300Q140 296 144 297L145 301Q141 303 137 302Z" />
+ <path d="M158 280Q161 276 166 276L167 280Q162 283 158 283Z" />
+ <path d="M170 253Q173 249 178 249L177 253Q173 256 170 255Z" />
+ <path d="M187 215L186 211Q190 209 193 210L193 214Q190 217 187 215Z" />
+ <path d="M197 158L196 154L201 151L204 155L202 158Z" />
+</g>
+<g stroke="#798766" stroke-width=".65"><path d="M160 277L164 279M172 250L175 252M189 211L191 213M198 154L202 155M210 128L213 129M134 201L138 202M230 187L233 189" /></g>
+
+<g stroke="#788765" stroke-width=".85">
+ <path d="M214 107C219 92 224 77 229 61C232 49 233 42 232 34M225 75C216 72 214 65 212 60M229 65C239 65 241 59 243 54M232 52C223 51 221 47 220 43M223 83C233 86 239 81 243 77M219 95C213 93 208 88 207 82M228 70L235 69M226 74L226 67" />
+ <path d="M215 106L205 102M211 111L220 111M217 99L228 98" />
+</g>
+<g fill="#a7b18a" stroke="#72815c" stroke-width=".65">
+ <path d="M231 36C228 33 229 29 232 29C235 29 235 33 233 36Z" />
+ <path d="M234 42C236 37 240 37 241 39C242 42 238 45 235 44Z" />
+ <path d="M225 40C222 39 221 36 223 34C226 32 228 36 227 39Z" />
+ <path d="M227 51C225 48 228 45 230 46C233 47 231 51 229 52Z" />
+</g>
+<g fill="#a1ae83" stroke="#71805b" stroke-width=".7">
+ <path d="M205 103C200 101 197 96 195 89C194 86 196 85 197 88C200 92 203 97 205 100Z" />
+ <path d="M220 111C227 112 234 109 240 105C242 103 242 102 240 102C233 105 227 108 220 109Z" />
+ <path d="M228 98C234 98 240 95 245 91C247 89 246 88 244 89C237 92 232 94 228 96Z" />
+</g>
+<g stroke="#c1c7a2" stroke-width=".45"><path d="M197 88L203 99M222 110L239 104M230 96L244 90" /></g>
+<g transform="translate(220 43) rotate(-15) scale(0.83)">
+<use href="#brumaire-17-flower" /></g>
+<g transform="translate(232 52) rotate(18) scale(0.92)">
+<use href="#brumaire-17-flower" /></g>
+<g transform="translate(212 60) rotate(-22) scale(1)">
+<use href="#brumaire-17-flower" /></g>
+<g transform="translate(243 54) rotate(23) scale(0.86)">
+<use href="#brumaire-17-flower" /></g>
+<g transform="translate(226 67) rotate(4) scale(1.04)">
+<use href="#brumaire-17-flower" /></g>
+<g transform="translate(243 77) rotate(-5) scale(0.95)">
+<use href="#brumaire-17-flower" /></g>
+<g transform="translate(207 82) rotate(-20) scale(0.85)">
+<use href="#brumaire-17-flower" /></g>
+</svg>

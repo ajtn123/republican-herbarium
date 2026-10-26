@@ -1,0 +1,253 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brum20-title brum20-desc">
+<title id="brum20-title">Herse — wooden field harrow</title>
+<desc id="brum20-desc">A low eighteenth-century animal-drawn harrow seen obliquely from above. Four oak bars in each direction form a rectangular cross-lapped lattice, stiffened with a diagonal timber brace. Sixteen tapered iron teeth descend beneath the pegged frame. A forged towing eye, ring and short linked chain are attached at its leading corner. Fine grain and sparse engraved shading describe worn oak and grey iron.</desc>
+<defs>
+  <style>.brum20-a{stroke:#b5b3a0;stroke-width:0.55;opacity:0.8}.brum20-b{stroke:#4d554a;stroke-width:0.5;opacity:0.65}.brum20-c{stroke:#50564c;stroke-width:0.5;opacity:0.7}.brum20-d{fill:#8d7c5d;stroke:#625744;stroke-width:1.1}.brum20-e{fill:#85785b;stroke:#625744;stroke-width:1.1}.brum20-f{fill:url(#brum20-oak);stroke:#625744;stroke-width:1.3}.brum20-g{stroke:#77664a;stroke-width:0.55;opacity:0.72}.brum20-h{stroke:#d6c49d;stroke-width:0.6;opacity:0.85}.brum20-i{stroke:#d6c49d;stroke-width:0.5;opacity:0.75}.brum20-j{stroke:#6f644e;stroke-width:0.46;opacity:0.63}.brum20-k{stroke:#635c46;stroke-width:0.5;opacity:0.75}.brum20-l{fill:#918061;stroke:#625744;stroke-width:1.1}.brum20-m{fill:#827358;stroke:#625744;stroke-width:1.1}.brum20-n{stroke:#d9c7a2;stroke-width:0.6;opacity:0.8}.brum20-o{stroke:#d9c7a2;stroke-width:0.6;opacity:0.72}.brum20-p{stroke:#70634c;stroke-width:0.46;opacity:0.62}.brum20-q{stroke:#655c46;stroke-width:0.5;opacity:0.75}.brum20-r{stroke:#77654a;stroke-width:0.7;opacity:0.8}.brum20-s{fill:#74776a;stroke:#54594d;stroke-width:0.7}.brum20-t{stroke:#c2beaa;stroke-width:0.48;opacity:0.9}.brum20-u{fill:#796c50;stroke:#5e5843;stroke-width:.45}.brum20-v{stroke:#c4b28a;stroke-width:0.4;opacity:0.8}.brum20-w{fill:#817354;stroke:#625b44;stroke-width:.6}.brum20-x{stroke:#c9b791;stroke-width:0.45;opacity:0.8}</style><linearGradient id="brum20-oak" x1="105" y1="119" x2="221" y2="257" gradientUnits="userSpaceOnUse"><stop stop-color="#beac88" stop-opacity=".85"/><stop offset=".48" stop-color="#b3a07a" stop-opacity=".88"/><stop offset="1" stop-color="#998361" stop-opacity=".93"/></linearGradient>
+  <linearGradient id="brum20-iron" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62665d"/><stop offset=".43" stop-color="#98998a"/><stop offset="1" stop-color="#53594f"/></linearGradient>
+  <linearGradient id="brum20-brace" x1="77" y1="149" x2="294" y2="199" gradientUnits="userSpaceOnUse"><stop stop-color="#b09a73"/><stop offset=".5" stop-color="#c4b18b"/><stop offset="1" stop-color="#a58f67"/></linearGradient>
+</defs>
+<g stroke="#55584d" stroke-width="1.05">
+<path d="M58.3 157L63.7 155.9L62.5 179L58.8 191L57.8 180Z" fill="url(#brum20-iron)"/>
+<path d="M61.4 159L60.9 178L58.8 189" class="brum20-a"/>
+<path d="M59 168L59.4 177" class="brum20-b"/>
+<path d="M58.5 181L60.8 182" class="brum20-c"/>
+<path d="M109.3 137.8L114.7 136.7L113.5 159.8L109.8 171.8L108.8 160.8Z" fill="url(#brum20-iron)"/>
+<path d="M112.4 139.8L111.8 158.8L109.8 169.8" class="brum20-a"/>
+<path d="M110 148.8L110.4 157.8" class="brum20-b"/>
+<path d="M109.5 161.8L111.8 162.8" class="brum20-c"/>
+<path d="M160.3 118.6L165.7 117.5L164.5 140.6L160.8 152.6L159.8 141.6Z" fill="url(#brum20-iron)"/>
+<path d="M163.4 120.6L162.8 139.6L160.8 150.6" class="brum20-a"/>
+<path d="M161 129.6L161.4 138.6" class="brum20-b"/>
+<path d="M160.5 142.6L162.8 143.6" class="brum20-c"/>
+<path d="M211.3 99.4L216.7 98.3L215.5 121.4L211.8 133.4L210.8 122.4Z" fill="url(#brum20-iron)"/>
+<path d="M214.4 101.4L213.8 120.4L211.8 131.4" class="brum20-a"/>
+<path d="M212 110.4L212.4 119.4" class="brum20-b"/>
+<path d="M211.5 123.4L213.8 124.4" class="brum20-c"/>
+<path d="M90.1 192.4L95.5 191.3L94.3 214.4L90.6 226.4L89.6 215.4Z" fill="url(#brum20-iron)"/>
+<path d="M93.2 194.4L92.7 213.4L90.6 224.4" class="brum20-a"/>
+<path d="M90.8 203.4L91.2 212.4" class="brum20-b"/>
+<path d="M90.3 216.4L92.6 217.4" class="brum20-c"/>
+<path d="M141.1 173.2L146.5 172.1L145.3 195.2L141.6 207.2L140.6 196.2Z" fill="url(#brum20-iron)"/>
+<path d="M144.2 175.2L143.7 194.2L141.6 205.2" class="brum20-a"/>
+<path d="M141.8 184.2L142.2 193.2" class="brum20-b"/>
+<path d="M141.3 197.2L143.6 198.2" class="brum20-c"/>
+<path d="M192.1 154L197.5 152.9L196.3 176L192.6 188L191.6 177Z" fill="url(#brum20-iron)"/>
+<path d="M195.2 156L194.7 175L192.6 186" class="brum20-a"/>
+<path d="M192.8 165L193.2 174" class="brum20-b"/>
+<path d="M192.3 178L194.6 179" class="brum20-c"/>
+<path d="M243.1 134.8L248.5 133.7L247.3 156.8L243.6 168.8L242.6 157.8Z" fill="url(#brum20-iron)"/>
+<path d="M246.2 136.8L245.7 155.8L243.6 166.8" class="brum20-a"/>
+<path d="M243.8 145.8L244.2 154.8" class="brum20-b"/>
+<path d="M243.3 158.8L245.6 159.8" class="brum20-c"/>
+<path d="M121.9 227.8L127.3 226.7L126.1 249.8L122.4 261.8L121.4 250.8Z" fill="url(#brum20-iron)"/>
+<path d="M125 229.8L124.5 248.8L122.4 259.8" class="brum20-a"/>
+<path d="M122.6 238.8L123 247.8" class="brum20-b"/>
+<path d="M122.1 251.8L124.4 252.8" class="brum20-c"/>
+<path d="M172.9 208.6L178.3 207.5L177.1 230.6L173.4 242.6L172.4 231.6Z" fill="url(#brum20-iron)"/>
+<path d="M176 210.6L175.4 229.6L173.4 240.6" class="brum20-a"/>
+<path d="M173.6 219.6L174 228.6" class="brum20-b"/>
+<path d="M173.1 232.6L175.4 233.6" class="brum20-c"/>
+<path d="M223.9 189.4L229.3 188.3L228.1 211.4L224.4 223.4L223.4 212.4Z" fill="url(#brum20-iron)"/>
+<path d="M227 191.4L226.4 210.4L224.4 221.4" class="brum20-a"/>
+<path d="M224.6 200.4L225 209.4" class="brum20-b"/>
+<path d="M224.1 213.4L226.4 214.4" class="brum20-c"/>
+<path d="M274.9 170.2L280.3 169.1L279.1 192.2L275.4 204.2L274.4 193.2Z" fill="url(#brum20-iron)"/>
+<path d="M278 172.2L277.4 191.2L275.4 202.2" class="brum20-a"/>
+<path d="M275.6 181.2L276 190.2" class="brum20-b"/>
+<path d="M275.1 194.2L277.4 195.2" class="brum20-c"/>
+<path d="M153.7 263.2L159.1 262.1L157.9 285.2L154.2 297.2L153.2 286.2Z" fill="url(#brum20-iron)"/>
+<path d="M156.8 265.2L156.2 284.2L154.2 295.2" class="brum20-a"/>
+<path d="M154.4 274.2L154.8 283.2" class="brum20-b"/>
+<path d="M153.9 287.2L156.2 288.2" class="brum20-c"/>
+<path d="M204.7 244L210.1 242.9L208.9 266L205.2 278L204.2 267Z" fill="url(#brum20-iron)"/>
+<path d="M207.8 246L207.2 265L205.2 276" class="brum20-a"/>
+<path d="M205.4 255L205.8 264" class="brum20-b"/>
+<path d="M204.9 268L207.2 269" class="brum20-c"/>
+<path d="M255.7 224.8L261.1 223.7L259.9 246.8L256.2 258.8L255.2 247.8Z" fill="url(#brum20-iron)"/>
+<path d="M258.8 226.8L258.2 245.8L256.2 256.8" class="brum20-a"/>
+<path d="M256.4 235.8L256.8 244.8" class="brum20-b"/>
+<path d="M255.9 248.8L258.2 249.8" class="brum20-c"/>
+<path d="M306.7 205.6L312.1 204.5L310.9 227.6L307.2 239.6L306.2 228.6Z" fill="url(#brum20-iron)"/>
+<path d="M309.8 207.6L309.2 226.6L307.2 237.6" class="brum20-a"/>
+<path d="M307.4 216.6L307.8 225.6" class="brum20-b"/>
+<path d="M306.9 229.6L309.2 230.6" class="brum20-c"/>
+</g>
+<path d="M52.7 149.4L154.5 262.7L154.5 270.7L52.7 157.4Z" class="brum20-d"/>
+<path d="M154.5 262.7L164.7 258.8L164.7 266.8L154.5 270.7Z" class="brum20-e"/>
+<path d="M52.7 149.4L62.9 145.5L164.7 258.8L154.5 262.7Z" class="brum20-f"/>
+<path d="M63.1 157.3L71.4 166L78.9 175.1 M97.1 195.1L105.1 203.5L112.3 212.2 M128.9 230.5L138.5 240.7L147.3 251.2 M65.8 156.3L74.1 165L81.5 174.1 M99.7 194.1L107.7 202.5L114.9 211.2 M131.5 229.5L141.1 239.7L149.9 250.2 M68.5 155.3L76.8 164L84.3 173 M102.4 193.1L110.4 201.5L117.7 210.2 M134.2 228.4L143.8 238.6L152.6 249.1" class="brum20-g"/>
+<path d="M64 159.4L80.8 178.3" class="brum20-h"/>
+<path d="M133.4 230.3L149.1 248.1" class="brum20-i"/>
+<path d="M64.9 164.9L67 172.3 M71.8 172.6L73.9 180 M78.7 180.3L80.8 187.7 M97.8 201.5L99.9 208.9 M104.7 209.2L106.8 216.6 M111.5 216.9L113.7 224.2 M129.6 236.9L131.7 244.3 M136.5 244.6L138.6 252 M143.3 252.3L145.5 259.6" class="brum20-j"/>
+<path d="M157 263.7L157.6 267.5 M159.6 262.7L160.2 266.5 M162.1 261.8L162.7 265.6" class="brum20-k"/>
+<path d="M103.7 130.2L205.5 243.5L205.5 251.5L103.7 138.2Z" class="brum20-d"/>
+<path d="M205.5 243.5L215.7 239.6L215.7 247.6L205.5 251.5Z" class="brum20-e"/>
+<path d="M103.7 130.2L113.9 126.3L215.7 239.6L205.5 243.5Z" class="brum20-f"/>
+<path d="M114.1 138.1L122.4 146.8L129.9 155.8 M148.1 175.9L156.1 184.3L163.3 193 M179.9 211.3L189.5 221.5L198.3 232 M116.8 137.1L125.1 145.8L132.5 154.9 M150.7 174.9L158.7 183.3L165.9 192 M182.5 210.3L192.1 220.5L200.9 231 M119.5 136.1L127.8 144.8L135.3 153.8 M153.4 173.8L161.4 182.3L168.7 191 M185.2 209.2L194.8 219.4L203.6 229.9" class="brum20-g"/>
+<path d="M115 140.2L131.8 159.1" class="brum20-h"/>
+<path d="M184.4 211.1L200.1 228.9" class="brum20-i"/>
+<path d="M115.9 145.8L118 153.1 M122.8 153.4L124.9 160.8 M129.7 161.1L131.8 168.4 M148.8 182.3L150.9 189.7 M155.7 190L157.8 197.4 M162.6 197.7L164.7 205 M180.6 217.7L182.7 225.1 M187.5 225.4L189.6 232.8 M194.3 233.1L196.5 240.4" class="brum20-j"/>
+<path d="M208 244.5L208.6 248.3 M210.6 243.5L211.2 247.3 M213.1 242.6L213.7 246.4" class="brum20-k"/>
+<path d="M154.7 111L256.5 224.3L256.5 232.3L154.7 119Z" class="brum20-d"/>
+<path d="M256.5 224.3L266.7 220.4L266.7 228.4L256.5 232.3Z" class="brum20-e"/>
+<path d="M154.7 111L164.9 107.1L266.7 220.4L256.5 224.3Z" class="brum20-f"/>
+<path d="M165.1 118.9L173.4 127.6L180.9 136.7 M199.1 156.7L207.1 165.1L214.3 173.8 M230.9 192.1L240.5 202.3L249.3 212.8 M167.8 117.9L176.1 126.6L183.5 135.7 M201.7 155.7L209.7 164.1L216.9 172.8 M233.5 191.1L243.1 201.3L251.9 211.8 M170.5 116.9L178.8 125.6L186.3 134.6 M204.4 154.7L212.4 163.1L219.7 171.8 M236.2 190.1L245.8 200.2L254.6 210.7" class="brum20-g"/>
+<path d="M166 121L182.8 139.9" class="brum20-h"/>
+<path d="M235.4 191.9L251.1 209.7" class="brum20-i"/>
+<path d="M166.9 126.5L169 133.9 M173.8 134.2L175.9 141.6 M180.7 141.9L182.8 149.2 M199.8 163.1L201.9 170.5 M206.7 170.8L208.8 178.2 M213.6 178.5L215.7 185.8 M231.6 198.5L233.7 205.9 M238.5 206.2L240.6 213.6 M245.3 213.9L247.5 221.2" class="brum20-j"/>
+<path d="M259 225.3L259.6 229.1 M261.6 224.3L262.2 228.1 M264.1 223.4L264.7 227.2" class="brum20-k"/>
+<path d="M205.7 91.8L307.5 205.1L307.5 213.1L205.7 99.8Z" class="brum20-d"/>
+<path d="M307.5 205.1L317.7 201.2L317.7 209.2L307.5 213.1Z" class="brum20-e"/>
+<path d="M205.7 91.8L215.9 87.9L317.7 201.2L307.5 205.1Z" class="brum20-f"/>
+<path d="M216.1 99.7L224.4 108.4L231.9 117.5 M250.1 137.5L258.1 145.9L265.3 154.6 M281.9 172.9L291.5 183.1L300.3 193.6 M218.8 98.7L227.1 107.4L234.5 116.5 M252.7 136.5L260.7 144.9L267.9 153.6 M284.5 171.9L294.1 182.1L302.9 192.6 M221.5 97.7L229.8 106.4L237.3 115.4 M255.4 135.4L263.4 143.9L270.6 152.6 M287.2 170.8L296.8 181L305.6 191.5" class="brum20-g"/>
+<path d="M217 101.8L233.8 120.7" class="brum20-h"/>
+<path d="M286.4 172.7L302.1 190.5" class="brum20-i"/>
+<path d="M217.9 107.3L220 114.7 M224.8 115L226.9 122.4 M231.7 122.7L233.8 130.1 M250.8 143.9L252.9 151.3 M257.7 151.6L259.8 159 M264.6 159.3L266.7 166.6 M282.6 179.3L284.7 186.7 M289.5 187L291.6 194.4 M296.4 194.7L298.5 202" class="brum20-j"/>
+<path d="M310 206.1L310.6 209.9 M312.6 205.1L313.2 208.9 M315.1 204.2L315.7 208" class="brum20-k"/>
+<path d="M59.1 156.5L222.3 95L222.3 103L59.1 164.5Z" class="brum20-l"/>
+<path d="M52.7 149.4L59.1 156.5L59.1 164.5L52.7 157.4Z" class="brum20-m"/>
+<path d="M52.7 149.4L215.9 87.9L222.3 95L59.1 156.5Z" class="brum20-f"/>
+<path d="M67 146.3L79.9 141.7L92.4 136.6 M121.4 125.8L133.9 121.3L145.9 116.4 M172.4 106.6L187.4 101.2L202.1 95.3 M68.7 148.1L81.6 143.5L94 138.4 M123 127.6L135.5 123.2L147.6 118.2 M174.1 108.4L189.1 103L203.7 97.1 M70.3 150L83.3 145.4L95.7 140.3 M124.8 129.5L137.2 125.1L149.3 120.1 M175.8 110.3L190.8 104.9L205.4 99" class="brum20-g"/>
+<path d="M68.3 145.2L95.5 135" class="brum20-n"/>
+<path d="M173.9 109.6L203.8 98.6" class="brum20-o"/>
+<path d="M78.6 151.1L82 154.8 M89.7 146.9L93.1 150.7 M100.7 142.8L104.1 146.5 M131.3 131.3L134.7 135 M142.4 127.1L145.8 130.8 M153.4 122.9L156.8 126.7 M182.3 112.1L185.7 115.8 M193.4 107.9L196.8 111.6 M204.4 103.7L207.8 107.5" class="brum20-p"/>
+<path d="M54.3 153.2L54.6 157.5 M55.9 154.9L56.2 159.3 M57.5 156.7L57.8 161" class="brum20-q"/>
+<path d="M90.9 191.9L254.1 130.4L254.1 138.4L90.9 199.9Z" class="brum20-l"/>
+<path d="M84.5 184.8L90.9 191.9L90.9 199.9L84.5 192.8Z" class="brum20-m"/>
+<path d="M84.5 184.8L247.7 123.3L254.1 130.4L90.9 191.9Z" class="brum20-f"/>
+<path d="M98.8 181.7L111.7 177.1L124.2 172 M153.2 161.2L165.7 156.8L177.8 151.8 M204.2 142L219.2 136.6L233.8 130.7 M100.5 183.5L113.4 178.9L125.8 173.8 M154.8 163L167.3 158.6L179.4 153.6 M205.8 143.8L220.9 138.4L235.5 132.5 M102.2 185.4L115.1 180.8L127.5 175.7 M156.6 164.9L169 160.5L181.1 155.5 M207.6 145.7L222.6 140.3L237.2 134.4" class="brum20-g"/>
+<path d="M100.1 180.6L127.3 170.4" class="brum20-n"/>
+<path d="M205.7 145L235.7 134" class="brum20-o"/>
+<path d="M110.4 186.5L113.8 190.2 M121.5 182.3L124.9 186.1 M132.5 178.2L135.9 181.9 M163.1 166.7L166.5 170.4 M174.2 162.5L177.6 166.2 M185.2 158.3L188.6 162.1 M214.1 147.5L217.5 151.2 M225.2 143.3L228.6 147 M236.2 139.1L239.6 142.9" class="brum20-p"/>
+<path d="M86.1 188.6L86.4 192.9 M87.7 190.3L88 194.7 M89.3 192.1L89.6 196.4" class="brum20-q"/>
+<path d="M122.7 227.3L285.9 165.8L285.9 173.8L122.7 235.3Z" class="brum20-l"/>
+<path d="M116.3 220.2L122.7 227.3L122.7 235.3L116.3 228.2Z" class="brum20-m"/>
+<path d="M116.3 220.2L279.5 158.7L285.9 165.8L122.7 227.3Z" class="brum20-f"/>
+<path d="M130.6 217.1L143.5 212.5L156 207.4 M185 196.6L197.5 192.2L209.6 187.2 M236 177.4L251 172L265.6 166.1 M132.2 218.9L145.2 214.3L157.6 209.2 M186.7 198.4L199.1 194L211.2 189 M237.7 179.2L252.7 173.8L267.3 167.9 M133.9 220.8L146.9 216.2L159.3 211.1 M188.3 200.3L200.8 195.9L212.9 190.9 M239.3 181.1L254.4 175.7L269 169.8" class="brum20-g"/>
+<path d="M131.9 216L159.1 205.8" class="brum20-n"/>
+<path d="M237.5 180.4L267.4 169.4" class="brum20-o"/>
+<path d="M142.2 221.9L145.6 225.6 M153.3 217.7L156.7 221.5 M164.3 213.6L167.7 217.3 M194.9 202.1L198.3 205.8 M206 197.9L209.4 201.6 M217 193.7L220.4 197.5 M245.9 182.9L249.3 186.6 M257 178.7L260.4 182.4 M268 174.5L271.4 178.3" class="brum20-p"/>
+<path d="M117.9 223.9L118.2 228.3 M119.5 225.7L119.8 230.1 M121.1 227.5L121.4 231.8" class="brum20-q"/>
+<path d="M154.5 262.7L317.7 201.2L317.7 209.2L154.5 270.7Z" class="brum20-l"/>
+<path d="M148.1 255.6L154.5 262.7L154.5 270.7L148.1 263.6Z" class="brum20-m"/>
+<path d="M148.1 255.6L311.3 194.1L317.7 201.2L154.5 262.7Z" class="brum20-f"/>
+<path d="M162.4 252.5L175.3 247.9L187.8 242.8 M216.8 232L229.3 227.6L241.3 222.6 M267.8 212.8L282.8 207.4L297.4 201.5 M164.1 254.3L177 249.7L189.4 244.6 M218.4 233.8L230.9 229.4L243 224.4 M269.4 214.6L284.5 209.2L299.1 203.3 M165.8 256.2L178.7 251.6L191.1 246.5 M220.2 235.7L232.6 231.3L244.7 226.3 M271.1 216.5L286.2 211.1L300.8 205.2" class="brum20-g"/>
+<path d="M163.7 251.4L190.9 241.2" class="brum20-n"/>
+<path d="M269.3 215.8L299.2 204.8" class="brum20-o"/>
+<path d="M174 257.3L177.4 261 M185.1 253.1L188.5 256.9 M196.1 249L199.5 252.7 M226.7 237.5L230.1 241.2 M237.8 233.3L241.2 237 M248.8 229.1L252.2 232.9 M277.7 218.3L281.1 222 M288.8 214.1L292.2 217.8 M299.8 209.9L303.2 213.7" class="brum20-p"/>
+<path d="M149.7 259.4L150 263.7 M151.3 261.1L151.6 265.5 M152.9 262.9L153.2 267.2" class="brum20-q"/>
+<path d="M53 149.7L58.8 156.2 M63.2 145.8L69 152.3" class="brum20-r"/>
+<path d="M57.5 149.6L61.8 148L64.5 151L60.2 152.6Z" class="brum20-s"/>
+<path d="M58.8 149.4L61.3 148.5" class="brum20-t"/>
+<ellipse cx="65.8" cy="151.5" rx="1.35" ry=".95" transform="rotate(23 65.8 151.5)" class="brum20-u"/>
+<path d="M65.3 151.2L66.2 151.8" class="brum20-v"/>
+<path d="M104 130.5L109.8 137 M114.2 126.6L120 133.1" class="brum20-r"/>
+<path d="M108.5 130.4L112.8 128.8L115.5 131.8L111.2 133.4Z" class="brum20-s"/>
+<path d="M109.8 130.2L112.3 129.3" class="brum20-t"/>
+<ellipse cx="116.8" cy="132.3" rx="1.35" ry=".95" transform="rotate(23 116.8 132.3)" class="brum20-u"/>
+<path d="M116.3 132L117.2 132.6" class="brum20-v"/>
+<path d="M155 111.3L160.8 117.8 M165.2 107.4L171 113.9" class="brum20-r"/>
+<path d="M159.6 111.2L163.8 109.6L166.4 112.6L162.2 114.2Z" class="brum20-s"/>
+<path d="M160.8 111L163.3 110.1" class="brum20-t"/>
+<ellipse cx="167.8" cy="113.1" rx="1.35" ry=".95" transform="rotate(23 167.8 113.1)" class="brum20-u"/>
+<path d="M167.3 112.8L168.2 113.4" class="brum20-v"/>
+<path d="M206 92.1L211.8 98.6 M216.2 88.2L222 94.7" class="brum20-r"/>
+<path d="M210.6 92L214.8 90.4L217.4 93.4L213.2 95Z" class="brum20-s"/>
+<path d="M211.8 91.8L214.3 90.9" class="brum20-t"/>
+<ellipse cx="218.8" cy="93.9" rx="1.35" ry=".95" transform="rotate(23 218.8 93.9)" class="brum20-u"/>
+<path d="M218.3 93.6L219.2 94.2" class="brum20-v"/>
+<path d="M84.8 185.1L90.6 191.6 M95 181.2L100.8 187.7" class="brum20-r"/>
+<path d="M89.3 185L93.6 183.4L96.2 186.4L92 188Z" class="brum20-s"/>
+<path d="M90.6 184.8L93.1 183.9" class="brum20-t"/>
+<ellipse cx="97.6" cy="186.9" rx="1.35" ry=".95" transform="rotate(23 97.6 186.9)" class="brum20-u"/>
+<path d="M97.1 186.6L98 187.2" class="brum20-v"/>
+<path d="M135.8 165.9L141.6 172.4 M146 162L151.8 168.5" class="brum20-r"/>
+<path d="M140.3 165.8L144.6 164.2L147.2 167.2L143 168.8Z" class="brum20-s"/>
+<path d="M141.6 165.6L144.1 164.7" class="brum20-t"/>
+<ellipse cx="148.6" cy="167.7" rx="1.35" ry=".95" transform="rotate(23 148.6 167.7)" class="brum20-u"/>
+<path d="M148.1 167.4L149 168" class="brum20-v"/>
+<path d="M186.8 146.7L192.6 153.2 M197 142.8L202.8 149.3" class="brum20-r"/>
+<path d="M191.3 146.6L195.6 145L198.2 148L194 149.6Z" class="brum20-s"/>
+<path d="M192.6 146.4L195.1 145.5" class="brum20-t"/>
+<ellipse cx="199.6" cy="148.5" rx="1.35" ry=".95" transform="rotate(23 199.6 148.5)" class="brum20-u"/>
+<path d="M199.1 148.2L200 148.8" class="brum20-v"/>
+<path d="M237.8 127.5L243.6 134 M248 123.6L253.8 130.1" class="brum20-r"/>
+<path d="M242.3 127.4L246.6 125.8L249.2 128.8L245 130.4Z" class="brum20-s"/>
+<path d="M243.6 127.2L246.1 126.3" class="brum20-t"/>
+<ellipse cx="250.6" cy="129.3" rx="1.35" ry=".95" transform="rotate(23 250.6 129.3)" class="brum20-u"/>
+<path d="M250.1 129L251 129.6" class="brum20-v"/>
+<path d="M116.6 220.5L122.4 227 M126.8 216.6L132.6 223.1" class="brum20-r"/>
+<path d="M121.2 220.4L125.4 218.8L128.1 221.8L123.8 223.4Z" class="brum20-s"/>
+<path d="M122.4 220.2L124.9 219.3" class="brum20-t"/>
+<ellipse cx="129.4" cy="222.3" rx="1.35" ry=".95" transform="rotate(23 129.4 222.3)" class="brum20-u"/>
+<path d="M128.9 222L129.8 222.6" class="brum20-v"/>
+<path d="M167.6 201.3L173.4 207.8 M177.8 197.4L183.6 203.9" class="brum20-r"/>
+<path d="M172.2 201.2L176.4 199.6L179.1 202.6L174.8 204.2Z" class="brum20-s"/>
+<path d="M173.4 201L175.9 200.1" class="brum20-t"/>
+<ellipse cx="180.4" cy="203.1" rx="1.35" ry=".95" transform="rotate(23 180.4 203.1)" class="brum20-u"/>
+<path d="M179.9 202.8L180.8 203.4" class="brum20-v"/>
+<path d="M218.6 182.1L224.4 188.6 M228.8 178.2L234.6 184.7" class="brum20-r"/>
+<path d="M223.2 182L227.4 180.4L230.1 183.4L225.8 185Z" class="brum20-s"/>
+<path d="M224.4 181.8L226.9 180.9" class="brum20-t"/>
+<ellipse cx="231.4" cy="183.9" rx="1.35" ry=".95" transform="rotate(23 231.4 183.9)" class="brum20-u"/>
+<path d="M230.9 183.6L231.8 184.2" class="brum20-v"/>
+<path d="M269.6 162.9L275.4 169.4 M279.8 159L285.6 165.5" class="brum20-r"/>
+<path d="M274.1 162.8L278.4 161.2L281.1 164.2L276.8 165.8Z" class="brum20-s"/>
+<path d="M275.4 162.6L277.9 161.7" class="brum20-t"/>
+<ellipse cx="282.4" cy="164.7" rx="1.35" ry=".95" transform="rotate(23 282.4 164.7)" class="brum20-u"/>
+<path d="M281.9 164.4L282.8 165" class="brum20-v"/>
+<path d="M148.4 255.9L154.2 262.4 M158.6 252L164.4 258.5" class="brum20-r"/>
+<path d="M152.9 255.8L157.2 254.2L159.8 257.2L155.6 258.8Z" class="brum20-s"/>
+<path d="M154.2 255.6L156.7 254.7" class="brum20-t"/>
+<ellipse cx="161.2" cy="257.7" rx="1.35" ry=".95" transform="rotate(23 161.2 257.7)" class="brum20-u"/>
+<path d="M160.7 257.4L161.6 258" class="brum20-v"/>
+<path d="M199.4 236.7L205.2 243.2 M209.6 232.8L215.4 239.3" class="brum20-r"/>
+<path d="M203.9 236.6L208.2 235L210.8 238L206.6 239.6Z" class="brum20-s"/>
+<path d="M205.2 236.4L207.7 235.5" class="brum20-t"/>
+<ellipse cx="212.2" cy="238.5" rx="1.35" ry=".95" transform="rotate(23 212.2 238.5)" class="brum20-u"/>
+<path d="M211.7 238.2L212.6 238.8" class="brum20-v"/>
+<path d="M250.4 217.5L256.2 224 M260.6 213.6L266.4 220.1" class="brum20-r"/>
+<path d="M254.9 217.4L259.2 215.8L261.9 218.8L257.6 220.4Z" class="brum20-s"/>
+<path d="M256.2 217.2L258.7 216.3" class="brum20-t"/>
+<ellipse cx="263.2" cy="219.3" rx="1.35" ry=".95" transform="rotate(23 263.2 219.3)" class="brum20-u"/>
+<path d="M262.7 219L263.6 219.6" class="brum20-v"/>
+<path d="M301.4 198.3L307.2 204.8 M311.6 194.4L317.4 200.9" class="brum20-r"/>
+<path d="M305.9 198.2L310.2 196.6L312.9 199.6L308.6 201.2Z" class="brum20-s"/>
+<path d="M307.2 198L309.7 197.1" class="brum20-t"/>
+<ellipse cx="314.2" cy="200.1" rx="1.35" ry=".95" transform="rotate(23 314.2 200.1)" class="brum20-u"/>
+<path d="M313.7 199.8L314.6 200.4" class="brum20-v"/>
+<path d="M63.1 152.7L306 200.2L306 202.7L63.1 155.2Z" fill="#8d7c5c" stroke="#625744" stroke-width="0.7"/>
+<path d="M63.1 152.7L306 200.2L307.2 193.9L64.4 146.4Z" fill="url(#brum20-brace)" stroke="#625744" stroke-width="1"/>
+<path d="M71.8 150.5L110.8 157.5L146.8 165.5" stroke="#7f6b4b" stroke-width="0.55" opacity="0.76"/>
+<path d="M186.8 173.5L225.8 181.5L298.6 196.1" stroke="#7d6b4e" stroke-width="0.55" opacity="0.7"/>
+<path d="M83.8 150.5L127.8 159.5" stroke="#dcc9a0" stroke-width="0.55" opacity="0.75"/>
+<path d="M232.6 180.1L285.6 191.1" stroke="#dbc7a0" stroke-width="0.55" opacity="0.7"/>
+<ellipse cx="72.3" cy="151.2" rx="1.65" ry="1.25" class="brum20-w"/>
+<path d="M71.6 150.9L72.9 151.5" class="brum20-x"/>
+<ellipse cx="146.3" cy="165.7" rx="1.65" ry="1.25" class="brum20-w"/>
+<path d="M145.7 165.4L147 166" class="brum20-x"/>
+<ellipse cx="224.1" cy="180.9" rx="1.65" ry="1.25" class="brum20-w"/>
+<path d="M223.4 180.6L224.7 181.2" class="brum20-x"/>
+<ellipse cx="298.1" cy="195.4" rx="1.65" ry="1.25" class="brum20-w"/>
+<path d="M297.5 195.1L298.8 195.7" class="brum20-x"/>
+<g stroke="#7a684b" stroke-width=".5" opacity=".76">
+<path d="M168 117C170 114 175 112 179 113C177 116 171 118 168 117ZM166 116C170 110 178 110 183 112M166 120C173 120 181 117 184 114 M242 181C244 180 246 181 246 184C245 186 243 184 242 181ZM241 177C245 177 249 183 248 188M239 178C239 183 243 188 246 190"/>
+</g>
+<path d="M54.1 148.2L75.3 140.2L77.5 142.5L59.6 149.2L70.8 161.6L67.3 162.9Z" fill="#7b7c6c" stroke="#565c4f" stroke-width="0.85"/>
+<path d="M59.4 147.2L73.9 141.8" stroke="#b6b4a0" stroke-width="0.5" opacity="0.8"/>
+<ellipse cx="72.2" cy="142.4" rx="1.2" ry=".9" fill="#4f574a" stroke="#bab59b" stroke-width=".35"/>
+<ellipse cx="66.4" cy="158.8" rx="1.2" ry=".9" fill="#4f574a" stroke="#bab59b" stroke-width=".35"/>
+<path d="M55 147C51 145 48 140 48 136C48 133 51 132 54 134L59 143L58 149Z" fill="url(#brum20-iron)" stroke="#535a4e" stroke-width="1.05"/>
+<path d="M52 135C49 132 47 132 44 134C39 137 41 145 46 149C49 151 52 150 54 147C57 143 56 139 53 136" stroke="#565d51" stroke-width="3.5"/>
+<path d="M51 136C47 132 43 135 43 140C43 144 47 149 51 148" stroke="#aaa993" stroke-width=".8"/>
+
+<path d="M44 135L43 129" stroke="#535b4f" stroke-width="3"/>
+<path d="M41 130C38 125 38 121 40 119C43 117 46 120 46 124C47 128 44 133 41 130Z" stroke="#555d51" stroke-width="2.7"/>
+<path d="M41 129C39 125 40 121 41 120" stroke="#b3b19b" stroke-width=".65"/>
+<path d="M43 120L44 112" stroke="#565e52" stroke-width="2.9"/>
+<path d="M43 113C40 110 41 104 44 102C47 100 49 103 48 107C48 112 46 115 43 113Z" stroke="#565e51" stroke-width="2.7"/>
+<path d="M43 111C42 108 44 104 45 103" stroke="#b7b49e" stroke-width=".65"/>
+<path d="M46 102L49 95" stroke="#565e52" stroke-width="2.9"/>
+<path d="M48 96C46 94 47 88 50 86C53 84 55 87 54 91C53 95 50 99 48 96Z" stroke="#565e51" stroke-width="2.7"/>
+<path d="M48 94C48 91 50 88 51 87" stroke="#b7b49e" stroke-width=".65"/>
+</svg>

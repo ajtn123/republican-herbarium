@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br28-title br28-desc">
+  <title id="br28-title">Coing — Cydonia oblonga</title>
+  <desc id="br28-desc">A short quince twig bears a large, uneven pear-shaped yellow fruit with knobbly shoulders, a faint felted bloom and a persistent dry five-pointed calyx. Three broad, entire oval leaves show curved veins and the pale downy underside of one turned blade. A small cut wedge reveals dense cream flesh and dark brown seeds.</desc>
+  <defs>
+    <linearGradient id="br28-fruit" x1="164" y1="169" x2="266" y2="279" gradientUnits="userSpaceOnUse"><stop stop-color="#e5d393" stop-opacity=".85"/><stop offset=".4" stop-color="#d8c276" stop-opacity=".86"/><stop offset=".76" stop-color="#c6aa5c" stop-opacity=".9"/><stop offset="1" stop-color="#ac9051" stop-opacity=".88"/></linearGradient>
+    <radialGradient id="br28-bloom" cx=".33" cy=".3" r=".72"><stop stop-color="#f3e5b6" stop-opacity=".48"/><stop offset=".65" stop-color="#e8d99c" stop-opacity=".16"/><stop offset="1" stop-color="#8d824e" stop-opacity=".1"/></radialGradient>
+    <linearGradient id="br28-leaf" x1="73" y1="49" x2="147" y2="125" gradientUnits="userSpaceOnUse"><stop stop-color="#a6ad8d" stop-opacity=".68"/><stop offset=".55" stop-color="#929f7c" stop-opacity=".74"/><stop offset="1" stop-color="#73815e" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="br28-low-leaf" x1="47" y1="164" x2="124" y2="145" gradientUnits="userSpaceOnUse"><stop stop-color="#a8b092" stop-opacity=".68"/><stop offset=".6" stop-color="#909c7a" stop-opacity=".76"/><stop offset="1" stop-color="#76845f" stop-opacity=".81"/></linearGradient>
+    <linearGradient id="br28-down" x1="243" y1="70" x2="270" y2="117" gradientUnits="userSpaceOnUse"><stop stop-color="#c5c8ad" stop-opacity=".74"/><stop offset=".6" stop-color="#b3b99e" stop-opacity=".75"/><stop offset="1" stop-color="#969f80" stop-opacity=".76"/></linearGradient>
+    <linearGradient id="br28-wood" x1="157" y1="129" x2="162" y2="134" gradientUnits="userSpaceOnUse"><stop stop-color="#b09d78"/><stop offset=".5" stop-color="#96815e"/><stop offset="1" stop-color="#7c6c50"/></linearGradient>
+    <linearGradient id="br28-flesh" x1="93" y1="268" x2="143" y2="313" gradientUnits="userSpaceOnUse"><stop stop-color="#f0e7c9" stop-opacity=".94"/><stop offset=".7" stop-color="#e5d9b7" stop-opacity=".95"/><stop offset="1" stop-color="#d0be91" stop-opacity=".93"/></linearGradient>
+    <linearGradient id="br28-seed" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#90704f"/><stop offset=".5" stop-color="#6f5039"/><stop offset="1" stop-color="#503d2f"/></linearGradient>
+  </defs>
+  <!-- A short, crooked woody shoot and its alternate leaf stalks. -->
+  <path d="M114 203C126 186 140 170 151 153C164 134 180 116 196 102C205 93 216 82 224 72L227 73C220 85 208 96 199 105C183 120 169 137 156 156C143 173 129 190 118 206Z" fill="url(#br28-wood)" stroke="#796b51" stroke-width="1.3"/>
+  <path d="M117 202C130 185 144 168 153 153M161 141C176 122 188 112 198 103M205 96L222 79" stroke="#c7b594" stroke-width=".75"/>
+  <path d="M161 141C157 132 150 122 141 114M146 164C137 159 130 155 122 152M201 101C209 101 218 102 226 99" stroke="#7b7957" stroke-width="2.1"/>
+  <path d="M158 135L151 124M139 160L129 155M206 101L219 100" stroke="#b5b08d" stroke-width=".65"/>
+  <path d="M183 118C183 130 184 140 190 151L195 150C189 139 188 130 187 119Z" fill="#96916a" stroke="#79734e" stroke-width="1.2"/>
+  <path d="M185 121C185 131 187 141 191 148" stroke="#c5ba8b" stroke-width=".75"/>
+  <g stroke="#76694f" stroke-width=".65"><path d="M126 188L131 189M144 165L149 166M160 144L164 146M179 121L183 123M205 94L209 96M223 74L226 75"/><path d="M120 196L123 194M140 173L143 169M170 132L173 129M199 102L201 105"/></g>
+  <!-- Entire margins and rounded, broad blades distinguish quince from serrated pear leaves. -->
+  <path d="M145 119C125 126 107 115 93 102C77 87 75 70 65 47C84 45 107 49 123 61C142 75 149 96 145 119Z" fill="url(#br28-leaf)" stroke="#667253" stroke-width="1.3"/>
+  <path d="M145 119C132 98 114 76 68 49" stroke="#647350" stroke-width=".85"/>
+  <g stroke="#6d7b58" stroke-width=".7" opacity=".87">
+    <path d="M139 110C139 97 134 81 126 69M130 96C129 83 120 67 111 58M119 83C115 71 103 58 96 53M104 71C96 62 85 54 76 51"/>
+    <path d="M138 109C124 110 112 104 101 98M129 96C116 96 100 89 89 81M117 82C106 80 94 75 81 66M104 71C94 69 85 63 77 58"/>
+  </g>
+  <g stroke="#76815e" stroke-width=".48" opacity=".57"><path d="M133 100Q129 104 125 105M125 89Q121 93 116 93M112 78Q108 81 103 80M100 68L92 67M135 88L132 82M132 80L128 75M120 72L116 66M105 60L101 57M105 102L111 107M91 88L97 94M83 75L87 82M125 113L133 116"/></g>
+  <path d="M127 152C114 133 92 130 74 138C57 146 47 162 40 180C61 182 82 184 100 174C113 167 121 159 127 152Z" fill="url(#br28-low-leaf)" stroke="#697556" stroke-width="1.25"/>
+  <path d="M125 152C104 154 72 165 43 179" stroke="#647351" stroke-width=".85"/>
+  <g stroke="#6d7956" stroke-width=".65" opacity=".88"><path d="M113 154C103 145 91 140 78 139M100 158C89 151 76 149 63 151M85 163C78 158 65 158 55 163M69 169C61 166 52 169 48 172M112 154C111 161 104 166 98 171M100 158C97 167 89 174 81 179M86 163C83 170 75 177 68 181M70 169C67 175 61 179 56 180"/></g>
+  <g stroke="#75805d" stroke-width=".48" opacity=".55"><path d="M108 147L100 145M100 144L91 142M86 152L78 151M74 152L66 153M96 171L91 175M86 174L81 177M65 177L61 179M54 169L50 171"/></g>
+  <!-- The turned right blade shows its softly felted, pale underside. -->
+  <path d="M222 101C219 85 232 70 247 65C267 58 288 61 304 59C296 76 292 92 277 104C259 119 236 117 222 101Z" fill="url(#br28-down)" stroke="#7e8869" stroke-width="1.25"/>
+  <path d="M222 101C249 91 274 76 301 61" stroke="#929b7b" stroke-width="1"/>
+  <path d="M222 101C247 92 274 77 301 61" stroke="#dbdcc2" stroke-width=".45"/>
+  <g stroke="#8c9676" stroke-width=".67" opacity=".87"><path d="M233 97C232 86 239 75 248 67M248 90C247 79 256 68 264 63M264 82C265 72 272 65 281 62M279 73C282 66 288 63 295 61M234 97C244 106 255 110 265 110M248 90C256 98 268 102 279 101M263 82C272 88 281 90 289 89M279 73C286 76 292 77 296 76"/></g>
+  <g stroke="#d5d7bf" stroke-width=".6" opacity=".85"><path d="M228 94L232 91M230 102L236 104M235 87L239 83M239 108L245 110M244 79L249 75M249 104L255 106M255 75L260 71M257 98L263 100M268 69L273 66M270 92L276 94M280 82L285 83M286 68L291 66M228 98L232 97M241 94L244 91M254 86L258 83M269 78L273 75M280 108L284 104M289 96L292 91"/></g>
+  <!-- Unequal shoulders, low lobes and a blunt neck retain the characteristic lumpy quince form. -->
+  <path d="M190 145C180 144 173 151 170 159C166 168 171 177 163 185C152 195 144 205 145 217C137 231 144 247 154 258C159 274 174 279 187 281C201 293 213 290 226 291C238 296 251 287 256 278C270 272 277 259 277 246C284 232 277 216 270 205C269 190 256 181 245 178C239 165 228 159 216 162C208 155 206 145 197 145C194 147 193 148 190 145Z" fill="url(#br28-fruit)" stroke="#8a7950" stroke-width="1.65"/>
+  <path d="M190 145C180 144 173 151 170 159C166 168 171 177 163 185C152 195 144 205 145 217C137 231 144 247 154 258C159 274 174 279 187 281C201 293 213 290 226 291C238 296 251 287 256 278C270 272 277 259 277 246C284 232 277 216 270 205C269 190 256 181 245 178C239 165 228 159 216 162C208 155 206 145 197 145C194 147 193 148 190 145Z" fill="url(#br28-bloom)"/>
+  <path d="M177 161C175 171 179 180 170 191C157 206 153 220 156 234C155 248 165 261 178 269M191 153C183 161 186 177 182 187M205 159C207 170 218 177 223 192M219 170C230 169 237 179 241 189M250 188C263 198 261 207 267 220M271 230C277 246 265 261 257 268M191 277C201 282 211 280 221 282" stroke="#ab945a" stroke-width=".75" opacity=".68"/>
+  <path d="M175 194C165 208 162 220 164 232C164 244 170 253 176 259M190 192C182 207 182 219 186 232M200 176C201 187 207 193 209 205M232 191C243 204 244 215 245 227M254 233C257 249 250 263 240 270" stroke="#efe0a8" stroke-width="1" opacity=".55"/>
+  <!-- Sparse, curved engraving marks model each swelling rather than stippling a flat skin. -->
+  <g stroke="#9b8652" stroke-width=".56" opacity=".57">
+    <path d="M172 157Q168 162 170 167M172 177Q172 182 168 186M159 194Q153 200 151 207M148 216Q144 223 146 231M148 238Q150 246 154 250M155 253Q158 261 163 265M163 267Q169 272 176 274M181 278Q188 284 193 285M200 286Q207 287 213 286M233 289Q241 288 246 283M253 277Q261 272 264 267M270 260Q274 253 274 247M276 238Q278 232 275 226M271 214Q271 207 268 202M263 195Q259 188 253 186M241 176Q238 170 231 167M213 161Q209 157 207 152"/>
+    <path d="M156 210Q152 216 152 220M153 226Q151 232 153 237M159 239Q159 246 163 250M164 253Q167 259 171 261M174 265Q180 270 185 271M194 278Q200 281 205 280M247 271Q251 266 253 261M258 256Q261 250 261 245M266 238Q268 231 266 226M264 215Q263 209 260 206M254 198Q251 194 247 192M233 179Q230 175 226 174M178 164Q177 170 178 174"/>
+    <path d="M181 199Q178 203 177 207M194 231Q195 235 197 238M212 251Q216 254 220 254M231 214Q233 218 233 222M204 177L206 181M158 219L157 223M174 246L176 249M241 246L240 250"/>
+  </g>
+  <!-- A faint, interrupted felt of short hairs catches the light across the yellow skin. -->
+  <g stroke="#f0e3b5" stroke-width=".62" opacity=".77"><path d="M173 155L172 159M180 152L178 155M187 155L186 159M194 157L195 160M177 180L175 183M169 192L166 195M160 205L158 209M155 217L155 221M156 234L157 237M163 247L165 250M172 258L175 261M184 269L187 271M198 276L202 277M216 278L220 278M239 274L243 272M252 259L254 256M261 239L261 235M261 220L260 217M252 203L249 200M237 184L234 182M221 174L219 171M186 187L184 190M177 218L176 222M183 239L185 242M206 262L210 264M223 241L225 244M237 228L238 231M213 211L214 215M204 193L202 189M192 210L191 214M198 249L201 252M232 260L235 260M244 212L245 216"/></g>
+  <!-- The dry calyx persists in a shallow hollow at the broad blossom end. -->
+  <path d="M211 278C216 272 229 270 238 275C244 279 240 285 232 287C224 289 214 286 211 282" fill="#9e8756" fill-opacity=".48" stroke="#a68b55" stroke-width=".65"/>
+  <path d="M224 277C220 274 219 269 218 264C222 267 226 269 228 274C231 270 235 268 239 268C237 273 235 276 232 278C237 278 241 280 244 284C238 284 234 284 230 282C230 287 228 292 225 296C224 290 222 286 224 282C219 284 215 284 210 282C214 279 219 277 224 277Z" fill="#8c7654" stroke="#6f5e44" stroke-width=".95"/>
+  <path d="M227 279L219 267M228 278L237 270M229 280L241 283M227 281L225 293M225 280L213 282" stroke="#b5a17a" stroke-width=".6"/>
+  <path d="M223 277C226 274 231 276 232 279C231 283 227 285 224 282Z" fill="#6f5b40" stroke="#6e5a40" stroke-width=".55"/>
+  <path d="M225 278L228 277M226 282L230 280" stroke="#c0aa7c" stroke-width=".5"/>
+  <!-- A separate longitudinal wedge shows the hard pale flesh and seed-bearing core. -->
+  <path d="M66 293C78 277 99 265 119 259C130 272 145 290 157 309C139 324 111 327 92 315C81 309 73 301 66 293Z" fill="#c4ab64" fill-opacity=".86" stroke="#8f7e52" stroke-width="1.25"/>
+  <path d="M66 293C78 277 99 265 119 259C129 272 142 288 153 306C131 313 105 308 86 301C78 298 71 296 66 293Z" fill="url(#br28-flesh)" stroke="#a5966e" stroke-width="1.05"/>
+  <path d="M71 292C87 280 103 269 118 264M72 295C93 305 129 315 153 309" stroke="#e4d5a5" stroke-width="1.2"/>
+  <path d="M104 276C106 283 111 290 116 294C120 298 124 300 130 300C128 293 123 285 119 279C114 276 109 275 104 276Z" fill="#d4c49e" fill-opacity=".68" stroke="#b3a17c" stroke-width=".65"/>
+  <path d="M112 281C108 280 105 282 107 287C108 291 113 293 116 292C117 289 115 284 112 281Z" fill="url(#br28-seed)" stroke="#68513b" stroke-width=".75"/>
+  <path d="M120 290C116 290 115 294 118 298C121 301 126 301 128 299C127 295 124 291 120 290Z" fill="url(#br28-seed)" stroke="#68513b" stroke-width=".75"/>
+  <path d="M109 283Q108 286 111 289M119 293Q118 296 122 298" stroke="#b29a71" stroke-width=".6"/>
+  <g stroke="#baa883" stroke-width=".5" opacity=".76"><path d="M81 287L87 282M87 289L93 284M94 278L100 274M85 297L92 297M95 300L101 300M132 297L135 301M128 284L132 289M137 296L141 301M95 312Q103 317 110 318M113 319L121 320M130 319L138 317M145 314L151 311"/></g>
+</svg>

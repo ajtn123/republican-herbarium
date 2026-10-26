@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brumaire25-title brumaire25-desc">
+<title id="brumaire25-title">Brumaire 25 — Faisan</title>
+<desc id="brumaire25-desc">A calm male common pheasant stands in left-facing profile. A small green-blue head has a short horn-coloured bill and a restrained red bare cheek patch. The slender neck wears a broken cream collar above copper and ochre scalloped breast feathers. A patterned folded wing rests against the compact body; exceptionally long, narrow, barred tail feathers taper diagonally behind it. Two fine scaled legs end in separate clawed toes.</desc>
+<defs>
+<linearGradient id="brumaire25-body" x1="89" y1="139" x2="153" y2="217" gradientUnits="userSpaceOnUse"><stop stop-color="#b89662" stop-opacity=".82"/><stop offset=".45" stop-color="#ae8055" stop-opacity=".86"/><stop offset="1" stop-color="#8b674b" stop-opacity=".89"/></linearGradient>
+<linearGradient id="brumaire25-neck" x1="68" y1="101" x2="93" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#657b70" stop-opacity=".84"/><stop offset=".45" stop-color="#566f6d" stop-opacity=".9"/><stop offset="1" stop-color="#61706e" stop-opacity=".87"/></linearGradient>
+<linearGradient id="brumaire25-wing" x1="114" y1="153" x2="173" y2="205" gradientUnits="userSpaceOnUse"><stop stop-color="#b6a381" stop-opacity=".9"/><stop offset=".5" stop-color="#a28c68" stop-opacity=".91"/><stop offset="1" stop-color="#897455" stop-opacity=".92"/></linearGradient>
+<linearGradient id="brumaire25-tail" x1="0" y1="-12" x2="150" y2="10" gradientUnits="userSpaceOnUse"><stop stop-color="#a58b61" stop-opacity=".91"/><stop offset=".65" stop-color="#b9a17b" stop-opacity=".89"/><stop offset="1" stop-color="#a38d6b" stop-opacity=".85"/></linearGradient>
+<linearGradient id="brumaire25-leg" x1="124" y1="217" x2="130" y2="285" gradientUnits="userSpaceOnUse"><stop stop-color="#9b947d" stop-opacity=".92"/><stop offset="1" stop-color="#b2a187" stop-opacity=".92"/></linearGradient>
+<g id="brumaire25-breast-feather"><path d="M-5.8 0Q0 -2 5.8 .5Q5 6 0 7Q-4.7 5.8 -5.8 0Z" fill-opacity=".35" stroke-width=".44"/><path d="M-4.5 1.8Q-.2 7.1 4.6 2.4" stroke="#6c5a43" stroke-width="1.06" opacity=".78"/><path d="M-3.2 1.9Q0 5.8 3.3 2.4" stroke="#d0ad77" stroke-width=".47" opacity=".85"/></g>
+<g id="brumaire25-covert"><path d="M0 0C5 -2 13 1 16 7C16 12 9 14 5 10Z" fill-opacity=".65" stroke-width=".56"/><path d="M4 3Q8 11 13.8 7.3" stroke="#74654c" stroke-width="1.2"/><path d="M5.5 2.9Q8 8 12 6.9" stroke="#d2bd92" stroke-width=".5"/></g>
+</defs>
+<g stroke="#685c48">
+<!-- The closed tail is a narrow set of lanceolate feathers, never a fan. -->
+<g transform="translate(160 169) rotate(25)">
+<defs><clipPath id="brumaire25-tail-0"><path d="M0 -2C40 -3 115 11 174 15C155 20 78 17 2 9Z"/></clipPath></defs><path d="M0 -2C40 -3 115 11 174 15C155 20 78 17 2 9Z" fill="#9f8964" stroke-width=".86"/>
+<g clip-path="url(#brumaire25-tail-0)">
+<path d="M15 -23Q19 -3 15 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M19.4 -23Q22 -3 19 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M28 -23Q32 -3 28 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M32.4 -23Q35 -3 32 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M41 -23Q45 -3 41 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M45.4 -23Q48 -3 45 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M54 -23Q58 -3 54 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M58.4 -23Q61 -3 58 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M67 -23Q71 -3 67 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M71.4 -23Q74 -3 71 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M80 -23Q84 -3 80 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M84.4 -23Q87 -3 84 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M93 -23Q97 -3 93 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M97.4 -23Q100 -3 97 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M106 -23Q110 -3 106 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M110.4 -23Q113 -3 110 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M119 -23Q123 -3 119 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M123.4 -23Q126 -3 123 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M132 -23Q136 -3 132 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M136.4 -23Q139 -3 136 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M145 -23Q149 -3 145 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M149.4 -23Q152 -3 149 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M158 -23Q162 -3 158 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M162.4 -23Q165 -3 162 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M25 2.2l-7 -7M25 3.2l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M34 2.9l-7 -7M34 3.9l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M43 3.7l-7 -7M43 4.7l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M52 4.5l-7 -7M52 5.5l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M61 5.3l-7 -7M61 6.3l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M70 6.0l-7 -7M70 7.0l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M79 6.8l-7 -7M79 7.8l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M88 7.6l-7 -7M88 8.6l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M97 8.4l-7 -7M97 9.4l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M106 9.1l-7 -7M106 10.1l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M115 9.9l-7 -7M115 10.9l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M124 10.7l-7 -7M124 11.7l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M133 11.5l-7 -7M133 12.5l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M142 12.2l-7 -7M142 13.2l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M151 13.0l-7 -7M151 14.0l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M160 13.8l-7 -7M160 14.8l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+</g>
+<path d="M2 2Q85 1 170 15" stroke="#d5c099" stroke-width=".6" opacity=".88"/>
+<defs><clipPath id="brumaire25-tail-1"><path d="M-2 -5C44 -20 118 -18 174 -11C151 -4 73 3 0 6Z"/></clipPath></defs><path d="M-2 -5C44 -20 118 -18 174 -11C151 -4 73 3 0 6Z" fill="url(#brumaire25-tail)" stroke-width=".86"/>
+<g clip-path="url(#brumaire25-tail-1)">
+<path d="M15 -23Q19 -3 15 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M19.4 -23Q22 -3 19 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M28 -23Q32 -3 28 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M32.4 -23Q35 -3 32 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M41 -23Q45 -3 41 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M45.4 -23Q48 -3 45 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M54 -23Q58 -3 54 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M58.4 -23Q61 -3 58 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M67 -23Q71 -3 67 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M71.4 -23Q74 -3 71 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M80 -23Q84 -3 80 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M84.4 -23Q87 -3 84 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M93 -23Q97 -3 93 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M97.4 -23Q100 -3 97 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M106 -23Q110 -3 106 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M110.4 -23Q113 -3 110 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M119 -23Q123 -3 119 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M123.4 -23Q126 -3 123 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M132 -23Q136 -3 132 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M136.4 -23Q139 -3 136 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M145 -23Q149 -3 145 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M149.4 -23Q152 -3 149 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M158 -23Q162 -3 158 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M162.4 -23Q165 -3 162 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M25 -1.6l-7 -7M25 -0.6l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M34 -2.1l-7 -7M34 -1.1l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M43 -2.7l-7 -7M43 -1.7l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M52 -3.3l-7 -7M52 -2.3l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M61 -3.9l-7 -7M61 -2.9l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M70 -4.4l-7 -7M70 -3.4l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M79 -5.0l-7 -7M79 -4.0l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M88 -5.6l-7 -7M88 -4.6l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M97 -6.1l-7 -7M97 -5.1l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M106 -6.7l-7 -7M106 -5.7l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M115 -7.3l-7 -7M115 -6.3l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M124 -7.8l-7 -7M124 -6.8l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M133 -8.4l-7 -7M133 -7.4l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M142 -9.0l-7 -7M142 -8.0l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M151 -9.5l-7 -7M151 -8.5l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M160 -10.1l-7 -7M160 -9.1l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+</g>
+<path d="M2 2Q85 1 170 -11" stroke="#d5c099" stroke-width=".6" opacity=".88"/>
+<defs><clipPath id="brumaire25-tail-2"><path d="M0 -4C47 -14 133 -8 188 1C157 9 75 14 0 7Z"/></clipPath></defs><path d="M0 -4C47 -14 133 -8 188 1C157 9 75 14 0 7Z" fill="url(#brumaire25-tail)" stroke-width=".86"/>
+<g clip-path="url(#brumaire25-tail-2)">
+<path d="M15 -23Q19 -3 15 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M19.4 -23Q22 -3 19 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M28 -23Q32 -3 28 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M32.4 -23Q35 -3 32 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M41 -23Q45 -3 41 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M45.4 -23Q48 -3 45 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M54 -23Q58 -3 54 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M58.4 -23Q61 -3 58 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M67 -23Q71 -3 67 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M71.4 -23Q74 -3 71 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M80 -23Q84 -3 80 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M84.4 -23Q87 -3 84 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M93 -23Q97 -3 93 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M97.4 -23Q100 -3 97 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M106 -23Q110 -3 106 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M110.4 -23Q113 -3 110 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M119 -23Q123 -3 119 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M123.4 -23Q126 -3 123 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M132 -23Q136 -3 132 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M136.4 -23Q139 -3 136 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M145 -23Q149 -3 145 25" stroke="#73634b" stroke-width="2.4" opacity=".8"/>
+<path d="M149.4 -23Q152 -3 149 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M158 -23Q162 -3 158 25" stroke="#73634b" stroke-width="2.7" opacity=".8"/>
+<path d="M162.4 -23Q165 -3 162 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M171 -23Q175 -3 171 25" stroke="#73634b" stroke-width="2.1" opacity=".8"/>
+<path d="M175.4 -23Q178 -3 175 25" stroke="#d0ba90" stroke-width=".68" opacity=".78"/>
+<path d="M25 0.1l-7 -7M25 1.1l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M34 0.2l-7 -7M34 1.2l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M43 0.2l-7 -7M43 1.2l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M52 0.3l-7 -7M52 1.3l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M61 0.3l-7 -7M61 1.3l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M70 0.4l-7 -7M70 1.4l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M79 0.4l-7 -7M79 1.4l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M88 0.5l-7 -7M88 1.5l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M97 0.5l-7 -7M97 1.5l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M106 0.6l-7 -7M106 1.6l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M115 0.6l-7 -7M115 1.6l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M124 0.7l-7 -7M124 1.7l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M133 0.7l-7 -7M133 1.7l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M142 0.8l-7 -7M142 1.8l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M151 0.8l-7 -7M151 1.8l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M160 0.9l-7 -7M160 1.9l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M169 0.9l-7 -7M169 1.9l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+<path d="M178 0.9l-7 -7M178 1.9l-7 7" stroke="#77694f" stroke-width=".38" opacity=".55"/>
+</g>
+<path d="M2 2Q85 1 184 1" stroke="#d5c099" stroke-width=".6" opacity=".88"/>
+</g>
+<!-- The far leg is visible behind the belly. -->
+<path d="M145 210C152 212 154 221 149 232L143 248L146 270L153 277L166 279C170 280 169 282 166 282L151 281L157 287C159 290 157 291 154 288L144 281L133 287C129 288 128 286 132 284L141 276L138 250L140 231L138 216Z" fill="#968b72" fill-opacity=".9" stroke-width="1.04"/>
+<g stroke-width=".55" opacity=".8"><path d="M145 233L141 248L144 273M141 247L145 247M140 254L145 254M141 260L145 260M142 266L146 266M142 272L147 273M144 277L155 286M148 279L165 280M142 279L132 285"/><path d="M167 280L171 282M156 288L159 291M131 286L127 289"/></g>
+<!-- Compact, slightly elongated pheasant body. -->
+<path d="M87 139C101 136 113 141 126 143C147 146 170 153 182 168C192 182 188 196 177 206C162 219 139 222 115 217C95 213 83 202 78 186C73 171 76 151 87 139Z" fill="url(#brumaire25-body)" stroke-width="1.4"/>
+<path d="M79 176C83 197 96 209 117 214C140 220 163 215 176 205C166 219 138 224 115 217C95 213 81 200 78 185Z" fill="#766148" fill-opacity=".17" stroke="none"/>
+<!-- A slim feathered neck curves into the shoulder. -->
+<path d="M66 118C61 112 63 103 68 99C74 94 83 96 87 102C91 108 87 116 87 122C88 131 94 138 103 145C97 150 86 151 80 143C73 135 71 125 66 118Z" fill="url(#brumaire25-neck)" stroke-width="1.22"/>
+<path d="M75 131C81 135 87 137 94 136L98 142C90 144 83 141 78 138Z" fill="#e0d4b9" fill-opacity=".91" stroke-width=".54"/>
+<path d="M88 139L96 140M78 133L80 137" stroke="#887e62" stroke-width=".48" opacity=".8"/>
+<!-- A small, plain crown, short bill and a red orbital cheek patch. -->
+<path d="M64 107C59 107 54 110 50 113C55 114 60 116 66 114L69 111Z" fill="#c9b99a" fill-opacity=".94" stroke-width=".92"/>
+<path d="M52 113L65 111M60 109L63 109" stroke-width=".5"/>
+<path d="M67 106C69 102 76 102 79 106L83 108L80 112L81 118L75 119L73 115L68 115L66 111Z" fill="#b37464" fill-opacity=".91" stroke-width=".66"/>
+<path d="M68 109C70 106 74 106 76 108C77 111 74 113 71 113C69 112 68 111 68 109Z" fill="#c5b396" stroke-width=".48"/>
+<ellipse cx="72.4" cy="109.4" rx="1.7" ry="1.9" fill="#3f443a" stroke-width=".45"/><circle cx="71.9" cy="108.9" r=".53" fill="#eee6ce" stroke="none"/>
+<path d="M66 103C70 99 78 99 82 103M78 122C82 125 84 130 87 133M67 118L71 124M69 118L73 122M72 123L76 128M79 119L82 122M83 111L85 111M70 101L76 100" stroke-width=".5" opacity=".63"/>
+<g stroke="#b0b39b" stroke-width=".48" opacity=".66"><path d="M69 100L73 98M79 100L83 103M83 119L85 125M80 124L83 129M73 125L76 130M76 130L78 133M88 130L91 136"/></g>
+<!-- Rows of warm, black-edged copper breast plumage. -->
+<use href="#brumaire25-breast-feather" transform="translate(83 151) scale(0.8 0.8) rotate(-14)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(94 151) scale(0.92 0.92) rotate(-11)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(106 151) scale(0.95 0.95) rotate(-8)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(118 151) scale(0.9 0.9) rotate(-5)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(81 160) scale(0.85 0.85) rotate(-14)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(91 160) scale(0.9 0.9) rotate(-12)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(103 160) scale(0.92 0.92) rotate(-9)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(115 160) scale(0.95 0.95) rotate(-6)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(80 169) scale(0.82 0.82) rotate(-14)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(90 169) scale(0.9 0.9) rotate(-12)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(102 169) scale(0.97 0.97) rotate(-9)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(114 169) scale(0.95 0.95) rotate(-6)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(81 178) scale(0.84 0.84) rotate(-14)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(92 178) scale(0.94 0.94) rotate(-12)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(104 178) scale(0.96 0.96) rotate(-9)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(116 178) scale(0.95 0.95) rotate(-6)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(84 187) scale(0.9 0.9) rotate(-14)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(96 187) scale(0.96 0.96) rotate(-11)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(108 187) scale(1 1) rotate(-8)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(90 196) scale(0.9 0.9) rotate(-12)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(101 196) scale(0.96 0.96) rotate(-9)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(113 196) scale(0.98 0.98) rotate(-7)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(100 205) scale(0.9 0.9) rotate(-10)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(112 205) scale(0.95 0.95) rotate(-7)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(125 205) scale(0.95 0.95) rotate(-4)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(138 205) scale(0.95 0.95) rotate(-1)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(151 205) scale(0.9 0.9) rotate(3)" fill="#c29b66"/>
+<use href="#brumaire25-breast-feather" transform="translate(164 205) scale(0.8 0.8) rotate(6)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(117 212) scale(0.8 0.8) rotate(-6)" fill="#aa7d51"/>
+<use href="#brumaire25-breast-feather" transform="translate(129 212) scale(0.8 0.8) rotate(-3)" fill="#b5905f"/>
+<use href="#brumaire25-breast-feather" transform="translate(142 212) scale(0.8 0.8) rotate(0)" fill="#b88658"/>
+<use href="#brumaire25-breast-feather" transform="translate(154 212) scale(0.75 0.75) rotate(3)" fill="#c29b66"/>
+<!-- Brown, cream-edged folded wing with individually overlapping flight feathers. -->
+<path d="M111 150C127 143 151 149 165 160C178 171 182 186 181 200C163 206 141 197 125 185C111 175 104 158 111 150Z" fill="url(#brumaire25-wing)" stroke-width="1.07"/>
+<defs><clipPath id="brumaire25-flight-0"><path d="M126 158C149 157 173 181 182 200C169 203 137 175 126 158Z"/></clipPath></defs><path d="M126 158C149 157 173 181 182 200C169 203 137 175 126 158Z" fill="#ad9873" fill-opacity=".84" stroke-width=".61"/>
+<g clip-path="url(#brumaire25-flight-0)" stroke="#73654b" stroke-width="2.1" opacity=".75">
+<path d="M128 153l-6 13"/>
+<path d="M139 160l-6 13"/>
+<path d="M150 168l-6 13"/>
+<path d="M161 176l-6 13"/>
+<path d="M172 184l-6 13"/>
+</g>
+<path d="M121 158Q144 180 179 198" stroke="#d2bc92" stroke-width=".48" opacity=".75"/>
+<defs><clipPath id="brumaire25-flight-1"><path d="M121 156C143 153 171 178 178 195C165 198 133 172 121 156Z"/></clipPath></defs><path d="M121 156C143 153 171 178 178 195C165 198 133 172 121 156Z" fill="#ad9873" fill-opacity=".84" stroke-width=".61"/>
+<g clip-path="url(#brumaire25-flight-1)" stroke="#73654b" stroke-width="2.1" opacity=".75">
+<path d="M128 153l-6 13"/>
+<path d="M139 160l-6 13"/>
+<path d="M150 168l-6 13"/>
+<path d="M161 176l-6 13"/>
+<path d="M172 184l-6 13"/>
+</g>
+<path d="M119 157Q144 180 173 193" stroke="#d2bc92" stroke-width=".48" opacity=".75"/>
+<defs><clipPath id="brumaire25-flight-2"><path d="M117 155C138 150 164 173 173 190C160 194 128 170 117 155Z"/></clipPath></defs><path d="M117 155C138 150 164 173 173 190C160 194 128 170 117 155Z" fill="#ad9873" fill-opacity=".84" stroke-width=".61"/>
+<g clip-path="url(#brumaire25-flight-2)" stroke="#73654b" stroke-width="2.1" opacity=".75">
+<path d="M128 153l-6 13"/>
+<path d="M139 160l-6 13"/>
+<path d="M150 168l-6 13"/>
+<path d="M161 176l-6 13"/>
+<path d="M172 184l-6 13"/>
+</g>
+<path d="M117 156Q144 180 167 188" stroke="#d2bc92" stroke-width=".48" opacity=".75"/>
+<defs><clipPath id="brumaire25-flight-3"><path d="M113 154C133 149 155 168 164 184C151 190 123 168 113 154Z"/></clipPath></defs><path d="M113 154C133 149 155 168 164 184C151 190 123 168 113 154Z" fill="#ad9873" fill-opacity=".84" stroke-width=".61"/>
+<g clip-path="url(#brumaire25-flight-3)" stroke="#73654b" stroke-width="2.1" opacity=".75">
+<path d="M128 153l-6 13"/>
+<path d="M139 160l-6 13"/>
+<path d="M150 168l-6 13"/>
+<path d="M161 176l-6 13"/>
+<path d="M172 184l-6 13"/>
+</g>
+<path d="M115 155Q144 180 161 183" stroke="#d2bc92" stroke-width=".48" opacity=".75"/>
+<use href="#brumaire25-covert" transform="translate(111 150) rotate(-8) scale(.88 .86)" fill="#b6a17c"/>
+<use href="#brumaire25-covert" transform="translate(125 152) rotate(-8) scale(.88 .86)" fill="#a58e65"/>
+<use href="#brumaire25-covert" transform="translate(139 156) rotate(-8) scale(.88 .86)" fill="#b09a74"/>
+<use href="#brumaire25-covert" transform="translate(152 162) rotate(-8) scale(.88 .86)" fill="#b6a17c"/>
+<use href="#brumaire25-covert" transform="translate(112 160) rotate(-5) scale(.88 .86)" fill="#a58e65"/>
+<use href="#brumaire25-covert" transform="translate(126 164) rotate(-5) scale(.88 .86)" fill="#b09a74"/>
+<use href="#brumaire25-covert" transform="translate(140 169) rotate(-5) scale(.88 .86)" fill="#b6a17c"/>
+<use href="#brumaire25-covert" transform="translate(153 176) rotate(-5) scale(.88 .86)" fill="#a58e65"/>
+<use href="#brumaire25-covert" transform="translate(118 172) rotate(-2) scale(.88 .86)" fill="#b09a74"/>
+<use href="#brumaire25-covert" transform="translate(132 178) rotate(-2) scale(.88 .86)" fill="#b6a17c"/>
+<use href="#brumaire25-covert" transform="translate(146 184) rotate(-2) scale(.88 .86)" fill="#a58e65"/>
+<!-- Fine hackles and rump contours carry the engraving around the body. -->
+<g stroke="#776348" stroke-width=".48" opacity=".62">
+<path d="M90 143L94 146M99 144L104 148M110 144L115 148M123 146L128 149M139 149L145 152M154 154L159 158M167 161L172 166M177 171L181 176M182 182L184 187M181 194L182 199"/>
+<path d="M79 160L81 165M80 184L84 190M88 199L92 204M96 207L102 211M108 214L114 216M126 218L133 220M142 220L149 219M160 215L166 212M173 208L178 204"/>
+<path d="M115 194L120 198M128 199L134 202M143 205L149 207M159 205L165 207M169 197L174 199M96 153L98 157M86 148L88 153"/>
+</g>
+<path d="M91 144C98 141 107 143 114 145M80 170C78 183 83 196 91 202M123 217C134 220 145 220 153 217M170 164L177 173" stroke="#d4b88b" stroke-width=".64" opacity=".72"/>
+<!-- Near thigh narrows into the hock, then the long scaled tarsus. -->
+<path d="M113 213C119 216 125 218 131 218L130 230L122 248L125 274L129 281L144 285C148 286 147 289 143 288L127 286L133 295C135 297 132 299 130 296L120 287L107 296C104 298 102 295 105 293L115 283L101 286C98 286 98 283 101 282L115 278L115 270L114 248L118 230Z" fill="url(#brumaire25-leg)" stroke-width="1.04"/>
+<path d="M113 214L115 220L119 219L120 224L124 222L126 226L129 222L131 218" fill="#98744e" fill-opacity=".75" stroke-width=".58"/>
+<g stroke="#81715a" stroke-width=".58"><path d="M121 232L118 248L121 275M116 247L122 248M115 254L123 255M116 261L123 262M116 268L124 269M116 275L125 276M119 281L107 294M122 283L131 295M125 284L143 287M115 282L102 284"/>
+<path d="M111 289L114 291M108 292L111 294M126 289L129 287M129 292L132 290M132 285L131 287M137 286L136 288M104 283L104 285"/></g>
+<path d="M143 287L148 290M131 296L134 300M104 295L100 298M100 284L96 287" stroke="#5e5848" stroke-width=".82"/>
+<path d="M119 235L116 246M118 251L120 270M124 284L142 286M108 293L117 285" stroke="#d5c2a2" stroke-width=".58" opacity=".76"/>
+</g>
+</svg>

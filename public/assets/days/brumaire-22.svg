@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br22-title br22-desc">
+  <title id="br22-title">Azerole — Crataegus azarolus</title>
+  <desc id="br22-desc">A fruiting Mediterranean azarole hawthorn twig. Small golden russet pomes bear dry five-pointed calyx stars; the alternate grey-green leaves have wedge-shaped bases, shallow toothed lobes and branching veins. A short woody thorn projects from the twig. Beside it, a cut fruit reveals pale flesh and three hard stones.</desc>
+  <defs>
+    <linearGradient id="br22-wood" x1="160" y1="193" x2="168" y2="197" gradientUnits="userSpaceOnUse"><stop stop-color="#b19a7b"/><stop offset=".4" stop-color="#9a8268"/><stop offset="1" stop-color="#786651"/></linearGradient>
+    <linearGradient id="br22-leaf" x1="-24" y1="-63" x2="19" y2="-8" gradientUnits="userSpaceOnUse"><stop stop-color="#b0b197" stop-opacity=".64"/><stop offset=".48" stop-color="#98a080" stop-opacity=".72"/><stop offset="1" stop-color="#79896a" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="br22-leaf-back" x1="-20" y1="-60" x2="21" y2="-4" gradientUnits="userSpaceOnUse"><stop stop-color="#b6b69e" stop-opacity=".6"/><stop offset="1" stop-color="#8a9779" stop-opacity=".72"/></linearGradient>
+    <radialGradient id="br22-gold" cx=".31" cy=".26" r=".84"><stop stop-color="#dbca91" stop-opacity=".84"/><stop offset=".5" stop-color="#cdb16d" stop-opacity=".89"/><stop offset=".79" stop-color="#b9975b" stop-opacity=".91"/><stop offset="1" stop-color="#a87c4d" stop-opacity=".92"/></radialGradient>
+    <radialGradient id="br22-russet" cx=".29" cy=".26" r=".86"><stop stop-color="#d4bb7b" stop-opacity=".85"/><stop offset=".53" stop-color="#c7a165" stop-opacity=".9"/><stop offset="1" stop-color="#a77451" stop-opacity=".92"/></radialGradient>
+    <radialGradient id="br22-flesh" cx=".42" cy=".32" r=".79"><stop stop-color="#eee6c7" stop-opacity=".94"/><stop offset=".72" stop-color="#ded4ad" stop-opacity=".94"/><stop offset="1" stop-color="#c7b987"/></radialGradient>
+    <linearGradient id="br22-stone" x1="-3" y1="-7" x2="4" y2="7" gradientUnits="userSpaceOnUse"><stop stop-color="#bca57e"/><stop offset=".55" stop-color="#a58b63"/><stop offset="1" stop-color="#8e7657"/></linearGradient>
+    <g id="br22-calyx">
+      <ellipse cx="0" cy="0" rx="4.3" ry="3.2" fill="#ad8b58" fill-opacity=".54" stroke="#a08255" stroke-width=".5"/>
+      <path d="M-.8-1.2L-.1-5.7L1.6-1.6L5-3.2L3.1.1L5 3.3L1.3 2L-.4 5.4L-1.5 1.9L-5.3 2L-2.6-.4L-4.5-3.5Z" fill="#87704e" stroke="#766044" stroke-width=".55"/>
+      <path d="M-.1-3.7L.1-.4M3-1.7L.8.2M3 2L.5.6M-.4 3.4L-.1.8M-3.3 1L-.8.2" stroke="#b6a079" stroke-width=".4"/>
+      <ellipse cx=".1" cy=".2" rx="1.3" ry="1.1" fill="#6d5942"/>
+    </g>
+  </defs>
+
+  <!-- The woody shoot narrows into a young, fruit-bearing side branch. -->
+  <g fill="url(#br22-wood)" stroke="#786750" stroke-width="1.3">
+    <path d="M131 326C141 302 151 277 159 251C167 225 176 200 183 176C192 148 201 126 207 104C212 86 215 66 216 48L219 47C220 65 216 87 212 105C205 131 196 152 188 179C181 204 172 228 165 253C157 279 147 306 136 328Z"/>
+    <path d="M181 195C168 180 151 165 136 153L119 142L120 140C142 151 165 172 184 191Z"/>
+    <path d="M174 224C195 213 210 206 228 201L229 203C209 210 193 219 176 229Z"/>
+    <path d="M201 129C213 119 221 110 230 98L233 99C225 113 215 123 202 134Z"/>
+    <path d="M152 273C147 267 143 263 136 260L137 258C144 259 150 264 154 269Z"/>
+  </g>
+  <g stroke="#cebc99" stroke-width=".7" opacity=".8">
+    <path d="M134 323C145 296 155 270 162 249M168 230C175 208 183 183 188 165M193 152C201 130 207 114 211 96M215 77L217 54M181 192C168 177 146 158 129 148M180 225C197 216 212 209 226 204"/>
+  </g>
+  <g stroke="#766149" stroke-width=".7" opacity=".74">
+    <path d="M140 307L143 304M148 284L152 281M158 260L160 256M166 238L170 234M176 209L180 206M185 181L190 178M196 146L199 141M207 112L211 108M211 92L215 89M217 65L220 62M147 158L150 157M163 173L167 172M199 214L202 211"/>
+  </g>
+  <!-- A single modest axillary thorn belongs to the woody twig. -->
+  <path d="M184 185C193 180 204 177 213 176C204 181 196 187 185 190Z" fill="#958068" stroke="#77634d" stroke-width="1.05"/>
+  <path d="M187 186L207 178" stroke="#c0aa88" stroke-width=".55"/>
+  <g fill="#8d765b" stroke="#776149" stroke-width=".65"><path d="M182 194L180 188L183 186L186 189L186 193Z"/><path d="M157 260L155 255L159 253L162 256L160 260Z"/><path d="M210 108L208 103L212 101L215 105Z"/></g>
+
+  <!-- Broad, shallowly lobed blades narrow into a cuneate base. -->
+  <g transform="translate(137 259) rotate(-55)">
+    <path d="M0 0C-7-7-15-13-20-21L-23-27L-28-30L-24-34C-28-37-31-42-31-47L-26-47L-29-53L-23-52L-23-58L-16-55C-13-61-7-64-3-66L0-73L4-67C9-65 14-61 16-56L23-59L23-53L29-53L27-47L33-46C31-40 29-37 24-34L28-31L24-27L22-22C18-14 7-7 0 0Z" fill="url(#br22-leaf)" stroke="#6b7659" stroke-width="1.25"/>
+    <path d="M0-2C1-21 0-44 0-70M0-17C-9-24-16-27-25-30M0-28C-11-32-19-40-27-47M0-41C-6-46-12-50-16-55M1-19C10-23 18-28 26-31M1-31C13-34 21-40 28-46M1-45C8-48 13-53 16-57M-11-32L-18-33M-16-40L-19-47M13-35L20-35M18-41L21-48M-3-55L-8-61M4-56L9-63" stroke="#6f7b5a" stroke-width=".7"/>
+    <path d="M-1-5C-1-24-2-44-1-62" stroke="#d3d0ac" stroke-width=".75" opacity=".85"/>
+    <g stroke="#74805e" stroke-width=".45" opacity=".55"><path d="M-12-21L-16-26M-15-23L-19-28M-24-39L-27-44M-20-38L-23-44M-11-51L-13-56M14-26L19-30M16-29L22-33M23-41L26-45M8-50L12-55M-5-62L-4-66"/></g>
+  </g>
+  <path d="M137 260L146 266M129 142L140 151M201 126L195 111M179 223L190 218M214 74L208 61" stroke="#7d7d5d" stroke-width="1.45"/>
+
+  <g transform="translate(132 146) rotate(-51) scale(.87)">
+    <path d="M0 0C-9-9-17-14-20-23L-24-27L-28-31L-24-34C-30-39-32-44-31-49L-26-48L-28-55L-22-53L-21-59L-15-56C-12-61-6-65-3-66L1-73L5-66C11-63 15-60 17-54L23-57L24-51L30-52L28-46L33-45C32-40 27-36 24-34L27-30L23-27C20-14 9-8 0 0Z" fill="url(#br22-leaf-back)" stroke="#6c785d" stroke-width="1.3"/>
+    <path d="M0-3L1-69M0-19C-8-24-16-29-26-31M0-31C-12-34-21-40-28-47M1-46L-15-56M1-20C10-24 18-27 25-30M1-34C13-36 22-40 29-46M1-48L17-55M-14-36L-20-35M-18-41L-21-49M13-37L19-34M18-40L22-48M-5-54L-7-62M7-53L10-60" stroke="#74805e" stroke-width=".75"/>
+    <path d="M-2-9L-1-60" stroke="#d1cfb0" stroke-width=".65"/>
+    <g stroke="#7e8769" stroke-width=".48" opacity=".55"><path d="M-14-23L-19-28M-17-26L-22-31M-25-39L-27-44M-21-39L-24-45M12-26L18-30M15-29L21-33M24-40L27-44M11-51L14-56"/></g>
+  </g>
+
+  <g transform="translate(195 112) rotate(-39) scale(.92)">
+    <path d="M0 0C-7-9-16-14-20-24L-23-28L-27-31L-23-35C-28-38-31-44-30-49L-25-48L-28-54L-21-53L-21-59L-15-56C-11-62-6-65-2-67L1-74L5-67C11-64 15-60 16-55L22-58L24-52L30-53L28-47L33-46C31-39 27-36 23-33L27-30L22-26C18-15 7-7 0 0Z" fill="url(#br22-leaf)" stroke="#6b7659" stroke-width="1.25"/>
+    <path d="M0-2C1-23 2-44 1-71M1-19C-8-24-16-28-25-31M1-31C-12-35-21-41-27-48M1-46C-5-50-10-53-15-57M1-21C9-24 18-28 25-30M2-34C13-37 23-41 29-47M2-48L16-56M-13-36L-19-35M-18-41L-21-48M14-39L21-37M20-43L23-50M-3-56L-7-62M5-56L11-62" stroke="#6c7956" stroke-width=".7"/>
+    <path d="M-1-6C-1-24 0-44 0-63" stroke="#d5d1af" stroke-width=".75"/>
+    <g stroke="#77815e" stroke-width=".48" opacity=".55"><path d="M-13-22L-18-27M-16-25L-21-30M-23-40L-26-45M-19-40L-22-47M-10-52L-12-56M13-28L19-32M17-31L23-35M24-42L27-46M8-53L11-58"/></g>
+  </g>
+
+  <g transform="translate(228 203) rotate(70) scale(.92)">
+    <path d="M0 0C-8-7-15-12-20-22L-24-27L-28-31L-23-34C-28-38-31-42-31-47L-26-47L-28-53L-22-52L-22-58L-16-55C-13-61-7-64-3-66L1-73L5-66C11-64 15-61 17-55L23-58L24-52L30-53L28-47L33-45C31-39 27-36 23-33L27-30L23-26C18-14 8-8 0 0Z" fill="url(#br22-leaf)" stroke="#6c7759" stroke-width="1.3"/>
+    <path d="M0-3C1-24 1-44 1-70M1-19L-25-31M1-32C-10-35-20-41-28-47M1-45L-16-56M1-21L25-30M1-34C13-37 21-40 29-46M1-47L17-56M-13-36L-20-35M-20-42L-21-49M14-38L21-36M20-42L22-49M-4-55L-8-62M6-55L11-62" stroke="#6b7856" stroke-width=".7"/>
+    <path d="M-1-8L-1-62" stroke="#cecdac" stroke-width=".8"/>
+    <g stroke="#73805d" stroke-width=".48" opacity=".55"><path d="M-12-23L-18-28M-16-26L-22-31M-23-39L-26-44M-19-39L-23-45M14-27L19-31M17-30L23-34M24-40L27-45M9-51L13-56"/></g>
+  </g>
+
+  <g transform="translate(209 62) rotate(-14) scale(.47)">
+    <path d="M0 0C-8-9-17-15-21-25L-26-30L-23-34C-29-38-31-43-31-48L-25-48L-27-54L-21-53L-20-59L-14-56C-10-62-5-65-2-67L1-73L5-66C11-62 15-60 17-54L23-57L24-51L30-51L28-45L32-44C30-38 26-35 22-33L26-29L21-25C18-15 8-8 0 0Z" fill="url(#br22-leaf-back)" stroke="#707b5f" stroke-width="1.7"/>
+    <path d="M0-3L1-69M0-20L-25-30M1-33L-26-47M1-47L-14-56M1-22L24-29M1-35L29-45M1-49L17-54" stroke="#778263" stroke-width="1"/>
+    <path d="M-1-8L-1-60" stroke="#d8d3b5" stroke-width=".9"/>
+  </g>
+
+  <!-- Unequal fruit stalks form a small corymb, with each pome suspended from its top. -->
+  <g stroke="#7d7d5a" stroke-width="1.35">
+    <path d="M231 99C229 78 231 59 243 50"/>
+    <path d="M232 99C246 80 266 73 279 81"/>
+    <path d="M232 99C241 99 245 103 246 109"/>
+    <path d="M233 99C255 101 276 112 286 133"/>
+  </g>
+  <g stroke="#c2bc93" stroke-width=".5"><path d="M231 92C232 73 233 59 242 53M237 94C250 80 265 76 277 81M241 103L244 108M242 102C262 107 278 120 284 132"/></g>
+  <path d="M228 102L230 96L234 98L234 101Z" fill="#8a8e66" stroke="#727951" stroke-width=".6"/>
+
+  <g>
+    <path d="M242 50C250 47 258 52 261 61C264 71 261 80 253 84C245 89 234 87 228 80C222 73 223 63 228 57C232 52 237 51 242 50Z" fill="url(#br22-gold)" stroke="#9a7d50" stroke-width="1.25"/>
+    <path d="M233 56C236 53 240 53 243 53M228 67C227 73 231 79 236 81M257 61C260 68 258 75 254 79" stroke="#aa8c56" stroke-width=".65" opacity=".7"/>
+    <path d="M231 61C233 57 238 55 242 56" stroke="#ede2b7" stroke-width="2" opacity=".46"/>
+    <path d="M242 50Q244 52 247 51" stroke="#806b49" stroke-width=".8"/>
+    <use href="#br22-calyx" transform="translate(247 81) rotate(-12) scale(.83)"/>
+    <g stroke="#9e8050" stroke-width=".45" opacity=".6"><path d="M258 64L259 68M256 71L256 75M252 85L248 86M229 76L232 79M231 71L232 73M251 55L254 58M238 84L241 85"/></g>
+  </g>
+  <g>
+    <path d="M278 81C286 78 295 82 299 91C303 100 299 111 292 116C284 121 275 120 268 113C262 107 262 95 267 88C270 84 274 82 278 81Z" fill="url(#br22-russet)" stroke="#98784e" stroke-width="1.25"/>
+    <path d="M269 94C269 90 273 85 278 85M266 104C267 109 272 114 277 115M296 89C301 96 298 105 295 109" stroke="#ad8955" stroke-width=".65" opacity=".8"/>
+    <path d="M269 94C270 88 274 86 279 86" stroke="#ebddb0" stroke-width="1.8" opacity=".42"/>
+    <path d="M276 82Q279 84 283 82" stroke="#806546" stroke-width=".8"/>
+    <use href="#br22-calyx" transform="translate(285 113) rotate(14) scale(.84)"/>
+    <g stroke="#977448" stroke-width=".45" opacity=".61"><path d="M297 95L298 99M295 101L294 106M299 101L297 105M291 118L287 119M269 109L272 112M273 101L274 103M288 85L292 88"/></g>
+  </g>
+  <g>
+    <path d="M245 109C253 105 263 112 265 121C269 131 264 140 257 145C248 150 237 148 230 141C224 133 226 122 230 116C234 111 239 109 245 109Z" fill="url(#br22-gold)" stroke="#997b4c" stroke-width="1.3"/>
+    <path d="M231 122C233 116 238 113 243 113M230 134C232 140 237 143 241 144M261 118C265 127 262 134 259 138" stroke="#ac8b50" stroke-width=".7" opacity=".7"/>
+    <path d="M232 121C234 116 238 115 242 115" stroke="#eee2b1" stroke-width="2.1" opacity=".5"/>
+    <path d="M242 110Q246 113 249 110" stroke="#8c7149" stroke-width=".9"/>
+    <use href="#br22-calyx" transform="translate(249 141) rotate(-8) scale(.98)"/>
+    <g stroke="#9d7d48" stroke-width=".45" opacity=".63"><path d="M263 123L264 127M260 129L260 134M257 145L253 147M231 137L234 140M230 130L230 133M255 113L258 116M236 126L237 128"/></g>
+  </g>
+  <g>
+    <path d="M286 132C293 129 302 134 305 142C309 151 305 161 298 165C291 170 281 168 275 162C269 156 270 146 274 140C277 135 281 133 286 132Z" fill="url(#br22-russet)" stroke="#99784e" stroke-width="1.25"/>
+    <path d="M276 144C278 139 282 137 286 136M274 154C275 159 280 163 284 164M302 141C305 149 302 156 300 158" stroke="#a68151" stroke-width=".65" opacity=".75"/>
+    <path d="M277 144C279 140 282 138 285 138" stroke="#ead8a7" stroke-width="1.7" opacity=".44"/>
+    <path d="M283 133Q286 135 290 133" stroke="#856a49" stroke-width=".8"/>
+    <use href="#br22-calyx" transform="translate(291 162) rotate(16) scale(.8)"/>
+    <g stroke="#956e46" stroke-width=".45" opacity=".62"><path d="M303 145L304 149M301 152L300 156M296 167L292 168M275 157L279 161M279 151L280 153M295 136L298 139"/></g>
+  </g>
+
+  <!-- A separate transverse cut shows the firm flesh around the three bony pyrenes. -->
+  <path d="M249 280C254 273 264 269 273 271C284 271 292 279 293 289C294 300 285 310 274 313C262 316 251 311 246 302C242 295 244 286 249 280Z" fill="url(#br22-russet)" stroke="#9a7a50" stroke-width="1.25"/>
+  <path d="M250 281C255 275 264 272 273 274C283 275 290 281 290 290C291 300 283 308 273 310C263 312 253 308 249 300C245 294 246 286 250 281Z" fill="url(#br22-flesh)" stroke="#c2aa77" stroke-width=".9"/>
+  <path d="M252 283C257 277 264 276 270 277M249 291C248 297 253 303 258 306M285 286C288 293 283 301 278 305" stroke="#f1e9c9" stroke-width="1.1" opacity=".85"/>
+  <path d="M264 284C268 281 273 282 275 285L276 292L272 298L265 299L260 294L260 288Z" fill="#d4c59d" fill-opacity=".65" stroke="#b8a97e" stroke-width=".65"/>
+  <g fill="url(#br22-stone)" stroke="#8e7858" stroke-width=".8">
+    <path d="M268 291C264 290 260 287 262 283C266 279 271 282 272 287Z"/>
+    <path d="M270 291C274 287 279 287 280 291C281 295 276 298 272 297Z"/>
+    <path d="M267 293C270 297 269 302 265 303C261 302 259 298 262 294Z"/>
+  </g>
+  <g stroke="#d4c09a" stroke-width=".6"><path d="M264 284L268 288M275 290L273 294M263 297L265 300"/></g>
+  <g stroke="#b8a77a" stroke-width=".5" opacity=".63"><path d="M258 279L260 282M252 285L256 286M250 293L255 293M254 302L258 300M273 307L272 302M283 299L279 297M286 286L282 288M276 277L274 282"/></g>
+  <path d="M263 313C267 315 272 315 277 313M286 306L288 303M245 294L246 299" stroke="#a38554" stroke-width=".6"/>
+</svg>

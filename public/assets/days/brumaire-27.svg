@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br27-title br27-desc">
+  <title id="br27-title">Macjonc — illustrative tuber-bearing sedge</title>
+  <desc id="br27-desc">An illustrative chufa-like sedge form for the historically ambiguous name Macjonc: a three-ridged upright culm, narrow basal leaves, and an open umbrella of slender ochre-brown spikelets above three long leaf-like bracts. Fine underground rhizomes bear small oval brown tubers among fibrous roots. This drawing suggests an edible underground sedge, without identifying the old name with an exact species.</desc>
+  <defs>
+    <linearGradient id="br27-leaf" x1="100" y1="150" x2="178" y2="266" gradientUnits="userSpaceOnUse"><stop stop-color="#b1b495" stop-opacity=".57"/><stop offset=".45" stop-color="#939e79" stop-opacity=".71"/><stop offset="1" stop-color="#737f5d" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="br27-leaf-right" x1="270" y1="141" x2="191" y2="268" gradientUnits="userSpaceOnUse"><stop stop-color="#a9af91" stop-opacity=".58"/><stop offset="1" stop-color="#7e8c64" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="br27-culm" x1="179" y1="160" x2="186" y2="161" gradientUnits="userSpaceOnUse"><stop stop-color="#aeb692"/><stop offset=".43" stop-color="#bac09d"/><stop offset=".48" stop-color="#83916a"/><stop offset="1" stop-color="#74815d"/></linearGradient>
+    <linearGradient id="br27-tuber" x1="0" y1="0" x2="1" y2=".75"><stop stop-color="#c0a47b" stop-opacity=".9"/><stop offset=".48" stop-color="#a4875e" stop-opacity=".93"/><stop offset="1" stop-color="#7f6548" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="br27-spike" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#c3ad79"/><stop offset=".5" stop-color="#af9460"/><stop offset="1" stop-color="#8e754d"/></linearGradient>
+    <!-- A slender compressed spikelet, with two alternating rows of imbricate scales. -->
+    <g id="br27-spikelet" stroke="#88724e" stroke-width=".55">
+      <path d="M0 0C3-2.1 10-2.8 18-1.1L22 0L18 1.5C10 3 3 2.3 0 0Z" fill="url(#br27-spike)"/>
+      <path d="M0 0L21.5 0" stroke="#746447" stroke-width=".6"/>
+      <path d="M3.1-.2L5-1.95M6-.1L8-2.12M9-.1L11-2.05M12-.1L14-1.85M15-.1L17-1.5M18-.1L19-.75M3.7.1L5.6 2M6.8.1L8.6 2.3M9.8.1L11.7 2.1M12.8.1L14.5 1.9M15.7.1L17.1 1.5M18.5.1L19.4.8"/>
+      <path d="M4-1.1L5.2-.8M10-1.2L11.3-.8M7.6 1.3L9 .8M13.7 1.15L15 .7" stroke="#d1ba8b" stroke-width=".45"/>
+    </g>
+  </defs>
+  <!-- Basal blades curve out from a compact crown; parallel veins follow each blade. -->
+  <g fill="url(#br27-leaf)" stroke="#687651" stroke-width="1.05">
+    <path d="M174 269C161 230 139 177 109 137C96 118 83 104 69 96C93 121 116 165 133 205C146 234 157 257 169 270Z"/>
+    <path d="M172 268C151 244 129 225 103 214C85 206 66 204 52 207C77 207 95 218 114 233C135 250 151 264 168 273Z"/>
+    <path d="M176 266C171 222 158 170 143 141C134 123 126 111 116 104C131 125 141 154 150 191C157 221 162 248 171 270Z"/>
+    <path d="M179 268C177 223 173 190 177 160C180 143 183 130 186 117C177 132 171 150 168 170C164 198 168 238 173 270Z" fill="#a0a785" fill-opacity=".65"/>
+  </g>
+  <g fill="url(#br27-leaf-right)" stroke="#687651" stroke-width="1.05">
+    <path d="M180 270C195 229 215 190 239 161C256 142 272 131 287 128C264 142 247 165 231 192C212 223 197 253 185 273Z"/>
+    <path d="M181 271C205 247 226 230 251 221C274 213 292 215 306 221C285 217 265 221 245 232C223 245 205 261 185 275Z"/>
+    <path d="M183 268C190 233 195 211 208 189C218 173 231 161 246 153C231 169 220 187 211 208C200 235 195 256 187 272Z"/>
+  </g>
+  <g stroke="#6e7b57" stroke-width=".59" opacity=".86">
+    <path d="M172 267C153 218 117 136 72 99M170 268C141 248 96 205 55 207M174 266C163 215 148 137 118 107M176 266C171 215 169 155 184 122M184 270C210 214 244 154 282 131M184 272C226 239 263 212 301 219M185 269C199 228 213 180 243 156"/>
+    <path d="M154 229C140 193 126 163 110 140M146 222C128 180 109 140 91 118M128 237C108 220 92 214 76 211M162 228C156 191 146 159 139 144M207 224C226 189 244 161 262 146M215 240C236 223 255 218 270 218M198 241C204 216 218 187 229 173" stroke-width=".43" opacity=".65"/>
+  </g>
+  <!-- The culm has two visible faces and a continuous raised ridge, with no stem leaves. -->
+  <path d="M176 265C177 227 181 190 183 156C185 128 186 109 188 91L192 91C191 117 189 141 188 159C185 199 184 235 181 266Z" fill="url(#br27-culm)" stroke="#6f7b58" stroke-width="1.15"/>
+  <path d="M179 263C181 225 184 185 185 155C187 126 188 104 189 93" stroke="#d0ccac" stroke-width=".72"/>
+  <path d="M182 257L186 184M188 143L191 100" stroke="#6b7753" stroke-width=".45" opacity=".72"/>
+  <!-- Three leaf-like bracts continue well beyond the open inflorescence. -->
+  <g fill="url(#br27-leaf)" stroke="#6c7954" stroke-width=".9">
+    <path d="M190 96C165 91 139 92 116 99C105 102 95 106 85 112C111 103 137 100 161 100C173 100 184 101 190 99Z"/>
+    <path d="M190 96C218 92 243 96 266 106C276 110 285 116 294 124C270 110 243 104 217 102C207 101 198 101 190 100Z"/>
+    <path d="M190 97C187 76 181 59 176 46C181 65 181 80 185 99Z" fill="#a8ae8c" fill-opacity=".65"/>
+  </g>
+  <g stroke="#7c865f" stroke-width=".48"><path d="M189 98C153 95 113 101 90 109M192 99C226 96 267 107 289 120M187 95L178 52"/></g>
+  <!-- Unequal umbrella rays divide into short fingers carrying brown flattened spikelets. -->
+  <g stroke="#7b8059" stroke-width="1.05">
+    <path d="M189 96C174 86 155 78 139 70M189 96C179 77 170 61 164 47M190 95C194 77 200 63 209 48M191 96C209 84 225 75 241 73M191 97C213 95 234 95 253 101M189 95C185 81 183 71 183 60"/>
+  </g>
+  <g stroke="#a4aa7d" stroke-width=".42"><path d="M189 94L142 71M189 93L165 48M191 93L209 49M193 95L241 74M195 97L251 101"/></g>
+  <g stroke="#8a8057" stroke-width=".7">
+    <path d="M139 70L126 56M139 70L121 69M139 70L128 81M139 70L143 53M164 47L153 35M164 47L170 35M164 47L179 39M209 48L208 40M209 48L224 38M209 48L230 48M241 73L248 57M241 73L260 68M241 73L261 80M253 101L273 94M253 101L273 106M253 101L263 118M183 60L180 47M183 60L193 49"/>
+  </g>
+  <g>
+    <use href="#br27-spikelet" transform="translate(126 56) rotate(-139) scale(.85)"/>
+    <use href="#br27-spikelet" transform="translate(121 69) rotate(-172) scale(.96)"/>
+    <use href="#br27-spikelet" transform="translate(128 81) rotate(158) scale(.83)"/>
+    <use href="#br27-spikelet" transform="translate(143 53) rotate(-104) scale(.88)"/>
+    <use href="#br27-spikelet" transform="translate(153 35) rotate(-153) scale(.75)"/>
+    <use href="#br27-spikelet" transform="translate(170 35) rotate(-19) scale(.76)"/>
+    <use href="#br27-spikelet" transform="translate(179 39) rotate(9) scale(.77)"/>
+    <use href="#br27-spikelet" transform="translate(208 40) rotate(-78) scale(.52)"/>
+    <use href="#br27-spikelet" transform="translate(224 38) rotate(-27) scale(.83)"/>
+    <use href="#br27-spikelet" transform="translate(230 48) rotate(3) scale(.9)"/>
+    <use href="#br27-spikelet" transform="translate(248 57) rotate(-52) scale(.85)"/>
+    <use href="#br27-spikelet" transform="translate(260 68) rotate(-12) scale(.96)"/>
+    <use href="#br27-spikelet" transform="translate(261 80) rotate(30) scale(.89)"/>
+    <use href="#br27-spikelet" transform="translate(273 94) rotate(-16) scale(.86)"/>
+    <use href="#br27-spikelet" transform="translate(273 106) rotate(18) scale(.94)"/>
+    <use href="#br27-spikelet" transform="translate(263 118) rotate(51) scale(.81)"/>
+    <use href="#br27-spikelet" transform="translate(180 47) rotate(-115) scale(.6)"/>
+    <use href="#br27-spikelet" transform="translate(193 49) rotate(-46) scale(.58)"/>
+  </g>
+  <!-- Pale brown overlapping basal sheaths wrap the small crown. -->
+  <g stroke="#8a7d58" stroke-width=".85" fill="#b1a17a" fill-opacity=".82">
+    <path d="M169 258L166 244C172 248 175 254 178 267L181 274L173 276Z"/>
+    <path d="M177 271L178 248C183 254 184 259 183 266L186 254C190 261 189 271 182 279L175 277Z"/>
+    <path d="M172 269L167 259L171 274L179 279L181 274Z" fill="#c2b08b"/>
+  </g>
+  <path d="M171 259L176 272M180 255L180 271M186 262L182 274M172 273L178 277" stroke="#d6c49c" stroke-width=".6"/>
+  <!-- Fine adventitious roots and slender rhizomes remain exposed beneath the crown. -->
+  <g stroke="#8b8062" stroke-width=".63" opacity=".83">
+    <path d="M177 276C164 284 159 298 157 310C155 319 150 324 144 327M174 277C160 278 145 286 134 299C130 305 127 308 120 309M180 277C181 292 185 301 188 314C189 320 187 325 184 330M181 276C192 284 207 291 213 303C217 313 216 320 220 327M174 277C163 291 167 311 162 320M177 280C174 295 172 310 177 322M185 278C200 282 220 281 234 287"/>
+    <path d="M159 301L151 306M158 309L161 313M149 323L142 324M141 293L134 292M134 299L134 307M164 290L157 292M184 302L179 307M187 315L195 320M213 304L222 309M215 318L209 323M171 302L167 306M174 316L170 321M222 283L227 279" stroke-width=".43"/>
+  </g>
+  <g stroke="#8c7b56" stroke-width="1.65">
+    <path d="M174 277C159 279 148 274 133 279C115 285 106 292 96 295"/>
+    <path d="M183 276C197 275 210 279 223 281C244 285 257 280 271 280"/>
+    <path d="M181 280C196 292 206 293 216 300C224 306 230 309 237 308"/>
+    <path d="M174 280C168 295 154 304 148 315"/>
+  </g>
+  <g stroke="#c1af86" stroke-width=".62"><path d="M172 277C156 281 145 275 132 280C118 284 107 292 98 295M185 277C210 278 227 288 247 284L270 280M183 282C200 295 209 295 217 301L236 308M172 284C166 296 155 304 149 314"/></g>
+  <g stroke="#867250" stroke-width=".6"><path d="M133 277L134 282M115 285L117 289M214 279L213 283M246 282L247 286M207 294L205 298M158 301L161 303"/></g>
+  <!-- Small oval storage tubers terminate the thin rhizomes; annular wrinkles follow their volume. -->
+  <g fill="url(#br27-tuber)" stroke="#7f684a" stroke-width="1.05">
+    <path d="M96 292C91 286 82 287 77 293C71 299 74 307 80 310C86 313 95 309 98 303C100 298 99 295 96 292Z"/>
+    <path d="M269 276C274 269 284 269 289 274C295 280 291 288 285 292C278 296 269 291 267 285C266 281 267 278 269 276Z"/>
+    <path d="M237 304C242 298 251 299 257 305C263 311 261 318 255 322C249 326 239 324 235 319C231 313 232 308 237 304Z"/>
+    <path d="M148 313C144 309 136 311 132 317C128 322 132 328 138 329C145 330 151 325 152 321C153 317 151 315 148 313Z"/>
+  </g>
+  <g stroke="#816b4d" stroke-width=".62" opacity=".85">
+    <path d="M81 291C77 296 79 305 85 310M88 289C83 295 85 305 91 308M94 292C90 297 91 302 96 304M272 275C277 273 285 279 288 285M268 282C274 279 282 284 283 292M278 271C284 273 289 278 290 280M239 304C236 311 242 321 248 324M246 301C243 309 248 318 254 322M254 304C251 309 255 315 260 316M135 314C133 319 136 325 141 329M142 312C139 317 143 324 147 325"/>
+  </g>
+  <g stroke="#d3bb90" stroke-width=".64" opacity=".9"><path d="M77 297C78 293 81 291 84 291M89 292C92 294 92 298 92 300M272 277C275 274 279 274 282 276M269 284L273 287M238 309C237 313 240 318 243 320M247 304C250 305 251 307 252 309M134 318C134 321 136 324 139 325"/></g>
+</svg>
