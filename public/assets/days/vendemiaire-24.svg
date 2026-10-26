@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="v24-title v24-desc">
+<title id="v24-title">Amaryllis — flowering bulb study</title>
+<desc id="v24-desc">A belladonna-like amaryllis, illustrative of the historically broad name: three pale rose six-tepalled funnel flowers with long curved stamens rise in a small umbel from a smooth leafless scape. Split papery spathes clasp the flower stalks. Below are a layered brown bulb and fine roots, with a separate strap-leaf study to the right.</desc>
+<defs>
+  <linearGradient id="v24-scape" x1="165" y1="198" x2="181" y2="198" gradientUnits="userSpaceOnUse"><stop stop-color="#798469" stop-opacity=".86"/><stop offset=".42" stop-color="#b0b49a" stop-opacity=".76"/><stop offset="1" stop-color="#8e997a" stop-opacity=".86"/></linearGradient>
+  <linearGradient id="v24-bulb" x1="147" y1="273" x2="199" y2="304" gradientUnits="userSpaceOnUse"><stop stop-color="#c0a386" stop-opacity=".8"/><stop offset=".43" stop-color="#ab8c6b" stop-opacity=".85"/><stop offset="1" stop-color="#80654e" stop-opacity=".9"/></linearGradient>
+  <linearGradient id="v24-leaf" x1="249" y1="274" x2="286" y2="207" gradientUnits="userSpaceOnUse"><stop stop-color="#778263" stop-opacity=".83"/><stop offset=".48" stop-color="#9da487" stop-opacity=".72"/><stop offset="1" stop-color="#b3b59b" stop-opacity=".64"/></linearGradient>
+  <linearGradient id="v24-rose" x1="0" y1="0" x2=".75" y2="1"><stop stop-color="#f0e4dc" stop-opacity=".9"/><stop offset=".52" stop-color="#e0c4c4" stop-opacity=".82"/><stop offset="1" stop-color="#c69b9f" stop-opacity=".83"/></linearGradient>
+  <linearGradient id="v24-pale" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#f1e9dc" stop-opacity=".93"/><stop offset=".65" stop-color="#e5d0cb" stop-opacity=".87"/><stop offset="1" stop-color="#cfa5aa" stop-opacity=".81"/></linearGradient>
+  <linearGradient id="v24-tube" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d6bdba" stop-opacity=".9"/><stop offset=".45" stop-color="#e6d6c5" stop-opacity=".9"/><stop offset="1" stop-color="#a5a583" stop-opacity=".9"/></linearGradient>
+</defs>
+<!-- A long, smooth, entirely leafless flower scape. -->
+<path d="M165 284C170 248 168 214 169 182C170 165 169 153 170 140L178 140C177 154 178 167 177 184C176 217 178 252 174 285Z" fill="url(#v24-scape)" stroke="#74775d" stroke-width="1.35"/>
+<path d="M172 278C176 245 172 213 173 183C174 165 173 152 174 144" stroke="#d3d0b2" stroke-width="1" opacity=".85"/>
+<path d="M167 274C169 254 168 235 169 220M170 180L171 157" stroke="#778165" stroke-width=".55"/>
+<!-- Unequal individual pedicels spring from the same point. -->
+<g stroke="#7d8265" stroke-width="1.25" fill="#adb091" fill-opacity=".9">
+<path d="M173 145C155 134 142 121 130 106L134 102C147 118 160 130 176 140Z"/>
+<path d="M174 140C175 128 177 116 175 106L180 106C181 118 179 132 177 142Z"/>
+<path d="M176 143C192 133 212 122 229 108L231 112C216 125 194 137 178 146Z"/>
+</g>
+<g stroke="#d0cbb0" stroke-width=".65"><path d="M173 141C157 131 143 118 134 107M177 137L178 115M181 141C199 131 215 120 228 111"/></g>
+<!-- The left-hand flower seen obliquely: a narrow tube opens into six slender recurving tepals. -->
+<path d="M134 108C124 102 113 97 104 89L110 78C120 90 128 97 138 102Z" fill="url(#v24-tube)" stroke="#9c827b" stroke-width="1.05"/>
+<g stroke="#a18481" stroke-width="1.05">
+<path d="M112 88C105 75 103 63 99 52C95 42 88 39 82 40C87 49 88 63 91 74C94 83 103 91 112 92Z" fill="url(#v24-rose)"/>
+<path d="M110 86C102 71 92 63 79 60C68 56 57 58 52 61C64 66 70 72 79 79C90 88 102 91 111 91Z" fill="url(#v24-pale)"/>
+<path d="M109 86C101 81 87 79 74 82C62 84 51 93 48 101C58 101 68 97 77 97C91 99 101 95 111 91Z" fill="url(#v24-rose)"/>
+<path d="M113 89C100 90 90 99 84 112C80 123 75 130 69 132C81 134 91 128 96 117C101 108 108 102 117 96Z" fill="url(#v24-pale)"/>
+<path d="M115 89C112 99 114 111 108 123C105 131 101 136 99 139C109 138 117 129 119 118C122 107 120 98 119 92Z" fill="url(#v24-rose)"/>
+<path d="M112 88C117 77 118 64 114 54C112 47 109 44 105 41C106 51 103 60 103 70C103 78 106 86 112 91Z" fill="url(#v24-pale)"/>
+</g>
+<g stroke="#b18e91" stroke-width=".6" opacity=".8">
+<path d="M111 90C98 77 94 56 85 44M108 87C93 73 75 64 57 62M107 91C88 86 69 91 53 98M112 94C92 106 91 121 74 130M117 94C117 113 112 128 103 135M110 85C109 70 112 57 107 46"/>
+<path d="M94 74L90 64M85 76L76 69M80 88L70 89M93 108L88 116M115 111L114 120M108 64L108 57" stroke-width=".45"/>
+</g>
+<!-- Exserted filaments remain fine and separate against the pale corolla. -->
+<g stroke="#a29477" stroke-width=".75">
+<path d="M116 94C102 90 89 85 76 81M116 94C104 94 84 96 69 94M116 94C99 98 89 106 78 111M116 94C103 88 94 75 84 70M116 94C98 92 86 87 71 87M116 94C104 101 95 112 91 121"/>
+</g>
+<g fill="#b19a65" stroke="#8c7959" stroke-width=".55">
+<ellipse cx="75" cy="81" rx="3.1" ry="1.25" transform="rotate(20 75 81)"/><ellipse cx="68" cy="94" rx="3" ry="1.3" transform="rotate(-8 68 94)"/><ellipse cx="77" cy="111" rx="3" ry="1.3" transform="rotate(-32 77 111)"/><ellipse cx="83" cy="70" rx="2.9" ry="1.2" transform="rotate(42 83 70)"/><ellipse cx="70" cy="87" rx="3" ry="1.25" transform="rotate(12 70 87)"/><ellipse cx="91" cy="121" rx="2.9" ry="1.2" transform="rotate(-56 91 121)"/>
+</g>
+<path d="M117 95C99 93 82 100 64 105M64 105L61 103M64 105L61 107M64 105L65 108" stroke="#96896e" stroke-width=".85"/>
+<!-- Rear right bloom, with its funnel held sideways above the umbel. -->
+<path d="M225 115C233 109 239 101 246 91L254 97C243 107 237 114 230 119Z" fill="url(#v24-tube)" stroke="#9d867d" stroke-width="1.05"/>
+<g stroke="#a18582" stroke-width="1.05">
+<path d="M246 95C239 83 239 68 245 57C249 50 255 46 259 45C254 55 257 65 255 74C254 82 251 89 246 95Z" fill="url(#v24-rose)"/>
+<path d="M247 94C248 77 256 66 269 61C281 56 291 58 298 62C284 65 278 73 269 81C261 89 253 93 247 97Z" fill="url(#v24-pale)"/>
+<path d="M248 96C260 86 271 84 285 86C300 89 310 97 314 104C301 100 292 103 280 102C268 102 257 100 248 99Z" fill="url(#v24-rose)"/>
+<path d="M248 97C260 97 273 105 279 115C285 125 292 129 298 131C286 135 276 129 270 121C261 112 256 106 246 102Z" fill="url(#v24-pale)"/>
+<path d="M246 98C252 107 252 119 260 128C265 134 270 137 275 137C266 141 255 136 250 128C245 119 242 109 242 103Z" fill="url(#v24-rose)"/>
+<path d="M244 96C235 91 229 81 230 72C230 65 228 59 225 55C237 57 243 67 245 77C247 84 248 90 247 98Z" fill="url(#v24-pale)"/>
+</g>
+<g stroke="#b28f92" stroke-width=".6" opacity=".8">
+<path d="M247 96C251 79 248 62 256 49M251 94C264 79 278 66 293 62M251 97C274 91 294 94 309 101M250 101C270 109 279 125 292 130M246 104C253 118 253 133 269 136M244 92C239 76 237 63 228 59"/>
+<path d="M248 74L249 65M266 77L274 70M285 93L295 95M276 120L281 125M251 122L254 129M238 71L236 66" stroke-width=".45"/>
+</g>
+<g stroke="#a19377" stroke-width=".75"><path d="M245 101C258 94 276 86 285 80M245 101C259 98 278 98 291 99M245 101C258 103 272 111 281 116M245 101C260 92 271 77 276 72M245 101C260 99 280 103 290 108M245 101C258 108 264 119 271 124"/></g>
+<g fill="#b19a65" stroke="#8b7756" stroke-width=".55"><ellipse cx="285" cy="80" rx="3.1" ry="1.2" transform="rotate(-30 285 80)"/><ellipse cx="291" cy="99" rx="3" ry="1.2"/><ellipse cx="281" cy="116" rx="3.1" ry="1.2" transform="rotate(31 281 116)"/><ellipse cx="276" cy="72" rx="3" ry="1.2" transform="rotate(-48 276 72)"/><ellipse cx="290" cy="108" rx="3" ry="1.2" transform="rotate(15 290 108)"/><ellipse cx="271" cy="124" rx="3" ry="1.2" transform="rotate(49 271 124)"/></g>
+<path d="M245 102C262 99 284 92 300 91M300 91L303 89M300 91L303 92M300 91L301 94" stroke="#94876c" stroke-width=".9"/>
+<!-- Forward-facing flower. Six broad but slender-tipped tepals overlap around a cream throat. -->
+<path d="M175 112C173 103 170 97 170 91L182 88C182 97 181 107 180 115Z" fill="url(#v24-tube)" stroke="#9d877e" stroke-width="1"/>
+<g stroke="#a38582" stroke-width="1.1">
+<path d="M171 89C157 78 151 65 153 51C154 42 159 35 164 30C164 42 172 49 176 60C181 70 177 81 171 89Z" fill="url(#v24-rose)"/>
+<path d="M175 87C176 70 185 57 196 53C206 49 213 51 220 50C214 58 207 63 201 74C195 85 185 90 175 92Z" fill="url(#v24-pale)"/>
+<path d="M177 91C189 80 203 78 217 84C226 87 231 94 234 101C221 97 210 103 199 103C188 103 180 98 174 96Z" fill="url(#v24-rose)"/>
+<path d="M174 94C188 97 197 108 197 119C197 128 194 134 196 141C185 134 181 126 177 116C174 108 169 101 169 96Z" fill="url(#v24-pale)"/>
+<path d="M169 94C166 105 156 118 145 120C137 121 130 119 124 121C131 112 132 104 141 98C150 91 160 91 169 92Z" fill="url(#v24-rose)"/>
+<path d="M170 90C158 92 146 88 140 78C135 69 135 61 132 56C144 59 151 66 158 73C165 80 171 84 173 91Z" fill="url(#v24-pale)"/>
+</g>
+<path d="M165 87C169 84 176 85 180 89C184 94 180 99 175 102C169 101 163 94 165 87Z" fill="#e5d9bd" fill-opacity=".87" stroke="#b59d8b" stroke-width=".7"/>
+<g stroke="#b08d92" stroke-width=".65" opacity=".8">
+<path d="M170 89C169 71 158 51 163 34M175 89C186 75 199 58 215 53M178 94C196 90 216 91 230 98M172 98C184 113 188 125 193 135M166 96C150 103 138 113 129 119M167 89C154 77 143 64 136 59"/>
+<path d="M163 57C161 52 160 48 161 44M172 72L168 61M191 72L198 66M199 89L210 89M189 117L191 125M148 108L140 113M147 73L143 67" stroke-width=".45"/>
+<path d="M158 52L159 60M155 54L156 62M201 57L195 63M205 58L198 65M221 91L213 90M223 94L215 93M192 129L188 121M189 131L185 123M134 114L141 111M136 117L144 113" stroke-width=".4" opacity=".7"/>
+</g>
+<g stroke="#a19376" stroke-width=".8">
+<path d="M175 100C164 90 155 83 150 72M175 100C170 85 170 71 171 61M175 100C182 85 188 73 193 69M175 100C187 94 199 91 207 92M175 100C173 107 168 114 160 116M175 100C181 106 184 112 185 120"/>
+</g>
+<g fill="#b5a06a" stroke="#8e7a58" stroke-width=".6">
+<ellipse cx="150" cy="72" rx="3.3" ry="1.3" transform="rotate(60 150 72)"/><ellipse cx="171" cy="61" rx="3.3" ry="1.3" transform="rotate(82 171 61)"/><ellipse cx="193" cy="69" rx="3.3" ry="1.3" transform="rotate(-48 193 69)"/><ellipse cx="207" cy="92" rx="3.4" ry="1.3" transform="rotate(-8 207 92)"/><ellipse cx="160" cy="116" rx="3.2" ry="1.3" transform="rotate(-26 160 116)"/><ellipse cx="185" cy="120" rx="3.3" ry="1.3" transform="rotate(66 185 120)"/>
+</g>
+<path d="M175 101C180 89 186 80 191 79M191 79L194 77M191 79L194 80M191 79L191 82" stroke="#958a6d" stroke-width="1"/>
+<!-- Split, parchment-like spathe valves droop below the radiating pedicels. -->
+<g fill="#c3b394" fill-opacity=".83" stroke="#91826a" stroke-width="1">
+<path d="M174 142C162 137 153 133 145 126C148 138 153 146 159 150C165 154 169 151 174 146Z"/>
+<path d="M177 141C187 139 195 140 201 135C197 147 193 152 185 154L178 148Z"/>
+</g>
+<g stroke="#9c8b70" stroke-width=".6"><path d="M148 130C157 139 163 143 171 145M151 137L159 143M158 145L164 148M181 146C188 146 194 142 198 139M186 149L193 145"/></g>
+<!-- Tunicate bulb: dry brown outer scales curl away from the paler inner neck. -->
+<path d="M165 270C162 262 162 253 165 247L171 252L177 246C179 257 182 264 181 271Z" fill="#bdad8c" stroke="#8b795e" stroke-width="1.05"/>
+<path d="M166 251L168 269M173 252L176 270" stroke="#e1d3b3" stroke-width=".8"/>
+<path d="M162 265C150 273 140 285 142 298C144 310 154 318 169 320C184 322 202 315 207 303C211 291 203 276 188 268C182 264 169 262 162 265Z" fill="url(#v24-bulb)" stroke="#80694f" stroke-width="1.5"/>
+<path d="M170 266C159 279 153 293 159 307C162 314 168 319 174 320C163 317 152 315 147 306C141 292 151 277 162 267Z" fill="#bba181" fill-opacity=".7" stroke="#8b7154" stroke-width=".85"/>
+<path d="M180 266C195 276 202 289 198 304C195 313 183 319 175 320C188 321 201 314 207 303C212 290 201 274 188 268Z" fill="#927254" fill-opacity=".42" stroke="#8b7054" stroke-width=".8"/>
+<path d="M161 265C158 258 155 253 157 246C160 254 165 257 171 263M187 269C190 260 187 254 190 250C192 258 197 265 194 273" fill="#ba9c7a" fill-opacity=".8" stroke="#8f7458" stroke-width=".9"/>
+<g stroke="#8a6c4f" stroke-width=".65" opacity=".85">
+<path d="M163 271C153 282 150 295 154 303M160 278C155 289 156 302 162 309M173 267C166 281 164 295 169 308M181 268C187 281 187 297 181 310M190 276C198 289 196 301 190 307M146 288C144 298 148 305 154 309M199 284C205 294 202 302 198 306M150 280L147 287M177 310L174 316M161 312L166 317M189 312L183 316"/>
+</g>
+<g stroke="#d3b797" stroke-width=".65" opacity=".8"><path d="M166 272C159 284 158 294 162 303M177 269C174 283 175 297 176 305M193 282C196 291 192 303 187 308M146 297C148 304 152 307 157 310"/></g>
+<path d="M160 318C165 315 178 315 186 318L182 323C174 324 167 323 161 321Z" fill="#96795b" stroke="#79634d" stroke-width=".8"/>
+<!-- Fibrous bulb roots vary in thickness and direction. -->
+<g stroke="#9c8a6d" stroke-width=".95">
+<path d="M165 321C163 325 155 325 152 329M169 322C170 329 163 330 160 333M173 322C174 326 177 329 174 334M179 322C184 325 190 324 194 330M182 320C188 320 194 322 198 326M162 320C156 321 147 320 143 325"/>
+</g>
+<g stroke="#b6a48a" stroke-width=".55"><path d="M163 325L159 325M170 328L172 331M178 327L181 331M189 324L189 328M153 323L150 322M195 324L201 324"/></g>
+<!-- A separate seasonal strap-leaf study, with parallel venation and a cut basal sheath. -->
+<path d="M245 313C253 279 255 245 269 218C278 200 288 187 295 177C289 193 283 212 278 232C270 261 259 289 253 315Z" fill="url(#v24-leaf)" stroke="#6f7c5e" stroke-width="1.1"/>
+<path d="M250 313C261 280 263 248 275 221C282 205 289 190 294 179" stroke="#c7c6a5" stroke-width=".85"/>
+<path d="M248 308C256 277 258 249 270 222M254 309C265 278 270 253 276 234M270 230L280 207" stroke="#778566" stroke-width=".55" opacity=".8"/>
+<path d="M246 315C239 293 234 269 236 244C238 227 240 218 239 205C246 221 248 235 246 252C244 272 246 295 251 314Z" fill="url(#v24-leaf)" stroke="#718061" stroke-width="1.1"/>
+<path d="M249 313C242 287 240 267 241 246C243 233 242 217 240 209" stroke="#c1c2a0" stroke-width=".8"/>
+<path d="M247 315L254 315L253 321L247 322L243 318Z" fill="#bdb59a" stroke="#8c8a70" stroke-width=".9"/>
+<path d="M247 317L251 318M248 320L251 320" stroke="#a0987d" stroke-width=".6"/>
+</svg>

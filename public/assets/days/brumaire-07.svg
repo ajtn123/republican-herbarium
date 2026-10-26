@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brumaire-07-title brumaire-07-desc">
+  <title id="brumaire-07-title">Figue — Ficus carica</title>
+  <desc id="brumaire-07-desc">A short knotted fig twig bears a rough, five-lobed leaf and a dusky violet and olive pear-shaped fig with a minute terminal eye. A lengthwise cut half below reveals the concealed inflorescence: muted rose flesh densely crowded with ochre seed-bearing florets around a narrow, irregular cavity. There is no external blossom.</desc>
+  <defs>
+    <linearGradient id="brumaire-07-leaf" x1="79" y1="62" x2="198" y2="201" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b498" stop-opacity=".59"/><stop offset=".46" stop-color="#929d78" stop-opacity=".69"/><stop offset="1" stop-color="#778560" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="brumaire-07-leaf-fold" x1="163" y1="147" x2="208" y2="187" gradientUnits="userSpaceOnUse"><stop stop-color="#b0b697" stop-opacity=".15"/><stop offset="1" stop-color="#617451" stop-opacity=".28"/></linearGradient>
+    <linearGradient id="brumaire-07-twig" x1="189" y1="246" x2="199" y2="248" gradientUnits="userSpaceOnUse"><stop stop-color="#c0af88"/><stop offset=".45" stop-color="#a3926e"/><stop offset="1" stop-color="#7b7156"/></linearGradient>
+    <linearGradient id="brumaire-07-fruit" x1="228" y1="196" x2="296" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#a6a083" stop-opacity=".84"/><stop offset=".27" stop-color="#96917a" stop-opacity=".89"/><stop offset=".61" stop-color="#817385" stop-opacity=".87"/><stop offset="1" stop-color="#665565" stop-opacity=".91"/></linearGradient>
+    <linearGradient id="brumaire-07-fig-blush" x1="235" y1="227" x2="284" y2="261" gradientUnits="userSpaceOnUse"><stop stop-color="#a08c9a" stop-opacity=".05"/><stop offset="1" stop-color="#766276" stop-opacity=".31"/></linearGradient>
+    <linearGradient id="brumaire-07-cut-skin" x1="104" y1="235" x2="170" y2="312" gradientUnits="userSpaceOnUse"><stop stop-color="#969479" stop-opacity=".82"/><stop offset=".6" stop-color="#89747e" stop-opacity=".9"/><stop offset="1" stop-color="#715b6a" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="brumaire-07-rind" x1="99" y1="243" x2="151" y2="307" gradientUnits="userSpaceOnUse"><stop stop-color="#e2d6b3" stop-opacity=".95"/><stop offset="1" stop-color="#c5b28d" stop-opacity=".9"/></linearGradient>
+    <radialGradient id="brumaire-07-flesh" cx=".47" cy=".48" r=".64"><stop stop-color="#c59087" stop-opacity=".8"/><stop offset=".56" stop-color="#bd8b80" stop-opacity=".85"/><stop offset="1" stop-color="#ad776f" stop-opacity=".88"/></radialGradient>
+  </defs>
+  <!-- A short, softly angular twig; rings mark its two swollen nodes. -->
+  <path d="M178 322C184 299 191 278 194 257C197 234 201 215 210 195C217 178 221 162 222 149L227 148C228 165 221 182 215 197C205 218 202 238 200 258C196 283 190 303 184 324Z" fill="url(#brumaire-07-twig)" stroke="#786b50" stroke-width="1.45"/>
+  <path d="M181 320C188 297 195 273 197 254C199 233 203 213 212 194M216 184C222 167 225 156 224 150" stroke="#d4c4a1" stroke-width=".8"/>
+  <path d="M181 324Q183 320 184 321M194 260L200 262M196 255L201 256M207 200L215 203M210 194L218 197" stroke="#74664e" stroke-width=".8"/>
+  <path d="M222 149Q224 146 227 148L227 151Q224 153 222 151Z" fill="#c7b48d" stroke="#79694e" stroke-width=".8"/>
+  <path d="M209 197C220 188 229 185 242 190L241 196C228 192 222 195 213 203" fill="#9a9572" stroke="#7b7859" stroke-width="1.2"/>
+  <path d="M214 198Q228 189 239 192" stroke="#c6bd96" stroke-width=".7"/>
+  <path d="M200 220C188 209 177 198 163 187" stroke="#737958" stroke-width="4.1"/>
+  <path d="M199 218C188 208 176 196 162 186" stroke="#bdbea0" stroke-width="1.35"/>
+  <path d="M202 214L197 209L199 220" fill="#a5aa81" stroke="#7c805c" stroke-width=".8"/>
+  <!-- Five unequal rounded lobes, deep sinuses and a cordate petiole junction. -->
+  <path d="M163 187C156 194 146 204 131 208L119 207L119 204L107 203L108 200C94 200 79 195 68 187L59 180L64 177L56 170C65 165 75 160 87 159C97 158 108 161 118 156C111 147 102 142 92 138C78 134 65 125 58 114L51 106L55 103L47 94L59 94L58 89C70 87 83 87 94 92C105 97 116 112 126 116C127 103 120 89 119 76C117 63 122 48 129 38L135 34L138 39L144 31L150 39L154 37C164 48 171 62 172 75C172 89 166 100 169 111C180 105 186 88 197 79C204 72 216 66 226 66L225 74L232 74C233 85 230 98 224 108C216 119 201 123 195 135C208 135 217 132 227 136C239 141 247 150 251 159L246 162L250 170C239 179 224 186 211 188C199 189 188 185 177 186C176 194 172 197 168 195Z" fill="url(#brumaire-07-leaf)" stroke="#64714f" stroke-width="1.45"/>
+  <path d="M163 187C176 174 182 157 195 135C207 136 219 135 229 141C215 146 208 153 202 163C191 179 180 185 168 190Z" fill="url(#brumaire-07-leaf-fold)"/>
+  <!-- The five stout basal veins branch and reconnect over the coarse blade. -->
+  <g stroke="#687651" stroke-width=".92" opacity=".94">
+    <path d="M163 187C151 147 141 91 141 37M163 187C145 164 111 123 54 97M163 187C136 186 95 177 62 179M163 187C174 145 202 96 224 71M164 186C188 172 223 160 247 162"/>
+    <path d="M152 150C137 145 125 136 116 125M148 130C155 118 161 102 165 92M146 112C134 101 127 88 123 78M143 90C151 80 157 66 158 56M141 70C135 60 132 51 132 44M157 169C147 167 139 163 132 156M153 153C162 145 168 132 173 122"/>
+    <path d="M141 158C130 160 119 159 111 157M123 138C122 126 119 117 114 111M107 124C91 125 77 121 65 114M90 113C87 104 80 96 75 92M111 130C101 132 92 132 86 131M131 147C136 140 138 135 139 128M143 172C132 180 120 185 107 187M123 180C110 170 100 165 89 163M102 176C89 180 77 180 69 180M132 184C131 191 127 198 124 202"/>
+    <path d="M171 163C184 163 196 159 206 151M179 143C177 131 179 121 184 112M189 121C204 119 214 111 220 104M201 102C200 94 201 87 205 80M213 86L226 80M186 131C195 126 202 126 208 124M177 169C183 180 195 184 205 185M194 170C200 176 212 181 224 180M212 165C221 154 231 148 239 148M228 161C232 166 238 168 244 168"/>
+  </g>
+  <g stroke="#6f7a57" stroke-width=".55" opacity=".58">
+    <path d="M130 57Q135 65 135 73L126 75M148 57Q148 64 144 69M126 86L132 90L136 103M151 91Q153 99 150 106M129 110L135 117L134 128M154 119L156 129L152 139M161 145L169 141L172 132M112 116L107 119L99 117M94 103L91 109L94 116M77 101L74 106L78 116M113 138L114 146L122 151M99 169L99 175L105 182M119 171L116 178L121 185M139 188L136 195L129 200M182 120L189 116L193 108M190 106L193 98L199 96M209 94L216 96L223 90M187 147L193 150L197 158M205 146L213 143L221 145M202 175L211 171L220 174M231 153L236 157L236 162M156 179L149 183L147 191"/>
+    <path d="M123 51L126 56M123 57L126 63M148 43L151 49M151 43L154 49M57 99L63 102M59 104L65 108M63 112L69 116M72 187L78 189M76 184L83 186M97 196L104 197M128 204L135 201M215 76L211 82M219 77L215 83M233 143L237 148M235 147L239 152M231 177L236 174M230 173L235 170"/>
+  </g>
+  <!-- A pendent syconium swells below its short neck, its eye at the distal end. -->
+  <path d="M240 191C244 188 250 190 252 194C252 205 258 211 269 217C285 225 299 237 302 253C306 270 296 285 280 292C265 299 246 295 234 285C220 273 217 256 220 242C222 229 231 219 234 210C237 203 236 196 240 191Z" fill="url(#brumaire-07-fruit)" stroke="#75665e" stroke-width="1.55"/>
+  <path d="M251 208C263 218 284 228 292 242C302 259 296 277 279 286C266 291 256 288 249 280C241 266 245 246 241 230C240 219 243 213 251 208Z" fill="url(#brumaire-07-fig-blush)"/>
+  <path d="M242 195C242 210 234 220 230 234C224 252 229 274 243 284M249 197C249 213 262 226 266 244C271 261 270 280 269 290M247 207C245 225 246 243 249 259C252 275 256 285 261 291M259 217C277 230 292 248 291 264C290 277 282 285 276 289" stroke="#807365" stroke-width=".78" opacity=".7"/>
+  <path d="M239 214C231 228 226 242 228 254M234 273C238 280 245 285 253 288M260 226C266 234 270 247 271 257M278 236C284 242 288 252 287 261M285 279L280 285" stroke="#d0beac" stroke-width=".6" opacity=".52"/>
+  <g stroke="#6f5e66" stroke-width=".55" opacity=".51"><path d="M222 246L222 253M223 261L226 269M231 281L237 287M246 291L253 294M287 289L293 284M299 273L301 266M300 248L298 241M290 230L284 226M273 219L267 216M237 224L235 230M246 245L247 250M253 269L255 274M276 250L278 255M286 269L284 273M231 253L232 256"/></g>
+  <g fill="#b7a997" opacity=".53"><ellipse cx="239" cy="239" rx=".65" ry="1.1" transform="rotate(-13 239 239)"/><ellipse cx="258" cy="252" rx=".65" ry="1"/><ellipse cx="277" cy="271" rx=".55" ry=".95"/><ellipse cx="262" cy="281" rx=".55" ry=".85"/><ellipse cx="284" cy="243" rx=".5" ry=".9"/><ellipse cx="246" cy="223" rx=".5" ry=".9"/></g>
+  <path d="M268 291C270 287 277 286 281 289C281 293 275 296 271 295Z" fill="#827164" stroke="#6e5c55" stroke-width=".85"/>
+  <path d="M271 290L274 291L276 288L277 291L280 291L277 293L274 292L273 294Z" fill="#5e4c4b" stroke="#66514c" stroke-width=".45"/>
+  <!-- The cut half lies obliquely: thin dark skin, pale rind and a broad seeded interior. -->
+  <g transform="rotate(-14 126 270)">
+    <path d="M120 216C124 211 132 211 136 216L137 231C145 240 160 247 168 262C179 282 177 303 160 316C146 327 121 327 105 317C87 305 82 285 89 267C94 253 110 243 115 233Z" fill="url(#brumaire-07-cut-skin)" stroke="#76655e" stroke-width="1.4"/>
+    <path d="M122 217C126 214 131 215 133 219L132 234C139 245 154 253 161 266C170 283 169 301 154 312C141 321 122 320 108 311C94 302 90 286 96 270C102 255 115 246 120 235Z" fill="url(#brumaire-07-rind)" stroke="#b29b7c" stroke-width=".8"/>
+    <path d="M126 231C130 242 134 247 143 255C154 265 162 277 160 290C158 305 145 313 130 313C117 312 104 304 102 291C99 277 106 266 115 256C122 248 122 239 126 231Z" fill="url(#brumaire-07-flesh)" stroke="#aa7b6d" stroke-width=".75"/>
+    <path d="M126 234C124 246 122 254 116 262M106 278C102 290 108 303 119 307M133 309C148 309 157 300 157 289M148 264C140 256 133 249 130 241" stroke="#d2aa95" stroke-width=".8" opacity=".8"/>
+    <path d="M127 250C126 262 122 267 122 277C121 285 126 291 127 300C135 298 138 292 136 285C133 276 136 268 132 262C130 257 129 254 127 250Z" fill="#d5b59e" stroke="#b68b77" stroke-width=".65"/>
+    <path d="M127 260C128 267 125 271 127 278C130 283 130 289 130 294" stroke="#ae8374" stroke-width=".55"/>
+    <!-- Minute elongated seed-bearing florets crowd the inner wall in irregular rows. -->
+    <g stroke="#d7b391" stroke-width=".5" opacity=".9">
+      <path d="M122.6 247.2q1.7 -1.8 2.6 -.7"/>
+      <path d="M127.5 246.3q1.7 -1.8 2.6 -.7"/>
+      <path d="M132.2 247.6q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M120.6 252.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M137.7 252.9q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M112.7 259.2q1.7 -1.8 2.6 -.7"/>
+      <path d="M117.9 259.2q1.7 -1.8 2.6 -.7"/>
+      <path d="M122.0 258.8q1.7 -1.8 2.6 -.7"/>
+      <path d="M139.5 259.1q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M142.9 259.6q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M110.8 264.4q1.7 -1.8 2.6 -.7"/>
+      <path d="M114.1 265.5q1.7 -1.8 2.6 -.7"/>
+      <path d="M119.1 265.3q1.7 -1.8 2.6 -.7"/>
+      <path d="M136.3 265.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M140.3 265.5q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M144.2 265.7q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M148.5 265.7q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M106.1 271.3q1.7 -1.8 2.6 -.7"/>
+      <path d="M110.2 271.2q1.7 -1.8 2.6 -.7"/>
+      <path d="M114.2 270.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M118.9 270.9q1.7 -1.8 2.6 -.7"/>
+      <path d="M136.1 270.8q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M140.9 270.5q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M145.1 270.3q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M149.7 271.6q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M153.2 270.9q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M105.5 276.6q1.7 -1.8 2.6 -.7"/>
+      <path d="M109.8 276.9q1.7 -1.8 2.6 -.7"/>
+      <path d="M113.4 277.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M117.8 277.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M140.2 277.4q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M143.5 276.3q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M148.3 277.5q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M153.0 277.4q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M103.8 282.9q1.7 -1.8 2.6 -.7"/>
+      <path d="M108.9 283.5q1.7 -1.8 2.6 -.7"/>
+      <path d="M112.8 283.3q1.7 -1.8 2.6 -.7"/>
+      <path d="M117.6 282.9q1.7 -1.8 2.6 -.7"/>
+      <path d="M121.8 282.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M138.2 282.7q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M143.0 283.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M146.6 283.4q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M151.7 283.2q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M155.3 283.2q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M106.5 288.9q1.7 -1.8 2.6 -.7"/>
+      <path d="M110.7 289.1q1.7 -1.8 2.6 -.7"/>
+      <path d="M114.7 288.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M119.7 288.4q1.7 -1.8 2.6 -.7"/>
+      <path d="M136.2 288.9q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M140.8 289.6q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M145.0 289.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M149.0 289.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M153.9 289.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M108.6 294.7q1.7 -1.8 2.6 -.7"/>
+      <path d="M112.0 295.1q1.7 -1.8 2.6 -.7"/>
+      <path d="M116.4 294.6q1.7 -1.8 2.6 -.7"/>
+      <path d="M120.9 295.3q1.7 -1.8 2.6 -.7"/>
+      <path d="M138.7 294.4q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M142.5 295.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M146.8 294.7q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M151.0 295.3q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M114.2 300.5q1.7 -1.8 2.6 -.7"/>
+      <path d="M119.1 301.5q1.7 -1.8 2.6 -.7"/>
+      <path d="M140.8 301.0q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M144.3 300.9q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M148.3 300.8q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M120.2 306.9q1.7 -1.8 2.6 -.7"/>
+      <path d="M124.1 306.6q1.7 -1.8 2.6 -.7"/>
+      <path d="M128.7 306.4q1.7 -1.8 2.6 -.7"/>
+      <path d="M133.0 306.9q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M137.6 306.8q-1.7 -1.8 -2.6 -.7"/>
+      <path d="M142.3 307.6q-1.7 -1.8 -2.6 -.7"/>
+    </g>
+    <g fill="#d3b184" stroke="#966b58" stroke-width=".35">
+      <ellipse cx="122.6" cy="247.2" rx="0.69" ry="1.25" transform="rotate(-15.8 122.6 247.2)"/>
+      <ellipse cx="127.5" cy="246.3" rx="0.63" ry="1.15" transform="rotate(37.0 127.5 246.3)"/>
+      <ellipse cx="132.2" cy="247.6" rx="0.62" ry="1.13" transform="rotate(-37.2 132.2 247.6)"/>
+      <ellipse cx="120.6" cy="252.7" rx="0.72" ry="1.31" transform="rotate(-6.7 120.6 252.7)"/>
+      <ellipse cx="137.7" cy="252.9" rx="0.63" ry="1.14" transform="rotate(10.8 137.7 252.9)"/>
+      <ellipse cx="112.7" cy="259.2" rx="0.62" ry="1.12" transform="rotate(-4.4 112.7 259.2)"/>
+      <ellipse cx="117.9" cy="259.2" rx="0.50" ry="0.92" transform="rotate(0.0 117.9 259.2)"/>
+      <ellipse cx="122.0" cy="258.8" rx="0.50" ry="0.92" transform="rotate(9.7 122.0 258.8)"/>
+      <ellipse cx="139.5" cy="259.1" rx="0.64" ry="1.16" transform="rotate(34.8 139.5 259.1)"/>
+      <ellipse cx="142.9" cy="259.6" rx="0.61" ry="1.11" transform="rotate(3.6 142.9 259.6)"/>
+      <ellipse cx="110.8" cy="264.4" rx="0.69" ry="1.26" transform="rotate(35.7 110.8 264.4)"/>
+      <ellipse cx="114.1" cy="265.5" rx="0.74" ry="1.35" transform="rotate(12.5 114.1 265.5)"/>
+      <ellipse cx="119.1" cy="265.3" rx="0.69" ry="1.25" transform="rotate(31.0 119.1 265.3)"/>
+      <ellipse cx="136.3" cy="265.0" rx="0.51" ry="0.93" transform="rotate(-28.8 136.3 265.0)"/>
+      <ellipse cx="140.3" cy="265.5" rx="0.52" ry="0.95" transform="rotate(-14.8 140.3 265.5)"/>
+      <ellipse cx="144.2" cy="265.7" rx="0.52" ry="0.95" transform="rotate(-44.1 144.2 265.7)"/>
+      <ellipse cx="148.5" cy="265.7" rx="0.54" ry="0.98" transform="rotate(-37.9 148.5 265.7)"/>
+      <ellipse cx="106.1" cy="271.3" rx="0.73" ry="1.32" transform="rotate(47.4 106.1 271.3)"/>
+      <ellipse cx="110.2" cy="271.2" rx="0.68" ry="1.25" transform="rotate(-40.1 110.2 271.2)"/>
+      <ellipse cx="114.2" cy="270.7" rx="0.73" ry="1.33" transform="rotate(-26.1 114.2 270.7)"/>
+      <ellipse cx="118.9" cy="270.9" rx="0.63" ry="1.14" transform="rotate(-20.3 118.9 270.9)"/>
+      <ellipse cx="136.1" cy="270.8" rx="0.50" ry="0.92" transform="rotate(26.6 136.1 270.8)"/>
+      <ellipse cx="140.9" cy="270.5" rx="0.50" ry="0.92" transform="rotate(-19.3 140.9 270.5)"/>
+      <ellipse cx="145.1" cy="270.3" rx="0.70" ry="1.28" transform="rotate(-20.8 145.1 270.3)"/>
+      <ellipse cx="149.7" cy="271.6" rx="0.62" ry="1.13" transform="rotate(-46.5 149.7 271.6)"/>
+      <ellipse cx="153.2" cy="270.9" rx="0.61" ry="1.11" transform="rotate(3.8 153.2 270.9)"/>
+      <ellipse cx="105.5" cy="276.6" rx="0.55" ry="1.00" transform="rotate(37.8 105.5 276.6)"/>
+      <ellipse cx="109.8" cy="276.9" rx="0.68" ry="1.24" transform="rotate(18.7 109.8 276.9)"/>
+      <ellipse cx="113.4" cy="277.7" rx="0.59" ry="1.07" transform="rotate(-45.5 113.4 277.7)"/>
+      <ellipse cx="117.8" cy="277.7" rx="0.70" ry="1.28" transform="rotate(-22.9 117.8 277.7)"/>
+      <ellipse cx="140.2" cy="277.4" rx="0.53" ry="0.96" transform="rotate(-7.5 140.2 277.4)"/>
+      <ellipse cx="143.5" cy="276.3" rx="0.53" ry="0.96" transform="rotate(43.7 143.5 276.3)"/>
+      <ellipse cx="148.3" cy="277.5" rx="0.70" ry="1.28" transform="rotate(30.4 148.3 277.5)"/>
+      <ellipse cx="153.0" cy="277.4" rx="0.58" ry="1.06" transform="rotate(-12.8 153.0 277.4)"/>
+      <ellipse cx="103.8" cy="282.9" rx="0.74" ry="1.35" transform="rotate(6.7 103.8 282.9)"/>
+      <ellipse cx="108.9" cy="283.5" rx="0.62" ry="1.12" transform="rotate(-37.4 108.9 283.5)"/>
+      <ellipse cx="112.8" cy="283.3" rx="0.67" ry="1.22" transform="rotate(1.8 112.8 283.3)"/>
+      <ellipse cx="117.6" cy="282.9" rx="0.60" ry="1.09" transform="rotate(29.4 117.6 282.9)"/>
+      <ellipse cx="121.8" cy="282.7" rx="0.61" ry="1.11" transform="rotate(24.2 121.8 282.7)"/>
+      <ellipse cx="138.2" cy="282.7" rx="0.51" ry="0.94" transform="rotate(23.8 138.2 282.7)"/>
+      <ellipse cx="143.0" cy="283.0" rx="0.63" ry="1.15" transform="rotate(-30.1 143.0 283.0)"/>
+      <ellipse cx="146.6" cy="283.4" rx="0.73" ry="1.34" transform="rotate(-11.3 146.6 283.4)"/>
+      <ellipse cx="151.7" cy="283.2" rx="0.54" ry="0.98" transform="rotate(18.2 151.7 283.2)"/>
+      <ellipse cx="155.3" cy="283.2" rx="0.73" ry="1.33" transform="rotate(7.2 155.3 283.2)"/>
+      <ellipse cx="106.5" cy="288.9" rx="0.67" ry="1.21" transform="rotate(4.9 106.5 288.9)"/>
+      <ellipse cx="110.7" cy="289.1" rx="0.51" ry="0.93" transform="rotate(-8.5 110.7 289.1)"/>
+      <ellipse cx="114.7" cy="288.7" rx="0.58" ry="1.06" transform="rotate(16.5 114.7 288.7)"/>
+      <ellipse cx="119.7" cy="288.4" rx="0.67" ry="1.22" transform="rotate(-13.8 119.7 288.4)"/>
+      <ellipse cx="136.2" cy="288.9" rx="0.66" ry="1.20" transform="rotate(10.9 136.2 288.9)"/>
+      <ellipse cx="140.8" cy="289.6" rx="0.53" ry="0.97" transform="rotate(-5.3 140.8 289.6)"/>
+      <ellipse cx="145.0" cy="289.0" rx="0.55" ry="1.00" transform="rotate(11.8 145.0 289.0)"/>
+      <ellipse cx="149.0" cy="289.0" rx="0.61" ry="1.10" transform="rotate(1.6 149.0 289.0)"/>
+      <ellipse cx="153.9" cy="289.0" rx="0.51" ry="0.92" transform="rotate(-28.9 153.9 289.0)"/>
+      <ellipse cx="108.6" cy="294.7" rx="0.72" ry="1.31" transform="rotate(0.9 108.6 294.7)"/>
+      <ellipse cx="112.0" cy="295.1" rx="0.56" ry="1.02" transform="rotate(-13.6 112.0 295.1)"/>
+      <ellipse cx="116.4" cy="294.6" rx="0.52" ry="0.94" transform="rotate(-0.7 116.4 294.6)"/>
+      <ellipse cx="120.9" cy="295.3" rx="0.59" ry="1.08" transform="rotate(-28.9 120.9 295.3)"/>
+      <ellipse cx="138.7" cy="294.4" rx="0.60" ry="1.10" transform="rotate(-3.5 138.7 294.4)"/>
+      <ellipse cx="142.5" cy="295.0" rx="0.63" ry="1.14" transform="rotate(47.5 142.5 295.0)"/>
+      <ellipse cx="146.8" cy="294.7" rx="0.55" ry="0.99" transform="rotate(-18.5 146.8 294.7)"/>
+      <ellipse cx="151.0" cy="295.3" rx="0.56" ry="1.02" transform="rotate(26.6 151.0 295.3)"/>
+      <ellipse cx="114.2" cy="300.5" rx="0.58" ry="1.05" transform="rotate(22.9 114.2 300.5)"/>
+      <ellipse cx="119.1" cy="301.5" rx="0.64" ry="1.16" transform="rotate(29.2 119.1 301.5)"/>
+      <ellipse cx="140.8" cy="301.0" rx="0.62" ry="1.12" transform="rotate(6.2 140.8 301.0)"/>
+      <ellipse cx="144.3" cy="300.9" rx="0.60" ry="1.10" transform="rotate(-11.9 144.3 300.9)"/>
+      <ellipse cx="148.3" cy="300.8" rx="0.51" ry="0.93" transform="rotate(-14.7 148.3 300.8)"/>
+      <ellipse cx="120.2" cy="306.9" rx="0.66" ry="1.21" transform="rotate(-12.1 120.2 306.9)"/>
+      <ellipse cx="124.1" cy="306.6" rx="0.66" ry="1.19" transform="rotate(5.6 124.1 306.6)"/>
+      <ellipse cx="128.7" cy="306.4" rx="0.72" ry="1.31" transform="rotate(27.2 128.7 306.4)"/>
+      <ellipse cx="133.0" cy="306.9" rx="0.73" ry="1.33" transform="rotate(31.1 133.0 306.9)"/>
+      <ellipse cx="137.6" cy="306.8" rx="0.56" ry="1.01" transform="rotate(5.0 137.6 306.8)"/>
+      <ellipse cx="142.3" cy="307.6" rx="0.67" ry="1.23" transform="rotate(-13.7 142.3 307.6)"/>
+    </g>
+    <g stroke="#986f61" stroke-width=".55" opacity=".66"><path d="M107 267Q110 263 113 261M104 286Q105 281 108 278M111 302Q115 301 117 297M146 302Q148 298 149 296M151 274Q149 269 146 268M136 253L138 258M119 251L119 256M136 308L141 305"/></g>
+    <path d="M121 218L126 220L131 218M126 220L125 230" stroke="#a69875" stroke-width=".7"/>
+    <path d="M91 281C88 296 97 310 109 317M142 323C152 322 163 316 169 307M171 277C174 290 173 298 170 303" stroke="#6e5c62" stroke-width=".65" opacity=".7"/>
+    <path d="M96 306L100 311M104 315L110 318M116 321L122 323M158 317L162 314M168 309L170 304M172 297L173 291" stroke="#b8a193" stroke-width=".55"/>
+  </g>
+  <g stroke="#7c7257" stroke-width=".6" opacity=".7"><path d="M186 298L188 292M190 281L192 275M200 239L201 233M219 176L220 171M199 270L198 276M193 291L191 296"/></g>
+</svg>

@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="v29-title v29-desc">
+  <title id="v29-title">Orge — Hordeum vulgare</title>
+  <desc id="v29-desc">Two mature barley culms rise from a small cut gathering. Their slender ears bow in opposite directions, with close rows of long, pointed husks on curved rachises and exceptionally long straight awns. Jointed straw-coloured stems carry narrow sage blades with parallel veins and clasping leaf sheaths.</desc>
+  <defs>
+    <linearGradient id="v29-straw" x1="136" y1="194" x2="202" y2="204" gradientUnits="userSpaceOnUse"><stop stop-color="#a7a17b" stop-opacity=".8"/><stop offset=".46" stop-color="#c4b48b" stop-opacity=".83"/><stop offset="1" stop-color="#9a966d" stop-opacity=".87"/></linearGradient>
+    <linearGradient id="v29-leaf" x1="102" y1="146" x2="225" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#adb093" stop-opacity=".6"/><stop offset=".5" stop-color="#939b77" stop-opacity=".72"/><stop offset="1" stop-color="#7a8765" stop-opacity=".77"/></linearGradient>
+    <linearGradient id="v29-leaf-fold" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#c0b994" stop-opacity=".65"/><stop offset="1" stop-color="#84906b" stop-opacity=".76"/></linearGradient>
+    <linearGradient id="v29-kernel" x1="0" y1="0" x2="1" y2=".65"><stop stop-color="#d9c69b" stop-opacity=".82"/><stop offset=".48" stop-color="#c9b581" stop-opacity=".85"/><stop offset="1" stop-color="#ac9768" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="v29-kernel-shade" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#c9bc90" stop-opacity=".84"/><stop offset="1" stop-color="#ae9a6c" stop-opacity=".9"/></linearGradient>
+    <g id="v29-spikelet-1">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.7 1.6 -5.95 4.7C-6.1 7 -4.2 8.2 -4.2 9.3C-2.1 8.1 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-5 3.4 -4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-1.8 3.2L-3.2 4.2M-2.5 5L-4 6.2" stroke="#8d7b54" stroke-width=".38" opacity=".65"/>
+    <path d="M0 .3C2.00 -.4 5.7 1.6 5.95 4.7C6.10 7 4.2 8.2 4.2 9.3C2.10 8.1 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q5.00 3.4 4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+    </g>
+    <g id="v29-spikelet-2">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.95 1.6 -6.2 4.7C-6.35 7 -4.2 8.75 -4.2 9.85C-2.1 8.65 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-5.25 3.4 -5.05 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M0 .3C2.00 -.4 5.95 1.6 6.2 4.7C6.35 7 4.2 8.75 4.2 9.85C2.10 8.65 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q5.25 3.4 5.05 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+    </g>
+    <g id="v29-spikelet-3">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.7 1.6 -5.95 4.7C-6.1 7 -4.2 9.3 -4.2 10.4C-2.1 9.2 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-5 3.4 -4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-1.8 3.2L-3.2 4.2M-2.5 5L-4 6.2" stroke="#8d7b54" stroke-width=".38" opacity=".65"/>
+    <path d="M0 .3C2.00 -.4 5.7 1.6 5.95 4.7C6.10 7 4.2 9.3 4.2 10.4C2.10 9.2 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q5.00 3.4 4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+    </g>
+    <g id="v29-spikelet-4">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.7 1.6 -5.95 4.7C-6.1 7 -4.2 8.2 -4.2 9.3C-2.1 8.1 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-5 3.4 -4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M0 .3C2.00 -.4 5.7 1.6 5.95 4.7C6.10 7 4.2 8.2 4.2 9.3C2.10 8.1 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q5.00 3.4 4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+    </g>
+    <g id="v29-spikelet-5">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.95 1.6 -6.2 4.7C-6.35 7 -4.2 8.75 -4.2 9.85C-2.1 8.65 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-5.25 3.4 -5.05 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-1.8 3.2L-3.2 4.2M-2.5 5L-4 6.2" stroke="#8d7b54" stroke-width=".38" opacity=".65"/>
+    <path d="M0 .3C2.00 -.4 5.95 1.6 6.2 4.7C6.35 7 4.2 8.75 4.2 9.85C2.10 8.65 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q5.25 3.4 5.05 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+    </g>
+    <g id="v29-spikelet-6">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.7 1.6 -5.95 4.7C-6.1 7 -4.2 9.3 -4.2 10.4C-2.1 9.2 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-5 3.4 -4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M0 .3C2.00 -.4 5.7 1.6 5.95 4.7C6.10 7 4.2 9.3 4.2 10.4C2.10 9.2 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q5.00 3.4 4.8 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+    </g>
+  </defs>
+  <!-- Two unbranched grass culms bow under their separate ripe ears. -->
+  <g stroke="#777455" stroke-width="1.15" fill="url(#v29-straw)">
+    <path d="M169 328C174 302 180 276 184 249C188 222 192 195 194 169C196 142 196 117 197 95C197 79 199 64 207 59C215 53 225 60 227 73L227 79L224 80C225 70 220 61 214 61C206 59 202 75 201 95C200 121 200 143 198 169C196 196 192 224 188 250C184 278 178 305 173 329Z"/>
+    <path d="M163 328C157 304 152 279 148 253C144 228 141 203 139 178C137 153 134 128 129 109C126 98 122 91 116 91C111 92 110 96 109 101L106 101C107 92 111 86 117 87C125 87 130 98 133 109C139 129 141 153 143 178C145 203 148 228 152 253C156 279 161 303 167 327Z"/>
+  </g>
+  <g stroke="#d6c8a3" stroke-width=".72" opacity=".9">
+    <path d="M171 326C178 297 183 271 186 251M188 237C191 214 194 194 196 174M198 158C199 136 198 115 199 96M200 86C201 74 205 62 211 61M165 325C159 299 155 278 150 255M148 242C145 220 143 201 141 180M140 166C138 143 136 125 131 110M129 103C125 93 121 89 116 89"/>
+  </g>
+  <!-- Long ribbon blades emerge from enclosing sheaths, with continuous parallel veins. -->
+  <g fill="url(#v29-leaf)" stroke="#687353" stroke-width="1.05">
+    <path d="M166 305C145 301 122 290 104 275C95 267 88 258 82 251C105 265 120 277 139 288C149 294 159 298 167 300Z"/>
+    <path d="M176 277C194 264 213 257 230 243C250 227 267 208 278 182C277 204 263 228 244 245C225 263 199 274 176 282Z"/>
+    <path d="M144 223C125 211 113 193 102 174C91 154 88 140 84 124C78 141 83 158 92 176C104 199 122 217 145 227Z"/>
+    <path d="M193 205C210 195 223 179 229 160C236 138 236 124 248 112C240 129 242 143 237 160C230 183 213 202 193 209Z"/>
+    <path d="M141 183C149 170 155 154 153 138C151 118 153 99 167 88C160 103 160 117 161 132C164 152 155 174 142 187Z" fill="url(#v29-leaf-fold)"/>
+    <path d="M185 248C204 241 225 239 243 244C254 247 262 254 261 266C259 255 251 252 242 251C223 247 203 250 184 252Z" fill="url(#v29-leaf-fold)"/>
+    <path d="M197 160C187 149 181 135 178 121C175 111 169 104 161 101C174 102 182 112 186 123C190 138 192 148 198 156Z"/>
+  </g>
+  <g stroke="#687553" stroke-width=".55" opacity=".86">
+    <path d="M165 302C137 292 106 271 85 254M161 303C137 296 113 280 98 266M145 295L133 288"/>
+    <path d="M178 279C211 263 253 234 275 189M184 278C218 267 253 239 269 209M187 274C221 256 251 232 268 203M228 247C243 235 258 220 266 205"/>
+    <path d="M144 225C116 207 91 165 84 128M139 223C116 208 95 175 89 154M139 220C115 201 100 177 94 158M98 178C92 165 88 151 86 140"/>
+    <path d="M194 207C214 195 231 170 235 147C237 133 240 123 245 116M200 206C223 191 233 169 237 148M199 203C218 187 228 167 232 148M220 184C227 171 232 158 234 143"/>
+    <path d="M142 184C156 163 158 148 156 132C154 113 158 98 164 92M146 181C159 163 161 146 158 129M145 177C153 160 154 148 154 139"/>
+    <path d="M186 250C209 244 236 244 249 250C255 253 258 257 260 262M200 249C219 246 236 248 244 249M194 248C211 243 229 242 240 245M197 158C185 141 183 117 166 104M196 159C183 146 181 130 178 120"/>
+  </g>
+  <g stroke="#c6c09c" stroke-width=".55" opacity=".7">
+    <path d="M183 278C212 263 249 237 266 210M101 178C93 161 87 143 85 131M195 206C215 192 229 170 233 151M143 182C152 166 157 149 156 137M187 249C211 242 233 244 246 248"/>
+  </g>
+  <!-- Swollen nodes and overlapping leaf-sheath lips remain exposed below the blades. -->
+  <g fill="#a8a27d" stroke="#747653" stroke-width=".72">
+    <path d="M180 278L180 272C182 269 185 268 188 269L188 274Q186 278 180 278Z"/>
+    <path d="M191 207L190 201L194 198L199 198L199 203Q195 207 191 207Z"/>
+    <path d="M195 163L193 157L197 154L201 157L200 161Z"/>
+    <path d="M144 226L141 221L141 216L146 219L149 224Z"/>
+    <path d="M139 184L137 179L140 176L144 177L144 182Z"/>
+    <path d="M153 282L151 277L155 276L158 280L158 283Z"/>
+  </g>
+  <g stroke="#787351" stroke-width=".95"><path d="M180 279L186 279M191 208L198 205M196 164L201 161M144 228L150 225M139 185L144 183M153 284L159 282"/></g>
+  <g stroke="#b9b18b" stroke-width=".55"><path d="M182 272L182 276M194 201L194 204M143 220L146 224M140 179L141 182"/></g>
+  <!-- Right nodding ear: all spikelets are attached to one unbranched rachis. -->
+  <path d="M224.00 78Q234.92 114.5 253.96 153.19" stroke="#9a875f" stroke-width="2.35"/>
+  <path d="M224.50 78Q235.42 114.5 254.46 153.19" stroke="#d3c298" stroke-width=".7"/>
+  <g stroke="#8e825e" stroke-width=".62" opacity=".88">
+    <path d="M-4.2 9.3L-17.6 61.3M4.20 9.3L17.60 61.3" transform="translate(224.39 79.09) rotate(-19.67)"/>
+    <path d="M-4.4 9.85L-18.9 68.41M4.40 9.85L18.90 68.41" transform="translate(226.31 84.42) rotate(-19.97)"/>
+    <path d="M-4.2 10.4L-19.8 75.52M4.20 10.4L19.80 75.52" transform="translate(228.26 89.75) rotate(-20.27)"/>
+    <path d="M-4.4 9.3L-17.8 64.98M4.40 9.3L17.80 64.98" transform="translate(230.25 95.08) rotate(-20.58)"/>
+    <path d="M-4.2 9.85L-18.7 72.09M4.20 9.85L18.70 72.09" transform="translate(232.26 100.41) rotate(-20.88)"/>
+    <path d="M-4.4 10.4L-20 63.2M4.40 10.4L20.00 63.2" transform="translate(234.31 105.74) rotate(-21.18)"/>
+    <path d="M-4.2 9.3L-17.6 68.66M4.20 9.3L17.60 68.66" transform="translate(236.39 111.07) rotate(-21.47)"/>
+    <path d="M-4.4 9.85L-18.9 59.77M4.40 9.85L18.90 59.77" transform="translate(238.51 116.4) rotate(-21.77)"/>
+    <path d="M-4.2 10.4L-19.8 66.88M4.20 10.4L19.80 66.88" transform="translate(240.65 121.73) rotate(-22.07)"/>
+    <path d="M-4.4 9.3L-17.8 72.34M4.40 9.3L17.80 72.34" transform="translate(242.83 127.06) rotate(-22.36)"/>
+    <path d="M-4.2 9.85L-18.7 63.45M4.20 9.85L18.70 63.45" transform="translate(245.04 132.38) rotate(-22.66)"/>
+    <path d="M-4.4 10.4L-20 70.56M4.40 10.4L20.00 70.56" transform="translate(247.28 137.71) rotate(-22.95)"/>
+    <path d="M-4.2 9.3L-17.6 60.02M4.20 9.3L17.60 60.02" transform="translate(249.55 143.04) rotate(-23.24)"/>
+  </g>
+  <g stroke="#c0ad7f" stroke-width=".42" opacity=".72">
+    <path d="M-4.1 9.6L-16.5 66" transform="translate(224.39 79.09) rotate(-19.67)"/>
+    <path d="M4.10 9.6L16.50 64.95" transform="translate(230.25 95.08) rotate(-20.58)"/>
+    <path d="M-4.1 9.6L-16.5 63.9" transform="translate(236.39 111.07) rotate(-21.47)"/>
+    <path d="M4.10 9.6L16.50 62.85" transform="translate(242.83 127.06) rotate(-22.36)"/>
+    <path d="M-4.1 9.6L-16.5 61.8" transform="translate(249.55 143.04) rotate(-23.24)"/>
+  </g>
+  <use href="#v29-spikelet-1" transform="translate(224.39 79.09) rotate(-19.67)"/>
+  <use href="#v29-spikelet-2" transform="translate(226.31 84.42) rotate(-19.97)"/>
+  <use href="#v29-spikelet-3" transform="translate(228.26 89.75) rotate(-20.27)"/>
+  <use href="#v29-spikelet-4" transform="translate(230.25 95.08) rotate(-20.58)"/>
+  <use href="#v29-spikelet-5" transform="translate(232.26 100.41) rotate(-20.88)"/>
+  <use href="#v29-spikelet-6" transform="translate(234.31 105.74) rotate(-21.18)"/>
+  <use href="#v29-spikelet-1" transform="translate(236.39 111.07) rotate(-21.47)"/>
+  <use href="#v29-spikelet-2" transform="translate(238.51 116.4) rotate(-21.77)"/>
+  <use href="#v29-spikelet-3" transform="translate(240.65 121.73) rotate(-22.07)"/>
+  <use href="#v29-spikelet-4" transform="translate(242.83 127.06) rotate(-22.36)"/>
+  <g transform="translate(245.04 132.38) rotate(-22.66)">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.63 1.6 -5.88 4.7C-6.03 7 -4.2 8.75 -4.2 9.85C-2.1 8.65 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-4.93 3.4 -4.73 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-1.8 3.2L-3.2 4.2M-2.5 5L-4 6.2" stroke="#8d7b54" stroke-width=".38" opacity=".65"/>
+    <path d="M0 .3C2.00 -.4 5.63 1.6 5.88 4.7C6.03 7 4.2 8.75 4.2 9.85C2.10 8.65 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q4.93 3.4 4.73 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+  </g>
+  <g transform="translate(247.28 137.71) rotate(-22.95)">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.06 1.6 -5.31 4.7C-5.46 7 -4.2 9.3 -4.2 10.4C-2.1 9.2 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-4.36 3.4 -4.16 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M0 .3C2.00 -.4 5.06 1.6 5.31 4.7C5.46 7 4.2 9.3 4.2 10.4C2.10 9.2 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q4.36 3.4 4.16 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+  </g>
+  <g transform="translate(249.55 143.04) rotate(-23.24)">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -4.74 1.6 -4.99 4.7C-5.14 7 -4.2 8.2 -4.2 9.3C-2.1 8.1 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-4.04 3.4 -3.84 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-1.8 3.2L-3.2 4.2M-2.5 5L-4 6.2" stroke="#8d7b54" stroke-width=".38" opacity=".65"/>
+    <path d="M0 .3C2.00 -.4 4.74 1.6 4.99 4.7C5.14 7 4.2 8.2 4.2 9.3C2.10 8.1 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q4.04 3.4 3.84 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+  </g>
+  <g transform="translate(253.8 152.82) rotate(-23.77)"><path d="M-1-1C-3.2 1-2.9 4.7 .3 7.8C2.6 4.5 2.8 1 .8-1Z" fill="url(#v29-kernel)" stroke="#897654" stroke-width=".65"/><path d="M.3 7.8L1 51" stroke="#8e825e" stroke-width=".55"/><path d="M0 0L.3 7.8" stroke="#a18b61" stroke-width=".45"/></g>
+  <!-- Left nodding ear: all spikelets are attached to one unbranched rachis. -->
+  <path d="M108.00 101Q99.18 133.5 83.19 167.95" stroke="#9a875f" stroke-width="2.35"/>
+  <path d="M108.50 101Q99.68 133.5 83.69 167.95" stroke="#d3c298" stroke-width=".7"/>
+  <g stroke="#8e825e" stroke-width=".62" opacity=".88">
+    <path d="M-4.2 9.3L-18.7 72.3M4.20 9.3L18.70 72.3" transform="translate(107.58 102.3) rotate(18)"/>
+    <path d="M-4.4 9.85L-20 63.41M4.40 9.85L20.00 63.41" transform="translate(105.89 107.44) rotate(18.38)"/>
+    <path d="M-4.2 10.4L-17.6 70.52M4.20 10.4L17.60 70.52" transform="translate(104.17 112.57) rotate(18.75)"/>
+    <path d="M-4.4 9.3L-18.9 59.98M4.40 9.3L18.90 59.98" transform="translate(102.4 117.7) rotate(19.13)"/>
+    <path d="M-4.2 9.85L-19.8 67.09M4.20 9.85L19.80 67.09" transform="translate(100.61 122.84) rotate(19.5)"/>
+    <path d="M-4.4 10.4L-17.8 74.2M4.40 10.4L17.80 74.2" transform="translate(98.77 127.97) rotate(19.87)"/>
+    <path d="M-4.2 9.3L-18.7 63.66M4.20 9.3L18.70 63.66" transform="translate(96.89 133.11) rotate(20.24)"/>
+    <path d="M-4.4 9.85L-20 70.77M4.40 9.85L20.00 70.77" transform="translate(94.98 138.25) rotate(20.6)"/>
+    <path d="M-4.2 10.4L-17.6 61.88M4.20 10.4L17.60 61.88" transform="translate(93.03 143.38) rotate(20.97)"/>
+    <path d="M-4.4 9.3L-18.9 67.34M4.40 9.3L18.90 67.34" transform="translate(91.05 148.51) rotate(21.33)"/>
+    <path d="M-4.2 9.85L-19.8 58.45M4.20 9.85L19.80 58.45" transform="translate(89.02 153.65) rotate(21.69)"/>
+    <path d="M-4.4 10.4L-17.8 65.56M4.40 10.4L17.80 65.56" transform="translate(86.96 158.78) rotate(22.05)"/>
+  </g>
+  <g stroke="#c0ad7f" stroke-width=".42" opacity=".72">
+    <path d="M-4.1 9.6L-16.5 66" transform="translate(107.58 102.3) rotate(18)"/>
+    <path d="M4.10 9.6L16.50 64.95" transform="translate(102.4 117.7) rotate(19.13)"/>
+    <path d="M-4.1 9.6L-16.5 63.9" transform="translate(96.89 133.11) rotate(20.24)"/>
+    <path d="M4.10 9.6L16.50 62.85" transform="translate(91.05 148.51) rotate(21.33)"/>
+  </g>
+  <use href="#v29-spikelet-1" transform="translate(107.58 102.3) rotate(18)"/>
+  <use href="#v29-spikelet-2" transform="translate(105.89 107.44) rotate(18.38)"/>
+  <use href="#v29-spikelet-3" transform="translate(104.17 112.57) rotate(18.75)"/>
+  <use href="#v29-spikelet-4" transform="translate(102.4 117.7) rotate(19.13)"/>
+  <use href="#v29-spikelet-5" transform="translate(100.61 122.84) rotate(19.5)"/>
+  <use href="#v29-spikelet-6" transform="translate(98.77 127.97) rotate(19.87)"/>
+  <use href="#v29-spikelet-1" transform="translate(96.89 133.11) rotate(20.24)"/>
+  <use href="#v29-spikelet-2" transform="translate(94.98 138.25) rotate(20.6)"/>
+  <use href="#v29-spikelet-3" transform="translate(93.03 143.38) rotate(20.97)"/>
+  <g transform="translate(91.05 148.51) rotate(21.33)">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.38 1.6 -5.63 4.7C-5.78 7 -4.2 8.2 -4.2 9.3C-2.1 8.1 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-4.68 3.4 -4.48 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M0 .3C2.00 -.4 5.38 1.6 5.63 4.7C5.78 7 4.2 8.2 4.2 9.3C2.10 8.1 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.3" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q4.68 3.4 4.48 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+  </g>
+  <g transform="translate(89.02 153.65) rotate(21.69)">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -5.31 1.6 -5.56 4.7C-5.71 7 -4.2 8.75 -4.2 9.85C-2.1 8.65 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-4.61 3.4 -4.41 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-1.8 3.2L-3.2 4.2M-2.5 5L-4 6.2" stroke="#8d7b54" stroke-width=".38" opacity=".65"/>
+    <path d="M0 .3C2.00 -.4 5.31 1.6 5.56 4.7C5.71 7 4.2 8.75 4.2 9.85C2.10 8.65 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 9.85" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q4.61 3.4 4.41 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+  </g>
+  <g transform="translate(86.96 158.78) rotate(22.05)">
+    <path d="M-.8 .3L-3.5-1.6L-2.2 4.8M.8 .3L3.4-1.3L2.4 4.8" stroke="#948660" stroke-width=".5"/>
+    <path d="M0 .3C-2 -.4 -4.74 1.6 -4.99 4.7C-5.14 7 -4.2 9.3 -4.2 10.4C-2.1 9.2 -.4 5.1 0 .3Z" fill="url(#v29-kernel-shade)" stroke="#887653" stroke-width=".68"/>
+    <path d="M-.8 1.3C-2.7 3 -3.6 5.6 -4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M-2.1 1.7Q-4.04 3.4 -3.84 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M0 .3C2.00 -.4 4.74 1.6 4.99 4.7C5.14 7 4.2 9.3 4.2 10.4C2.10 9.2 .4 5.1 0 .3Z" fill="url(#v29-kernel)" stroke="#887653" stroke-width=".68"/>
+    <path d="M0.80 1.3C2.70 3 3.6 5.6 4.2 10.4" stroke="#a08a5d" stroke-width=".48"/>
+    <path d="M2.10 1.7Q4.04 3.4 3.84 5.8" stroke="#e0cea4" stroke-width=".48" opacity=".83"/>
+    <path d="M-.8 1.8L.9 2.4M-.3 5.2L1.4 5.7" stroke="#796e4e" stroke-width=".5"/>
+  </g>
+  <g transform="translate(83.32 167.62) rotate(22.67)"><path d="M-1-1C-3.2 1-2.9 4.7 .3 7.8C2.6 4.5 2.8 1 .8-1Z" fill="url(#v29-kernel)" stroke="#897654" stroke-width=".65"/><path d="M.3 7.8L1 51" stroke="#8e825e" stroke-width=".55"/><path d="M0 0L.3 7.8" stroke="#a18b61" stroke-width=".45"/></g>
+  <!-- Two clean basal cuts keep the gathered specimen light and legible. -->
+  <path d="M163 328L167 327M169 328L173 329" stroke="#6f6b4d" stroke-width="1.2"/>
+  <path d="M164 329L165 325M171 327L172 323" stroke="#c2b58c" stroke-width=".6"/>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br04-title br04-desc">
+  <title id="br04-title">Betterave — Beta vulgaris</title>
+  <desc id="br04-desc">A freshly lifted red beet, its round wine-red storage root narrowing into a long curved taproot with fine lateral rootlets. Upright ribbed crimson petioles carry broad, wavy and puckered green leaves with red branching veins. A small cut slice shows the beet's subtle concentric red rings.</desc>
+  <defs>
+    <linearGradient id="br04-leaf" x1="84" y1="54" x2="175" y2="178" gradientUnits="userSpaceOnUse"><stop stop-color="#acb096" stop-opacity=".66"/><stop offset=".48" stop-color="#8e9b78" stop-opacity=".75"/><stop offset="1" stop-color="#6d805e" stop-opacity=".82"/></linearGradient>
+    <linearGradient id="br04-top" x1="163" y1="30" x2="183" y2="134" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b49b" stop-opacity=".63"/><stop offset=".53" stop-color="#8f9d7b" stop-opacity=".71"/><stop offset="1" stop-color="#70815f" stop-opacity=".82"/></linearGradient>
+    <linearGradient id="br04-right" x1="270" y1="58" x2="217" y2="167" gradientUnits="userSpaceOnUse"><stop stop-color="#a6ae91" stop-opacity=".68"/><stop offset=".52" stop-color="#899974" stop-opacity=".76"/><stop offset="1" stop-color="#687c59" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="br04-petiole" x1="167" y1="152" x2="181" y2="157" gradientUnits="userSpaceOnUse"><stop stop-color="#98626b"/><stop offset=".42" stop-color="#b27c80"/><stop offset="1" stop-color="#774b59"/></linearGradient>
+    <radialGradient id="br04-root" cx=".35" cy=".3" r=".78"><stop stop-color="#a56870" stop-opacity=".88"/><stop offset=".4" stop-color="#8b4b5c" stop-opacity=".9"/><stop offset=".77" stop-color="#713849" stop-opacity=".94"/><stop offset="1" stop-color="#5d303f" stop-opacity=".96"/></radialGradient>
+    <linearGradient id="br04-slice" x1="253" y1="265" x2="291" y2="303" gradientUnits="userSpaceOnUse"><stop stop-color="#bb7b82" stop-opacity=".88"/><stop offset=".57" stop-color="#a66170" stop-opacity=".88"/><stop offset="1" stop-color="#884b5e" stop-opacity=".92"/></linearGradient>
+  </defs>
+  <!-- Maroon leaf stalks emerge separately from a crowded crown. -->
+  <g fill="url(#br04-petiole)" stroke="#75505a" stroke-width="1.05">
+    <path d="M171 205C162 180 147 158 126 136L122 134L120 138C142 163 155 184 163 207Z"/>
+    <path d="M176 204C172 174 170 143 173 115L178 114C176 146 177 175 183 204Z"/>
+    <path d="M183 204C193 172 208 144 230 122L234 124C213 149 199 175 191 208Z"/>
+    <path d="M163 206C147 190 130 180 111 174L109 178C130 187 143 195 156 210Z"/>
+    <path d="M188 208C205 188 226 178 248 172L249 176C224 185 207 196 195 212Z"/>
+  </g>
+  <g stroke="#c29291" stroke-width=".7" opacity=".86">
+    <path d="M166 202C156 176 143 157 124 137M180 201C175 170 172 143 175 119M187 201C195 174 212 144 231 126M160 206C143 191 127 182 113 177M192 207C207 191 226 180 246 175"/>
+  </g>
+  <!-- A large oblique leaf has an undivided, wavy margin and a slightly cordate base. -->
+  <path d="M126 145C117 150 106 148 99 140C92 143 83 140 81 131C71 129 70 121 74 114C65 109 64 100 69 94C61 84 66 76 73 73C69 64 75 56 82 55C85 48 95 44 102 49C109 45 117 51 119 58C128 58 132 65 130 72C140 77 141 85 136 92C144 101 141 110 135 115C143 123 140 134 134 137C136 146 133 151 126 145Z" fill="url(#br04-leaf)" stroke="#617351" stroke-width="1.25"/>
+  <path d="M126 143C117 118 107 90 96 55" stroke="#8a5960" stroke-width="1.8"/>
+  <path d="M124 139C117 117 108 91 98 59" stroke="#c29a91" stroke-width=".55"/>
+  <g stroke="#8b6366" stroke-width=".82" opacity=".9">
+    <path d="M102 74C90 75 81 69 78 60M102 75C112 73 119 68 119 62M108 92C94 92 79 87 70 79M108 92C122 87 128 82 129 76M114 110C99 111 86 104 70 99M114 110C124 109 133 103 136 96M121 129C105 128 89 122 76 116M121 129C128 125 133 123 136 117M126 140L105 137"/>
+  </g>
+  <g stroke="#72835e" stroke-width=".58" opacity=".78">
+    <path d="M87 70L88 60M87 70L78 72M96 86L93 77M89 87L78 90M119 85L120 76M126 82L127 78M102 106L98 96M92 103L81 105M127 106L129 100M109 126L103 116M98 123L86 127M126 133L131 128"/>
+  </g>
+  <!-- The central leaf stands above the root: softly puckered, with neither serrations nor lobes. -->
+  <path d="M175 127C167 135 157 131 155 124C146 125 143 117 146 110C137 103 139 95 144 91C138 84 141 75 145 72C139 63 143 56 149 53C145 44 151 37 157 37C161 28 169 27 175 33C184 30 190 38 189 45C199 47 199 55 195 62C204 70 202 78 197 83C204 92 201 101 195 104C199 115 193 123 186 122C183 130 179 132 175 127Z" fill="url(#br04-top)" stroke="#647451" stroke-width="1.2"/>
+  <path d="M175 126C171 95 166 65 168 34" stroke="#8d5c63" stroke-width="1.8"/>
+  <path d="M174 123C169 91 167 61 169 37" stroke="#c8a297" stroke-width=".55"/>
+  <g stroke="#8a6263" stroke-width=".76" opacity=".9">
+    <path d="M168 51L155 41M168 52C178 50 182 45 184 39M169 68C159 64 151 60 147 56M169 68C180 65 189 59 192 52M171 86C158 81 150 77 145 74M171 86C183 81 191 74 196 68M173 105C161 101 152 96 144 94M173 105C185 100 193 94 198 87M175 120C163 118 154 114 148 109M175 120C184 116 190 111 193 106"/>
+  </g>
+  <g stroke="#73835e" stroke-width=".55" opacity=".78">
+    <path d="M158 62L157 53M158 62L150 63M180 62L182 54M158 81L154 72M159 81L148 82M184 78L185 69M186 78L195 76M158 98L154 88M157 98L147 101M186 97L188 87M163 116L159 106M184 116L187 111M171 45L178 39"/>
+  </g>
+  <!-- The broad right blade arches outward; its crumpled edge turns into small pale folds. -->
+  <path d="M226 135C217 135 212 129 215 121C207 116 210 108 216 103C210 94 216 86 222 85C220 75 226 68 233 70C233 60 241 54 249 57C255 49 264 52 268 59C279 57 286 65 283 73C293 78 292 87 285 92C294 101 289 109 282 111C287 121 280 129 271 128C269 138 259 142 252 137C246 146 237 144 233 138C230 139 228 138 226 135Z" fill="url(#br04-right)" stroke="#627451" stroke-width="1.25"/>
+  <path d="M226 134C239 111 250 88 263 58" stroke="#8b5c61" stroke-width="1.85"/>
+  <path d="M229 132C241 108 252 83 263 62" stroke="#c4a092" stroke-width=".56"/>
+  <g stroke="#8a6264" stroke-width=".8" opacity=".9">
+    <path d="M255 77C247 75 239 72 237 65M255 77C267 77 278 72 281 67M247 96C235 95 225 90 221 85M247 96C262 96 275 93 286 86M238 115C226 113 220 111 214 108M238 115C253 117 269 112 282 105M229 131C237 132 246 136 252 137M236 121C244 123 257 129 267 127"/>
+  </g>
+  <g stroke="#6f825b" stroke-width=".56" opacity=".78">
+    <path d="M242 74L241 63M240 92L235 82M231 91L222 94M263 75L268 65M274 73L280 76M261 95L267 85M273 91L281 93M228 112L226 103M250 116L254 105M268 113L275 117M244 125L248 132M263 126L267 120"/>
+  </g>
+  <!-- Two lower leaves spread the crown, with the left one revealing a curled edge. -->
+  <path d="M116 179C105 185 94 182 89 177C78 182 70 176 70 169C59 171 53 163 57 156C49 150 52 142 59 139C60 131 69 128 76 133C83 128 93 132 94 139C103 136 111 142 110 149C119 149 125 155 121 163C128 171 125 179 116 179Z" fill="url(#br04-leaf)" stroke="#617351" stroke-width="1.2"/>
+  <path d="M115 177C100 161 81 149 59 143" stroke="#8d6164" stroke-width="1.4"/>
+  <path d="M60 142C67 140 73 143 75 147C68 146 63 146 58 149" fill="#c2bea0" fill-opacity=".58" stroke="#7b8564" stroke-width=".65"/>
+  <g stroke="#8d6666" stroke-width=".7" opacity=".88"><path d="M75 148L75 135M76 149L65 161M91 157L93 141M91 157L83 175M106 168L110 152M106 168L104 178"/></g>
+  <g stroke="#72815c" stroke-width=".52" opacity=".73"><path d="M72 155L61 154M72 155L71 164M86 151L84 141M88 163L76 167M99 159L101 150M102 171L94 174"/></g>
+  <path d="M242 177C237 171 239 163 247 161C247 153 255 148 262 152C266 145 276 145 281 150C292 148 299 154 296 162C304 168 300 176 293 178C290 188 279 190 274 184C265 191 255 188 254 181C247 184 243 181 242 177Z" fill="url(#br04-right)" stroke="#687852" stroke-width="1.15"/>
+  <path d="M242 177C260 171 278 164 294 156" stroke="#8c5d63" stroke-width="1.4"/>
+  <g stroke="#8e6566" stroke-width=".7" opacity=".86"><path d="M253 173L253 156M253 173L259 183M267 167L271 150M267 168L279 182M281 161L283 152M282 162L294 174"/></g>
+  <g stroke="#72835c" stroke-width=".5" opacity=".7"><path d="M252 166L247 164M260 179L268 180M270 159L278 156M277 174L284 173M288 163L293 165"/></g>
+  <!-- Delicate curved strokes follow wrinkles rather than a repeated surface pattern. -->
+  <g stroke="#697b56" stroke-width=".5" opacity=".52">
+    <path d="M76 79Q82 78 86 82M73 97Q78 94 84 97M80 119Q86 114 91 116M109 58Q111 63 109 67M122 82Q126 81 129 84M129 117Q131 111 134 109M109 139Q113 133 117 132M151 47Q153 50 153 54M145 79Q150 78 153 82M147 100Q152 99 155 102M182 42Q179 46 179 50M190 64Q186 67 187 71M192 91Q188 92 187 96M181 118Q185 119 187 116M239 63Q244 62 247 64M220 92Q225 91 228 95M216 111Q220 115 224 115M279 72Q276 77 271 78M286 99Q281 102 277 100M270 131Q263 130 260 133M60 157Q65 155 69 158M78 135Q83 138 84 143M89 178Q92 173 96 172M114 158Q110 161 111 165M249 160Q254 162 258 160M284 178Q285 175 289 174"/>
+  </g>
+  <!-- Short, fibrous leaf bases are visibly maroon, as in a garden beet. -->
+  <g fill="#8d5662" stroke="#6e4954" stroke-width=".9">
+    <path d="M158 206L155 191L159 188L167 204Z"/><path d="M168 204L166 184L170 183L176 204Z"/><path d="M178 204L181 186L185 188L185 205Z"/><path d="M187 207L195 192L199 194L194 211Z"/>
+  </g>
+  <path d="M153 205C163 198 184 198 197 207L191 218L161 218Z" fill="#784450" stroke="#6c424d" stroke-width="1.1"/>
+  <path d="M160 206L163 212M169 204L171 213M180 204L179 213M190 208L185 214" stroke="#bd8c8b" stroke-width=".7" opacity=".8"/>
+  <!-- A swollen rounded beet root, consistently wine-red from crown to tip. -->
+  <path d="M158 207C145 205 129 211 121 222C111 235 113 251 120 264C130 281 147 290 159 298C168 304 174 311 176 319C177 323 177 327 175 330C180 326 182 322 181 316C180 308 185 300 196 292C214 280 228 265 231 247C235 229 226 216 213 211C201 206 192 208 181 209C173 211 165 208 158 207Z" fill="url(#br04-root)" stroke="#69454e" stroke-width="1.5"/>
+  <path d="M132 221C138 215 148 213 157 215M125 231C120 246 128 263 140 274M205 216C217 223 223 233 222 245M217 265C208 277 198 283 190 291M159 292C169 299 175 305 177 313" stroke="#bd8990" stroke-width=".8" opacity=".67"/>
+  <path d="M139 229C146 218 162 217 176 221C158 225 149 238 147 252C140 244 136 237 139 229Z" fill="#c48a91" fill-opacity=".13"/>
+  <!-- Sparse engraved arcs describe the broad shoulders and the tapering lower half. -->
+  <g stroke="#603b48" stroke-width=".62" opacity=".7">
+    <path d="M124 222C121 228 120 234 121 240M128 218C124 227 123 232 123 237M132 216C129 221 128 226 127 230M211 216C219 222 224 229 226 237M216 224C222 230 224 236 225 242M227 247C226 257 222 265 217 271M224 249C222 260 217 268 211 274M219 259C214 272 203 281 194 287M210 274C204 283 194 290 188 296M198 285C191 291 184 296 181 301M117 242C118 251 122 258 128 265M120 250C124 261 131 268 139 274M126 262C132 274 144 282 154 287M136 274C143 283 154 289 160 293M148 284C159 291 166 298 170 304M163 296C171 302 176 309 177 314M181 303C178 309 179 313 179 318"/>
+    <path d="M138 213L144 212M150 210L155 211M184 213L190 212M201 212L207 214M154 216L157 224M165 214L166 222M178 214L177 222M190 213L188 220M199 216L196 223"/>
+  </g>
+  <g stroke="#bc808b" stroke-width=".58" opacity=".58">
+    <path d="M123 247C124 255 128 261 131 264M131 265C137 275 145 280 152 285M141 277C148 285 158 290 163 295M216 244C217 250 215 258 211 263M209 271C203 279 196 283 192 286M183 295L179 303M130 237L135 235M142 257L147 259M174 282L180 280M194 262L200 260M207 231L210 233M160 235L165 234M179 251L182 250"/>
+  </g>
+  <!-- Root scars and extremely fine laterals are irregularly spaced. -->
+  <g stroke="#78525a" stroke-width=".7" opacity=".86">
+    <path d="M118 250C111 251 110 256 105 258L99 259M109 254L106 251M128 271C122 277 122 281 117 284L111 286M122 279L117 278M150 291C145 297 146 302 140 306M143 302L138 302M226 257C233 259 232 266 239 270L244 271M237 267L241 264M211 282C217 288 215 294 220 298M217 292L223 292M181 317C188 317 189 322 195 323M176 325L170 328"/>
+  </g>
+  <path d="M157 211C167 217 183 216 194 212" stroke="#623b47" stroke-width="1"/>
+  <!-- A small oblique transverse slice: thin rind and muted concentric vascular rings. -->
+  <path d="M246 281C246 270 257 261 273 260C289 259 303 267 305 278L303 288C299 300 282 306 266 302C254 300 247 293 246 285Z" fill="#7c4253" fill-opacity=".93" stroke="#6b424d" stroke-width="1.2"/>
+  <ellipse cx="275.5" cy="279" rx="29.5" ry="19" transform="rotate(-5 275.5 279)" fill="url(#br04-slice)" stroke="#704450" stroke-width="1.2"/>
+  <ellipse cx="275.5" cy="279" rx="24" ry="15" transform="rotate(-5 275.5 279)" stroke="#d5a3a2" stroke-width="1.05" opacity=".62"/>
+  <ellipse cx="275.5" cy="279" rx="18.5" ry="11.3" transform="rotate(-5 275.5 279)" stroke="#824b5d" stroke-width="1.15" opacity=".7"/>
+  <ellipse cx="275.5" cy="279" rx="13.2" ry="7.8" transform="rotate(-5 275.5 279)" stroke="#d1a0a0" stroke-width=".9" opacity=".66"/>
+  <ellipse cx="275.5" cy="279" rx="7.2" ry="4.2" transform="rotate(-5 275.5 279)" stroke="#7c4658" stroke-width=".9" opacity=".7"/>
+  <path d="M251 290L254 295M256 296L260 300M265 300L270 303M291 297L296 293M299 289L301 285" stroke="#b27985" stroke-width=".6" opacity=".66"/>
+</svg>

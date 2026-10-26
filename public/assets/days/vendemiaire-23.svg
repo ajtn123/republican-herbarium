@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vn23-title vn23-desc">
+  <title id="vn23-title">Navet — Brassica rapa</title>
+  <desc id="vn23-desc">An uneven, squat white turnip with a muted violet shoulder, a fine curving taproot and a loose crown of rough, lyrate green leaves. Irregular rounded leaf lobes, branching veins and delicate curved root hatching describe the freshly lifted botanical specimen.</desc>
+  <defs>
+    <linearGradient id="vn23-root" x1="135" y1="187" x2="220" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2ead9" stop-opacity=".84"/><stop offset=".45" stop-color="#eee6d4" stop-opacity=".71"/><stop offset=".78" stop-color="#e0d5bd" stop-opacity=".78"/><stop offset="1" stop-color="#baa98b" stop-opacity=".78"/>
+    </linearGradient>
+    <linearGradient id="vn23-shoulder" x1="180" y1="179" x2="182" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#887080" stop-opacity=".74"/><stop offset=".47" stop-color="#a28a99" stop-opacity=".66"/><stop offset="1" stop-color="#b6a3ad" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vn23-leaf" x1="111" y1="53" x2="179" y2="175" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a6ad8d" stop-opacity=".64"/><stop offset=".5" stop-color="#8e9b73" stop-opacity=".76"/><stop offset="1" stop-color="#758461" stop-opacity=".82"/>
+    </linearGradient>
+    <linearGradient id="vn23-leaf-right" x1="284" y1="70" x2="204" y2="172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b0b398" stop-opacity=".62"/><stop offset=".6" stop-color="#8d9975" stop-opacity=".72"/><stop offset="1" stop-color="#758361" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="vn23-leaf-low" x1="59" y1="126" x2="160" y2="183" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a4aa87" stop-opacity=".68"/><stop offset="1" stop-color="#7a8861" stop-opacity=".78"/>
+    </linearGradient>
+  </defs>
+  <!-- Broad terminal lobes and smaller lower lobes belong to a basal turnip rosette. -->
+  <path d="M180 183C172 161 151 139 135 114C120 92 105 70 95 54" stroke="#77815d" stroke-width="4.1"/>
+  <path d="M180 181C172 159 151 136 136 114C122 93 107 70 96 54" stroke="#c0bea0" stroke-width="1.2"/>
+  <path d="M146 135C133 138 127 132 129 125C123 129 114 124 116 118L120 113C108 113 98 107 100 100L106 95C94 95 89 88 94 82C81 83 71 77 73 70L81 65C70 60 70 51 75 48C72 40 79 33 87 37L94 32L102 38C112 34 119 42 116 50C128 47 136 53 131 63C143 62 151 70 145 79L137 86C148 88 151 96 143 103L138 107C147 112 151 119 145 124C151 126 151 131 146 135Z" fill="url(#vn23-leaf)" stroke="#62704f" stroke-width="1.2"/>
+  <path d="M145 134C133 107 110 63 94 35" stroke="#65744f" stroke-width="1.05"/>
+  <g stroke="#687852" stroke-width=".68" opacity=".88">
+    <path d="M110 65C96 64 86 59 76 51M109 64C115 58 117 49 116 44M117 79C103 77 87 73 77 71M117 79C128 75 137 70 141 68M126 96C114 94 103 88 97 84M126 96C134 94 140 91 143 90M136 115C127 111 121 105 120 100M136 114L143 108M102 50L92 46M100 48L102 41M114 71L104 70M105 61L99 54M120 85L108 83M127 93L129 82M135 109L129 107M139 120L131 120"/>
+    <path d="M91 62L84 57M99 75L96 68M130 74L132 68M115 91L111 85M137 94L137 88" stroke-width=".46" opacity=".6"/>
+  </g>
+  <!-- The narrow upright leaf is twisted slightly along its midrib. -->
+  <path d="M181 183C187 160 187 129 182 106C179 86 177 67 180 47" stroke="#7a855e" stroke-width="4"/>
+  <path d="M183 129C173 126 167 120 171 114L176 110C165 106 163 99 168 93C158 88 161 81 166 78C159 71 163 64 169 62C163 55 168 49 173 48C170 41 176 35 183 34C192 37 197 44 193 51C201 55 200 63 195 68C204 73 203 81 197 86C204 93 201 99 195 101C200 110 193 117 188 119L183 129Z" fill="url(#vn23-leaf-right)" stroke="#657151" stroke-width="1.2"/>
+  <path d="M183 127C181 101 178 66 183 37" stroke="#697653" stroke-width="1"/>
+  <g stroke="#6a7854" stroke-width=".65" opacity=".85">
+    <path d="M181 111L173 104M181 101L169 96M180 88C174 86 170 81 167 79M180 75L170 66M181 60L174 52M182 51L187 44M180 68L193 57M180 83L197 74M181 98L197 92M182 116L192 108M172 84L172 77M189 77L192 70M189 95L194 95M178 58L176 55"/>
+  </g>
+  <!-- An outward arch gives the right-hand blade a different silhouette. -->
+  <path d="M187 181C199 157 220 137 240 116C256 99 268 81 276 66" stroke="#788460" stroke-width="4.5"/>
+  <path d="M188 181C200 158 222 135 241 116C257 98 268 81 276 66" stroke="#bfbea0" stroke-width="1.25"/>
+  <path d="M224 137C219 126 223 118 231 117C225 109 228 101 236 102L241 104C237 92 240 83 249 85C247 72 253 65 260 69C258 59 263 51 270 54C275 47 285 49 286 56C297 56 301 64 295 71C304 75 301 84 291 87C300 96 292 104 283 101L279 99C281 112 271 117 263 112C262 124 253 129 246 123C244 134 234 139 229 133L224 137Z" fill="url(#vn23-leaf-right)" stroke="#677452" stroke-width="1.2"/>
+  <path d="M225 135C246 111 267 82 281 55" stroke="#697853" stroke-width="1.05"/>
+  <g stroke="#6d7a56" stroke-width=".68" opacity=".88">
+    <path d="M239 119L233 108M249 106C245 100 245 92 247 89M258 94C257 84 258 77 261 72M267 79L268 62M277 62L283 60M271 73L292 67M262 88C275 86 287 81 294 78M252 101C264 101 274 98 282 95M240 119L258 115M231 130L241 130M258 91L266 83M279 83L282 76M268 100L271 106M248 108L247 116"/>
+  </g>
+  <!-- A low, heavy leaf hangs to the left, with a large rounded terminal lobe. -->
+  <path d="M177 183C155 177 139 164 119 151C101 138 82 131 63 128" stroke="#77835e" stroke-width="4"/>
+  <path d="M178 182C155 176 139 163 120 151C100 137 83 130 63 128" stroke="#bfbea0" stroke-width="1.05"/>
+  <path d="M134 164C129 174 120 176 113 168C106 175 97 169 98 161C88 168 78 166 76 157C63 164 52 158 53 150C44 150 38 142 44 135C36 127 43 118 51 119C54 108 64 107 71 114C81 104 93 111 92 120C105 115 114 122 111 130C123 126 130 133 126 141C137 140 143 148 135 154L134 164Z" fill="url(#vn23-leaf-low)" stroke="#63714e" stroke-width="1.25"/>
+  <path d="M135 162C110 145 77 128 47 126" stroke="#687751" stroke-width="1.05"/>
+  <g stroke="#697952" stroke-width=".67" opacity=".85">
+    <path d="M63 129L58 117M64 130L53 144M80 134L85 118M80 134L76 154M99 143L105 127M98 143L94 159M115 151L119 137M114 151L114 166M125 157L130 150M73 133L67 142M84 139L82 146M92 132L93 125M104 140L111 136M58 128L48 123M62 138L61 147M91 151L86 158"/>
+  </g>
+  <!-- A young, smaller blade partly overlaps the right-hand petioles. -->
+  <path d="M190 181C211 172 233 166 252 157C270 151 285 144 299 135" stroke="#7f8964" stroke-width="3.1"/>
+  <path d="M239 166C239 157 244 152 251 154C250 143 258 140 264 145C265 134 273 130 279 134C284 126 293 124 297 130C306 126 313 133 309 140C315 146 310 153 302 153C302 161 293 165 286 160C282 169 273 171 267 164C261 173 252 176 246 169Z" fill="url(#vn23-leaf-right)" stroke="#687652" stroke-width="1.1"/>
+  <path d="M240 167C263 158 285 143 306 134" stroke="#6b7954" stroke-width=".85"/>
+  <g stroke="#6c7c55" stroke-width=".6" opacity=".85"><path d="M255 160L257 148M255 160L253 169M270 152L275 137M270 153L279 163M286 143L290 132M286 144L298 153M300 137L304 144"/></g>
+  <!-- Fine, uneven abrasions and sparse hatching suggest the rough leaf surfaces. -->
+  <g stroke="#63734d" stroke-width=".46" opacity=".51">
+    <path d="M80 47L84 52M78 51L83 56M89 40L93 46M119 56L117 62M132 70L128 76M102 102L108 104M105 106L111 108M133 123L138 128M176 40L176 46M168 68L172 73M192 65L188 71M169 94L175 97M192 103L188 108M276 55L273 62M287 63L282 68M292 78L286 81M247 94L250 100M257 116L250 119M44 135L50 138M47 139L52 142M57 152L64 153M60 156L67 157M78 114L81 120M95 120L96 126M100 164L105 167M120 161L125 165M285 134L282 139M300 146L294 148M265 163L260 168"/>
+    <path d="M85 80L82 83M107 46L111 44M149 125L151 126M173 83L171 86M199 78L201 78M258 65L256 64M283 109L286 110M54 108L55 105M68 163L67 166M112 124L115 122M274 170L274 172"/>
+  </g>
+  <!-- Short pale stalks crowd the neck, then disappear into the violet shoulder. -->
+  <g fill="#a1a783" stroke="#6f7957" stroke-width=".95">
+    <path d="M169 186C169 175 168 165 161 157L164 154C175 165 178 175 178 187Z"/>
+    <path d="M179 184C176 171 177 158 181 149L184 150C181 164 183 174 185 184Z"/>
+    <path d="M185 185C189 173 198 163 205 159L207 162C199 170 195 176 193 187Z"/>
+  </g>
+  <path d="M164 180C173 175 188 176 198 182L194 190L169 190Z" fill="#8d7a7b" fill-opacity=".6" stroke="#837466" stroke-width="1"/>
+  <!-- Broad squat storage root, ending abruptly in one fine, curved taproot. -->
+  <path d="M169 180C151 179 131 181 116 193C101 205 99 223 105 237C112 255 135 268 158 271C167 273 174 276 177 284C181 294 180 303 187 311C191 316 196 319 198 325C194 317 186 309 185 301C184 291 187 281 195 276C216 271 239 263 253 247C268 231 270 211 258 198C244 181 219 178 199 181C187 184 180 184 169 180Z" fill="url(#vn23-root)" stroke="#877963" stroke-width="1.45"/>
+  <path d="M169 180C151 179 131 181 116 193C106 201 102 212 102 222C116 214 129 220 140 216C153 211 164 218 180 214C195 210 207 219 222 215C237 210 251 215 266 220C266 211 262 203 258 198C244 181 219 178 199 181C187 184 180 184 169 180Z" fill="url(#vn23-shoulder)"/>
+  <path d="M139 191C151 186 161 186 168 188M198 187C215 183 235 187 247 196M109 220C110 238 123 250 139 257M225 260C240 251 254 238 257 225M151 264C160 265 170 267 176 273" stroke="#9b8e78" stroke-width=".68" opacity=".69"/>
+  <g stroke="#806c76" stroke-width=".65" opacity=".58">
+    <path d="M116 201C123 193 133 190 142 188M112 207C119 200 127 197 133 195M110 213C116 208 121 206 127 204M242 193C250 199 253 204 256 210M246 200C252 208 254 215 254 220M230 187L238 192M207 185L216 185M146 185L152 184M163 186C164 192 163 196 161 200M176 187C177 192 175 198 174 201M187 188L187 199M199 186L201 197"/>
+  </g>
+  <!-- Curved engraved strokes follow the white root's swelling, leaving a broad light centre. -->
+  <g stroke="#9b8c73" stroke-width=".58" opacity=".64">
+    <path d="M106 226C108 234 111 240 117 245M109 226C111 234 115 240 120 244M111 237C116 246 122 250 129 254M118 244C123 252 131 257 139 260M124 248C129 255 138 260 146 262M135 257C144 264 153 267 161 267M145 262C153 268 163 269 168 271M254 237C251 246 246 252 240 257M251 236C249 244 244 249 239 253M245 245C241 252 234 257 227 260M237 252C231 258 224 262 216 265M226 260C218 265 211 267 204 269M213 266C205 269 198 272 193 276M164 271C171 274 175 278 177 282M169 272C176 276 180 281 181 287M176 277C179 283 180 290 180 295M184 284L183 295M184 299L187 307"/>
+    <path d="M113 217L118 214M122 233L128 234M139 251L146 253M229 227L236 225M240 239L244 235M206 260L212 258M159 257L166 258M133 214L139 213M222 204L228 205M154 237L159 237M183 249L188 248" opacity=".65"/>
+  </g>
+  <!-- A few torn lateral rootlets, much finer than the main taproot. -->
+  <g stroke="#92836c" stroke-width=".65" opacity=".81">
+    <path d="M109 236C104 240 103 246 98 249L93 250M101 245L100 250M130 261C127 267 128 270 124 274M126 270L121 271M243 252C249 256 251 263 257 265M252 260L258 260M179 291C174 295 174 300 170 304M184 306C180 311 181 315 177 318M188 313L193 311"/>
+  </g>
+  <path d="M168 184C176 188 187 188 197 184" stroke="#74655f" stroke-width="1.05"/>
+</svg>

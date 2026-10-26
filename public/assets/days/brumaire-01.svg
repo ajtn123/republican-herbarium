@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brumaire-01-title brumaire-01-desc">
+  <title id="brumaire-01-title">Pomme — Malus domestica</title>
+  <desc id="brumaire-01-desc">A short apple twig bears finely serrated oval leaves and a broad, slightly uneven ochre and muted red apple. Its curved woody stalk enters a sunken crown, and small dry sepals remain in the indented blossom end. A separate transverse cut fruit shows cream flesh around five radiating seed chambers, forming the apple's characteristic star-shaped core.</desc>
+  <defs>
+    <linearGradient id="brumaire-01-wood" x1="142" y1="92" x2="150" y2="105" gradientUnits="userSpaceOnUse"><stop stop-color="#b09b79"/><stop offset=".5" stop-color="#97825f"/><stop offset="1" stop-color="#75634d"/></linearGradient>
+    <linearGradient id="brumaire-01-leaf-left" x1="75" y1="54" x2="122" y2="101" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b397" stop-opacity=".58"/><stop offset=".5" stop-color="#969f7c" stop-opacity=".72"/><stop offset="1" stop-color="#758463" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="brumaire-01-leaf-right" x1="218" y1="98" x2="254" y2="136" gradientUnits="userSpaceOnUse"><stop stop-color="#a7ad8e" stop-opacity=".57"/><stop offset=".6" stop-color="#899774" stop-opacity=".73"/><stop offset="1" stop-color="#71825e" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="brumaire-01-leaf-top" x1="185" y1="36" x2="206" y2="81" gradientUnits="userSpaceOnUse"><stop stop-color="#afb095" stop-opacity=".54"/><stop offset="1" stop-color="#7e8d6c" stop-opacity=".72"/></linearGradient>
+    <linearGradient id="brumaire-01-fruit" x1="94" y1="155" x2="206" y2="261" gradientUnits="userSpaceOnUse"><stop stop-color="#cbb47b" stop-opacity=".7"/><stop offset=".32" stop-color="#c29c68" stop-opacity=".77"/><stop offset=".65" stop-color="#b16c58" stop-opacity=".82"/><stop offset="1" stop-color="#97594d" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="brumaire-01-blush" x1="142" y1="161" x2="209" y2="248" gradientUnits="userSpaceOnUse"><stop stop-color="#b96e59" stop-opacity=".08"/><stop offset=".5" stop-color="#ab6152" stop-opacity=".28"/><stop offset="1" stop-color="#94564b" stop-opacity=".13"/></linearGradient>
+    <linearGradient id="brumaire-01-rind" x1="218" y1="229" x2="299" y2="314" gradientUnits="userSpaceOnUse"><stop stop-color="#c4a06f" stop-opacity=".85"/><stop offset=".5" stop-color="#ad7460" stop-opacity=".9"/><stop offset="1" stop-color="#925d50" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="brumaire-01-flesh" x1="229" y1="231" x2="293" y2="303" gradientUnits="userSpaceOnUse"><stop stop-color="#eee4c9" stop-opacity=".9"/><stop offset=".5" stop-color="#e5d9b8" stop-opacity=".9"/><stop offset="1" stop-color="#cfbc96" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="brumaire-01-seed" x1="0" y1="-23" x2="5" y2="-11" gradientUnits="userSpaceOnUse"><stop stop-color="#aa8057"/><stop offset=".5" stop-color="#806044"/><stop offset="1" stop-color="#5f4938"/></linearGradient>
+  </defs>
+  <!-- A small spur twig carries alternate leaves and a single curved fruit stalk. -->
+  <path d="M88 124C112 115 132 106 154 97C180 86 205 73 237 62L242 64C213 76 182 91 157 101C132 112 110 121 91 129Z" fill="url(#brumaire-01-wood)" stroke="#77654d" stroke-width="1.25"/>
+  <path d="M91 125C117 116 135 108 156 99C186 87 215 73 238 64" stroke="#c9b792" stroke-width=".7" opacity=".8"/>
+  <path d="M110 118L111 123M127 110L129 114M156 98L159 102M188 84L191 88M216 72L218 76M231 65L233 68" stroke="#7d6b51" stroke-width=".65"/>
+  <path d="M239 62L244 62L243 65L239 66Z" fill="#b8a180" stroke="#77654d" stroke-width=".8"/>
+  <g stroke="#7c7755" stroke-width="1.7">
+    <path d="M133 107C128 101 122 98 117 95"/>
+    <path d="M180 88C189 91 196 96 203 101"/>
+    <path d="M192 80C195 74 196 68 197 62"/>
+  </g>
+  <!-- Fine unequal teeth interrupt the softly oval blades. -->
+  <path d="M118 97C102 98 91 92 83 84L79 84L79 80L74 78L75 75L70 72L71 69L66 66L68 63L63 60L65 57L61 53L62 50L56 43L66 44L68 42L72 46L76 44L79 48L83 46L86 51L91 49L93 54L98 54L100 59L105 60L105 65L110 67L110 72L115 75L114 80L118 84C120 89 121 93 118 97Z" fill="url(#brumaire-01-leaf-left)" stroke="#647151" stroke-width="1.15"/>
+  <path d="M203 101C214 90 228 90 241 94L245 92L247 96L253 95L255 99L260 99L262 103L267 104L268 108L274 110L274 114L280 116L279 120L286 126L278 129L276 132L271 130L267 134L263 132L258 136L254 134L249 137L245 135L240 136L236 133L231 134L227 130L222 130L220 126L215 126L214 122L210 120C205 115 202 108 203 101Z" fill="url(#brumaire-01-leaf-right)" stroke="#667353" stroke-width="1.15"/>
+  <path d="M197 70C188 65 184 57 185 49L183 46L186 44L185 40L188 39L189 35L192 36L198 30L201 37L204 38L203 42L207 44L205 48L208 51L206 54L207 58L203 60L203 64C202 67 200 69 197 70Z" fill="url(#brumaire-01-leaf-top)" stroke="#687555" stroke-width="1.05"/>
+  <g stroke="#657552" stroke-width=".7" opacity=".88">
+    <path d="M118 96C98 80 78 59 59 45M108 88C103 77 102 67 100 61M98 79C91 78 84 77 77 73M88 68C86 60 84 55 82 49M78 59L69 57M108 88C101 89 95 88 89 86M99 79C96 69 94 61 92 56M88 69C81 68 75 65 69 62M114 92C113 84 112 80 111 75"/>
+    <path d="M204 102C230 107 258 116 282 125M216 105C221 100 226 97 231 95M228 109C233 104 238 100 243 98M242 113C248 108 252 105 258 104M255 117L267 112M268 122L277 119M215 105C218 113 223 119 227 124M228 109C231 119 237 126 243 131M242 113C245 122 249 128 253 132M256 118L264 128M269 122L273 128"/>
+    <path d="M197 69C197 57 198 43 198 33M197 59L188 51M197 51L190 43M198 44L194 38M197 61L204 54M198 52L203 46"/>
+  </g>
+  <g stroke="#697752" stroke-width=".46" opacity=".48">
+    <path d="M75 50L82 56M77 48L84 54M92 58L96 65M96 58L99 65M104 73L107 80M83 79L89 82M88 83L94 86M212 100L218 100M217 98L224 98M236 95L241 97M247 100L253 103M228 125L234 127M233 127L239 129M251 128L257 131M258 128L264 131M271 117L277 121M190 50L193 54M190 55L194 59M201 57L199 62"/>
+  </g>
+  <!-- The woody pedicel enters the apple's depressed crown. -->
+  <path d="M145 158C145 145 147 133 151 123C154 113 155 105 153 99L157 98C162 107 158 117 155 126C151 137 151 148 151 159Z" fill="url(#brumaire-01-wood)" stroke="#746048" stroke-width="1.3"/>
+  <path d="M147 155C148 140 151 129 155 116C157 110 157 104 155 101" stroke="#c0a681" stroke-width=".7"/>
+  <path d="M150 130L154 131M151 122L156 124M153 112L157 113" stroke="#81694d" stroke-width=".65"/>
+  <!-- Broad shoulders and a subtly lobed blossom end distinguish the pome. -->
+  <path d="M143 149C130 140 119 138 106 142C91 146 80 158 74 174C68 191 69 210 74 228C80 249 90 269 107 280C120 289 130 286 142 288C154 293 170 284 182 274C201 258 212 237 217 217C223 195 215 171 200 155C189 143 175 139 163 145C153 150 151 153 143 149Z" fill="url(#brumaire-01-fruit)" stroke="#875f4e" stroke-width="1.6"/>
+  <path d="M143 153C158 162 178 149 193 160C208 172 216 190 214 210C212 235 199 258 181 273C169 283 154 290 142 285C158 267 155 245 157 225C160 199 150 175 143 153Z" fill="url(#brumaire-01-blush)"/>
+  <path d="M91 164C99 151 112 146 122 149C107 164 99 183 96 204C93 221 94 238 98 251C85 235 80 213 82 195C83 183 86 172 91 164Z" fill="#dbca95" opacity=".16"/>
+  <path d="M129 151C135 158 143 162 151 161C159 160 167 153 177 151" stroke="#9c7754" stroke-width=".9"/>
+  <path d="M135 151C141 154 146 157 152 156C158 155 162 151 167 149" stroke="#7f654b" stroke-width=".8"/>
+  <path d="M136 154C141 160 153 164 162 158" stroke="#d4b98a" stroke-width=".75" opacity=".75"/>
+  <g stroke="#956b50" stroke-width=".65" opacity=".57">
+    <path d="M108 150C93 161 84 177 81 194M79 204C80 226 87 246 99 262M108 275C117 281 126 281 134 282M163 280C180 270 192 256 201 240M207 226C213 208 211 192 205 180M195 165C186 156 179 153 171 153"/>
+    <path d="M123 157C111 173 105 193 105 213M105 226C107 247 115 264 126 275M136 168C130 182 127 195 128 210M147 176C154 197 153 213 151 231M150 242C149 258 145 270 141 279M168 167C181 185 185 205 182 223M180 237C177 252 168 266 159 273M191 176C202 194 202 217 197 230"/>
+  </g>
+  <!-- Curved, sparse engraved strokes follow the round skin. -->
+  <g stroke="#865e4e" stroke-width=".5" opacity=".51">
+    <path d="M74 183L72 192M75 188L73 198M76 201L76 211M77 215L79 225M79 222L82 232M84 236L88 245M86 244L91 253M92 254L98 263M97 261L103 268M105 272L112 277M114 280L121 283M171 279L178 274M178 274L185 268M186 265L192 258M193 256L198 249M202 240L206 231M209 223L211 214M214 205L214 197M212 188L209 180M206 174L202 168M198 163L192 158M99 149L93 154M91 155L85 163"/>
+    <path d="M166 181L168 190M169 187L171 197M173 204L174 213M173 230L172 239M169 248L166 257M163 258L160 266M186 190L189 199M188 209L188 218M185 231L183 240M120 254L123 262M117 245L119 253M94 188L92 196M91 201L91 210M113 171L109 178M119 165L115 171M197 218L195 225M196 236L192 243"/>
+  </g>
+  <g stroke="#b8a072" stroke-width=".65" opacity=".7"><path d="M96 170L94 174M91 183L90 187M88 210L88 214M104 237L105 241M121 192L120 196M132 222L132 226M144 254L143 258M177 172L180 176M192 204L193 208M170 256L168 260M114 271L117 273"/></g>
+  <!-- A dry five-sepal calyx is tucked in the lower dimple. -->
+  <path d="M131 278C136 275 145 275 152 279" stroke="#95694d" stroke-width=".8"/>
+  <path d="M140 280L135 277L137 282L132 283L139 285L141 290L144 285L150 285L146 281L146 277Z" fill="#8e7752" stroke="#705b43" stroke-width=".7"/>
+  <path d="M141 281L143 285M137 280L141 283M145 280L143 283" stroke="#b6a079" stroke-width=".55"/>
+  <!-- Transverse section: a thin skin surrounds the pale, irregularly rounded flesh. -->
+  <path d="M254 213C268 209 279 213 291 220C308 230 318 246 319 263C320 283 308 301 293 312C281 321 267 323 253 320C237 322 221 313 212 300C201 284 201 266 207 250C214 231 232 216 254 213Z" fill="url(#brumaire-01-rind)" stroke="#8a6751" stroke-width="1.4"/>
+  <path d="M254 217C269 213 281 220 291 226C307 236 315 251 314 267C314 284 304 300 289 309C278 316 266 319 253 316C239 318 225 310 216 297C207 284 206 267 212 252C219 235 234 220 254 217Z" fill="url(#brumaire-01-flesh)" stroke="#b49c73" stroke-width=".8"/>
+  <path d="M224 238C231 230 242 225 252 223M273 223C287 227 300 237 306 250M308 279C304 292 293 302 282 308M246 310C233 307 225 299 221 288M216 261C216 251 220 245 224 240" stroke="#c4af87" stroke-width=".65" opacity=".64"/>
+  <g stroke="#bda57e" stroke-width=".45" opacity=".6">
+    <path d="M222 246L228 249M219 252L225 254M215 264L221 264M216 275L222 273M220 286L225 283M226 296L231 292M237 305L240 300M249 311L250 305M266 312L265 306M278 310L275 304M291 302L287 297M300 292L295 289M306 280L300 279M310 266L303 266M306 252L300 255M299 239L294 243M288 231L285 237M276 226L274 233M260 222L260 229M245 226L247 232M232 233L236 238"/>
+  </g>
+  <!-- Five carpels radiate around the central vascular star; seeds taper inward. -->
+  <g transform="translate(261 268) rotate(-10)">
+    <path d="M0-30C5-24 8-17 9-12C14-14 23-13 29-10C24-4 18 1 14 4C18 9 20 17 19 25C12 23 5 20 0 15C-5 21-11 25-19 25C-20 17-17 9-14 4C-21 1-26-4-29-10C-21-13-14-14-9-12C-8-19-4-25 0-30Z" fill="#d3bf98" fill-opacity=".55" stroke="#b29b71" stroke-width=".75"/>
+    <path d="M0-25C4-20 5-14 4-8C3-4 1-2 0-1C-4-5-6-9-5-14C-5-19-3-22 0-25Z" fill="#ae916b" fill-opacity=".45" stroke="#997d59" stroke-width=".7"/>
+    <path d="M0-25C4-20 5-14 4-8C3-4 1-2 0-1C-4-5-6-9-5-14C-5-19-3-22 0-25Z" transform="rotate(72)" fill="#ae916b" fill-opacity=".42" stroke="#997d59" stroke-width=".7"/>
+    <path d="M0-25C4-20 5-14 4-8C3-4 1-2 0-1C-4-5-6-9-5-14C-5-19-3-22 0-25Z" transform="rotate(144)" fill="#ae916b" fill-opacity=".4" stroke="#997d59" stroke-width=".7"/>
+    <path d="M0-25C4-20 5-14 4-8C3-4 1-2 0-1C-4-5-6-9-5-14C-5-19-3-22 0-25Z" transform="rotate(216)" fill="#ae916b" fill-opacity=".4" stroke="#997d59" stroke-width=".7"/>
+    <path d="M0-25C4-20 5-14 4-8C3-4 1-2 0-1C-4-5-6-9-5-14C-5-19-3-22 0-25Z" transform="rotate(288)" fill="#ae916b" fill-opacity=".43" stroke="#997d59" stroke-width=".7"/>
+    <g fill="url(#brumaire-01-seed)" stroke="#6d523b" stroke-width=".65">
+      <path d="M0-9C-4-12-5-17-3-20C-2-23 1-23 3-20C5-16 2-11 0-9Z"/>
+      <path d="M0-9C-4-12-5-17-3-20C-2-23 1-23 3-20C5-16 2-11 0-9Z" transform="rotate(72)"/>
+      <path d="M0-9C-4-12-5-17-3-20C-2-23 1-23 3-20C5-16 2-11 0-9Z" transform="rotate(144)"/>
+      <path d="M0-9C-4-12-5-17-3-20C-2-23 1-23 3-20C5-16 2-11 0-9Z" transform="rotate(216)"/>
+      <path d="M0-9C-4-12-5-17-3-20C-2-23 1-23 3-20C5-16 2-11 0-9Z" transform="rotate(288)"/>
+    </g>
+    <g stroke="#c5a478" stroke-width=".55" opacity=".85"><path d="M-2-20C-3-17-1-13 0-12"/><path d="M-2-20C-3-17-1-13 0-12" transform="rotate(72)"/><path d="M-2-20C-3-17-1-13 0-12" transform="rotate(144)"/><path d="M-2-20C-3-17-1-13 0-12" transform="rotate(216)"/><path d="M-2-20C-3-17-1-13 0-12" transform="rotate(288)"/></g>
+    <path d="M0-5L2-2L5-1L3 2L3 5L0 3L-3 5L-3 1L-5-1L-2-2Z" fill="#e6d8b6" stroke="#a38c66" stroke-width=".6"/>
+  </g>
+  <g stroke="#8e6c50" stroke-width=".5" opacity=".5"><path d="M208 250L206 257M206 266L207 273M209 285L212 292M217 301L223 307M230 313L237 316M247 320L254 321M274 320L282 318M294 313L300 308M308 298L312 291M317 279L319 271M318 257L316 250M312 240L308 234M300 227L294 223M282 217L275 215M260 213L254 214M240 217L233 220"/></g>
+</svg>

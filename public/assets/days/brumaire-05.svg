@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brumaire05-title brumaire05-desc">
+  <title id="brumaire05-title">Brumaire 5 — Oie</title>
+  <desc id="brumaire05-desc">A calm white domestic goose stands in left profile. Its small head and short ochre bill crown a long, gently curved upright neck above a deep pear-shaped body. Cream and sage washes, layered folded flight feathers and fine curved hatching describe the plumage. Two short scaled legs end in three-toed webbed feet.</desc>
+  <defs>
+    <linearGradient id="brumaire05-plumage" x1="147" y1="92" x2="215" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6f1dc" stop-opacity=".9"/>
+      <stop offset=".48" stop-color="#eee9d8" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#c9cbb8" stop-opacity=".88"/>
+    </linearGradient>
+    <linearGradient id="brumaire05-neck" x1="107" y1="104" x2="139" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d0d1be" stop-opacity=".62"/>
+      <stop offset=".48" stop-color="#f6f0de" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#e4e2ce" stop-opacity=".58"/>
+    </linearGradient>
+    <linearGradient id="brumaire05-wing" x1="175" y1="177" x2="246" y2="246" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4eedc" stop-opacity=".88"/>
+      <stop offset=".6" stop-color="#e4e2ce" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#bdc3ae" stop-opacity=".82"/>
+    </linearGradient>
+    <linearGradient id="brumaire05-bill" x1="81" y1="73" x2="87" y2="89" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5b47a" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#ba8b54" stop-opacity=".92"/>
+    </linearGradient>
+    <linearGradient id="brumaire05-foot" x1="177" y1="282" x2="181" y2="324" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c5a36b" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#c49a63" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#797666">
+    <!-- Far leg and foot: three forward digits joined by a single web. -->
+    <path d="M224 264C229 266 231 270 229 278L228 294L232 301C239 303 249 307 254 311C256 314 252 315 248 313L238 310L226 315C224 316 220 316 220 314L221 311L207 314C203 315 201 312 205 310L216 303L220 296L219 275Z" fill="#b7a073" fill-opacity=".84" stroke-width="1.2"/>
+    <path d="M224 278L224 296M224 298L226 306L249 312M226 306L207 312M226 306L222 313M222 282L228 283M221 287L228 288M221 292L228 293" stroke-width=".65" opacity=".8"/>
+    <path d="M214 309Q221 308 224 309M231 309L238 309" stroke="#dbbf8e" stroke-width=".7"/>
+    <!-- The rump ends in short, slightly lifted tail feathers. -->
+    <path d="M266 183C283 183 296 179 311 169C311 180 304 193 295 202L279 211Z" fill="#e6e4ce" fill-opacity=".9" stroke-width="1.35"/>
+    <path d="M281 195C293 188 301 182 307 174M286 201C299 193 304 184 308 178M282 203C288 201 293 197 297 193" stroke-width=".75" opacity=".8"/>
+    <!-- Small head, elongated neck and deep breast join in an unbroken contour. -->
+    <path d="M99 69C103 57 118 53 130 59C142 65 145 78 138 89C129 102 129 119 132 136C135 152 146 168 162 174C189 164 219 161 245 169C265 174 280 184 289 197C301 212 303 228 295 243C282 266 254 277 224 279C187 282 149 272 129 257C111 244 102 227 100 209C98 190 102 173 106 155C109 139 110 121 110 105C110 96 105 91 98 88L94 80Z" fill="url(#brumaire05-plumage)" stroke-width="1.6"/>
+    <path d="M118 93C117 115 116 142 112 158C108 179 105 195 108 211C111 228 119 241 132 250C120 230 118 211 123 192C128 174 135 160 130 142C126 125 129 104 136 91C129 97 123 98 118 93Z" fill="url(#brumaire05-neck)" stroke="none"/>
+    <path d="M131 254C156 267 191 273 220 271C250 269 277 261 291 241C279 268 251 278 222 279C188 281 155 272 131 254Z" fill="#bbc2ad" fill-opacity=".25" stroke="none"/>
+    <!-- A goose's bill is short, deep at the base and narrows to a blunt nail. -->
+    <path d="M99 70C91 71 81 73 72 77C67 79 65 81 66 84C72 88 84 90 96 87C98 82 99 76 99 70Z" fill="url(#brumaire05-bill)" stroke-width="1.25"/>
+    <path d="M67 83C76 84 87 83 97 81M68 81L72 80M70 85L75 86M94 73L94 80" stroke="#896c48" stroke-width=".65"/>
+    <path d="M67 80C65 81 65 83 67 84L71 85L71 80Z" fill="#b08c58" stroke-width=".55"/>
+    <path d="M87 76C89 74 92 74 93 75C92 77 89 78 87 76Z" fill="#8f754f" stroke="none"/>
+    <path d="M98 89C105 94 111 94 116 90M104 69C107 64 116 62 122 65" stroke-width=".65" opacity=".72"/>
+    <path d="M108 76C110 71 116 70 120 73C121 77 118 80 114 80C111 80 109 79 108 76Z" fill="#ece6d1" stroke-width=".65"/>
+    <ellipse cx="114.3" cy="75.5" rx="2.65" ry="2.9" fill="#57584e" stroke="#656457" stroke-width=".55"/>
+    <circle cx="113.55" cy="74.65" r=".75" fill="#f8f1dd" stroke="none"/>
+    <path d="M108 70C112 68 118 69 121 72M111 82L117 82M124 75C129 77 131 81 131 85M119 88C121 91 125 92 129 90" stroke-width=".55" opacity=".65"/>
+    <!-- Narrow curved strokes follow the lay of the neck feathers. -->
+    <g stroke-width=".56" opacity=".61">
+      <path d="M108 63L112 62M124 63L128 65M131 69L134 73M132 84L130 89M104 85L108 87M114 94L118 96M112 102L117 105M112 111L117 114M112 120L117 123M111 130L116 133M110 140L115 143M108 151L114 154M106 163L112 167M104 175L111 179M103 188L110 192M105 201L112 206M108 214L115 219M113 226L121 231"/>
+      <path d="M126 102L129 107M124 112L127 117M124 123L128 128M126 135L130 140M129 148L134 153M135 159L141 164M142 170L150 174M118 144L122 150M116 158L120 163M115 171L119 176M115 185L119 190M117 200L121 205" opacity=".74"/>
+      <path d="M120 99L121 104M120 117L121 121M120 135L121 139M111 159L114 163M109 180L112 184M111 201L115 205M119 224L124 228" stroke="#f9f3df" stroke-width="1" opacity=".9"/>
+    </g>
+    <!-- Folded wing: broad shoulder coverts overlay long rounded flight feathers. -->
+    <path d="M150 182C166 173 186 173 205 178C229 183 247 193 262 205C275 216 283 227 287 240C263 248 231 241 208 232C181 221 160 203 150 182Z" fill="url(#brumaire05-wing)" stroke-width="1.05"/>
+    <g fill="#ebe8d5" fill-opacity=".76" stroke-width=".78">
+      <path d="M186 191C208 191 241 210 279 235C284 238 286 242 283 244C268 244 247 233 228 222C208 211 193 201 186 191Z"/>
+      <path d="M180 190C199 188 226 201 264 223C272 228 278 233 279 238C264 238 242 225 221 215C200 205 186 199 180 190Z"/>
+      <path d="M173 189C190 185 213 195 246 212C257 218 265 224 267 229C252 231 234 221 215 212C196 203 180 199 173 189Z"/>
+      <path d="M165 187C183 183 203 190 226 201C238 206 248 214 250 219C238 223 223 216 205 207C185 198 172 196 165 187Z"/>
+      <path d="M158 186C172 181 189 185 208 192C221 197 230 203 232 209C219 214 205 207 192 201C178 194 166 194 158 186Z"/>
+    </g>
+    <g stroke-width=".6" opacity=".7">
+      <path d="M190 194C217 206 252 232 280 241M184 192C210 202 244 224 274 235M177 191C202 199 228 217 261 226M170 188C195 194 222 209 244 216M163 186C184 189 207 203 226 207"/>
+      <path d="M256 226L254 230M263 230L262 234M270 235L269 239M246 216L244 221M254 221L252 226M232 207L230 212M240 211L238 217M218 201L216 205M223 204L221 209" opacity=".6"/>
+    </g>
+    <!-- Scalloped coverts give the shoulder a soft overlapping texture. -->
+    <g fill="#f1edda" fill-opacity=".9" stroke-width=".7">
+      <path d="M150 181C160 176 173 177 184 184C181 190 174 191 168 188C158 190 152 187 150 181Z"/>
+      <path d="M166 181C178 177 191 182 202 190C199 196 191 196 185 192C177 194 169 190 166 181Z"/>
+      <path d="M184 186C195 182 209 189 218 197C215 202 208 202 201 198C194 200 187 195 184 186Z"/>
+      <path d="M201 193C211 191 224 198 232 206C228 211 220 209 215 206C209 207 203 201 201 193Z"/>
+      <path d="M155 190C164 190 176 194 183 202C178 207 170 204 165 202C159 201 156 196 155 190Z"/>
+      <path d="M174 198C183 197 196 203 202 211C198 216 190 213 185 211C180 211 176 205 174 198Z"/>
+      <path d="M192 207C201 207 213 212 218 220C214 225 207 221 202 219C197 218 194 213 192 207Z"/>
+    </g>
+    <g stroke-width=".49" opacity=".58">
+      <path d="M156 181L166 185M165 180L175 185M174 184L184 189M184 184L193 190M193 190L201 195M205 196L213 202M215 200L222 206M160 193L168 199M171 198L177 202M179 201L187 208M188 206L195 211M197 211L204 217M206 216L211 220"/>
+      <path d="M157 178L161 179M174 176L181 178M190 179L198 182M209 185L216 188M225 192L231 195M239 201L245 205M251 210L257 216M270 225L275 231" stroke="#fcf6e4" stroke-width=".9"/>
+    </g>
+    <!-- Fine breast and belly feathers follow the roundness of the heavy body. -->
+    <g stroke-width=".6" opacity=".58">
+      <path d="M126 181C126 187 128 192 131 195M122 198C122 204 125 209 128 212M124 217C126 224 129 228 133 232M132 236C135 241 139 245 144 248M146 251C151 255 156 257 162 259M166 262C172 265 178 266 185 267M189 269C196 271 203 271 210 271M216 271C222 271 227 271 233 270M239 269C245 268 250 267 255 265M262 261C268 258 273 255 277 252M282 247L287 242"/>
+      <path d="M134 203C136 210 140 215 145 219M139 224C143 229 148 232 153 235M151 238C155 242 161 245 168 247M171 249C177 252 183 254 190 255M196 258C203 260 209 261 216 261M223 262C230 262 236 261 242 260M249 257C256 255 261 252 266 249" opacity=".75"/>
+      <path d="M123 235L128 241M132 247L138 252M145 258L151 262M159 266L165 269M176 272L183 274M201 275L207 276M229 275L237 273M254 268L260 265M278 256L282 252M292 230L293 224M291 213L288 207"/>
+      <path d="M279 205C284 210 287 215 287 220M281 219L284 225M282 233L280 238M271 183L279 188M254 176L263 180"/>
+    </g>
+    <path d="M112 212C115 226 124 239 134 246M143 255C158 264 175 268 189 270M239 273C255 270 273 261 282 252" stroke="#f5efda" stroke-width="1.4" opacity=".72"/>
+    <!-- Near shank emerges from the flank; the tibia is covered in small feathers. -->
+    <path d="M178 269C181 270 186 271 190 271L191 281L189 294L190 302C194 305 199 308 201 312C202 315 198 317 193 316L184 316L174 323C171 325 168 324 170 321L174 317L155 321C151 322 149 320 153 317L159 313L148 314C144 314 143 312 147 310L163 304L177 302L181 297L180 283Z" fill="url(#brumaire05-foot)" stroke-width="1.2"/>
+    <path d="M176 269L180 276L182 274L185 279L188 275L191 279L191 271" fill="#e8e5cf" stroke-width=".8"/>
+    <g stroke="#947e57" stroke-width=".68">
+      <path d="M184 282L185 297L183 307M181 284L189 285M181 289L188 290M181 294L188 295M181 299L188 300M183 307L149 312M183 307L155 319M183 307L172 322M183 307L196 313"/>
+      <path d="M173 308L166 311M172 312L164 316M181 313L178 318M188 311L192 313" stroke="#dfbc86" stroke-width=".75"/>
+    </g>
+    <path d="M147 312L150 311M153 319L156 318M171 322L173 320M248 312L251 312M205 312L208 311M221 314L223 313" stroke="#856f4e" stroke-width=".9"/>
+  </g>
+</svg>

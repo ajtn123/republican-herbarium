@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="br10-title br10-desc">
+  <title id="br10-title">Charrue — animal-drawn walking plough</title>
+  <desc id="br10-desc">A late eighteenth-century walking plough seen from the left front. A long oak draft beam ends in a small iron hitch. Two timber handles rise from the joined and braced plough body; a wedged iron coulter descends in front of the low pointed share, while a broad curved iron mouldboard twists upward to turn the cut soil. Pegs, tenons, wrought iron straps and sparse engraved wood grain describe the working construction.</desc>
+  <defs>
+    <linearGradient id="br10-oak" x1="116" y1="175" x2="123" y2="202" gradientUnits="userSpaceOnUse"><stop stop-color="#c0aa80" stop-opacity=".87"/><stop offset=".45" stop-color="#a88d63" stop-opacity=".9"/><stop offset="1" stop-color="#89734f"/></linearGradient>
+    <linearGradient id="br10-handle" x1="244" y1="170" x2="256" y2="181" gradientUnits="userSpaceOnUse"><stop stop-color="#c0a77b"/><stop offset=".48" stop-color="#a28a60"/><stop offset="1" stop-color="#87724f"/></linearGradient>
+    <linearGradient id="br10-stock" x1="191" y1="212" x2="234" y2="237" gradientUnits="userSpaceOnUse"><stop stop-color="#b39a6f"/><stop offset=".53" stop-color="#9a825b"/><stop offset="1" stop-color="#77674b"/></linearGradient>
+    <linearGradient id="br10-iron" x1="132" y1="218" x2="151" y2="221" gradientUnits="userSpaceOnUse"><stop stop-color="#565951"/><stop offset=".46" stop-color="#7d7e6e"/><stop offset="1" stop-color="#464d46"/></linearGradient>
+    <linearGradient id="br10-board" x1="176" y1="248" x2="243" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#8b8b78" stop-opacity=".83"/><stop offset=".28" stop-color="#a7a491" stop-opacity=".84"/><stop offset=".62" stop-color="#7e8173" stop-opacity=".9"/><stop offset="1" stop-color="#555f55"/></linearGradient>
+    <linearGradient id="br10-share" x1="157" y1="272" x2="170" y2="292" gradientUnits="userSpaceOnUse"><stop stop-color="#9a9c88"/><stop offset=".4" stop-color="#777e6d"/><stop offset="1" stop-color="#4e594e"/></linearGradient>
+    <clipPath id="br10-board-clip"><path d="M150 279C164 264 180 244 201 236C220 228 242 234 261 224C265 241 256 260 239 273C215 289 181 290 150 279Z"/></clipPath>
+  </defs>
+  <!-- The far handle is tenoned into the rear of the stock, not suspended above it. -->
+  <path d="M224 250C234 221 245 191 258 163C268 142 277 124 287 107L298 94Q301 90 298 87Q294 84 291 89L280 102C267 121 256 142 246 165C234 192 224 222 215 247Z" fill="url(#br10-handle)" stroke="#635a43" stroke-width="1.5"/>
+  <path d="M219 246C230 212 239 187 251 163C262 138 274 116 284 104L295 91" stroke="#d1b991" stroke-width=".8"/>
+  <path d="M225 233C234 208 241 189 249 173M255 160C264 141 273 123 282 110M286 102L294 93" stroke="#776548" stroke-width=".65"/>
+  <path d="M250 180L254 172M255 169L259 161M265 140L269 132M276 118L281 109M231 225L235 215M238 206L241 197" stroke="#736147" stroke-width=".48" opacity=".7"/>
+  <!-- A low wooden sole and upright standard form the main body beneath the beam. -->
+  <path d="M175 267L234 257L256 269L254 282L174 284L160 277Z" fill="#897854" stroke="#5d5741" stroke-width="1.35"/>
+  <path d="M175 267L234 257L256 269L230 272L160 277Z" fill="#b19b72" stroke="#675c43" stroke-width=".95"/>
+  <path d="M199 198L216 194C223 212 228 232 240 261L225 269C215 246 209 222 199 198Z" fill="url(#br10-stock)" stroke="#5e5740" stroke-width="1.55"/>
+  <path d="M216 194L224 198C231 219 235 240 246 258L240 261C229 234 224 213 216 194Z" fill="#7e6d4e" stroke="#5d5741" stroke-width="1.05"/>
+  <path d="M204 203C212 222 217 244 228 263M209 201C213 215 216 226 219 234M222 244L230 261M220 204L227 227M228 233L236 254" stroke="#6e6147" stroke-width=".65"/>
+  <path d="M202 201C212 223 214 240 224 259M211 205L219 229M226 250L230 259" stroke="#cfb58a" stroke-width=".65" opacity=".8"/>
+  <!-- A diagonal strut is mortised into the beam and pegged to the standard. -->
+  <path d="M160 192L169 189L225 248L219 257Z" fill="url(#br10-oak)" stroke="#625940" stroke-width="1.25"/>
+  <path d="M165 194L220 251" stroke="#cfb58a" stroke-width=".75"/>
+  <path d="M170 201L190 222M196 229L212 246M177 205L187 216M204 235L213 245" stroke="#756246" stroke-width=".6"/>
+  <path d="M220 247L227 253L222 261L216 253Z" fill="#75735d" stroke="#565b48" stroke-width=".85"/>
+  <circle cx="221.2" cy="253.5" r="1.65" fill="#444e40" stroke="#a6a083" stroke-width=".55"/>
+  <!-- The long draft beam has a narrow upper plane and continuous end grain. -->
+  <path d="M44 172C97 177 155 182 206 190L226 194L229 206C173 198 105 192 45 186Z" fill="url(#br10-oak)" stroke="#60573f" stroke-width="1.55"/>
+  <path d="M44 172L51 166C108 172 166 177 217 185L226 194L206 190C154 182 97 177 44 172Z" fill="#c2ac82" stroke="#675c43" stroke-width="1.15"/>
+  <path d="M226 194L232 191L235 202L229 206Z" fill="#786a4c" stroke="#60563f" stroke-width="1"/>
+  <path d="M51 175C90 179 119 181 146 184M157 185L192 190M200 191L220 195M49 182C77 184 105 187 130 188M143 190L164 192M179 193L210 198M58 170L100 174M111 175L152 179M180 182L207 187" stroke="#776548" stroke-width=".65"/>
+  <path d="M49 174C87 177 114 180 143 182M159 184L197 189M52 184L82 187M100 188L129 191M174 196L211 201M59 168L104 173M119 174L143 177" stroke="#dfc69d" stroke-width=".6" opacity=".75"/>
+  <path d="M104 183C111 180 121 181 124 184C119 187 109 187 104 183ZM101 180C108 177 121 178 127 182M101 186C109 189 123 188 129 185" stroke="#796649" stroke-width=".6"/>
+  <g stroke="#6a5d43" stroke-width=".47" opacity=".75"><path d="M53 179L63 180M69 181L79 182M84 179L95 180M133 184L143 185M166 190L175 191M188 187L198 189M206 195L220 197M54 185L59 187M62 186L67 188M174 195L179 198M182 196L187 199M194 198L199 201M212 200L217 203M222 201L226 204M225 191L229 194"/></g>
+  <!-- A small wrought-iron clevis, held through the nose, takes the draught chain. -->
+  <path d="M45 173L56 174L55 187L44 186Z" fill="#737362" stroke="#515747" stroke-width="1.05"/>
+  <path d="M48 176L53 177M47 183L52 184" stroke="#ada68b" stroke-width=".6"/>
+  <path d="M45 176L36 175C28 175 27 182 33 185L44 186L44 182L35 181Q32 179 36 179L45 180Z" fill="#6d7363" stroke="#4f5748" stroke-width="1.1"/>
+  <path d="M40 173L40 187" stroke="#464f42" stroke-width="2"/>
+  <path d="M38 173L42 173M38 187L42 187" stroke="#535b49" stroke-width="1.25"/>
+  <circle cx="50" cy="180" r="1.35" fill="#414b3e" stroke="#a49d7e" stroke-width=".45"/>
+  <!-- The coulter passes through a real slot, tightened by an oak wedge and iron collar. -->
+  <path d="M140 180L153 181L155 197L141 196Z" fill="#6c705d" stroke="#4e5546" stroke-width="1.1"/>
+  <path d="M141 183L151 184M143 193L153 194" stroke="#a1a18a" stroke-width=".6"/>
+  <path d="M146 164L154 165L152 181L145 181Z" fill="#9a8059" stroke="#625840" stroke-width="1"/>
+  <path d="M148 166L148 178M151 167L150 178" stroke="#c8ae84" stroke-width=".6"/>
+  <path d="M143 196L151 197L145 238C144 249 141 260 133 271L133 257L137 224Z" fill="url(#br10-iron)" stroke="#4c5549" stroke-width="1.35"/>
+  <path d="M145 200L140 237C139 250 137 257 134 265" stroke="#b4b09a" stroke-width=".75"/>
+  <path d="M148 203L143 236M143 243L139 256M140 228L144 225M139 236L143 233M138 244L141 241M137 251L140 248" stroke="#4d5749" stroke-width=".65"/>
+  <path d="M143 184L153 185L154 190L143 189Z" fill="#484f43" stroke="#515748" stroke-width=".55"/>
+  <!-- The near handle grows from a pegged socket at the heel and curves up behind. -->
+  <path d="M223 268C229 239 241 214 258 190C274 167 288 148 306 129L318 120Q322 117 319 114Q317 111 313 114L299 123C279 142 264 163 248 186C232 211 220 236 214 264Z" fill="url(#br10-handle)" stroke="#625840" stroke-width="1.5"/>
+  <path d="M217 262C224 236 237 211 252 189C269 164 283 145 302 126L315 117" stroke="#d5bb91" stroke-width=".8"/>
+  <path d="M223 254C231 229 241 210 254 192M259 184C273 162 288 142 302 130M309 123L316 118M223 244L230 226M239 211L247 197M264 174L276 158M283 148L293 137" stroke="#796548" stroke-width=".65"/>
+  <path d="M269 168C273 165 277 159 276 155C272 157 269 162 269 168ZM266 170C266 163 272 154 277 151M270 171C276 170 281 160 280 155" stroke="#7f694b" stroke-width=".55"/>
+  <path d="M230 239L233 232M241 218L244 212M256 195L260 189M285 153L289 147M298 135L302 131M311 123L315 120" stroke="#6b5d43" stroke-width=".5" opacity=".75"/>
+  <path d="M216 255L226 259L222 274L212 271Z" fill="#777562" stroke="#515847" stroke-width="1"/>
+  <path d="M217 258L224 261M214 268L220 270" stroke="#b4ad8c" stroke-width=".6"/>
+  <circle cx="219.1" cy="264.5" r="2" fill="#424d3f" stroke="#a9a184" stroke-width=".65"/>
+  <!-- The iron sole supports the share and the lower edge of the mouldboard continuously. -->
+  <path d="M139 280L168 274C190 284 216 277 237 268L233 280C209 293 178 299 150 290Z" fill="#687461" stroke="#505d4e" stroke-width="1"/>
+  <!-- Broad twisted mouldboard: narrow throat at the share, raised open trailing lip. -->
+  <path d="M150 279C164 264 180 244 201 236C220 228 242 234 261 224C265 241 256 260 239 273C215 289 181 290 150 279Z" fill="url(#br10-board)" stroke="#566052" stroke-width="1.55"/>
+  <path d="M151 279C176 283 207 278 229 267C247 258 257 243 261 224" stroke="#bbc0a6" stroke-width=".85" opacity=".8"/>
+  <path d="M157 275C172 257 185 247 202 241C218 235 238 238 253 232M163 277C182 275 201 269 218 260C235 251 246 243 253 233" stroke="#65705e" stroke-width=".8"/>
+  <path d="M168 276C190 264 208 249 228 244C238 240 247 237 254 230M183 280C205 277 226 269 239 257M205 282C221 278 237 268 246 258M226 278C239 270 248 259 253 248" stroke="#9da48e" stroke-width=".65" opacity=".8"/>
+  <g clip-path="url(#br10-board-clip)" stroke="#556150" stroke-width=".5" opacity=".65"><path d="M184 249C188 248 192 248 196 247M190 244C193 244 197 243 201 243M199 240L209 239M210 236L222 236M160 276L165 281M166 275L172 282M173 274L178 283M181 273L187 282M190 272L195 280M200 269L205 277M210 265L216 272M219 260L225 266M228 255L235 261M236 249L243 254M243 242L250 246M249 235L256 238M253 229L260 231M230 281L235 275M238 277L242 270M246 270L250 263M254 257L257 251"/></g>
+  <path d="M254 227L261 224C265 241 256 260 239 273L234 275C250 261 258 246 259 230Z" fill="#65705f" fill-opacity=".6" stroke="#56604f" stroke-width=".75"/>
+  <!-- The replaceable share overlaps the mouldboard's low throat and cuts forward. -->
+  <path d="M119 285L150 267C162 266 174 268 184 274C174 279 165 285 157 290L119 285Z" fill="url(#br10-share)" stroke="#4c594b" stroke-width="1.5"/>
+  <path d="M119 285L157 290C183 293 209 287 226 278L218 284C198 294 178 297 155 294Z" fill="#5f6b59" stroke="#4c594b" stroke-width="1.15"/>
+  <path d="M124 283L152 273C162 272 171 273 177 275M126 286L154 291C179 294 200 288 218 282" stroke="#b9bea5" stroke-width=".7"/>
+  <path d="M139 280L150 276M145 284L158 279M153 285L167 279M161 288L170 283M177 288L186 285M193 286L202 283" stroke="#66725e" stroke-width=".6"/>
+  <g fill="#4c5849" stroke="#afb298" stroke-width=".6"><ellipse cx="159" cy="272.6" rx="2" ry="1.5" transform="rotate(8 159 272.6)"/><ellipse cx="177" cy="278" rx="1.8" ry="1.4" transform="rotate(-25 177 278)"/><ellipse cx="225" cy="248.5" rx="1.8" ry="2" transform="rotate(25 225 248.5)"/></g>
+</svg>

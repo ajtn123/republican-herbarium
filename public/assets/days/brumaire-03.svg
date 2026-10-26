@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="brumaire-03-title brumaire-03-desc">
+  <title id="brumaire-03-title">Poire — Pyrus communis</title>
+  <desc id="brumaire-03-desc">An orchard pear branch bears two unequal yellow and olive russet pears on slender curved woody stalks. The larger fruit has a long narrow neck and an uneven, full lower body. Finely serrated oval leaves show branching veins; sparse russet lenticels and curved engraved hatching describe the fruit skins.</desc>
+  <defs>
+    <linearGradient id="brumaire-03-leaf" x1="100" y1="35" x2="173" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#a9ad8d" stop-opacity=".58"/><stop offset=".5" stop-color="#929c79" stop-opacity=".71"/><stop offset="1" stop-color="#6f805e" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="brumaire-03-leaf-back" x1="250" y1="33" x2="282" y2="99" gradientUnits="userSpaceOnUse"><stop stop-color="#b7b69a" stop-opacity=".53"/><stop offset="1" stop-color="#859372" stop-opacity=".74"/></linearGradient>
+    <linearGradient id="brumaire-03-large" x1="103" y1="183" x2="184" y2="275" gradientUnits="userSpaceOnUse"><stop stop-color="#ded09b" stop-opacity=".79"/><stop offset=".42" stop-color="#d0bf7e" stop-opacity=".83"/><stop offset=".76" stop-color="#baaa68" stop-opacity=".88"/><stop offset="1" stop-color="#9e935d" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="brumaire-03-small" x1="231" y1="166" x2="282" y2="237" gradientUnits="userSpaceOnUse"><stop stop-color="#c3c295" stop-opacity=".77"/><stop offset=".48" stop-color="#adad76" stop-opacity=".82"/><stop offset="1" stop-color="#8d9465" stop-opacity=".87"/></linearGradient>
+    <linearGradient id="brumaire-03-wood" x1="183" y1="89" x2="186" y2="98" gradientUnits="userSpaceOnUse"><stop stop-color="#ad9775"/><stop offset=".55" stop-color="#8d775b"/><stop offset="1" stop-color="#705e49"/></linearGradient>
+    <linearGradient id="brumaire-03-russet" x1="126" y1="148" x2="148" y2="208" gradientUnits="userSpaceOnUse"><stop stop-color="#a38a55" stop-opacity=".35"/><stop offset=".8" stop-color="#ae9862" stop-opacity=".14"/><stop offset="1" stop-color="#ae9862" stop-opacity="0"/></linearGradient>
+  </defs>
+  <!-- A slender piece of orchard wood carries alternate leaf shoots. -->
+  <path d="M69 117C110 106 145 103 182 92C223 80 264 63 292 40L296 43C267 68 226 86 184 97C145 108 109 112 71 121Z" fill="url(#brumaire-03-wood)" stroke="#77634f" stroke-width="1.25"/>
+  <path d="M75 118C116 107 146 107 184 95C225 83 262 67 291 44" stroke="#c3af8d" stroke-width=".75"/>
+  <path d="M104 110L106 114M153 101L156 105M190 91L193 94M233 76L236 79M273 56L276 59M286 46L289 49" stroke="#715d49" stroke-width=".65"/>
+  <g stroke="#7c7756" stroke-width="1.35">
+    <path d="M130 109C124 103 118 97 112 93M180 95C175 86 169 79 165 73M218 83C224 73 230 64 235 57M258 66C270 69 279 74 286 81M99 112C91 119 86 123 79 127"/>
+  </g>
+  <!-- Pear leaves are oval and pointed, with fine teeth rather than lobes. -->
+  <g stroke="#647252" stroke-width="1.05" fill="url(#brumaire-03-leaf)">
+    <path d="M113 94C100 94 91 89 82 82L77 78L76 75L72 72L71 68L67 65L65 60L61 55L65 54L70 56L73 55L79 58L82 58L87 62L91 63L95 67L99 69L102 74L106 77L107 82L111 86L113 94Z"/>
+    <path d="M165 76C154 72 147 65 145 57L143 53L144 50L142 46L144 42L144 38L148 32L151 36L154 37L156 41L160 43L161 48L164 51L164 56L166 60L165 65L167 69Z"/>
+    <path d="M79 128C72 137 61 142 51 142L47 143L44 141L39 141L35 138L31 136L35 132L36 129L41 127L43 124L49 123L52 121L58 121L62 120L68 123L72 123Z"/>
+  </g>
+  <g stroke="#6b7759" stroke-width="1.05" fill="url(#brumaire-03-leaf-back)">
+    <path d="M233 62C228 52 229 44 235 37L238 34L242 33L246 29L248 33L251 35L251 40L253 43L252 48L253 52L250 57L249 61L245 64L242 67L237 65Z"/>
+    <path d="M281 78C291 73 303 77 310 82L314 84L315 87L319 90L319 93L323 98L318 98L314 100L309 99L305 100L300 98L296 98L292 95L288 93L286 89L283 86Z"/>
+  </g>
+  <g stroke="#637451" stroke-width=".67" opacity=".9">
+    <path d="M112 93C96 81 80 66 64 57M104 86L102 77M97 80L95 69M89 73L86 63M80 66L78 59M103 86L92 86M95 79L83 80M86 71L75 72M77 64L70 64"/>
+    <path d="M165 75C157 62 151 46 148 35M160 65L162 55M156 56L158 47M152 46L153 41M160 65L150 61M155 55L147 51M151 45L146 43"/>
+    <path d="M78 128C63 132 48 135 34 136M67 131L61 124M57 133L51 125M47 135L42 130M67 131L60 139M56 133L49 140M46 135L42 139"/>
+    <path d="M235 63C240 53 243 41 246 32M239 54L232 48M242 45L236 40M240 52L249 47M237 60L246 58"/>
+    <path d="M283 80C295 85 307 91 320 97M292 84L302 79M301 88L310 84M309 92L315 89M292 84L293 92M302 89L303 96M311 93L313 98"/>
+  </g>
+  <g stroke="#6c7c58" stroke-width=".42" opacity=".5"><path d="M84 76L89 80M87 75L93 79M96 87L102 89M147 48L150 52M147 54L151 58M157 43L158 48M39 134L44 133M47 137L53 136M237 43L238 48M245 54L249 51M293 81L299 84M306 96L312 97"/></g>
+  <!-- The two unequal peduncles stay woody and slender to the fruit sockets. -->
+  <path d="M131 109C126 119 126 129 131 141L134 150L138 149C134 139 131 130 132 121C132 117 134 112 135 109Z" fill="#96815c" stroke="#705f48" stroke-width="1.15"/>
+  <path d="M132 111C129 122 129 132 135 146" stroke="#c2aa7c" stroke-width=".75"/>
+  <path d="M237 75C244 87 248 99 246 112L244 131L248 132C250 117 252 103 248 91C246 84 244 78 241 74Z" fill="#9d8963" stroke="#705f49" stroke-width="1.15"/>
+  <path d="M240 78C247 92 249 105 247 121" stroke="#c5b28b" stroke-width=".7"/>
+  <g stroke="#766145" stroke-width=".65"><path d="M129 123L132 122M131 136L134 135M245 92L248 91M247 109L249 110M246 122L248 123"/></g>
+  <!-- The smaller, greener pear is upright, its fuller cheek on the right. -->
+  <path d="M244 128C253 125 261 130 263 141C265 151 265 160 271 170C279 182 287 193 291 207C296 224 291 238 278 247C266 255 248 254 236 247C221 239 216 225 219 209C221 195 228 183 231 172C236 158 233 147 236 138C237 133 240 130 244 128Z" fill="url(#brumaire-03-small)" stroke="#7e7953" stroke-width="1.5"/>
+  <path d="M237 140C240 138 242 137 245 138C250 138 253 136 256 137" stroke="#90815a" stroke-width=".7"/>
+  <path d="M238 144C239 155 238 167 233 178C228 189 225 197 224 207C222 221 227 232 234 238" stroke="#e2d8aa" stroke-width="1.4" opacity=".59"/>
+  <path d="M256 134C262 152 260 164 271 181C283 201 291 219 281 235C277 242 271 247 263 248" stroke="#7e8057" stroke-width=".7" opacity=".64"/>
+  <path d="M239 138C238 144 240 151 239 158C247 156 248 149 252 146C255 142 255 136 251 132C247 130 242 132 239 138Z" fill="#a18d5f" opacity=".17"/>
+  <g stroke="#7c7a51" stroke-width=".55" opacity=".58">
+    <path d="M258 146C260 155 261 163 264 169M262 151C263 160 265 167 269 173M270 179C276 187 282 197 285 206M274 179C280 188 286 198 288 209M285 218C286 225 281 233 276 237M282 221C281 229 277 234 272 238M274 245C267 248 261 249 255 248M262 246C256 247 250 246 245 244M226 228C228 235 235 241 241 244M223 219C223 224 225 230 229 234"/>
+  </g>
+  <!-- The yellow pear has a long unequal neck above a generous lower body. -->
+  <path d="M130 147C140 144 149 149 153 159C157 172 156 185 164 199C173 213 187 223 193 241C201 262 194 281 179 293C165 304 144 309 125 305C104 302 89 291 83 274C77 257 83 240 92 225C101 210 112 198 116 181C119 169 115 158 121 152C123 149 126 148 130 147Z" fill="url(#brumaire-03-large)" stroke="#87794e" stroke-width="1.65"/>
+  <path d="M120 157C126 155 131 156 136 156C141 155 145 155 149 158" stroke="#948053" stroke-width=".75"/>
+  <path d="M124 151C120 159 124 174 120 187C118 197 112 209 108 216C121 211 134 207 141 201C152 192 153 181 150 168C148 159 142 149 134 148Z" fill="url(#brumaire-03-russet)"/>
+  <path d="M123 165C126 178 120 194 111 210C101 227 91 240 90 254C88 266 92 277 98 283" stroke="#ede1b5" stroke-width="1.5" opacity=".64"/>
+  <path d="M145 157C150 169 149 182 154 194C160 211 177 223 185 240C195 261 184 282 170 289" stroke="#94834d" stroke-width=".75" opacity=".63"/>
+  <path d="M98 289C107 297 119 301 130 302M150 302C160 300 169 297 175 293" stroke="#a08c54" stroke-width=".8" opacity=".58"/>
+  <!-- Fine curved lines turn with the cheeks, leaving a broad light on the left. -->
+  <g stroke="#8a7b4a" stroke-width=".55" opacity=".61">
+    <path d="M149 171C150 183 152 192 157 201M152 170C152 180 155 189 158 194M160 204C168 215 178 223 183 236M163 202C170 212 181 223 186 234M177 225C184 234 188 243 189 251M181 224C188 236 192 247 191 257M189 262C187 274 180 283 172 289M186 260C184 272 177 281 169 286M182 267C178 277 170 285 161 290M176 281C167 290 156 296 143 297M163 293C153 298 141 300 132 299M151 294C141 297 132 297 124 295M123 302C112 300 103 294 97 287M117 298C106 294 99 289 94 281M98 286C91 277 88 268 88 260M89 273C85 264 85 257 87 249M89 239C91 231 96 224 101 217M94 237C97 230 101 223 105 216M112 201C118 191 119 180 120 172M116 203C121 193 123 184 123 178"/>
+  </g>
+  <!-- Localized, irregular russet lenticels and short corky lines mark the skins. -->
+  <g stroke="#917b4e" stroke-width=".65" opacity=".57">
+    <path d="M124 163L126 164M128 169L131 168M137 165L139 166M141 173L143 172M125 179L127 180M132 182L134 181M140 185L143 186M126 189L128 188M120 197L123 196M133 195L135 197M140 193L142 192M118 207L120 208M128 207L130 205M138 202L140 204M148 218L150 217M155 235L157 236M169 251L171 250M155 263L157 264M175 272L177 270M137 282L139 282M107 270L109 269M116 247L118 248M100 239L101 237M242 141L244 142M250 143L252 143M242 152L244 151M248 160L250 161M239 169L241 169M247 176L249 175M258 183L260 185M235 195L237 194M251 215L253 216M271 224L273 223M242 234L244 235M266 243L268 242"/>
+  </g>
+  <g fill="#8d774a" opacity=".46">
+    <ellipse cx="130" cy="160" rx=".7" ry=".5"/><ellipse cx="136" cy="173" rx=".65" ry=".5"/><circle cx="124" cy="173" r=".55"/><circle cx="132" cy="188" r=".65"/><ellipse cx="145" cy="183" rx=".6" ry=".45"/><circle cx="126" cy="200" r=".6"/><circle cx="136" cy="210" r=".6"/><circle cx="112" cy="227" r=".6"/><ellipse cx="144" cy="233" rx=".65" ry=".5"/><circle cx="159" cy="247" r=".55"/><circle cx="121" cy="264" r=".65"/><circle cx="151" cy="278" r=".55"/><circle cx="246" cy="146" r=".6"/><circle cx="251" cy="155" r=".55"/><circle cx="240" cy="161" r=".55"/><circle cx="245" cy="170" r=".6"/><circle cx="254" cy="174" r=".5"/><circle cx="263" cy="196" r=".55"/><circle cx="239" cy="211" r=".55"/><circle cx="259" cy="231" r=".65"/>
+  </g>
+  <!-- The persistent dry blossom ends are small and asymmetrical. -->
+  <path d="M138 303C141 300 147 299 151 301M143 302L141 305L146 304L149 307L150 303L154 302L150 301" stroke="#756345" stroke-width=".8"/>
+  <path d="M257 251C259 248 263 247 267 248M260 250L259 253L263 251L266 253L266 249L270 249" stroke="#6f6749" stroke-width=".75"/>
+</svg>

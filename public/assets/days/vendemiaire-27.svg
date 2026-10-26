@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vp27-title vp27-desc">
+  <title id="vp27-title">Piment — Capsicum annuum</title>
+  <desc id="vp27-desc">A branching pepper sprig with smooth pointed ovate leaves, a small five-petalled ivory flower, and two pendant, slender peppers. The ripe fruit is muted rust red and the younger fruit olive green; each has a five-pointed green calyx. Fine veins and curved engraved hatching follow the leaves and tapering fruits.</desc>
+  <defs>
+    <linearGradient id="vp27-stem" x1="175" y1="200" x2="185" y2="202" gradientUnits="userSpaceOnUse"><stop stop-color="#b4b396"/><stop offset=".42" stop-color="#929a75"/><stop offset="1" stop-color="#748060"/></linearGradient>
+    <linearGradient id="vp27-leaf" x1="101" y1="78" x2="174" y2="154" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b59a" stop-opacity=".57"/><stop offset=".5" stop-color="#97a080" stop-opacity=".68"/><stop offset="1" stop-color="#748260" stop-opacity=".79"/></linearGradient>
+    <linearGradient id="vp27-leaf-right" x1="269" y1="89" x2="202" y2="143" gradientUnits="userSpaceOnUse"><stop stop-color="#adb296" stop-opacity=".58"/><stop offset=".52" stop-color="#8e9b78" stop-opacity=".65"/><stop offset="1" stop-color="#738361" stop-opacity=".79"/></linearGradient>
+    <linearGradient id="vp27-leaf-low" x1="192" y1="253" x2="224" y2="302" gradientUnits="userSpaceOnUse"><stop stop-color="#a8af8b" stop-opacity=".68"/><stop offset="1" stop-color="#7a8865" stop-opacity=".76"/></linearGradient>
+    <linearGradient id="vp27-red" x1="107" y1="223" x2="147" y2="232" gradientUnits="userSpaceOnUse"><stop stop-color="#9d5141" stop-opacity=".92"/><stop offset=".24" stop-color="#b56650" stop-opacity=".87"/><stop offset=".5" stop-color="#cb8063" stop-opacity=".75"/><stop offset=".77" stop-color="#b46650" stop-opacity=".87"/><stop offset="1" stop-color="#884b3c" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="vp27-green" x1="223" y1="207" x2="253" y2="207" gradientUnits="userSpaceOnUse"><stop stop-color="#76845a" stop-opacity=".87"/><stop offset=".38" stop-color="#a2aa79" stop-opacity=".79"/><stop offset=".65" stop-color="#aab287" stop-opacity=".74"/><stop offset="1" stop-color="#6b7c52" stop-opacity=".92"/></linearGradient>
+    <linearGradient id="vp27-calyx" x1="121" y1="171" x2="138" y2="191" gradientUnits="userSpaceOnUse"><stop stop-color="#a1aa7c"/><stop offset="1" stop-color="#6c7c53"/></linearGradient>
+    <linearGradient id="vp27-petal" x1="239" y1="105" x2="256" y2="126" gradientUnits="userSpaceOnUse"><stop stop-color="#f3efdf"/><stop offset=".6" stop-color="#e8e4d2"/><stop offset="1" stop-color="#d4d5bc"/></linearGradient>
+  </defs>
+  <!-- A slightly woody cut base divides into the young green axes. -->
+  <path d="M174 329C181 308 179 288 178 268C176 244 174 224 177 204C180 183 183 164 187 145C190 127 191 112 187 97C185 88 183 80 184 72L187 72C186 81 190 91 191 99C195 115 193 131 191 146C187 167 184 184 182 205C179 225 181 246 182 267C184 289 185 309 178 330Z" fill="url(#vp27-stem)" stroke="#6e7357" stroke-width="1.25"/>
+  <path d="M188 144C199 137 210 130 221 128C232 126 237 130 238 140C239 147 235 153 235 161L231 162C231 151 235 145 234 139C234 133 230 130 221 132C209 134 199 141 188 148Z" fill="url(#vp27-stem)" stroke="#6d7957" stroke-width="1.15"/>
+  <path d="M180 173C168 162 156 154 146 157C137 160 131 168 131 180L127 180C127 167 133 157 144 154C157 150 170 159 182 170Z" fill="url(#vp27-stem)" stroke="#6d7957" stroke-width="1.15"/>
+  <g stroke="#d1ccb0" stroke-width=".65" opacity=".8"><path d="M177 327C183 307 181 288 180 269M179 258C177 239 177 222 179 205M182 189C183 174 187 160 189 146M192 126C194 114 191 102 189 95M193 143C204 136 214 132 222 130M232 131C238 138 233 149 233 158M177 168C165 158 154 154 145 156C137 159 130 167 129 176"/></g>
+  <!-- Short petioles carry alternate, entire blades rather than leaflets. -->
+  <g stroke="#74805b" stroke-width="1.7">
+    <path d="M188 108C177 103 166 99 154 95"/>
+    <path d="M189 128C200 116 211 107 222 103"/>
+    <path d="M184 157C172 152 158 147 145 144"/>
+    <path d="M185 81C186 75 188 70 190 65"/>
+    <path d="M180 229C190 225 201 223 210 218"/>
+    <path d="M180 275C186 271 191 265 194 259"/>
+    <path d="M221 129C227 121 235 118 243 116" stroke-width="1.2"/>
+    <path d="M188 100C198 92 202 85 203 77" stroke-width="1.1"/>
+  </g>
+  <g stroke="#637253" stroke-width="1.2">
+    <path d="M154 95C152 79 143 65 129 61C116 57 104 56 94 48C95 65 100 82 113 94C125 106 142 107 154 95Z" fill="url(#vp27-leaf)"/>
+    <path d="M190 67C177 64 171 54 174 45C177 36 187 33 193 29C201 41 203 55 190 67Z" fill="url(#vp27-leaf)"/>
+    <path d="M222 103C222 90 235 80 249 80C261 80 272 79 283 71C279 87 267 102 254 109C242 115 230 114 222 103Z" fill="url(#vp27-leaf-right)"/>
+    <path d="M145 144C140 126 128 117 112 119C96 120 81 123 65 117C74 136 91 152 108 156C123 160 138 155 145 144Z" fill="url(#vp27-leaf)"/>
+    <path d="M210 218C216 202 229 191 244 193C256 194 268 194 279 187C276 202 264 219 248 226C233 233 218 230 210 218Z" fill="url(#vp27-leaf-right)"/>
+    <path d="M194 259C208 259 220 269 223 283C226 294 226 304 234 313C219 310 203 301 195 288C188 277 189 268 194 259Z" fill="url(#vp27-leaf-low)"/>
+    <path d="M203 78C196 76 193 70 196 63C199 56 206 52 208 46C212 58 214 71 203 78Z" fill="url(#vp27-leaf-right)" stroke-width="1"/>
+  </g>
+  <!-- Unequal lateral veins arch towards the smooth leaf margins. -->
+  <g stroke="#62724e" stroke-width=".72" opacity=".87">
+    <path d="M153 96C134 85 112 67 96 51M143 89C140 80 137 71 132 64M133 82C125 82 116 81 109 77M125 76C123 68 121 63 116 61M115 67L104 64M143 90C133 93 125 95 117 93M134 85C126 88 118 86 113 85"/>
+    <path d="M190 65C190 55 191 42 193 32M190 55C184 52 180 49 177 45M191 46L198 44M190 59L198 53M190 45L183 38"/>
+    <path d="M223 104C243 96 264 86 280 74M235 99C237 91 242 86 247 83M245 94C254 96 262 93 269 89M256 88L260 81M233 100C240 106 248 107 254 105M244 95L253 99"/>
+    <path d="M144 144C122 139 92 129 68 119M133 141C130 131 124 124 117 121M122 137C114 145 106 147 96 146M109 133C106 126 103 124 99 122M100 130C93 135 88 135 83 132M133 142C126 149 120 152 113 153M117 136C110 139 105 140 99 139M88 125L78 125"/>
+    <path d="M211 218C231 210 255 199 276 190M224 213C227 204 233 198 240 196M235 208C244 213 254 214 263 207M248 201C251 198 253 197 257 196M223 214C228 222 236 226 243 225M235 209C243 216 248 219 253 219M258 198L268 198"/>
+    <path d="M194 260C202 278 216 298 231 310M200 274C208 273 215 277 220 283M207 286C202 285 197 282 194 277M216 298C221 296 223 296 226 299M200 274C199 267 196 263 195 261M203 280L216 286M203 76C205 67 207 57 208 49M205 67L199 63M206 58L209 56M203 73L209 67"/>
+  </g>
+  <g stroke="#687653" stroke-width=".46" opacity=".48"><path d="M102 67Q106 75 111 78M106 67Q110 74 115 77M130 96L137 94M135 97L141 95M178 47L182 53M179 52L184 57M235 86L232 91M239 86L235 92M254 105L261 100M258 105L265 100M77 124L84 130M81 123L88 130M113 150L121 147M117 152L125 148M123 124L128 131M127 124L132 131M223 223L229 226M226 220L232 224M261 205L267 199M264 206L270 199M198 285L203 291M199 281L204 287M218 303L223 305M204 57L202 61"/></g>
+  <!-- The narrow ripe pepper hangs from a recurved stalk and tapers to a curved point. -->
+  <path d="M118 183C108 189 105 204 108 222C111 244 118 265 119 282C120 292 117 301 114 307C124 301 133 284 138 268C144 250 148 228 147 209C147 195 141 185 134 182C129 180 123 180 118 183Z" fill="url(#vp27-red)" stroke="#825143" stroke-width="1.45"/>
+  <path d="M123 190C114 204 116 223 120 240C124 258 128 274 124 289" stroke="#e5ab88" stroke-width="2.1" opacity=".45"/>
+  <path d="M137 190C144 207 140 230 136 247C133 264 128 281 120 296" stroke="#824d3e" stroke-width=".78" opacity=".68"/>
+  <path d="M115 191C109 204 112 224 116 239M119 253C123 267 125 279 122 289M139 195C143 205 142 216 140 227" stroke="#ad6350" stroke-width=".65" opacity=".78"/>
+  <g stroke="#7d4c3e" stroke-width=".55" opacity=".6">
+    <path d="M110 202Q111 209 115 212M110 208Q111 214 116 218M111 215Q113 222 117 225M112 223Q114 230 118 233M114 232Q116 239 120 242M116 241Q119 249 122 251M118 251Q121 257 124 260M121 263Q124 268 125 271M120 279Q122 282 122 285"/>
+    <path d="M144 204Q139 208 139 214M145 211Q140 216 139 222M144 220Q139 224 138 230M143 229Q138 233 137 239M141 240Q136 243 135 249M139 250Q134 253 133 260M136 262Q132 265 130 271M132 274Q127 277 126 282M126 289L121 296"/>
+  </g>
+  <!-- Each calyx has five persistent triangular points surrounding its short cup. -->
+  <path d="M127 179L124 171L130 175L136 170L136 178L144 180L138 184L140 192L131 187L124 193L124 186L115 184L122 180Z" fill="url(#vp27-calyx)" stroke="#60714c" stroke-width="1.05"/>
+  <path d="M123 180Q130 184 137 180L135 185Q129 188 124 184Z" fill="#89966b" stroke="#677752" stroke-width=".65"/>
+  <path d="M129 181L126 174M131 181L135 173M133 183L141 181M131 184L137 189M127 184L125 190M126 182L119 183" stroke="#5f724c" stroke-width=".55"/>
+  <path d="M126 181L129 183L134 182" stroke="#c0c39b" stroke-width=".62"/>
+  <!-- A younger, slimmer fruit curves outwards, with unripe olive skin. -->
+  <path d="M231 161C220 165 217 177 221 191C225 209 235 223 244 239C252 253 254 266 249 277C260 268 264 255 260 242C255 224 248 208 249 191C250 178 247 167 240 162C238 161 234 160 231 161Z" fill="url(#vp27-green)" stroke="#61724c" stroke-width="1.3"/>
+  <path d="M231 171C224 183 230 199 237 213C243 226 251 239 254 249" stroke="#d1d2a5" stroke-width="1.65" opacity=".6"/>
+  <path d="M241 173C245 189 240 202 246 219C250 234 260 252 254 267" stroke="#5c6e47" stroke-width=".7" opacity=".75"/>
+  <g stroke="#5b6d46" stroke-width=".5" opacity=".62"><path d="M222 178Q223 184 226 186M222 184Q224 190 228 193M224 193Q227 200 231 202M228 203Q231 209 235 211M233 214Q236 220 239 222M239 225Q242 232 246 235M247 241Q251 246 252 251M250 252Q253 257 252 261M247 183Q243 187 243 193M246 196Q242 200 244 205M248 211Q245 215 247 220M253 227Q250 231 252 236M258 242Q254 246 256 251M260 253Q256 256 256 261M256 265L252 271"/></g>
+  <path d="M231 160L227 153L233 156L238 151L239 158L246 159L243 164L247 170L239 168L234 173L232 166L224 165Z" fill="url(#vp27-calyx)" stroke="#60724a" stroke-width="1"/>
+  <path d="M230 162Q235 166 242 162L240 167Q235 169 231 165Z" fill="#8e9b6b" stroke="#64774e" stroke-width=".6"/>
+  <path d="M234 162L230 156M236 162L238 154M238 163L244 160M237 165L244 169M234 165L234 171M233 164L226 165" stroke="#64764c" stroke-width=".5"/>
+  <!-- One solitary Capsicum blossom, ivory white with five broad pointed lobes. -->
+  <path d="M244 116L241 110L247 111L250 106L252 112L259 113L254 117L256 123L250 121L245 125L245 119L239 118Z" fill="#a4ae85" stroke="#778260" stroke-width=".65"/>
+  <g fill="url(#vp27-petal)" stroke="#9b9f80" stroke-width=".7">
+    <path d="M249 116C245 113 244 107 248 102C253 105 254 111 251 116Z"/>
+    <path d="M250 116C251 111 257 108 263 110C262 115 257 119 252 118Z"/>
+    <path d="M251 117C257 116 260 121 259 127C253 128 249 123 249 119Z"/>
+    <path d="M249 118C250 123 247 128 241 130C239 124 241 119 247 117Z"/>
+    <path d="M248 117C243 120 238 117 235 112C240 109 246 111 249 115Z"/>
+  </g>
+  <g stroke="#bec0a4" stroke-width=".48"><path d="M249 114L249 106M253 115L259 112M252 120L256 124M246 121L243 126M244 116L238 113"/></g>
+  <path d="M246 115Q250 112 253 116L251 120L247 120Z" fill="#bcc29a" stroke="#90976f" stroke-width=".55"/>
+  <g fill="#a39b65" stroke="#8b855c" stroke-width=".35"><ellipse cx="247" cy="115.5" rx=".8" ry="1.5" transform="rotate(-35 247 115.5)"/><ellipse cx="250.5" cy="114.8" rx=".8" ry="1.5"/><ellipse cx="253" cy="117" rx=".8" ry="1.4" transform="rotate(70 253 117)"/><ellipse cx="250.7" cy="120" rx=".8" ry="1.4" transform="rotate(-35 250.7 120)"/><ellipse cx="247" cy="119.2" rx=".8" ry="1.4" transform="rotate(35 247 119.2)"/></g>
+  <path d="M249 118L249 115.5" stroke="#7e8e60" stroke-width=".75"/>
+  <circle cx="249" cy="115.3" r=".8" fill="#8b9a6b"/>
+  <path d="M177 330L179 326M180 277L176 276M182 230L177 232M188 158L184 159M190 109L186 108" stroke="#7e7958" stroke-width=".75"/>
+</svg>

@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="vendemiaire22-title vendemiaire22-desc">
+<title id="vendemiaire22-title">Pêche — 桃 — Prunus persica</title>
+<desc id="vendemiaire22-desc">A short woody peach twig bearing slender finely serrated lanceolate leaves, beside a softly downy yellow peach washed with rose and marked by its natural suture. An opened half reveals golden flesh, a red-stained cavity and the deeply furrowed, pointed brown stone.</desc>
+<defs>
+ <linearGradient id="vendemiaire22-leaf" x1="0" y1="-12" x2="0" y2="13" gradientUnits="userSpaceOnUse"><stop stop-color="#aab091" stop-opacity=".65"/><stop offset=".48" stop-color="#8f9b74" stop-opacity=".72"/><stop offset="1" stop-color="#71805b" stop-opacity=".84"/></linearGradient>
+ <linearGradient id="vendemiaire22-peach" x1="80" y1="169" x2="182" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#e4ce8e" stop-opacity=".89"/><stop offset=".48" stop-color="#d9bb78" stop-opacity=".87"/><stop offset="1" stop-color="#c69b6d" stop-opacity=".92"/></linearGradient>
+ <radialGradient id="vendemiaire22-blush" cx=".24" cy=".45" r=".74"><stop stop-color="#be7370" stop-opacity=".73"/><stop offset=".57" stop-color="#ca8a78" stop-opacity=".5"/><stop offset="1" stop-color="#d7b67c" stop-opacity="0"/></radialGradient>
+ <linearGradient id="vendemiaire22-flesh" x1="212" y1="196" x2="283" y2="303" gradientUnits="userSpaceOnUse"><stop stop-color="#efe0aa" stop-opacity=".96"/><stop offset=".55" stop-color="#e5cc8b" stop-opacity=".94"/><stop offset="1" stop-color="#d5b779" stop-opacity=".98"/></linearGradient>
+ <radialGradient id="vendemiaire22-cavity" cx=".5" cy=".5" r=".5"><stop stop-color="#a66754" stop-opacity=".75"/><stop offset=".69" stop-color="#bd7761" stop-opacity=".68"/><stop offset="1" stop-color="#d39d77" stop-opacity=".1"/></radialGradient>
+ <linearGradient id="vendemiaire22-stone" x1="232" y1="218" x2="268" y2="288" gradientUnits="userSpaceOnUse"><stop stop-color="#b39266"/><stop offset=".4" stop-color="#99744e"/><stop offset="1" stop-color="#795638"/></linearGradient>
+<clipPath id="vendemiaire22-fruit-clip"><path d="M143 164C129 153 110 153 93 160C68 170 53 190 51 215C48 240 61 265 81 278C97 289 111 289 127 293C143 289 163 287 180 272C202 253 210 225 203 202C198 181 180 164 163 162C154 160 150 164 147 167C146 165 145 164 143 164Z"/></clipPath>
+</defs>
+<!-- Slender one-year wood, with alternate leaf insertions and short fruit stalk. -->
+<path d="M92 137C123 120 153 107 185 96C211 87 234 76 259 64L261 68C238 81 213 91 188 100C157 111 125 125 95 141Z" fill="#9d8b6c" stroke="#77694f" stroke-width="1.35"/>
+<path d="M98 137C128 121 156 110 184 99C215 88 238 78 258 67" stroke="#c9b89a" stroke-width=".85"/>
+<path d="M142 118C143 130 146 142 147 163" stroke="#7d7052" stroke-width="4"/>
+<path d="M142 119C142 135 147 146 146 160" stroke="#b8aa84" stroke-width="1.4"/>
+<path d="M139 121L145 120M144 145L148 144M113 128L114 132M171 102L173 107M213 85L215 89M243 73L244 77" stroke="#74664e" stroke-width=".75"/>
+<path d="M257 67C261 61 266 60 270 60C269 66 264 70 259 69Z" fill="#8c7758" stroke="#726047" stroke-width=".85"/>
+<path d="M260 66L267 62" stroke="#baa07c" stroke-width=".6"/>
+<g stroke="#7b805c" stroke-width="1.65"><path d="M132 117L128 107M169 104L174 89M204 92L217 91M183 101L193 108"/></g>
+<g transform="translate(128 107) rotate(-143)">
+<path d="M0.00 0.00L3.41 -1.39L5.27 -0.49L7.83 -2.36L9.69 -1.46L12.26 -3.18L14.12 -2.28L16.69 -3.89L18.55 -2.99L21.12 -4.49L22.98 -3.59L25.55 -4.99L27.41 -4.09L29.98 -5.39L31.84 -4.49L34.41 -5.69L36.27 -4.79L38.83 -5.89L40.69 -4.99L43.26 -5.99L45.12 -5.09L47.69 -5.99L49.55 -5.09L52.12 -5.89L53.98 -4.99L56.55 -5.69L58.41 -4.79L60.98 -5.39L62.84 -4.49L65.41 -4.99L67.27 -4.09L69.83 -4.49L71.69 -3.59L74.26 -3.89L76.12 -2.99L78.69 -3.18L80.55 -2.28L83.12 -2.36L84.98 -1.46L87.55 -1.39L89.41 -0.49L93.00 0.00L89.41 1.68L87.55 2.58L84.98 3.82L83.12 4.72L80.55 5.75L78.69 6.65L76.12 7.49L74.26 8.39L71.69 9.03L69.83 9.93L67.27 10.34L65.41 11.24L62.84 11.41L60.98 12.31L58.41 12.23L56.55 13.13L53.98 12.79L52.12 13.69L49.55 13.07L47.69 13.97L45.12 13.07L43.26 13.97L40.69 12.79L38.83 13.69L36.27 12.23L34.41 13.13L31.84 11.41L29.98 12.31L27.41 10.34L25.55 11.24L22.98 9.03L21.12 9.93L18.55 7.49L16.69 8.39L14.12 5.75L12.26 6.65L9.69 3.82L7.83 4.72L5.27 1.68L3.41 2.58Z" fill="url(#vendemiaire22-leaf)" stroke="#687453" stroke-width="1.05"/>
+<path d="M1 0Q46.5 7.2 91 0" stroke="#5f704d" stroke-width=".8"/>
+<path d="M15.8 2.0Q20.4 -0.9 24.2 -3.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M15.8 2.0Q20.4 4.9 24.2 9.5" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M27.0 3.2Q31.6 -0.4 35.3 -4.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M27.0 3.2Q31.6 6.7 35.3 12.0" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M38.1 3.8Q42.7 0.0 46.5 -4.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M38.1 3.8Q42.7 7.6 46.5 12.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M50.2 4.0Q54.8 0.4 58.6 -4.5" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M50.2 4.0Q54.8 7.5 58.6 11.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M61.4 3.5Q66.0 0.7 69.8 -3.5" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M61.4 3.5Q66.0 6.3 69.8 9.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M72.5 2.5Q77.1 0.8 80.9 -1.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M72.5 2.5Q77.1 4.3 80.9 5.1" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M81.8 1.5Q86.4 1.0 90.2 0.1" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M81.8 1.5Q86.4 2.0 90.2 0.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M3 1Q44.6 7.8 87 .5" stroke="#d2d0ab" stroke-width=".45" opacity=".7"/>
+</g>
+<g transform="translate(174 89) rotate(-76)">
+<path d="M0.00 0.00L2.27 -2.03L3.51 -1.13L5.22 -3.72L6.46 -2.82L8.18 -5.24L9.42 -4.34L11.13 -6.60L12.37 -5.70L14.08 -7.81L15.32 -6.91L17.03 -8.84L18.27 -7.94L19.98 -9.68L21.22 -8.78L22.94 -10.32L24.18 -9.42L25.89 -10.75L27.13 -9.85L28.84 -10.97L30.08 -10.07L31.79 -10.97L33.03 -10.07L34.75 -10.75L35.99 -9.85L37.70 -10.32L38.94 -9.42L40.65 -9.68L41.89 -8.78L43.60 -8.84L44.84 -7.94L46.56 -7.81L47.80 -6.91L49.51 -6.60L50.75 -5.70L52.46 -5.24L53.70 -4.34L55.41 -3.72L56.65 -2.82L58.37 -2.03L59.61 -1.13L62.00 0.00L59.61 0.24L58.37 1.14L56.65 1.05L55.41 1.95L53.70 1.73L52.46 2.63L50.75 2.32L49.51 3.22L47.80 2.82L46.56 3.72L44.84 3.24L43.60 4.14L41.89 3.58L40.65 4.48L38.94 3.83L37.70 4.73L35.99 4.00L34.75 4.90L33.03 4.09L31.79 4.99L30.08 4.09L28.84 4.99L27.13 4.00L25.89 4.90L24.18 3.83L22.94 4.73L21.22 3.58L19.98 4.48L18.27 3.24L17.03 4.14L15.32 2.82L14.08 3.72L12.37 2.32L11.13 3.22L9.42 1.73L8.18 2.63L6.46 1.05L5.22 1.95L3.51 0.24L2.27 1.14Z" fill="url(#vendemiaire22-leaf)" stroke="#687453" stroke-width="1.05"/>
+<path d="M1 0Q31.0 -5.4 60 0" stroke="#5f704d" stroke-width=".8"/>
+<path d="M10.5 -1.5Q13.6 -3.9 16.1 -7.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M10.5 -1.5Q13.6 0.8 16.1 2.8" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M18.0 -2.4Q21.0 -5.2 23.6 -9.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M18.0 -2.4Q21.0 0.5 23.6 3.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M25.4 -2.9Q28.5 -5.9 31.0 -9.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M25.4 -2.9Q28.5 0.2 31.0 3.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M33.5 -3.0Q36.5 -5.8 39.1 -9.1" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M33.5 -3.0Q36.5 -0.2 39.1 3.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M40.9 -2.6Q44.0 -4.9 46.5 -7.0" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M40.9 -2.6Q44.0 -0.4 46.5 2.7" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M48.4 -1.9Q51.4 -3.3 53.9 -3.7" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M48.4 -1.9Q51.4 -0.5 53.9 1.4" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M54.6 -1.1Q57.6 -1.5 60.1 -0.3" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M54.6 -1.1Q57.6 -0.7 60.1 -0.3" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M3 1Q29.8 -4.1 56 .5" stroke="#d2d0ab" stroke-width=".45" opacity=".7"/>
+</g>
+<g transform="translate(217 91) rotate(-7)">
+<path d="M0.00 0.00L3.70 -2.73L5.72 -1.83L8.51 -5.01L10.53 -4.11L13.32 -7.09L15.34 -6.19L18.13 -8.96L20.15 -8.06L22.94 -10.61L24.96 -9.71L27.75 -12.02L29.77 -11.12L32.56 -13.18L34.58 -12.28L37.37 -14.06L39.39 -13.16L42.17 -14.66L44.19 -13.76L46.98 -14.96L49.00 -14.06L51.79 -14.96L53.81 -14.06L56.60 -14.66L58.62 -13.76L61.41 -14.06L63.43 -13.16L66.22 -13.18L68.24 -12.28L71.03 -12.02L73.05 -11.12L75.84 -10.61L77.86 -9.71L80.65 -8.96L82.67 -8.06L85.46 -7.09L87.48 -6.19L90.27 -5.01L92.29 -4.11L95.08 -2.73L97.10 -1.83L101.00 0.00L97.10 0.34L95.08 1.24L92.29 1.17L90.27 2.07L87.48 1.85L85.46 2.75L82.67 2.42L80.65 3.32L77.86 2.91L75.84 3.81L73.05 3.30L71.03 4.20L68.24 3.62L66.22 4.52L63.43 3.85L61.41 4.75L58.62 4.01L56.60 4.91L53.81 4.09L51.79 4.99L49.00 4.09L46.98 4.99L44.19 4.01L42.17 4.91L39.39 3.85L37.37 4.75L34.58 3.62L32.56 4.52L29.77 3.30L27.75 4.20L24.96 2.91L22.94 3.81L20.15 2.42L18.13 3.32L15.34 1.85L13.32 2.75L10.53 1.17L8.51 2.07L5.72 0.34L3.70 1.24Z" fill="url(#vendemiaire22-leaf)" stroke="#687453" stroke-width="1.05"/>
+<path d="M1 0Q50.5 -9.0 99 0" stroke="#5f704d" stroke-width=".8"/>
+<path d="M17.2 -2.5Q22.2 -5.4 26.3 -10.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M17.2 -2.5Q22.2 0.4 26.3 2.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M29.3 -4.0Q34.3 -7.5 38.4 -12.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M29.3 -4.0Q34.3 -0.4 38.4 3.7" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M41.4 -4.8Q46.4 -8.6 50.5 -13.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M41.4 -4.8Q46.4 -1.0 50.5 3.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M54.5 -5.0Q59.5 -8.5 63.6 -12.8" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M54.5 -5.0Q59.5 -1.4 63.6 3.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M66.7 -4.4Q71.7 -7.2 75.8 -9.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M66.7 -4.4Q71.7 -1.6 75.8 2.8" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M78.8 -3.2Q83.8 -4.9 87.9 -5.4" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M78.8 -3.2Q83.8 -1.5 87.9 1.5" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M88.9 -1.8Q93.9 -2.4 98.0 -0.7" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M88.9 -1.8Q93.9 -1.3 98.0 -0.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M3 1Q48.5 -7.5 95 .5" stroke="#d2d0ab" stroke-width=".45" opacity=".7"/>
+</g>
+<g transform="translate(193 108) rotate(29)">
+<path d="M0.00 0.00L3.26 -1.34L5.04 -0.44L7.50 -2.30L9.28 -1.40L11.74 -3.12L13.52 -2.22L15.97 -3.84L17.75 -2.94L20.21 -4.45L21.99 -3.55L24.45 -4.96L26.23 -4.06L28.69 -5.37L30.47 -4.47L32.93 -5.68L34.71 -4.78L37.16 -5.88L38.94 -4.98L41.40 -5.99L43.18 -5.09L45.64 -5.99L47.42 -5.09L49.88 -5.88L51.66 -4.98L54.12 -5.68L55.90 -4.78L58.35 -5.37L60.13 -4.47L62.59 -4.96L64.37 -4.06L66.83 -4.45L68.61 -3.55L71.07 -3.84L72.85 -2.94L75.31 -3.12L77.09 -2.22L79.54 -2.30L81.32 -1.40L83.78 -1.34L85.56 -0.44L89.00 0.00L85.56 1.33L83.78 2.23L81.32 3.17L79.54 4.07L77.09 4.83L75.31 5.73L72.85 6.32L71.07 7.22L68.61 7.63L66.83 8.53L64.37 8.75L62.59 9.65L60.13 9.66L58.35 10.56L55.90 10.36L54.12 11.26L51.66 10.83L49.88 11.73L47.42 11.07L45.64 11.97L43.18 11.07L41.40 11.97L38.94 10.83L37.16 11.73L34.71 10.36L32.93 11.26L30.47 9.66L28.69 10.56L26.23 8.75L24.45 9.65L21.99 7.63L20.21 8.53L17.75 6.32L15.97 7.22L13.52 4.83L11.74 5.73L9.28 3.17L7.50 4.07L5.04 1.33L3.26 2.23Z" fill="url(#vendemiaire22-leaf)" stroke="#687453" stroke-width="1.05"/>
+<path d="M1 0Q44.5 5.4 87 0" stroke="#5f704d" stroke-width=".8"/>
+<path d="M15.1 1.5Q19.5 -1.1 23.1 -3.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M15.1 1.5Q19.5 4.1 23.1 8.0" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M25.8 2.4Q30.2 -0.8 33.8 -4.6" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M25.8 2.4Q30.2 5.6 33.8 10.1" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M36.5 2.9Q40.9 -0.5 44.5 -4.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M36.5 2.9Q40.9 6.3 44.5 10.9" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M48.1 3.0Q52.5 -0.2 56.1 -4.5" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M48.1 3.0Q52.5 6.2 56.1 10.0" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M58.7 2.6Q63.1 0.1 66.8 -3.5" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M58.7 2.6Q63.1 5.2 66.8 7.7" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M69.4 1.9Q73.8 0.4 77.4 -1.8" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M69.4 1.9Q73.8 3.5 77.4 4.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M78.3 1.1Q82.7 0.6 86.3 0.2" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M78.3 1.1Q82.7 1.6 86.3 0.4" stroke="#66754f" stroke-width=".48" opacity=".76"/>
+<path d="M3 1Q42.7 6.1 83 .5" stroke="#d2d0ab" stroke-width=".45" opacity=".7"/>
+</g>
+<!-- Broad peach shoulders and the slightly pointed blossom end. -->
+<path d="M143 164C129 153 110 153 93 160C68 170 53 190 51 215C48 240 61 265 81 278C97 289 111 289 127 293C143 289 163 287 180 272C202 253 210 225 203 202C198 181 180 164 163 162C154 160 150 164 147 167C146 165 145 164 143 164Z" fill="url(#vendemiaire22-peach)" stroke="#9a7b61" stroke-width="1.45"/>
+<path d="M143 164C129 153 110 153 93 160C68 170 53 190 51 215C48 240 61 265 81 278C97 289 111 289 127 293C143 289 163 287 180 272C202 253 210 225 203 202C198 181 180 164 163 162C154 160 150 164 147 167C146 165 145 164 143 164Z" fill="url(#vendemiaire22-blush)"/>
+<path d="M136 165C141 161 148 162 152 166C150 172 142 174 137 170" fill="#b9a174" stroke="#967c59" stroke-width=".7"/>
+<path d="M145 166C135 181 143 196 149 212C155 237 143 267 128 290" stroke="#bd956b" stroke-width="4.5" opacity=".4"/>
+<path d="M144 168C137 183 144 197 150 214C156 236 144 269 129 289" stroke="#986d59" stroke-width="1.05" opacity=".72"/>
+<path d="M147 176C144 188 150 198 154 209M155 228C155 249 143 274 134 284" stroke="#ead49e" stroke-width="1.3" opacity=".75"/>
+<path d="M72 188C82 173 103 164 118 166M61 218C59 236 69 254 80 263M86 274C98 281 110 281 121 286M164 279C177 272 191 256 195 245M193 197C197 209 198 222 195 233" stroke="#a88467" stroke-width=".65" opacity=".53"/>
+<path d="M158 175C173 175 185 185 191 197M96 173C105 169 116 169 123 171" stroke="#eed7a0" stroke-width="1.1" opacity=".68"/>
+<g stroke="#9b705d" stroke-width=".5" opacity=".46">
+<path d="M58 206Q54 218 57 228"/>
+<path d="M61 229Q60 242 66 251"/>
+<path d="M65 246Q69 260 78 266"/>
+<path d="M75 259Q83 271 91 275"/>
+<path d="M88 272Q99 279 107 280"/>
+<path d="M99 279Q109 283 118 284"/>
+<path d="M59 199Q64 187 73 181"/>
+<path d="M65 195Q69 186 77 182"/>
+<path d="M74 176Q84 168 93 166"/>
+<path d="M176 272Q186 262 190 251"/>
+<path d="M184 269Q193 259 197 248"/>
+<path d="M198 236Q202 223 201 215"/>
+<path d="M196 198Q193 186 185 180"/>
+<path d="M183 175Q174 168 167 167"/>
+<path d="M91 201Q87 208 88 214"/>
+<path d="M83 220Q82 226 84 232"/>
+<path d="M102 250Q109 257 116 258"/>
+<path d="M176 228Q180 221 179 214"/>
+</g>
+<g clip-path="url(#vendemiaire22-fruit-clip)" stroke="#f2dfbd" stroke-width=".55" opacity=".72">
+<path d="M61 211l-1 -2"/>
+<path d="M64 222l-1 -2"/>
+<path d="M68 200l-1 -2"/>
+<path d="M76 190l-1 -2"/>
+<path d="M86 180l-1 -1.6"/>
+<path d="M99 173l-0.4 -1.7"/>
+<path d="M117 179l-0.4 -1.7"/>
+<path d="M74 239l-1 -2"/>
+<path d="M83 252l-1.2 -1.5"/>
+<path d="M96 264l-1 -1.5"/>
+<path d="M108 271l-0.5 -1.5"/>
+<path d="M124 280l0.3 -1.8"/>
+<path d="M137 253l0.7 -1.8"/>
+<path d="M132 232l0.5 -1.8"/>
+<path d="M120 214l-0.3 -1.9"/>
+<path d="M101 202l-0.5 -1.8"/>
+<path d="M96 228l-0.5 -1.9"/>
+<path d="M111 242l-0.3 -1.8"/>
+<path d="M163 189l0.5 -1.6"/>
+<path d="M177 201l0.8 -1.7"/>
+<path d="M185 222l1 -1.5"/>
+<path d="M174 245l0.9 -1.5"/>
+<path d="M162 264l0.6 -1.5"/>
+<path d="M156 222l0.5 -1.5"/>
+<path d="M149 274l0.6 -1.7"/>
+</g>
+<!-- The cut half: thin skin encloses firm yellow flesh and a blushed stone cavity. -->
+<path d="M247 190C235 179 217 181 204 193C187 208 182 230 187 252C194 280 215 305 239 314C253 319 271 311 286 297C307 279 317 255 312 232C308 211 295 194 279 187C266 180 255 182 250 191Z" fill="#c08f73" stroke="#9b7960" stroke-width="1.4"/>
+<path d="M246 195C234 185 220 187 208 198C192 213 188 232 193 252C200 277 219 300 240 308C253 313 268 306 282 293C301 276 311 254 306 233C302 214 290 200 276 193C264 187 255 188 250 197Z" fill="url(#vendemiaire22-flesh)" stroke="#dbc18b" stroke-width=".85"/>
+<path d="M211 201C221 193 234 192 242 199M198 225C194 244 205 267 216 279M220 291C231 303 243 307 254 304M278 289C294 274 302 257 300 242M282 202C294 212 301 223 302 232" stroke="#ac9566" stroke-width=".65" opacity=".48"/>
+<path d="M244 208C260 202 278 220 279 244C280 267 270 285 254 293C237 292 222 277 218 257C213 236 226 215 244 208Z" fill="url(#vendemiaire22-cavity)"/>
+<g stroke="#bc8767" stroke-width=".55" opacity=".58"><path d="M236 211L229 204M229 219L217 211M221 231L206 225M219 244L203 241M221 259L205 262M228 275L219 287M242 288L238 302M257 290L260 302M268 279L279 287M277 265L294 267M279 250L301 248M277 234L295 229M270 219L278 208M257 210L260 198"/></g>
+<!-- An elongated, sharply beaked stone with branching, deeply cut sutures. -->
+<path d="M244 212C236 216 231 224 228 232C225 242 226 251 229 261C232 273 240 283 252 289C260 284 267 274 270 263C274 252 272 239 267 229C261 220 252 216 244 212Z" fill="url(#vendemiaire22-stone)" stroke="#765536" stroke-width="1.2"/>
+<path d="M244 214C242 225 248 236 246 245C245 255 246 267 252 286" stroke="#62472f" stroke-width="1.25"/>
+<path d="M247 217C246 227 252 236 250 246C248 261 251 273 254 282" stroke="#c7a476" stroke-width="1" opacity=".8"/>
+<g stroke="#6c4d33" stroke-width="1.05">
+ <path d="M240 218C235 225 240 232 236 237C231 241 232 248 236 251C242 256 237 262 241 270L245 275"/>
+ <path d="M234 225C230 232 234 235 232 241L229 246M230 253C232 257 230 262 235 269M240 274L247 283"/>
+ <path d="M250 220C257 223 253 232 260 236C266 240 261 249 266 252C271 256 265 264 266 268"/>
+ <path d="M247 233C242 232 242 237 239 240C235 246 243 248 244 253M247 258C242 260 245 264 247 267M251 275C255 270 257 272 259 266C262 260 255 256 258 251C261 246 254 242 255 237"/>
+ <path d="M254 221L258 225L257 229M264 232L267 239M270 246L268 250M263 273L258 280M237 254L234 258M236 265L238 269"/>
+</g>
+<g stroke="#c4a071" stroke-width=".65" opacity=".9">
+ <path d="M238 222C235 230 241 230 238 235M234 241C232 245 234 248 238 251M240 257L240 264L244 270M248 224L250 231M253 223C258 227 255 231 261 234M261 240C265 244 261 249 267 253M263 257C268 261 263 266 264 269M249 249C253 247 251 241 253 239M248 267L250 273M256 276L260 270"/>
+</g>
+<g stroke="#694d35" stroke-width=".5" opacity=".7"><path d="M241 228L239 231M237 244L239 247M242 253L241 256M245 270L246 273M254 261L253 264M259 241L260 244M263 230L264 233M232 249L233 251M258 281L255 284M248 218L250 220"/></g>
+<path d="M236 280C240 287 247 292 253 293M271 241C275 255 269 276 258 287" stroke="#925e48" stroke-width=".75" opacity=".6"/>
+<path d="M190 243C191 257 196 270 204 280M237 313C247 317 261 312 270 307M291 295L300 285M311 251L312 243" stroke="#b37e6b" stroke-width=".7" opacity=".65"/>
+</svg>
