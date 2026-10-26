@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fm06-title fm06-desc">
+  <title id="fm06-title">Mâche — Valerianella locusta</title>
+  <desc id="fm06-desc">An open basal rosette of corn salad, its smooth spoon-shaped leaves widening to rounded tips, with delicate arched veins and a small fibrous root. A slender opposite-leaved flowering stem forks into little clusters of pale blue-white five-lobed flowers.</desc>
+  <defs>
+    <linearGradient id="fm06-leaf" x1=".1" y1=".1" x2=".9" y2="1"><stop stop-color="#b6beb0" stop-opacity=".58"/><stop offset=".48" stop-color="#9cab96" stop-opacity=".68"/><stop offset="1" stop-color="#7e947b" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="fm06-light" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#c7ccba" stop-opacity=".64"/><stop offset=".5" stop-color="#aab99e" stop-opacity=".7"/><stop offset="1" stop-color="#83967b" stop-opacity=".79"/></linearGradient>
+    <linearGradient id="fm06-front" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#8f9e84" stop-opacity=".76"/><stop offset=".6" stop-color="#a7b79e" stop-opacity=".73"/><stop offset="1" stop-color="#c5c9ae" stop-opacity=".64"/></linearGradient>
+    <linearGradient id="fm06-fold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d6d6b9" stop-opacity=".04"/><stop offset=".5" stop-color="#dfdec4" stop-opacity=".56"/><stop offset="1" stop-color="#8c9a7d" stop-opacity=".02"/></linearGradient>
+    <linearGradient id="fm06-root" x1="172" y1="254" x2="186" y2="307" gradientUnits="userSpaceOnUse"><stop stop-color="#a7a080"/><stop offset=".46" stop-color="#b5a487"/><stop offset="1" stop-color="#c7b89d" stop-opacity=".65"/></linearGradient>
+    <linearGradient id="fm06-flower" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#f1eee0"/><stop offset=".6" stop-color="#dee3df"/><stop offset="1" stop-color="#c5d3d4"/></linearGradient>
+    <g id="fm06-blossom" fill="url(#fm06-flower)" stroke="#8e9c96" stroke-width=".45">
+      <path d="M-.9-.8C-2.8-1.1-3.7-2.4-2.5-3.4C-1.4-4.1-.3-3.4.2-2.1C.3-4 1.7-4.4 2.5-3.2C3.2-2.2 2.1-1.2 1.3-.8C3.4-1.2 4.3 0 3.2 1C2.4 1.8 1.1 1.3.5.7C1.1 2.5.3 3.7-.8 3.1C-1.8 2.5-1.7 1.2-1.3.4C-2.7 1.5-4 .9-3.7-.2C-3.3-1.4-1.8-1.4-.9-.8Z"/>
+      <path d="M-.2-.5L-1.6-2.4M-.2-.5L1.7-2.3M-.2-.5L2.4.5M-.2-.5L-.5 2.2M-.2-.5L-2.7-.1" stroke="#b0bcbc" stroke-width=".28"/>
+      <circle cx="-.2" cy="-.5" r=".6" fill="#a9b1a0" stroke="#7c8c7a" stroke-width=".28"/>
+    </g>
+  </defs>
+  <!-- A slender, angular flowering axis rises from the back of the rosette. -->
+  <g stroke="#6e7e65" stroke-width="1.1">
+    <path d="M179 255C194 227 202 207 211 184C222 156 229 132 239 110C245 96 253 80 258 64L260 64C255 82 248 97 242 112C232 137 225 161 214 186C205 209 196 233 182 256Z" fill="#a7b395" fill-opacity=".85"/>
+    <path d="M239 113C233 98 226 84 224 69L226 68C229 83 236 97 241 109" fill="#aab59b"/>
+    <path d="M252 85C264 84 278 78 288 68L289 69C279 80 265 86 251 88" fill="#aab59b"/>
+    <path d="M224 69L218 52M225 69L234 51M219 56L207 48M220 56L226 44M232 55L240 43M258 65L253 49M258 65L268 48M256 56L246 44M261 57L262 41M266 52L277 43M287 70L284 56M287 69L299 56M285 62L276 53M291 65L297 48M294 60L307 57" stroke-width=".8"/>
+  </g>
+  <path d="M184 249C198 222 205 201 213 184C224 155 232 132 240 112M242 107C236 96 230 82 226 71" stroke="#d6d6b7" stroke-width=".6" opacity=".9"/>
+  <!-- Opposite stem leaves are smaller and narrower than the basal blades. -->
+  <g fill="url(#fm06-light)" stroke="#6b7c63" stroke-width="1">
+    <path d="M211 189C204 184 196 176 193 164C191 155 192 146 195 143C200 147 200 156 203 167C205 177 209 184 213 187Z"/>
+    <path d="M212 189C222 180 235 176 244 166C249 160 252 154 251 151C243 151 236 157 229 165C221 174 218 182 212 186Z"/>
+    <path d="M229 140C221 135 217 127 215 119C214 113 216 107 218 105C222 109 221 117 224 124C226 131 228 136 230 138Z"/>
+    <path d="M229 141C237 134 246 133 253 126C258 120 260 115 259 112C253 112 248 117 242 124C236 131 233 136 230 138Z"/>
+    <path d="M241 111C235 109 229 104 226 99C223 94 223 90 224 88C228 89 231 94 234 100C237 105 239 108 242 109Z" stroke-width=".8"/>
+    <path d="M242 111C249 107 255 104 260 98C264 93 266 88 264 86C259 88 255 93 251 99C247 105 244 108 242 109Z" stroke-width=".8"/>
+  </g>
+  <g stroke="#74836a" stroke-width=".55" opacity=".8"><path d="M212 187C204 173 199 159 195 146M212 187C223 173 236 160 249 154M229 138C222 126 220 114 218 108M230 139C240 127 248 118 257 114M241 110L225 91M243 109L263 89M202 166L197 163M232 166L240 164M224 126L219 124M244 126L251 124"/></g>
+  <!-- Entire, softly rounded blades spread from a small crown rather than forming a head. -->
+  <g stroke="#657760" stroke-width="1.2">
+    <path d="M176 255C164 234 150 218 138 199C125 179 110 167 97 150C89 139 87 128 92 123C98 118 109 123 117 134C130 151 134 168 145 190C157 216 169 234 179 254Z" fill="url(#fm06-leaf)"/>
+    <path d="M178 253C173 230 165 209 158 185C151 163 138 143 136 122C135 111 138 103 145 103C154 103 160 114 164 127C170 150 166 169 170 192C173 216 180 235 181 252Z" fill="url(#fm06-light)"/>
+    <path d="M180 251C183 225 184 206 188 184C191 167 190 148 196 133C200 121 207 114 213 117C221 122 218 136 213 149C205 170 200 185 195 205C189 225 185 241 183 253Z" fill="url(#fm06-leaf)"/>
+    <path d="M183 252C199 231 214 214 230 198C246 183 254 163 269 152C278 145 288 144 292 151C297 160 288 171 279 180C263 195 247 201 229 216C211 230 198 244 185 255Z" fill="url(#fm06-light)"/>
+    <path d="M173 257C151 248 132 243 112 237C92 231 70 229 54 217C45 210 42 202 47 197C54 190 66 194 78 198C100 207 111 220 131 232C148 242 163 249 175 254Z" fill="url(#fm06-light)"/>
+    <path d="M184 256C207 246 222 239 245 234C263 231 282 216 298 213C309 211 316 214 315 221C314 231 298 237 284 241C264 247 244 246 224 250C207 252 197 258 185 259Z" fill="url(#fm06-leaf)"/>
+  </g>
+  <!-- Pale, narrow folds follow the curvature of each pliant leaf. -->
+  <g fill="url(#fm06-fold)" opacity=".8">
+    <path d="M177 251C159 219 143 199 129 174C118 152 106 130 97 125C108 134 117 153 127 175C142 204 161 228 177 251Z"/>
+    <path d="M179 249C165 215 166 192 160 163C155 141 148 121 144 106C153 125 157 145 162 164C168 193 169 221 179 249Z"/>
+    <path d="M183 249C190 224 191 201 198 178C205 154 213 130 211 121C208 146 198 165 193 187C189 210 189 228 183 249Z"/>
+    <path d="M187 251C220 221 247 197 266 178C280 165 287 153 288 150C280 160 271 172 259 182C236 204 210 224 187 251Z"/>
+    <path d="M174 255C148 243 127 237 109 226C85 211 59 203 48 202C70 207 86 218 107 229C129 239 154 249 174 255Z"/>
+    <path d="M186 257C218 245 243 243 266 238C286 235 303 226 312 218C295 229 279 233 263 236C239 241 213 244 186 257Z"/>
+  </g>
+  <g stroke="#74856c" stroke-width=".65" opacity=".83">
+    <path d="M177 253C160 223 141 199 129 174C116 151 107 132 96 125M159 222C149 215 138 211 130 207M149 207C148 197 147 189 143 182M138 191C129 186 120 183 114 178M128 172C129 160 125 150 120 142M118 153C109 150 102 145 98 140M167 236C162 234 156 233 151 231"/>
+    <path d="M179 251C168 218 168 191 161 164C155 141 150 121 144 107M169 219C162 211 157 206 153 198M166 199C169 190 169 180 168 173M160 168C151 160 145 153 142 146M156 149C160 139 158 128 155 120M151 129C145 124 141 119 140 114"/>
+    <path d="M182 251C189 229 190 205 196 184C201 164 211 139 212 121M190 216C197 207 204 201 208 195M193 197C190 188 189 178 191 172M198 177C205 170 211 162 213 154M204 157C202 148 203 139 205 132M209 139L216 130"/>
+    <path d="M186 253C207 233 229 213 250 193C267 178 280 164 288 150M214 227C220 216 223 207 229 200M234 208C247 205 258 199 266 193M251 191C254 180 260 167 267 159M269 174C278 172 284 166 288 162M197 243L208 239"/>
+    <path d="M174 256C151 246 127 239 107 228C85 215 64 204 49 201M148 245C137 246 125 244 117 242M129 239C124 232 119 224 112 219M110 230C97 231 84 227 76 222M94 220C91 212 84 206 78 203M75 211C64 213 57 211 52 208"/>
+    <path d="M187 257C214 247 240 243 264 237C287 233 302 227 312 219M216 247C225 248 233 250 240 249M238 243C246 236 253 232 260 229M259 239C269 241 278 238 284 236M280 233C286 225 293 220 300 216M298 225L309 223"/>
+  </g>
+  <!-- The lower leaves turn outwards; a few small inner leaves keep the crown visible. -->
+  <g stroke="#68795f" stroke-width="1.2">
+    <path d="M177 258C159 260 144 263 128 267C111 271 93 267 78 274C68 279 65 287 72 292C81 298 94 293 107 288C128 280 141 270 158 266C166 264 172 263 179 261Z" fill="url(#fm06-front)"/>
+    <path d="M183 260C202 264 214 269 230 279C244 288 261 290 269 285C276 280 271 272 262 267C246 257 229 259 213 258C201 257 193 258 183 257Z" fill="url(#fm06-front)"/>
+    <path d="M177 259C161 248 146 243 132 245C123 245 121 251 127 256C137 263 153 260 165 261L177 263Z" fill="url(#fm06-light)"/>
+    <path d="M180 258C178 242 170 229 170 216C170 208 173 204 177 205C184 208 183 219 182 229C181 240 184 250 182 258Z" fill="url(#fm06-front)"/>
+    <path d="M183 260C188 248 200 240 210 233C220 225 227 225 230 229C233 235 224 241 216 245C203 251 192 253 185 262Z" fill="url(#fm06-light)"/>
+  </g>
+  <g stroke="#728469" stroke-width=".65" opacity=".86">
+    <path d="M177 261C151 264 127 275 107 282C91 288 79 289 72 287M145 269C135 268 125 269 119 271M125 276C121 282 115 286 107 288M106 282C96 280 87 281 81 284M92 286L87 293"/>
+    <path d="M184 260C210 261 231 267 248 276C259 282 265 283 270 280M211 264C222 264 231 263 239 265M230 270C234 277 241 282 248 284M249 276L261 275M260 281L263 285"/>
+    <path d="M176 261C157 254 140 250 126 250M151 254L144 258M141 252L135 247M180 256C178 241 178 224 175 208M178 235L173 227M179 226L181 216M184 260C196 246 216 233 228 230M201 246L209 246M213 238L215 232"/>
+  </g>
+  <!-- A little crown, followed by a short pale root and unequal fine rootlets. -->
+  <path d="M175 256C178 253 184 255 186 258C185 265 181 271 182 279C184 289 186 295 184 305C181 295 178 289 178 281C177 273 178 268 175 263Z" fill="url(#fm06-root)" stroke="#8b856b" stroke-width=".95"/>
+  <g stroke="#9c8d73" stroke-width=".75">
+    <path d="M180 276C174 284 172 292 168 301C164 308 160 313 156 315M179 283C172 286 165 286 162 291C157 296 158 303 153 308M182 289C188 295 193 299 194 306C195 313 198 319 202 323M184 299C180 308 181 318 177 328M182 305C187 311 186 320 189 325M174 289C169 292 167 294 164 299M166 306L165 315M158 300L152 302M192 301C197 304 200 307 201 312M195 313L192 320M180 315L174 320"/>
+    <path d="M178 264C173 270 169 272 164 274M185 264C188 269 191 271 197 274" stroke-width=".6"/>
+  </g>
+  <g stroke="#d9c8a7" stroke-width=".5" opacity=".85"><path d="M180 264C181 272 179 281 181 289C184 297 184 300 183 303M173 289L169 298M187 296L192 305"/></g>
+  <!-- Sparse curved engraving strokes describe the folds without roughening the margins. -->
+  <g stroke="#71836b" stroke-width=".48" opacity=".5">
+    <path d="M100 129Q107 134 111 140M104 128Q111 135 114 143M116 168Q119 174 124 179M120 170Q123 177 128 181M141 113Q144 122 146 128M145 114Q148 122 150 129M150 159Q153 165 156 170M206 124Q204 131 203 136M209 126Q208 133 207 138M196 180Q193 187 193 193M278 153Q274 159 272 164M282 154Q278 162 274 167M249 192Q242 197 238 203M53 198Q60 198 66 202M53 202Q60 202 66 206M99 226Q106 231 112 233M306 217Q301 222 295 224M307 221Q302 225 296 227M79 278Q86 276 92 277M77 282Q85 279 92 281M251 270Q258 272 262 276M248 273Q255 275 260 279M173 214L175 221M222 230L216 234"/>
+  </g>
+  <g>
+    <use href="#fm06-blossom" transform="translate(207 48) rotate(-19) scale(0.86)"/>
+    <use href="#fm06-blossom" transform="translate(214 50) rotate(12) scale(0.95)"/>
+    <use href="#fm06-blossom" transform="translate(218 43) rotate(7) scale(0.82)"/>
+    <use href="#fm06-blossom" transform="translate(226 44) rotate(-20) scale(0.9)"/>
+    <use href="#fm06-blossom" transform="translate(233 49) rotate(22) scale(0.87)"/>
+    <use href="#fm06-blossom" transform="translate(240 43) rotate(-7) scale(0.82)"/>
+    <use href="#fm06-blossom" transform="translate(220 53) rotate(18) scale(0.84)"/>
+    <use href="#fm06-blossom" transform="translate(230 53) rotate(-14) scale(0.85)"/>
+    <use href="#fm06-blossom" transform="translate(246 44) rotate(9) scale(0.84)"/>
+    <use href="#fm06-blossom" transform="translate(253 48) rotate(-15) scale(0.93)"/>
+    <use href="#fm06-blossom" transform="translate(261 41) rotate(10) scale(0.9)"/>
+    <use href="#fm06-blossom" transform="translate(268 48) rotate(27) scale(0.98)"/>
+    <use href="#fm06-blossom" transform="translate(276 43) rotate(-20) scale(0.86)"/>
+    <use href="#fm06-blossom" transform="translate(262 52) rotate(-7) scale(0.86)"/>
+    <use href="#fm06-blossom" transform="translate(269 53) rotate(13) scale(0.83)"/>
+    <use href="#fm06-blossom" transform="translate(276 53) rotate(12) scale(0.86)"/>
+    <use href="#fm06-blossom" transform="translate(284 56) rotate(-12) scale(0.95)"/>
+    <use href="#fm06-blossom" transform="translate(297 48) rotate(26) scale(0.83)"/>
+    <use href="#fm06-blossom" transform="translate(300 56) rotate(-6) scale(0.96)"/>
+    <use href="#fm06-blossom" transform="translate(307 57) rotate(13) scale(0.85)"/>
+    <use href="#fm06-blossom" transform="translate(291 58) rotate(20) scale(0.81)"/>
+    <use href="#fm06-blossom" transform="translate(297 61) rotate(-13) scale(0.9)"/>
+  </g>
+  <g fill="#b8c1a9" stroke="#829179" stroke-width=".5">
+    <path d="M211 43C209 41 209 38 211 37C213 39 214 41 211 43Z"/><path d="M237 39C236 37 237 35 239 35C241 37 240 39 237 39Z"/>
+    <path d="M255 41C252 40 252 37 254 36C256 37 257 39 255 41Z"/><path d="M272 39C271 37 272 35 274 35C276 37 274 39 272 39Z"/>
+    <path d="M304 50C303 48 304 46 306 46C308 48 306 50 304 50Z"/>
+  </g>
+</svg>

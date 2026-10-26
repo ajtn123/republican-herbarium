@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire18-title frimaire18-desc">
+  <title id="frimaire18-title">Lierre — Hedera helix</title>
+  <desc id="frimaire18-desc">A woody climbing ivy sprig bears small brown clinging rootlets and alternate angular five-lobed juvenile leaves, each with pale palmate veins. Above them an adult flowering shoot has simple entire oval leaves and a spreading umbel of dark ripe berries.</desc>
+  <defs>
+    <linearGradient id="frimaire18-leaf" x1="-.5" y1="0" x2=".8" y2="1"><stop stop-color="#b2b69b" stop-opacity=".62"/><stop offset=".52" stop-color="#8c9a79" stop-opacity=".73"/><stop offset="1" stop-color="#65765a" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="frimaire18-leaf-shadow" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#9ba98a" stop-opacity=".67"/><stop offset="1" stop-color="#687a5b" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="frimaire18-wood" x1="156" y1="230" x2="172" y2="232" gradientUnits="userSpaceOnUse"><stop stop-color="#9e8d6e"/><stop offset=".45" stop-color="#b4a180"/><stop offset="1" stop-color="#79674e"/></linearGradient>
+    <radialGradient id="frimaire18-berry" cx=".33" cy=".26" r=".77"><stop stop-color="#7b7b69"/><stop offset=".36" stop-color="#575b50"/><stop offset="1" stop-color="#353e37"/></radialGradient>
+  </defs>
+  <!-- The climbing axis is woody, with short adventitious rootlets, never tendrils. -->
+  <path d="M153 329C155 310 169 286 169 267C170 243 157 220 157 200C157 181 171 158 178 140C185 122 187 109 195 95L199 97C190 112 189 124 183 142C176 163 163 182 163 201C162 220 175 243 175 266C174 287 161 310 159 330Z" fill="url(#frimaire18-wood)" stroke="#77654e" stroke-width="1.45"/>
+  <path d="M157 326C159 309 172 285 172 267C174 243 160 222 160 202C160 182 174 157 181 140M184 131C188 116 191 106 196 98" stroke="#d1bfa0" stroke-width=".85" opacity=".85"/>
+  <g stroke="#8b7758" stroke-width=".8">
+    <path d="M158 313C151 313 149 310 149 306M149 309L145 310M164 297C157 296 154 292 153 289M154 293L149 293M169 282C163 282 160 279 159 275M161 278L156 278M171 265C180 265 181 261 182 258M180 263L185 264M168 249C177 249 181 246 182 242M179 247L184 248M164 231C171 230 175 227 175 223M173 227L179 227M158 215C151 213 149 210 149 206M150 210L146 211M159 196C151 195 148 191 148 187M149 191L144 191M166 176C160 176 156 172 156 168M157 172L152 172M174 158C168 157 165 153 166 150M167 154L162 154M183 135C177 135 174 132 174 128"/>
+  </g>
+  <g stroke="#78694f" stroke-width=".55" opacity=".7"><path d="M155 318L157 309M163 300L166 291M170 278L171 272M173 259L171 252M165 234L163 228M159 213L160 205M161 191L164 184M171 168L175 160M180 150L183 142M162 304L160 309M167 289L169 285M165 238L168 245"/></g>
+  <!-- Long reddish petioles alternate on the climbing stem. -->
+  <g stroke="#826e54" stroke-width="1.65">
+    <path d="M169 288C155 285 135 280 121 279"/>
+    <path d="M173 259C191 259 206 257 223 253"/>
+    <path d="M160 194C149 187 136 180 124 178"/>
+    <path d="M180 146C193 148 205 145 218 139"/>
+  </g>
+  <g stroke="#c8b696" stroke-width=".55"><path d="M168 287C154 283 138 280 124 279M175 258C193 258 206 256 220 253M161 193C149 185 137 180 127 178M183 146C197 146 207 143 216 140"/></g>
+  <!-- Each juvenile leaf is one continuous five-lobed blade. -->
+  <g transform="translate(101 250) rotate(-32) scale(.9)">
+    <path d="M0 38C-6 43-14 45-23 42L-43 31C-35 24-30 17-27 10C-33 5-39 0-48-8L-20-14C-15-15-14-20-13-26L0-58L13-29C15-23 15-18 20-16L45-25C43-13 36-2 30 5L43 29L20 26C16 37 10 43 0 38Z" fill="url(#frimaire18-leaf)" stroke="#617153" stroke-width="1.45"/>
+    <path d="M0 37C-2 13-2-23 0-54M0 37C-12 20-29 3-44-7M0 37C8 16 28-7 42-22M0 37L-39 31M0 37C9 32 21 28 39 29" stroke="#d6d7b5" stroke-width="1.15"/>
+    <path d="M-1 13C-10 5-17-4-20-13M-1-8L-9-25M0-22L7-35M0-5L14-20M-15 18L-28 15M-22 10L-28-3M15 12L29 10M23 2L27-12M-15 36L-24 30M17 31L26 34" stroke="#b8c09c" stroke-width=".7"/>
+    <g stroke="#657451" stroke-width=".5" opacity=".58"><path d="M-36 30L-27 30M-32 26L-25 26M-38-7L-31-3M-31-8L-25-3M-6-40L-6-31M-3-46L-3-37M31-17L29-9M35-17L32-11M31 23L35 26M26 23L30 26M9 35L14 33M-12 38L-18 35"/></g>
+  </g>
+  <g transform="translate(240 220) rotate(26) scale(.98)">
+    <path d="M0 38C-9 46-22 45-33 40L-44 33C-37 24-30 18-27 10L-47-13L-23-14C-18-15-16-21-15-27L-2-58C5-46 9-35 12-26C14-20 16-17 21-17L46-28C43-14 36-3 29 5L44 31C33 32 27 29 21 28C16 37 8 43 0 38Z" fill="url(#frimaire18-leaf-shadow)" stroke="#5e6e50" stroke-width="1.4"/>
+    <path d="M0 38C-2 12-3-23-2-54M0 38C-13 18-29 0-43-11M0 38C9 17 26-8 43-25M0 38L-40 33M0 38C13 34 24 31 40 31" stroke="#d4d6b2" stroke-width="1.15"/>
+    <path d="M-1 14C-10 5-17-5-21-14M-2-6L-10-27M-2-24L5-37M-1 0L13-20M-13 20L-27 18M-23 8L-28-7M14 14L30 12M25-1L28-15M-20 36L-25 29M16 34L27 37" stroke="#b3bf97" stroke-width=".7"/>
+    <g stroke="#5c6b4b" stroke-width=".5" opacity=".55"><path d="M-37 31L-29 31M-33 27L-26 27M-36-9L-29-5M-30-10L-24-5M-8-38L-7-30M-5-45L-4-36M32-18L30-11M36-19L33-12M31 26L36 29M25 25L30 29M-15 39L-21 36M12 36L18 34"/></g>
+  </g>
+  <g transform="translate(106 151) rotate(-33) scale(.83)">
+    <path d="M0 38C-7 43-19 44-28 39L-43 31C-35 24-29 17-27 10L-46-12L-22-14C-17-16-16-21-14-27L0-57L12-29C14-22 15-18 20-16L45-25C42-11 36-3 29 5L43 30L21 27C16 37 8 43 0 38Z" fill="url(#frimaire18-leaf)" stroke="#647356" stroke-width="1.5"/>
+    <path d="M0 38C-2 9-2-22 0-53M0 38C-11 18-30-2-43-10M0 38C9 18 28-9 42-22M0 38L-39 31M0 38C13 32 26 30 39 30" stroke="#d9d9b9" stroke-width="1.2"/>
+    <path d="M-1 15C-10 5-17-5-21-14M0-7L-8-26M0-23L7-35M0-3L13-21M-15 17L-28 16M-23 6L-28-6M15 12L29 11M24-1L28-14M-17 35L-23 28M17 32L27 35" stroke="#bcc4a2" stroke-width=".75"/>
+    <g stroke="#667453" stroke-width=".55" opacity=".5"><path d="M-36 30L-28 30M-30 25L-24 25M-37-8L-30-4M-29-10L-24-5M-6-39L-5-30M-3-44L-3-35M32-16L29-9M36-17L33-11M29 24L34 28M23 24L28 28"/></g>
+  </g>
+  <!-- A smaller three-lobed blade marks the change toward the adult shoot. -->
+  <g transform="translate(228 120) rotate(31) scale(.58)">
+    <path d="M0 38C-10 45-24 43-34 34C-39 29-41 23-42 17L-21-2L-14-23L0-56L14-25C17-17 18-10 22-6L45 13C40 30 24 43 13 42C8 42 4 40 0 38Z" fill="url(#frimaire18-leaf)" stroke="#627354" stroke-width="1.7"/>
+    <path d="M0 38L0-51M0 38C-11 23-27 18-39 17M0 38C12 25 27 18 41 14M0 3L-15-18M0-15L8-31M-16 25L-21 9M16 24L23 3M0 15L12 2" stroke="#d7d8b6" stroke-width="1.35"/>
+  </g>
+  <!-- The mature branch has entire oval leaves and a compact fruit umbel. -->
+  <path d="M185 126C192 107 203 89 218 74C228 65 239 60 249 59" stroke="#7c7958" stroke-width="3.05"/>
+  <path d="M186 124C195 104 205 89 219 76C228 68 239 61 248 60" stroke="#c6bfa0" stroke-width=".75"/>
+  <path d="M208 86C202 79 194 75 188 73M218 75C222 83 231 90 238 93" stroke="#7c7958" stroke-width="1.45"/>
+  <path d="M188 73C173 71 162 59 160 43C158 36 158 32 157 29C171 32 186 40 193 52C198 61 195 70 188 73Z" fill="url(#frimaire18-leaf)" stroke="#657454" stroke-width="1.2"/>
+  <path d="M188 72C181 57 168 41 159 31M181 60L167 54M176 51L175 41M188 63L188 53M169 43L163 41" stroke="#cdd0ac" stroke-width=".85"/>
+  <path d="M238 93C247 78 267 76 291 82C284 88 279 100 264 106C251 111 241 105 238 93Z" fill="url(#frimaire18-leaf-shadow)" stroke="#617051" stroke-width="1.2"/>
+  <path d="M239 94C256 90 273 84 288 83M249 92L254 83M261 88L270 81M251 91L260 102M265 87L275 94" stroke="#c8cda9" stroke-width=".85"/>
+  <g stroke="#647052" stroke-width=".48" opacity=".56"><path d="M164 36L168 42M167 35L171 41M183 45L187 51M191 56L192 62M245 99L251 103M249 100L255 104M276 84L281 83M272 87L277 85"/></g>
+  <g stroke="#7c7958" stroke-width="1">
+    <path d="M248 59L230 49M248 59L237 36M248 59L252 31M248 59L267 37M248 59L278 51M248 59L274 66M248 59L256 75M248 59L237 70"/>
+  </g>
+  <g fill="url(#frimaire18-berry)" stroke="#454c3d" stroke-width="1">
+    <circle cx="230" cy="48" r="6.4"/><circle cx="237" cy="36" r="6.8"/><circle cx="252" cy="31" r="6.8"/><circle cx="267" cy="37" r="6.4"/><circle cx="278" cy="51" r="6.8"/><circle cx="274" cy="66" r="6.6"/><circle cx="256" cy="75" r="6.7"/><circle cx="237" cy="70" r="6.4"/><circle cx="250" cy="53" r="6.7"/>
+  </g>
+  <g stroke="#b4b29a" stroke-width=".65" opacity=".65"><path d="M226 46C226 43 229 43 230 43M233 33C234 31 237 31 238 31M248 28C249 26 252 26 253 26M263 34C264 32 267 32 268 32M274 49C274 46 277 46 278 46M270 64C270 62 273 61 274 61M252 73C252 70 255 70 256 70M233 68C233 65 236 65 237 65M246 51C246 48 249 48 250 48"/></g>
+  <g fill="#978e6c" stroke="#565d46" stroke-width=".45"><path d="M229 48L230 46L231 48L233 49L230 50L228 50Z"/><path d="M236 36L238 34L239 36L240 38L237 38L235 38Z"/><path d="M251 31L253 29L254 31L255 33L252 33L250 33Z"/><path d="M266 37L267 35L269 37L270 39L267 39L265 38Z"/><path d="M277 51L279 49L280 51L281 53L278 53L276 52Z"/><path d="M273 66L275 64L276 66L277 68L274 68L272 67Z"/><path d="M255 75L257 73L258 75L259 77L256 77L254 76Z"/><path d="M236 70L238 68L239 70L240 72L237 72L235 71Z"/><path d="M249 53L251 51L252 53L253 55L250 55L248 54Z"/></g>
+</svg>

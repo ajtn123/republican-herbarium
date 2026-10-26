@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire-14-title frimaire-14-desc">
+<title id="frimaire-14-title">Sapin — Abies alba</title>
+<desc id="frimaire-14-desc">A silver fir bough with short flat needles in two spreading ranks, rounded and delicately notched at the tips. A turned side spray reveals two chalky stomatal bands on each needle. One long cylindrical cone stands erect above the branch, its broad umber scales overlapping in curved rows.</desc>
+<defs>
+ <linearGradient id="frimaire-14-bark" x1="125" y1="298" x2="215" y2="197" gradientUnits="userSpaceOnUse"><stop stop-color="#a28c6b" stop-opacity=".88"/><stop offset=".48" stop-color="#8e785d" stop-opacity=".9"/><stop offset="1" stop-color="#746a50" stop-opacity=".85"/></linearGradient>
+ <linearGradient id="frimaire-14-needle" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a0ad96" stop-opacity=".82"/><stop offset=".47" stop-color="#879981" stop-opacity=".88"/><stop offset="1" stop-color="#6b816c" stop-opacity=".91"/></linearGradient>
+ <linearGradient id="frimaire-14-under" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a9b6a2" stop-opacity=".83"/><stop offset="1" stop-color="#80957f" stop-opacity=".9"/></linearGradient>
+ <linearGradient id="frimaire-14-cone" x1="211" y1="98" x2="259" y2="113" gradientUnits="userSpaceOnUse"><stop stop-color="#b2a184" stop-opacity=".86"/><stop offset=".36" stop-color="#9a8b72" stop-opacity=".9"/><stop offset=".73" stop-color="#83725e" stop-opacity=".93"/><stop offset="1" stop-color="#73634f" stop-opacity=".9"/></linearGradient>
+ <linearGradient id="frimaire-14-scale" x1="0" y1="0" x2="0.6" y2="1"><stop stop-color="#b1a083" stop-opacity=".65"/><stop offset=".62" stop-color="#9b896c" stop-opacity=".8"/><stop offset="1" stop-color="#78674f" stop-opacity=".81"/></linearGradient>
+ <clipPath id="frimaire-14-cone-clip"><path d="M232 47C222 47 216 55 214 68C211 87 211 115 214 139C215 150 218 163 225 170C230 174 241 174 247 168C254 160 256 143 257 127C259 105 258 82 253 65C250 53 243 46 232 47Z"/></clipPath>
+ <g id="frimaire-14-upper-needle"><path d="M0-.28C6-1.55 22-1.95 28.6-1.5Q30.35-1.1 30-.36L29.35 .05L30 .36Q30.25 1.3 28.5 1.55C19.5 1.7 5.1 1.25 0 .27Q-.7 0 0-.28Z" fill="url(#frimaire-14-needle)" stroke="#60725e" stroke-width=".56"/><path d="M1.3 0Q14-.13 28 0" stroke="#566e58" stroke-width=".4" opacity=".62"/><path d="M-.8-.8Q.1-1.25 1 .1" stroke="#657357" stroke-width=".6"/></g>
+ <g id="frimaire-14-lower-needle"><path d="M0-.28C6-1.55 22-1.95 28.6-1.5Q30.35-1.1 30-.36L29.35 .05L30 .36Q30.25 1.3 28.5 1.55C19.5 1.7 5.1 1.25 0 .27Q-.7 0 0-.28Z" fill="url(#frimaire-14-under)" stroke="#60725e" stroke-width=".56"/><path d="M3-.78Q14.4-.85 27.6-.68M3 .78Q14.4 .85 27.6 .68" stroke="#e0e3ce" stroke-width=".72" opacity=".9"/><path d="M1.3 0Q14-.13 28 0" stroke="#566e58" stroke-width=".35" opacity=".7"/><path d="M-.8-.8Q.1-1.25 1 .1" stroke="#657357" stroke-width=".6"/></g>
+ <g id="frimaire-14-cone-scale"><path d="M-7.5 1Q-1-1.6 7.5 1C8 5.2 5.3 12.1 0 14.8C-5.5 12.9-8.1 6.1-7.5 1Z" fill="url(#frimaire-14-scale)" stroke="#75634e" stroke-width=".65"/><path d="M-5 6.9Q-2.8 11.7 0 12.8M-1.4 3.8Q-2.4 6.4-.8 8.9M3.3 9.5L2.1 11.5" stroke="#c4b292" stroke-width=".48" opacity=".73"/></g>
+</defs>
+<!-- A woody bough cut below the first fork, with slender smooth current-year shoots. -->
+<path d="M103 321C123 304 148 282 169 261C194 237 216 215 242 197C252 190 265 184 275 179L277 182C265 188 254 195 245 202C218 221 199 242 175 267C153 288 130 312 109 326Z" fill="url(#frimaire-14-bark)" stroke="#776a52" stroke-width="1.25"/>
+<path d="M169 264C155 237 143 215 126 190C108 163 92 133 80 101L83 99C97 133 112 161 129 186C147 212 162 238 173 260Z" fill="#92876b" fill-opacity=".88" stroke="#776e52" stroke-width="1.1"/>
+<path d="M185 250C210 250 236 255 260 265C277 273 293 282 306 291L308 288C292 276 276 268 260 261C237 252 212 246 189 246Z" fill="#9a8d70" fill-opacity=".88" stroke="#7d7357" stroke-width="1.1"/>
+<path d="M110 321C135 299 155 280 173 263M181 254C204 229 223 212 244 199M171 258C154 226 140 206 126 187M120 177C103 151 92 127 83 103M190 249C223 250 243 255 261 264M268 268C284 275 296 282 306 290" stroke="#c4b69a" stroke-width=".7" opacity=".83"/>
+<path d="M116 312L120 313M133 296L136 298M148 280L151 283M160 271L164 274M183 249L188 251M201 232L205 235M221 215L225 217M239 201L242 203M256 190L258 193M151 227L154 226M128 192L130 188M104 152L107 151M91 124L94 123M210 249L209 253M231 253L231 257M256 262L255 266M279 274L278 277" stroke="#78674e" stroke-width=".7" opacity=".8"/>
+<path d="M104 321Q105 325 109 326L112 322Q108 319 104 321Z" fill="#c7b397" stroke="#887559" stroke-width=".7"/>
+<!-- The upper and left sprays show their green upper faces, in two irregular ranks. -->
+<use href="#frimaire-14-upper-needle" transform="translate(158.6 240.9) rotate(173.8) scale(1.041 1.094)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(158.4 240.5) rotate(-44.7) scale(0.984 0.971)" opacity="0.88"/>
+<use href="#frimaire-14-upper-needle" transform="translate(154.2 232.0) rotate(169.7) scale(1.096 0.936)" opacity="0.97"/>
+<use href="#frimaire-14-upper-needle" transform="translate(154.5 232.6) rotate(-49.0) scale(0.887 1.057)" opacity="0.90"/>
+<use href="#frimaire-14-upper-needle" transform="translate(150.8 225.1) rotate(168.4) scale(0.931 0.880)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(151.1 225.6) rotate(-49.4) scale(1.100 1.113)" opacity="0.88"/>
+<use href="#frimaire-14-upper-needle" transform="translate(147.0 217.7) rotate(168.2) scale(0.993 1.017)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(147.0 217.6) rotate(-48.6) scale(1.016 0.911)" opacity="0.95"/>
+<use href="#frimaire-14-upper-needle" transform="translate(143.2 210.2) rotate(171.9) scale(0.847 1.052)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(143.9 211.4) rotate(-45.7) scale(0.934 1.029)" opacity="0.99"/>
+<use href="#frimaire-14-upper-needle" transform="translate(139.8 203.4) rotate(173.4) scale(0.961 0.960)" opacity="0.93"/>
+<use href="#frimaire-14-upper-needle" transform="translate(139.8 203.6) rotate(-51.7) scale(0.881 0.939)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(135.5 195.3) rotate(167.9) scale(0.840 1.034)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(135.7 195.5) rotate(-47.9) scale(1.072 0.854)" opacity="0.97"/>
+<use href="#frimaire-14-upper-needle" transform="translate(131.7 188.0) rotate(169.7) scale(0.876 0.936)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(131.9 188.3) rotate(-45.2) scale(0.821 0.878)" opacity="0.90"/>
+<use href="#frimaire-14-upper-needle" transform="translate(128.2 181.4) rotate(169.9) scale(1.041 0.935)" opacity="0.97"/>
+<use href="#frimaire-14-upper-needle" transform="translate(127.8 180.8) rotate(-51.2) scale(0.785 0.934)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(124.6 174.8) rotate(172.9) scale(1.023 0.965)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(123.9 173.6) rotate(-50.9) scale(0.986 0.932)" opacity="0.97"/>
+<use href="#frimaire-14-upper-needle" transform="translate(120.5 167.3) rotate(170.8) scale(1.025 1.061)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(119.9 166.3) rotate(-44.4) scale(0.941 0.920)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(116.1 159.3) rotate(168.4) scale(0.774 1.083)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(116.5 160.0) rotate(-49.1) scale(0.858 1.110)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(112.3 152.7) rotate(171.2) scale(0.869 0.844)" opacity="0.90"/>
+<use href="#frimaire-14-upper-needle" transform="translate(112.8 153.5) rotate(-52.3) scale(1.006 1.094)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(108.2 145.5) rotate(174.8) scale(0.925 1.010)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(108.3 145.6) rotate(-52.7) scale(0.966 0.809)" opacity="0.97"/>
+<use href="#frimaire-14-upper-needle" transform="translate(104.0 138.2) rotate(174.7) scale(0.972 0.880)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(103.8 137.8) rotate(-52.4) scale(0.752 1.095)" opacity="0.95"/>
+<use href="#frimaire-14-upper-needle" transform="translate(99.5 130.5) rotate(175.3) scale(0.764 1.149)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(100.0 131.4) rotate(-48.9) scale(0.804 1.160)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(95.7 124.1) rotate(172.0) scale(0.857 1.051)" opacity="0.93"/>
+<use href="#frimaire-14-upper-needle" transform="translate(95.4 123.5) rotate(-52.4) scale(0.932 0.944)" opacity="0.89"/>
+<use href="#frimaire-14-upper-needle" transform="translate(91.4 116.8) rotate(170.3) scale(0.773 0.919)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(91.4 116.8) rotate(-52.9) scale(0.843 1.058)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(87.3 109.8) rotate(176.4) scale(0.787 0.997)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(87.2 109.7) rotate(-52.9) scale(0.805 0.907)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(83.4 103.6) rotate(-148.9) scale(0.450 0.790)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(83.4 103.6) rotate(-87.9) scale(0.449 0.808)" opacity="0.93"/>
+<use href="#frimaire-14-upper-needle" transform="translate(188.7 248.7) rotate(-103.0) scale(1.007 1.027)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(188.8 248.6) rotate(34.7) scale(0.813 1.137)" opacity="0.95"/>
+<use href="#frimaire-14-upper-needle" transform="translate(193.8 245.2) rotate(-104.2) scale(0.947 0.970)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(195.0 244.4) rotate(36.2) scale(0.795 1.012)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(200.8 240.4) rotate(-108.2) scale(0.939 0.978)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(200.4 240.6) rotate(29.4) scale(0.855 0.900)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(207.1 235.9) rotate(-104.3) scale(0.889 0.904)" opacity="0.89"/>
+<use href="#frimaire-14-upper-needle" transform="translate(206.5 236.4) rotate(30.7) scale(0.894 1.077)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(213.0 231.8) rotate(-110.5) scale(1.027 0.934)" opacity="0.88"/>
+<use href="#frimaire-14-upper-needle" transform="translate(213.2 231.6) rotate(35.0) scale(0.987 1.134)" opacity="0.91"/>
+<use href="#frimaire-14-upper-needle" transform="translate(218.7 227.6) rotate(-108.4) scale(0.834 1.110)" opacity="0.95"/>
+<use href="#frimaire-14-upper-needle" transform="translate(218.3 228.0) rotate(32.0) scale(1.005 0.876)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(225.1 222.8) rotate(-110.0) scale(0.779 1.059)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(224.8 223.0) rotate(28.4) scale(0.805 0.970)" opacity="0.92"/>
+<use href="#frimaire-14-upper-needle" transform="translate(230.2 218.9) rotate(-104.6) scale(0.922 0.840)" opacity="0.95"/>
+<use href="#frimaire-14-upper-needle" transform="translate(229.9 219.2) rotate(31.3) scale(0.775 0.977)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(236.3 214.2) rotate(-110.6) scale(0.938 1.024)" opacity="0.88"/>
+<use href="#frimaire-14-upper-needle" transform="translate(236.6 214.0) rotate(36.0) scale(0.855 0.917)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(242.1 209.5) rotate(-108.9) scale(0.830 0.985)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(242.0 209.6) rotate(29.3) scale(0.740 0.994)" opacity="0.93"/>
+<use href="#frimaire-14-upper-needle" transform="translate(247.9 204.8) rotate(-111.4) scale(0.804 0.853)" opacity="0.94"/>
+<use href="#frimaire-14-upper-needle" transform="translate(247.3 205.4) rotate(31.7) scale(0.778 0.974)" opacity="0.90"/>
+<use href="#frimaire-14-upper-needle" transform="translate(253.4 200.3) rotate(-110.2) scale(0.925 0.932)" opacity="0.95"/>
+<use href="#frimaire-14-upper-needle" transform="translate(252.9 200.6) rotate(28.8) scale(0.904 1.059)" opacity="0.90"/>
+<use href="#frimaire-14-upper-needle" transform="translate(259.8 194.9) rotate(-106.7) scale(0.844 0.944)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(258.7 195.9) rotate(30.6) scale(0.831 0.984)" opacity="1.00"/>
+<use href="#frimaire-14-upper-needle" transform="translate(264.3 191.0) rotate(-109.7) scale(0.721 0.904)" opacity="0.96"/>
+<use href="#frimaire-14-upper-needle" transform="translate(265.0 190.4) rotate(29.9) scale(0.667 0.930)" opacity="0.93"/>
+<use href="#frimaire-14-upper-needle" transform="translate(271.2 185.2) rotate(-109.8) scale(0.845 1.057)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(270.9 185.5) rotate(31.1) scale(0.715 0.979)" opacity="0.99"/>
+<use href="#frimaire-14-upper-needle" transform="translate(273.7 182.9) rotate(-68.0) scale(0.451 0.816)" opacity="0.98"/>
+<use href="#frimaire-14-upper-needle" transform="translate(273.6 182.8) rotate(-6.8) scale(0.451 0.825)" opacity="0.96"/>
+<!-- The right-hand shoot turns over; paired pale stomatal bands are visible below. -->
+<use href="#frimaire-14-lower-needle" transform="translate(205.2 254.4) rotate(-48.0) scale(0.846 1.101)" opacity="0.92"/>
+<use href="#frimaire-14-lower-needle" transform="translate(205.8 254.6) rotate(85.5) scale(0.854 0.872)" opacity="0.92"/>
+<use href="#frimaire-14-lower-needle" transform="translate(213.8 258.0) rotate(-50.3) scale(0.891 1.174)" opacity="1.00"/>
+<use href="#frimaire-14-lower-needle" transform="translate(213.6 257.9) rotate(90.9) scale(0.892 1.095)" opacity="0.92"/>
+<use href="#frimaire-14-lower-needle" transform="translate(223.2 261.7) rotate(-54.4) scale(0.794 0.920)" opacity="0.91"/>
+<use href="#frimaire-14-lower-needle" transform="translate(222.2 261.4) rotate(85.5) scale(0.844 1.010)" opacity="0.96"/>
+<use href="#frimaire-14-lower-needle" transform="translate(230.7 264.8) rotate(-47.1) scale(0.767 0.897)" opacity="0.92"/>
+<use href="#frimaire-14-lower-needle" transform="translate(230.6 264.7) rotate(86.9) scale(0.910 0.993)" opacity="0.99"/>
+<use href="#frimaire-14-lower-needle" transform="translate(239.2 268.1) rotate(-50.6) scale(0.813 1.080)" opacity="0.95"/>
+<use href="#frimaire-14-lower-needle" transform="translate(239.3 268.0) rotate(91.4) scale(0.795 0.883)" opacity="0.90"/>
+<use href="#frimaire-14-lower-needle" transform="translate(247.6 271.1) rotate(-52.2) scale(0.830 1.051)" opacity="0.96"/>
+<use href="#frimaire-14-lower-needle" transform="translate(248.0 271.3) rotate(87.5) scale(0.769 1.056)" opacity="0.95"/>
+<use href="#frimaire-14-lower-needle" transform="translate(255.0 273.7) rotate(-48.9) scale(0.870 0.914)" opacity="0.89"/>
+<use href="#frimaire-14-lower-needle" transform="translate(256.4 274.1) rotate(92.4) scale(0.719 0.943)" opacity="0.95"/>
+<use href="#frimaire-14-lower-needle" transform="translate(263.8 276.6) rotate(-54.4) scale(0.897 1.072)" opacity="0.97"/>
+<use href="#frimaire-14-lower-needle" transform="translate(263.4 276.5) rotate(93.2) scale(0.900 0.867)" opacity="0.89"/>
+<use href="#frimaire-14-lower-needle" transform="translate(272.7 279.4) rotate(-53.3) scale(0.696 0.966)" opacity="1.00"/>
+<use href="#frimaire-14-lower-needle" transform="translate(273.1 279.6) rotate(88.0) scale(0.856 0.845)" opacity="0.98"/>
+<use href="#frimaire-14-lower-needle" transform="translate(281.1 282.0) rotate(-46.6) scale(0.682 1.084)" opacity="0.93"/>
+<use href="#frimaire-14-lower-needle" transform="translate(281.0 282.0) rotate(88.3) scale(0.675 1.049)" opacity="1.00"/>
+<use href="#frimaire-14-lower-needle" transform="translate(289.3 284.4) rotate(-54.7) scale(0.766 0.883)" opacity="0.99"/>
+<use href="#frimaire-14-lower-needle" transform="translate(290.2 284.8) rotate(90.8) scale(0.708 1.095)" opacity="0.88"/>
+<use href="#frimaire-14-lower-needle" transform="translate(298.1 287.0) rotate(-46.7) scale(0.777 1.038)" opacity="0.88"/>
+<use href="#frimaire-14-lower-needle" transform="translate(297.6 286.9) rotate(88.1) scale(0.692 1.120)" opacity="0.95"/>
+<use href="#frimaire-14-lower-needle" transform="translate(302.2 288.0) rotate(-10.6) scale(0.449 0.872)" opacity="0.91"/>
+<use href="#frimaire-14-lower-needle" transform="translate(302.2 288.0) rotate(49.8) scale(0.448 0.841)" opacity="0.94"/>
+<!-- Smooth bud scales close the tips of the fir shoots. -->
+<path d="M80 101C77 98 76 94 78 91C81 90 84 93 85 97L83 101Z" fill="#a39776" stroke="#786f50" stroke-width=".75"/>
+<path d="M79 92L81 100M77 96L82 97" stroke="#76694b" stroke-width=".5"/>
+<path d="M274 182C276 178 279 176 282 177C284 180 281 183 278 185Z" fill="#9f9577" stroke="#746b4f" stroke-width=".75"/>
+<path d="M277 181L282 178M276 182L280 183" stroke="#786b4f" stroke-width=".5"/>
+<path d="M304 289C309 288 313 290 313 293C311 296 307 294 305 292Z" fill="#a79777" stroke="#776b4d" stroke-width=".7"/>
+<!-- The short cone stalk is on the upper side of the woody branch. -->
+<path d="M234 204C235 193 235 182 233 171L240 169C242 181 241 191 239 201Z" fill="#918367" stroke="#74644f" stroke-width="1"/>
+<path d="M237 199L238 179M235 187L240 186M234 176L240 175" stroke="#b8a68a" stroke-width=".6"/>
+<!-- A single erect fir cone: blunt apex, nearly parallel sides, and densely imbricate scales. -->
+<path d="M232 47C222 47 216 55 214 68C211 87 211 115 214 139C215 150 218 163 225 170C230 174 241 174 247 168C254 160 256 143 257 127C259 105 258 82 253 65C250 53 243 46 232 47Z" fill="url(#frimaire-14-cone)" stroke="#73624e" stroke-width="1.35"/>
+<g clip-path="url(#frimaire-14-cone-clip)">
+<use href="#frimaire-14-cone-scale" transform="translate(201.3 47.7) rotate(-1.4) scale(0.98 0.97)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(214.4 47.9) rotate(2.1) scale(0.97 0.96)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(227.5 48.0) rotate(1.0) scale(1.05 1.01)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(240.6 47.9) rotate(-1.5) scale(0.97 1.06)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(253.7 47.6) rotate(-1.2) scale(1.00 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(208.0 58.5) rotate(2.9) scale(0.96 1.06)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(221.1 59.1) rotate(2.2) scale(1.01 0.97)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(234.2 58.9) rotate(-2.0) scale(1.01 0.99)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(247.3 58.6) rotate(-0.3) scale(0.97 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(260.4 58.4) rotate(1.0) scale(1.03 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(201.3 69.4) rotate(-1.8) scale(1.03 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(214.4 69.9) rotate(2.0) scale(0.97 1.00)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(227.5 70.1) rotate(-0.1) scale(1.00 0.98)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(240.6 69.1) rotate(2.8) scale(1.04 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(253.7 69.5) rotate(-3.0) scale(1.01 0.97)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(208.0 79.9) rotate(-0.2) scale(0.96 1.03)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(221.1 80.4) rotate(-0.7) scale(0.98 0.96)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(234.2 80.0) rotate(-0.9) scale(0.96 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(247.3 80.7) rotate(-0.2) scale(0.96 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(260.4 80.3) rotate(2.5) scale(0.97 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(201.3 91.6) rotate(2.2) scale(1.00 1.01)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(214.4 91.7) rotate(1.3) scale(0.96 0.98)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(227.5 91.7) rotate(-0.4) scale(1.01 0.98)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(240.6 91.7) rotate(-1.8) scale(1.01 1.00)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(253.7 90.9) rotate(0.2) scale(1.04 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(208.0 101.8) rotate(-2.8) scale(0.99 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(221.1 101.8) rotate(-1.5) scale(0.96 0.99)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(234.2 101.9) rotate(2.0) scale(1.00 0.97)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(247.3 102.5) rotate(-1.5) scale(1.00 0.97)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(260.4 101.7) rotate(2.6) scale(0.97 1.05)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(201.3 113.4) rotate(-2.1) scale(0.98 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(214.4 112.8) rotate(2.2) scale(0.96 1.01)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(227.5 112.3) rotate(-0.8) scale(1.01 1.03)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(240.6 113.0) rotate(3.0) scale(0.98 1.05)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(253.7 112.8) rotate(-0.7) scale(1.01 1.00)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(208.0 123.7) rotate(0.7) scale(0.95 1.00)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(221.1 123.3) rotate(-1.8) scale(0.99 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(234.2 124.2) rotate(0.2) scale(0.95 1.00)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(247.3 124.2) rotate(-0.6) scale(0.97 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(260.4 123.3) rotate(1.3) scale(1.01 1.06)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(201.3 134.7) rotate(2.3) scale(0.97 1.05)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(214.4 134.9) rotate(2.2) scale(1.00 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(227.5 135.0) rotate(1.9) scale(0.96 1.04)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(240.6 134.7) rotate(-2.7) scale(0.98 0.99)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(253.7 134.8) rotate(-1.7) scale(0.98 0.99)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(208.0 144.6) rotate(1.7) scale(0.99 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(221.1 145.8) rotate(-1.5) scale(1.04 1.02)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(234.2 145.0) rotate(2.7) scale(0.95 0.98)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(247.3 145.0) rotate(2.8) scale(0.97 1.05)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(260.4 145.1) rotate(1.9) scale(1.01 1.03)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(201.3 156.1) rotate(2.3) scale(0.96 0.97)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(214.4 155.4) rotate(-1.8) scale(0.95 0.98)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(227.5 156.2) rotate(2.3) scale(0.98 0.99)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(240.6 156.3) rotate(1.3) scale(0.96 0.96)"/>
+<use href="#frimaire-14-cone-scale" transform="translate(253.7 156.2) rotate(-2.2) scale(0.97 0.97)"/>
+</g>
+<path d="M220 64C216 83 216 110 218 132M250 80C253 100 252 122 250 139" stroke="#b7a386" stroke-width=".65" opacity=".48"/>
+<path d="M225 170Q235 176 246 169M220 159L222 164M249 151L248 158" stroke="#695a46" stroke-width=".7"/>
+</svg>

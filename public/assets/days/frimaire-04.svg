@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire-04-title frimaire-04-desc">
+  <title id="frimaire-04-title">Nèfle — Mespilus germanica</title>
+  <desc id="frimaire-04-desc">A slender engraved medlar twig bears two small matte russet fruits, one darkening with bletting. Their unusually wide, open blossom-end cups are surrounded by five long persistent pointed calyx lobes. Finely toothed obovate leaves show curved lateral veins through a muted sage wash.</desc>
+  <defs>
+    <linearGradient id="frimaire-04-wood" x1="148" y1="210" x2="161" y2="214" gradientUnits="userSpaceOnUse"><stop stop-color="#b4a188"/><stop offset=".48" stop-color="#99866b"/><stop offset="1" stop-color="#78674f"/></linearGradient>
+    <linearGradient id="frimaire-04-leaf" x1="-19" y1="-78" x2="18" y2="-10" gradientUnits="userSpaceOnUse"><stop stop-color="#a8ad8f" stop-opacity=".62"/><stop offset=".48" stop-color="#98a17e" stop-opacity=".69"/><stop offset="1" stop-color="#7e8b68" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="frimaire-04-leaf-back" x1="-15" y1="-83" x2="19" y2="-9" gradientUnits="userSpaceOnUse"><stop stop-color="#b6b59b" stop-opacity=".6"/><stop offset="1" stop-color="#909979" stop-opacity=".68"/></linearGradient>
+    <radialGradient id="frimaire-04-russet" cx=".33" cy=".25" r=".85"><stop stop-color="#beaa7b" stop-opacity=".85"/><stop offset=".52" stop-color="#a88c5f" stop-opacity=".9"/><stop offset="1" stop-color="#856b4b" stop-opacity=".96"/></radialGradient>
+    <radialGradient id="frimaire-04-bletted" cx=".3" cy=".28" r=".83"><stop stop-color="#aa946e" stop-opacity=".87"/><stop offset=".5" stop-color="#8b7050" stop-opacity=".93"/><stop offset="1" stop-color="#6b5541" stop-opacity=".96"/></radialGradient>
+    <radialGradient id="frimaire-04-cup" cx=".4" cy=".3" r=".7"><stop stop-color="#766045"/><stop offset=".53" stop-color="#66513c"/><stop offset="1" stop-color="#99805b"/></radialGradient>
+    <linearGradient id="frimaire-04-calyx" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#b8a47b"/><stop offset=".55" stop-color="#94805b"/><stop offset="1" stop-color="#776749"/></linearGradient>
+    <!-- A single entire blade with fine, irregular teeth; each placement has its own veins. -->
+    <path id="frimaire-04-blade" d="M0 0C-5-11-11-19-15-29L-18-32L-17-35L-20-38L-19-41L-22-44L-21-47L-23-51L-22-54L-23-57L-21-60L-22-64L-20-67L-20-70L-17-73L-17-76L-14-78L-13-82L-9-84L-7-87L-3-89L0-94L3-90L7-88L8-85L12-83L13-80L17-77L17-74L20-71L19-68L22-65L21-62L23-58L22-55L23-52L21-49L22-46L20-43L20-40L17-37L17-34L14-31C10-19 4-10 0 0Z"/>
+  </defs>
+  <!-- The woody axis bends at the alternate leaf nodes, with a few old leaf scars. -->
+  <path d="M127 326C139 305 149 283 157 258C164 237 171 217 178 197C187 172 189 149 193 128C197 106 201 84 207 65L210 64C205 86 202 108 198 129C194 152 192 174 184 198C177 219 169 240 163 260C155 284 145 308 132 328Z" fill="url(#frimaire-04-wood)" stroke="#76684f" stroke-width="1.4"/>
+  <path d="M177 202C164 202 150 207 132 217L128 214C148 201 163 196 180 197M193 151C207 146 218 142 234 143L236 146C220 144 208 151 193 155" fill="url(#frimaire-04-wood)" stroke="#76684f" stroke-width="1.3"/>
+  <g stroke="#8b7e60" stroke-width="1.7"><path d="M194 134L182 127M201 110L218 99M181 184L167 177M160 259L174 269M207 81L208 66"/></g>
+  <path d="M130 324C143 302 152 279 160 255M163 247L177 207M183 189C190 168 191 151 195 130M198 116L206 76M138 211C151 204 163 201 173 200M200 150C211 146 219 144 230 145" stroke="#c4b397" stroke-width=".75" opacity=".85"/>
+  <g stroke="#75644e" stroke-width=".62" opacity=".8"><path d="M136 312L140 307M144 297L146 288M151 279L155 272M158 256L160 249M167 232L168 225M174 210L176 205M183 182L185 176M190 158L191 151M193 139L195 134M198 112L198 106M202 93L203 88M142 207L146 205M155 202L161 199M214 145L218 143M226 143L229 144"/></g>
+  <g fill="#89785d" stroke="#6f604a" stroke-width=".7"><path d="M157 259Q161 264 164 258L162 255Z"/><path d="M177 199Q181 202 184 197L182 193Z"/><path d="M192 134Q196 137 199 130L195 130Z"/><path d="M204 84Q208 85 209 80L206 79Z"/></g>
+  <path d="M206 66C204 62 206 57 209 55C211 58 212 62 210 65Z" fill="#9b8b6b" stroke="#78674e" stroke-width=".8"/>
+  <path d="M208 63L209 58" stroke="#c0ae8b" stroke-width=".6"/>
+  <!-- Obovate leaves, broad above the middle, with very small marginal teeth. -->
+  <g transform="translate(183 129) rotate(-36) scale(.98)">
+    <use href="#frimaire-04-blade" fill="url(#frimaire-04-leaf)" stroke="#6c7858" stroke-width="1.15"/>
+    <path d="M0-2C-1-26 1-54 0-91M0-18C-7-22-11-28-15-33M0-29C7-34 12-38 18-42M0-39C-9-43-15-47-21-52M0-50C9-54 15-59 21-64M0-61C-8-65-15-69-18-73M0-72C5-76 9-80 12-83M0-81L-7-87" stroke="#70805b" stroke-width=".75"/>
+    <path d="M-1-4C-3-35-2-63-1-86" stroke="#d0cfac" stroke-width=".65"/>
+    <g stroke="#71805c" stroke-width=".45" opacity=".62"><path d="M-5-26L-12-29M-7-29L-14-33M8-36L14-40M11-37L16-41M-8-44L-18-49M-12-46L-20-52M8-55L17-61M12-57L19-63M-9-66L-16-71M-12-68L-17-73M4-76L9-81"/></g>
+  </g>
+  <g transform="translate(218 99) rotate(48) scale(.94)">
+    <use href="#frimaire-04-blade" fill="url(#frimaire-04-leaf-back)" stroke="#727b5b" stroke-width="1.15"/>
+    <path d="M0-2C2-24 2-53 0-91M1-16C-6-20-11-26-15-31M1-28C7-30 12-36 18-41M2-39C-7-42-15-46-21-51M2-50C10-54 17-59 21-64M1-60C-8-63-14-68-18-73M1-71L12-83M1-81L-7-87" stroke="#7a8562" stroke-width=".72"/>
+    <path d="M-1-3C0-32 0-60-1-86" stroke="#d5d2b4" stroke-width=".7"/>
+    <g stroke="#7e8967" stroke-width=".45" opacity=".6"><path d="M-7-23L-13-28M-9-26L-14-31M8-34L15-39M11-35L16-41M-8-44L-18-49M-12-46L-20-52M11-56L18-62M15-58L20-64M-8-65L-15-71M5-77L10-82"/></g>
+  </g>
+  <g transform="translate(167 177) rotate(-68) scale(.82)">
+    <use href="#frimaire-04-blade" fill="url(#frimaire-04-leaf)" stroke="#6c7858" stroke-width="1.15"/>
+    <path d="M0-2C-1-28 2-61 0-91M0-18L-15-32M0-28C7-32 12-36 18-42M1-40C-8-42-15-47-21-52M1-51C10-55 16-60 21-65M1-62L-18-73M1-73L12-83M0-82L-7-87" stroke="#71805b" stroke-width=".75"/>
+    <path d="M-1-4C-2-34 0-64-1-86" stroke="#d1cfac" stroke-width=".65"/>
+    <g stroke="#73805c" stroke-width=".45" opacity=".6"><path d="M-6-24L-12-29M-9-27L-15-32M7-35L15-40M-7-44L-18-49M-12-46L-20-52M10-56L18-62M13-58L20-65M-8-66L-15-71M5-77L10-82"/></g>
+  </g>
+  <g transform="translate(174 269) rotate(111) scale(1.01)">
+    <use href="#frimaire-04-blade" fill="url(#frimaire-04-leaf)" stroke="#6b7656" stroke-width="1.15"/>
+    <path d="M0-2C2-27 3-58 0-91M1-16C-5-21-10-26-15-32M2-28C9-32 13-37 18-42M2-39C-6-43-15-47-21-52M2-51C10-54 17-59 21-65M2-62C-7-65-13-69-18-73M1-73L12-83M0-82L-7-87" stroke="#6d7c58" stroke-width=".75"/>
+    <path d="M-1-3C1-30 1-61-1-86" stroke="#cecbab" stroke-width=".65"/>
+    <g stroke="#72805b" stroke-width=".45" opacity=".62"><path d="M-6-23L-13-29M-9-26L-15-32M8-34L15-40M11-36L17-42M-9-45L-18-50M-13-47L-20-53M11-55L18-62M15-57L20-65M-7-66L-15-72M-12-68L-17-74M5-77L10-82"/></g>
+  </g>
+  <!-- The darker fruit is a little soft and irregular as it begins to blet. -->
+  <path d="M240 130C251 123 266 122 278 126C290 130 299 138 302 150C306 163 302 174 297 185C292 196 281 203 269 204C255 205 243 199 234 190C225 180 220 167 222 155C223 143 229 135 240 130Z" fill="url(#frimaire-04-bletted)" stroke="#77634a" stroke-width="1.55"/>
+  <path d="M235 141C242 132 253 129 264 130M227 154C225 166 230 180 237 187M245 195C252 200 262 201 269 200M290 193C296 188 298 182 300 176" stroke="#b29a70" stroke-width=".8" opacity=".75"/>
+  <path d="M242 134C234 141 231 151 232 160M237 181C242 189 248 193 256 195M271 199C280 198 286 195 291 189M294 140C299 147 301 153 300 159" stroke="#735b43" stroke-width=".65" opacity=".66"/>
+  <!-- Five separate persistent sepals stand around a broad exposed cup. -->
+  <path d="M258 155C258 149 259 142 257 133C265 138 268 145 269 152Z" fill="url(#frimaire-04-calyx)" stroke="#736348" stroke-width="1"/>
+  <path d="M273 153C277 147 283 144 289 138C287 147 284 153 280 159Z" fill="url(#frimaire-04-calyx)" stroke="#736348" stroke-width="1"/>
+  <path d="M252 157C261 149 274 148 285 155C293 160 295 173 288 181C280 190 266 189 257 182C248 177 246 165 252 157Z" fill="#a58a61" stroke="#715d42" stroke-width="1.1"/>
+  <path d="M256 159C262 153 273 153 281 158C289 162 289 174 283 179C276 185 265 183 259 179C253 174 251 166 256 159Z" fill="url(#frimaire-04-cup)" stroke="#725c42" stroke-width=".8"/>
+  <path d="M258 160C265 156 274 156 281 161M255 168C255 173 259 179 265 181" stroke="#bc9e6b" stroke-width=".65" opacity=".85"/>
+  <path d="M260 163Q270 159 278 164M259 167Q267 163 274 165M260 172Q269 177 279 172M266 178L273 176" stroke="#594c3b" stroke-width=".65" opacity=".9"/>
+  <path d="M252 165C245 166 238 163 232 159C237 168 245 173 253 173Z" fill="url(#frimaire-04-calyx)" stroke="#736348" stroke-width="1"/>
+  <path d="M285 167C292 163 299 163 308 162C303 168 297 175 287 176Z" fill="url(#frimaire-04-calyx)" stroke="#736348" stroke-width="1"/>
+  <path d="M267 183C266 189 262 195 261 202C270 197 277 192 278 184Z" fill="url(#frimaire-04-calyx)" stroke="#736348" stroke-width="1"/>
+  <g stroke="#c0aa7f" stroke-width=".65"><path d="M264 151L259 136M278 155L287 141M251 169L235 161M289 172L304 164M272 185L264 198"/></g>
+  <g stroke="#66563f" stroke-width=".5" opacity=".75"><path d="M262 145L265 150M281 150L279 154M243 166L248 170M294 169L290 173M269 193L273 188"/></g>
+  <!-- A paler, firm russet medlar shows the blossom end almost face on. -->
+  <path d="M83 193C95 187 110 188 123 194C136 200 143 211 145 224C147 238 141 251 132 260C122 270 108 275 94 272C81 271 69 263 62 252C55 240 55 224 61 212C66 203 73 197 83 193Z" fill="url(#frimaire-04-russet)" stroke="#80694a" stroke-width="1.6"/>
+  <path d="M68 211C77 198 91 195 103 197M61 227C59 238 65 252 73 259M83 266C93 271 106 270 114 268M134 252C140 243 142 233 140 226M123 199C131 203 136 209 139 217" stroke="#c1a77b" stroke-width=".8" opacity=".87"/>
+  <path d="M70 207C66 213 64 218 63 224M61 237C62 245 65 251 70 256M77 264C82 267 87 269 92 270M117 267C123 265 129 261 133 257M142 240L145 232M139 216L136 209" stroke="#7e6747" stroke-width=".55" opacity=".6"/>
+  <!-- The lobes are long and narrow, rather than an apple's tiny closed eye. -->
+  <path d="M87 220C85 214 83 207 84 197C91 202 97 210 99 218Z" fill="url(#frimaire-04-calyx)" stroke="#7a674a" stroke-width="1.05"/>
+  <path d="M106 219C111 213 119 208 127 205C123 214 118 220 112 225Z" fill="url(#frimaire-04-calyx)" stroke="#7a674a" stroke-width="1.05"/>
+  <path d="M78 224C85 215 98 213 109 218C120 222 125 233 121 244C118 256 105 262 93 260C81 258 73 250 73 239C72 233 75 228 78 224Z" fill="#b39b70" stroke="#7a6547" stroke-width="1"/>
+  <path d="M82 226C88 220 98 219 107 223C116 227 120 236 116 244C112 253 103 257 94 255C84 254 78 247 78 239C77 234 79 229 82 226Z" fill="url(#frimaire-04-cup)" stroke="#7a6447" stroke-width=".85"/>
+  <path d="M82 228C89 223 99 222 107 226M80 240C81 247 87 252 94 253M108 251L113 247" stroke="#c3a875" stroke-width=".7"/>
+  <path d="M85 230C91 226 101 227 108 231M83 234C89 230 98 231 103 233M86 243C93 248 101 248 108 244M90 250L98 251M91 238L97 236L103 240L98 242Z" stroke="#5b4d39" stroke-width=".65" opacity=".84"/>
+  <path d="M77 232C69 230 61 225 53 225C57 233 65 240 76 241Z" fill="url(#frimaire-04-calyx)" stroke="#7a674a" stroke-width="1.05"/>
+  <path d="M119 232C125 229 134 228 141 231C135 237 127 242 120 242Z" fill="url(#frimaire-04-calyx)" stroke="#7a674a" stroke-width="1.05"/>
+  <path d="M93 258C91 265 92 273 90 281C99 277 106 269 106 258Z" fill="url(#frimaire-04-calyx)" stroke="#7a674a" stroke-width="1.05"/>
+  <g stroke="#cfb58a" stroke-width=".65"><path d="M92 216L86 200M111 221L124 208M74 237L56 227M122 237L137 232M98 260L93 277"/></g>
+  <g stroke="#776347" stroke-width=".5" opacity=".75"><path d="M89 207L93 214M118 214L113 220M64 231L72 236M132 233L125 237M97 271L100 263"/></g>
+  <!-- Sparse fine russet scratches curve around the skin, avoiding the open cups. -->
+  <g stroke="#816a47" stroke-width=".53" opacity=".61">
+    <path d="M76 203L80 201M87 199L92 198M105 196L110 197M120 201L123 203M130 207L133 211M68 218L67 223M66 243L68 247M72 252L76 255M82 260L86 262M112 263L116 262M127 254L130 251M135 244L137 240M130 219L132 222M72 211L76 208M80 214L82 213M124 245L126 244"/>
+    <path d="M235 140L239 137M247 132L251 131M266 128L271 130M283 132L287 135M294 144L296 149M228 151L227 157M229 168L230 173M234 182L237 186M242 190L246 193M254 198L259 199M280 197L284 195M294 183L296 178M241 150L244 148M240 178L243 181M252 189L255 190"/>
+  </g>
+  <g stroke="#c4aa7a" stroke-width=".45" opacity=".72"><path d="M78 205L84 202M65 233L65 238M74 259L79 262M120 263L124 260M135 216L137 220M232 145L235 141M230 175L233 180M248 195L252 197M286 191L290 187"/></g>
+</svg>

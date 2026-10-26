@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire-20-title frimaire-20-desc">
+  <title id="frimaire-20-title">Hoyau — broad-bladed mattock</title>
+  <desc id="frimaire-20-desc">An illustrative late-eighteenth-century hoyau, a hand-forged mattock for breaking soil and cutting roots. A broad, flared transverse hoe blade is shown obliquely, its worn cutting edge spreading far beyond the narrow neck. A short curved pick balances the opposite side of the iron eye. A gently bowed oak haft passes through the eye and is wedged at its projecting end. Muted iron washes, irregular forging marks and fine oak grain describe a used rural tool; historical forms varied.</desc>
+  <defs>
+    <linearGradient id="frimaire-20-oak" x1="-9" y1="160" x2="12" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#887453" stop-opacity=".95"/><stop offset=".25" stop-color="#b09b72" stop-opacity=".92"/><stop offset=".57" stop-color="#c7b28a" stop-opacity=".86"/><stop offset=".84" stop-color="#b4a07a" stop-opacity=".91"/><stop offset="1" stop-color="#8c7956" stop-opacity=".96"/>
+    </linearGradient>
+    <linearGradient id="frimaire-20-blade" x1="-107" y1="-20" x2="-92" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8e8c7c" stop-opacity=".92"/><stop offset=".3" stop-color="#7b7e70" stop-opacity=".96"/><stop offset=".68" stop-color="#676f61"/><stop offset="1" stop-color="#505d50"/>
+    </linearGradient>
+    <linearGradient id="frimaire-20-neck" x1="-35" y1="-8" x2="-30" y2="21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#959381"/><stop offset=".45" stop-color="#747b69"/><stop offset="1" stop-color="#515e50"/>
+    </linearGradient>
+    <linearGradient id="frimaire-20-eye" x1="-19" y1="0" x2="19" y2="11" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#586252"/><stop offset=".39" stop-color="#828572"/><stop offset=".65" stop-color="#737b68"/><stop offset="1" stop-color="#505c4e"/>
+    </linearGradient>
+    <linearGradient id="frimaire-20-edge" x1="-138" y1="-14" x2="-111" y2="47" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ada995"/><stop offset=".47" stop-color="#c1baa0"/><stop offset="1" stop-color="#9d9e88"/>
+    </linearGradient>
+    <clipPath id="frimaire-20-haft">
+      <path d="M-8-17Q0-22 8-17C9 30 6 81 8 126C10 165 17 203 17 234Q16 242 8 243Q0 244-1 237C-3 209-6 178-9 149C-13 98-12 46-8-17Z"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(171 98) rotate(-23)">
+    <!-- A single continuous, slightly bowed haft is seated through the head. -->
+    <path d="M-8-17Q0-22 8-17C9 30 6 81 8 126C10 165 17 203 17 234Q16 242 8 243Q0 244-1 237C-3 209-6 178-9 149C-13 98-12 46-8-17Z" fill="url(#frimaire-20-oak)" stroke="#6d624b" stroke-width="1.4"/>
+    <g clip-path="url(#frimaire-20-haft)">
+      <path d="M-5 27C-7 62-7 91-6 116C-7 148-2 181 0 208L3 237M1 29C1 61-1 92 1 122C2 143 6 165 7 185M9 200L12 237" stroke="#e0caa2" stroke-width=".8" opacity=".71"/>
+      <g stroke="#806e4e" stroke-width=".62" opacity=".81">
+        <path d="M-3 30C-5 48-3 67-4 80M-5 89L-5 112M3 37C4 58 2 77 3 94M-2 102C-1 112-3 126-2 139M-7 126C-8 144-5 161-4 175M-4 185C-2 199-3 214-1 226M3 162C5 176 7 189 7 203M11 212L13 233"/>
+        <path d="M1 153C-3 151-4 143-1 137C2 139 4 148 1 153ZM-3 132C-8 141-6 153-1 160M2 132C7 140 7 154 3 161"/>
+        <path d="M-2 65C-4 62-3 56-1 54C1 56 1 63-2 65M-3 51C-8 57-7 66-3 70"/>
+      </g>
+      <g stroke="#746348" stroke-width=".46" opacity=".62">
+        <path d="M-8 29L-8 44M5 25L5 39M-9 51L-9 67M5 75L5 88M-8 82L-8 96M-9 108L-9 119M5 107L6 119M-7 164L-6 178M-1 172L0 183M9 177L11 194M-3 202L-1 217M5 212L6 225M13 222L14 235"/>
+      </g>
+      <path d="M-1 219Q8 223 17 217L19 243L-1 247Z" fill="#8b7653" opacity=".12"/>
+      <path d="M1 228Q8 232 16 227M2 234Q9 238 15 233" stroke="#927c56" stroke-width=".6"/>
+      <path d="M4 229L6 237M10 231L12 238" stroke="#d5be94" stroke-width=".65"/>
+    </g>
+    <!-- The broad adze face opens from a thick, curved neck into a flared edge. -->
+    <path d="M-15-7C-33-7-47-2-60 2C-78-4-102-19-132-27C-139-11-143 15-135 43C-104 42-80 34-61 22C-44 18-27 18-15 17Z" fill="url(#frimaire-20-blade)" stroke="#535d4f" stroke-width="1.45"/>
+    <path d="M-17 5C-35 5-49 9-61 12C-81 11-109 10-139 9C-140 21-138 32-135 43C-104 42-80 34-61 22C-44 18-27 18-15 17Z" fill="#465749" opacity=".2"/>
+    <path d="M-60 2C-45-2-32-7-15-7L-15 17C-31 18-44 18-61 22L-73 19C-66 14-62 8-60 2Z" fill="url(#frimaire-20-neck)"/>
+    <!-- A thin bevel wraps around the expansive, subtly convex cutting edge. -->
+    <path d="M-132-27C-139-11-143 15-135 43L-128 41C-134 19-133-7-126-24Z" fill="url(#frimaire-20-edge)" stroke="#7b806d" stroke-width=".68"/>
+    <path d="M-132-27C-139-11-143 15-135 43" stroke="#d0c7ac" stroke-width=".73" opacity=".92"/>
+    <path d="M-129-21C-134-5-137 17-131 37" stroke="#626f5c" stroke-width=".64"/>
+    <path d="M-126-20C-106-13-84-2-64 6M-125 34C-105 32-85 26-66 18M-121-13C-97-7-85 0-71 5M-54 3C-43-1-29-3-19-3" stroke="#c1bda2" stroke-width=".68" opacity=".69"/>
+    <path d="M-124 24C-108 23-92 20-78 16M-117 4C-99 9-83 13-70 12M-50 13C-40 10-28 9-20 9" stroke="#465747" stroke-width=".7" opacity=".75"/>
+    <g stroke="#4a5949" stroke-width=".53" opacity=".71">
+      <path d="M-121-16Q-125-10-126-3M-112-13Q-116-7-117 1M-102-9Q-107-2-107 6M-92-5Q-97 1-98 10M-82 0Q-87 6-87 12M-73 4Q-77 9-78 15M-65 8Q-68 12-70 17M-55 4L-51 14M-46 1L-42 12M-37-2L-33 11M-27-3L-24 10"/>
+      <path d="M-125 29L-121 35M-115 28L-111 33M-105 26L-101 30M-95 23L-91 27M-85 20L-82 24M-75 17L-72 21"/>
+    </g>
+    <g stroke="#b0a48b" stroke-width=".62" opacity=".67">
+      <path d="M-119-9L-112-7M-104-3L-99-1M-115 17L-108 16M-101 14L-96 14M-90 5L-85 7M-49 7L-43 5M-35 15L-30 14M-116 31L-109 30"/>
+    </g>
+    <!-- The counter-pick is much shorter than the broad blade, with a forged ridge. -->
+    <path d="M14-8C31-8 52-4 72 7C63 3 46 8 35 15C27 17 21 18 14 17Z" fill="url(#frimaire-20-neck)" stroke="#535d4f" stroke-width="1.4"/>
+    <path d="M16 4C38 0 55 2 72 7C58 5 45 10 35 15L15 17Z" fill="#4c5b4d" opacity=".43"/>
+    <path d="M21-4C38-4 51 0 64 4M21 3C34 1 46 3 55 5" stroke="#b6b39a" stroke-width=".65" opacity=".71"/>
+    <path d="M25-2L23 9M35-1L31 12M45 1L40 11M54 3L48 9" stroke="#465546" stroke-width=".55" opacity=".77"/>
+    <path d="M22 13L29 12M39 3L44 4M49 8L54 7" stroke="#9d8c70" stroke-width=".55" opacity=".7"/>
+    <!-- The socket encloses the timber, its upper rim and wedged wood remain visible. -->
+    <path d="M-20-7C-16-15 12-15 20-7L21 12C19 24-14 27-20 15Z" fill="url(#frimaire-20-eye)" stroke="#4c584a" stroke-width="1.45"/>
+    <path d="M-20-7C-17 2 13 4 20-7L21 1C14 11-14 12-20 3Z" fill="#a5a18b" opacity=".2"/>
+    <path d="M-17 12C-8 20 9 20 17 12M-13 18C-4 23 6 22 13 18" stroke="#b0ac92" stroke-width=".65" opacity=".74"/>
+    <path d="M-18 1L-17 11M-12 6L-11 15M-5 8L-4 17M3 8L3 17M10 6L10 15M17 1L17 10" stroke="#445342" stroke-width=".57" opacity=".75"/>
+    <ellipse cx="0" cy="-7" rx="19.3" ry="7.7" fill="#8e917b" stroke="#505d4c" stroke-width="1.05"/>
+    <ellipse cx="0" cy="-7.4" rx="10.5" ry="5.5" fill="#3f4f40" stroke="#bbb497" stroke-width=".66"/>
+    <path d="M-8-17Q0-22 8-17L8-7Q0-2-9-7Z" fill="url(#frimaire-20-oak)" stroke="#716348" stroke-width="1"/>
+    <ellipse cx="0" cy="-17.4" rx="8" ry="3.5" fill="#cdb791" stroke="#78694c" stroke-width=".8"/>
+    <path d="M-6-17Q0-20 6-17M-5-16Q0-13 5-16M-5-12L-5-8M4-12L4-8" stroke="#907b55" stroke-width=".56"/>
+    <path d="M-2-20L1-21L3-16L0-15Z" fill="#6f6348" stroke="#645d45" stroke-width=".5"/>
+    <path d="M-16-8L-12-10M12-10L16-8M-15-2L-12 0M11 0L16-3" stroke="#d0c6a6" stroke-width=".64" opacity=".76"/>
+    <path d="M-15 14L-11 17M11 16L15 14M-8 26L-8 32M5 25L5 32" stroke="#9b8565" stroke-width=".6" opacity=".72"/>
+  </g>
+</svg>

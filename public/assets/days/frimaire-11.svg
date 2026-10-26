@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire11-title frimaire11-desc">
+  <title id="frimaire11-title">Cire — beeswax</title>
+  <desc id="frimaire11-desc">A pale golden block of solid beeswax, with an uneven broken edge and fine parallel striations, rests beside curled, paper-thin wax shavings. One slender hand-dipped candle has a short unlit cotton wick. A little empty comb, its thin hexagonal walls cream-coloured, recalls the origin of the matte wax.</desc>
+  <defs>
+    <linearGradient id="frimaire11-top" x1="108" y1="164" x2="160" y2="239" gradientUnits="userSpaceOnUse"><stop stop-color="#eee5bf" stop-opacity=".91"/><stop offset=".6" stop-color="#e4d39b" stop-opacity=".9"/><stop offset="1" stop-color="#d6bd7e" stop-opacity=".94"/></linearGradient>
+    <linearGradient id="frimaire11-front" x1="104" y1="217" x2="147" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#dfcc94" stop-opacity=".92"/><stop offset=".47" stop-color="#d7be7b" stop-opacity=".94"/><stop offset="1" stop-color="#c7ad6c" stop-opacity=".96"/></linearGradient>
+    <linearGradient id="frimaire11-break" x1="207" y1="205" x2="236" y2="264" gradientUnits="userSpaceOnUse"><stop stop-color="#d6bf84"/><stop offset=".5" stop-color="#c3ab70"/><stop offset="1" stop-color="#b49b64"/></linearGradient>
+    <linearGradient id="frimaire11-candle" x1="249" y1="169" x2="279" y2="169" gradientUnits="userSpaceOnUse"><stop stop-color="#c1aa73"/><stop offset=".22" stop-color="#e5d5a6"/><stop offset=".49" stop-color="#eee5c7"/><stop offset=".76" stop-color="#dfcd9a"/><stop offset="1" stop-color="#c5ad75"/></linearGradient>
+    <linearGradient id="frimaire11-shaving" x1="165" y1="277" x2="194" y2="322" gradientUnits="userSpaceOnUse"><stop stop-color="#efe5c3"/><stop offset=".5" stop-color="#e1cf9c"/><stop offset="1" stop-color="#c8ae74"/></linearGradient>
+    <linearGradient id="frimaire11-comb" x1="83" y1="123" x2="133" y2="185" gradientUnits="userSpaceOnUse"><stop stop-color="#f0ead3" stop-opacity=".85"/><stop offset="1" stop-color="#d9c994" stop-opacity=".88"/></linearGradient>
+    <clipPath id="frimaire11-comb-cut"><path d="M75 156L80 146L88 145L91 132L102 131L108 121L121 126L128 121L136 130L145 134L142 146L149 155L143 164L148 174L135 180L129 190L118 186L108 191L100 181L89 180L86 168L77 166Z"/></clipPath>
+  </defs>
+
+  <!-- A small piece of dry, empty comb lies behind the block. -->
+  <path d="M75 156L80 146L88 145L91 132L102 131L108 121L121 126L128 121L136 130L145 134L142 146L149 155L143 164L148 174L135 180L129 190L118 186L108 191L100 181L89 180L86 168L77 166Z" fill="url(#frimaire11-comb)" stroke="#a69972" stroke-width="1.15"/>
+  <g clip-path="url(#frimaire11-comb-cut)" stroke="#baaa7f" stroke-width="1.5" fill="#f1ead0" fill-opacity=".54">
+    <path d="M81 127L88 123L95 127L95 135L88 139L81 135ZM95 127L102 123L109 127L109 135L102 139L95 135ZM109 127L116 123L123 127L123 135L116 139L109 135ZM123 127L130 123L137 127L137 135L130 139L123 135ZM137 127L144 123L151 127L151 135L144 139L137 135Z"/>
+    <path d="M74 139L81 135L88 139L88 147L81 151L74 147ZM88 139L95 135L102 139L102 147L95 151L88 147ZM102 139L109 135L116 139L116 147L109 151L102 147ZM116 139L123 135L130 139L130 147L123 151L116 147ZM130 139L137 135L144 139L144 147L137 151L130 147ZM144 139L151 135L158 139L158 147L151 151L144 147Z"/>
+    <path d="M81 151L88 147L95 151L95 159L88 163L81 159ZM95 151L102 147L109 151L109 159L102 163L95 159ZM109 151L116 147L123 151L123 159L116 163L109 159ZM123 151L130 147L137 151L137 159L130 163L123 159ZM137 151L144 147L151 151L151 159L144 163L137 159Z"/>
+    <path d="M74 163L81 159L88 163L88 171L81 175L74 171ZM88 163L95 159L102 163L102 171L95 175L88 171ZM102 163L109 159L116 163L116 171L109 175L102 171ZM116 163L123 159L130 163L130 171L123 175L116 171ZM130 163L137 159L144 163L144 171L137 175L130 171ZM144 163L151 159L158 163L158 171L151 175L144 171Z"/>
+    <path d="M81 175L88 171L95 175L95 183L88 187L81 183ZM95 175L102 171L109 175L109 183L102 187L95 183ZM109 175L116 171L123 175L123 183L116 187L109 183ZM123 175L130 171L137 175L137 183L130 187L123 183ZM137 175L144 171L151 175L151 183L144 187L137 183Z"/>
+  </g>
+  <g stroke="#fcf6df" stroke-width=".6" opacity=".9"><path d="M91 142L95 139L99 141M105 141L109 139L113 141M119 142L123 139L127 141M98 154L102 151L106 153M112 154L116 151L120 153M126 154L130 151L134 153M91 166L95 163L99 165M105 166L109 163L113 165M119 166L123 163L127 165"/></g>
+
+  <!-- The tapered candle has soft, slightly wandering sides from repeated dipping. -->
+  <path d="M253 83C253 78 255 75 259 75C262 75 265 78 265 83C267 105 267 124 270 146C272 171 274 195 275 219C276 242 279 261 281 278C282 283 279 287 272 288C264 290 255 288 252 284C250 281 251 277 251 273C252 249 250 228 250 207C249 184 249 163 250 143C251 121 251 102 253 83Z" fill="url(#frimaire11-candle)" stroke="#9a8863" stroke-width="1.35"/>
+  <path d="M254 82C256 84 262 84 265 81" stroke="#c2ad7d" stroke-width=".75"/>
+  <path d="M258 78C259 73 257 69 259 64C260 62 262 62 262 60" stroke="#574f40" stroke-width="2.1"/>
+  <path d="M259 74L259 69M260 66L261 64" stroke="#a99b7b" stroke-width=".55"/>
+  <path d="M257 90C255 119 256 142 255 166C254 191 256 215 256 239C256 254 256 267 258 280M260 88C261 111 261 126 263 145M264 155C266 176 267 194 267 215M268 224C269 245 271 266 273 281" stroke="#f7f0d7" stroke-width=".85" opacity=".86"/>
+  <g stroke="#b59e6c" stroke-width=".6" opacity=".6"><path d="M252 111Q257 114 266 111M251 130Q259 133 268 130M250 150Q259 153 270 150M250 173Q261 177 272 173M250 197Q262 201 274 198M250 224Q261 228 275 225M251 249Q264 253 278 249M251 271Q265 276 280 272M253 282Q264 286 277 282"/></g>
+  <g stroke="#9b875e" stroke-width=".48" opacity=".44"><path d="M252 154L252 167M252 181L252 191M253 209L254 218M272 208L273 219M274 238L275 247M276 264L277 272M264 96L264 104M265 116L266 123"/></g>
+
+  <!-- A solid, softly worn wax block: its top is smooth, its cut edge finely fibrous. -->
+  <path d="M61 201C78 191 100 179 121 165C125 162 131 161 137 162L205 176L216 182L213 187L227 187L222 194L232 201L222 210L215 221L120 249L64 220Z" fill="url(#frimaire11-top)" stroke="#a18b5f" stroke-width="1.45"/>
+  <path d="M61 201C62 222 62 245 66 264C80 278 100 292 120 305C124 307 129 306 135 304L211 276L215 221C185 231 155 241 120 249C102 235 81 218 61 201Z" fill="url(#frimaire11-front)" stroke="#9c8458" stroke-width="1.5"/>
+  <path d="M215 221L222 210L232 201L230 216L233 222L230 233L232 242L228 249L229 261L219 266L211 276Z" fill="url(#frimaire11-break)" stroke="#97825a" stroke-width="1.2"/>
+  <path d="M64 204C84 220 102 235 120 247C149 240 180 229 211 221M69 263C85 276 104 291 122 302M125 299C150 289 183 279 204 271" stroke="#eddfb5" stroke-width=".95" opacity=".8"/>
+  <path d="M75 201C89 191 106 182 123 171C128 167 133 168 139 169L193 180M91 200C107 191 122 180 135 175M114 202C133 190 146 184 153 182M144 205C161 196 173 192 181 188M174 210L201 200" stroke="#c7b17a" stroke-width=".62" opacity=".49"/>
+  <path d="M80 209C90 212 101 220 109 226M125 238C140 235 154 230 166 226M175 223L197 216M142 179L172 185M181 187L194 190" stroke="#f3e9c9" stroke-width="1.25" opacity=".75"/>
+  <!-- Sparse engraving follows the slanted faces and the layered break, without a glossy wash. -->
+  <g stroke="#a98f5f" stroke-width=".62" opacity=".65">
+    <path d="M68 218C82 230 99 244 116 255M67 229C82 242 100 257 117 267M68 241C82 254 101 270 118 279M72 256C87 267 103 282 119 291"/>
+    <path d="M127 257C149 252 174 243 193 237M126 265C147 259 173 250 204 240M128 274C145 269 160 264 175 258M180 257L207 247M128 283C152 276 176 266 204 257M130 292C149 286 165 280 182 274M187 272L204 266"/>
+    <path d="M76 225L84 231M91 240L98 245M77 240L83 246M95 258L104 265M87 262L93 268M107 284L116 290M142 261L152 258M161 254L169 251M135 279L145 275M168 275L179 270M187 260L196 257"/>
+  </g>
+  <g stroke="#8f7851" stroke-width=".64" opacity=".73"><path d="M224 211L218 222L220 229L215 242M228 220L224 229L225 236L220 248M225 245L220 255L219 263M229 204L224 209M227 226L230 223M221 235L225 232M216 251L219 247M218 268L222 263"/></g>
+  <g stroke="#e5d4a5" stroke-width=".7" opacity=".9"><path d="M226 212L223 221M229 234L226 240M225 252L223 260M216 259L215 268M218 214L214 222"/></g>
+  <path d="M209 181L202 184L207 191L200 197M213 188L208 194L215 199L209 207M225 201L219 202L218 208" stroke="#baa16d" stroke-width=".72" opacity=".65"/>
+  <path d="M145 209C153 207 159 207 165 203M91 212L100 218M180 187L186 189" stroke="#c7b17e" stroke-width=".5" opacity=".65"/>
+
+  <!-- Thin, curling shavings show the pliable, opaque character of the wax. -->
+  <path d="M162 298C172 282 184 276 193 280C202 284 202 295 198 301C195 307 184 309 179 304C173 298 176 292 181 290C185 288 191 290 191 294C192 298 188 300 185 298C183 297 184 294 185 293C180 292 180 299 184 302C190 307 197 300 196 292C194 280 182 284 174 294C170 299 165 305 159 308L151 305Z" fill="url(#frimaire11-shaving)" stroke="#a68e60" stroke-width="1.1"/>
+  <path d="M153 304C162 303 168 294 175 288C180 283 186 280 191 282M180 302C183 306 190 307 195 303M181 292C184 289 189 291 189 294" stroke="#f7efd5" stroke-width=".8"/>
+  <path d="M198 303C206 310 221 312 234 306C240 303 245 298 244 293C243 289 239 289 237 292C235 295 237 299 240 298C237 303 230 305 223 306C214 307 205 303 201 297Z" fill="#e5d6ae" stroke="#ad966b" stroke-width="1"/>
+  <path d="M203 303C217 309 231 309 239 301M238 292C240 290 243 292 242 295" stroke="#f5ebd1" stroke-width=".75"/>
+  <path d="M82 292C77 285 68 283 61 286C53 289 52 298 57 302C63 307 72 302 71 296C70 291 63 291 62 295C61 298 65 299 67 297C65 301 60 301 58 298C55 292 62 288 68 290C73 292 76 298 79 303L88 307L92 304C87 301 85 296 82 292Z" fill="#e7d9b1" stroke="#aa9468" stroke-width="1.05"/>
+  <path d="M57 292C61 285 72 287 77 294L82 301M58 299C61 303 67 301 68 298" stroke="#f8efd6" stroke-width=".8"/>
+  <path d="M220 286L226 282L233 286L229 292L222 291Z" fill="#d9c38e" stroke="#ac9364" stroke-width=".8"/>
+  <path d="M222 286L227 286L229 289" stroke="#f3e6bf" stroke-width=".65"/>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire-01-title frimaire-01-desc">
+  <title id="frimaire-01-title">Raiponce — Campanula rapunculus</title>
+  <desc id="frimaire-01-desc">An uprooted rampion bellflower, with a slender ivory swollen taproot and fine side roots, a loose rosette of long lanceolate leaves and a wiry stalk carrying small lilac blue bells. The five pointed lobes open from long fused corolla tubes above narrow green calyx teeth.</desc>
+  <defs>
+    <linearGradient id="frimaire-01-root" x1="153" y1="248" x2="181" y2="252" gradientUnits="userSpaceOnUse"><stop stop-color="#b8a98c" stop-opacity=".67"/><stop offset=".35" stop-color="#e7dfc6" stop-opacity=".84"/><stop offset=".66" stop-color="#efe7d1" stop-opacity=".88"/><stop offset="1" stop-color="#b5a78b" stop-opacity=".75"/></linearGradient>
+    <linearGradient id="frimaire-01-leaf" x1="109" y1="154" x2="176" y2="223" gradientUnits="userSpaceOnUse"><stop stop-color="#a7b09a" stop-opacity=".55"/><stop offset=".52" stop-color="#929f80" stop-opacity=".7"/><stop offset="1" stop-color="#728366" stop-opacity=".77"/></linearGradient>
+    <linearGradient id="frimaire-01-leaf-right" x1="246" y1="152" x2="176" y2="219" gradientUnits="userSpaceOnUse"><stop stop-color="#acb29a" stop-opacity=".57"/><stop offset=".6" stop-color="#8d9e7e" stop-opacity=".68"/><stop offset="1" stop-color="#778966" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="frimaire-01-stem" x1="176" y1="150" x2="180" y2="151" gradientUnits="userSpaceOnUse"><stop stop-color="#b8b99b"/><stop offset=".48" stop-color="#93a17e"/><stop offset="1" stop-color="#71825c"/></linearGradient>
+    <linearGradient id="frimaire-01-bell" x1="-11" y1="-22" x2="10" y2="-6" gradientUnits="userSpaceOnUse"><stop stop-color="#cdc9e0" stop-opacity=".8"/><stop offset=".45" stop-color="#b4b2d2" stop-opacity=".79"/><stop offset="1" stop-color="#898eb7" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="frimaire-01-rim" x1="-11" y1="-27" x2="10" y2="-20" gradientUnits="userSpaceOnUse"><stop stop-color="#d5cde5" stop-opacity=".8"/><stop offset="1" stop-color="#969cc2" stop-opacity=".85"/></linearGradient>
+  </defs>
+  <!-- The pale edible root has a small shoulder, a long taper and hair-fine lateral roots. -->
+  <path d="M166 216C162 225 156 235 156 248C155 266 160 285 159 301C158 313 154 320 149 328C158 323 164 311 166 299C169 283 176 265 178 250C180 234 174 225 174 216Z" fill="url(#frimaire-01-root)" stroke="#8b8068" stroke-width="1.25"/>
+  <path d="M167 223C161 238 161 254 164 269C166 283 161 307 154 322" stroke="#f2e9d4" stroke-width="1.7" opacity=".82"/>
+  <g stroke="#8f8267" stroke-width=".65" opacity=".8">
+    <path d="M158 239C152 242 152 248 148 251C145 255 142 254 141 259M157 256C149 260 151 268 146 272C144 275 139 275 138 280M160 278C153 282 154 287 151 291L147 293M174 243C180 245 180 251 185 254C190 257 190 262 193 264M172 267C178 269 178 276 182 279L187 281M166 292C173 293 172 300 176 303M160 313C166 316 164 321 166 325"/>
+    <path d="M147 250L144 249M149 264L144 265M182 251L185 250M180 276L181 272M152 288L147 287M172 297L176 296" stroke-width=".45"/>
+  </g>
+  <g stroke="#9c9076" stroke-width=".55" opacity=".7">
+    <path d="M160 237Q165 240 171 238M159 246Q163 249 167 248M169 254L175 253M160 261L164 262M165 275L171 273M162 286L167 285M160 302L163 300M168 227L174 228M157 252L160 253M170 264L173 262M159 274L162 275M164 294L167 293"/>
+    <path d="M174 236L175 242M176 247L175 254M173 259L172 266M169 279L167 285M158 244L158 249M159 264L160 271" stroke-width=".45"/>
+  </g>
+  <!-- Open basal leaves arise on long tapering petioles at the root crown. -->
+  <g stroke="#70805d" stroke-width="1.6">
+    <path d="M169 221C153 208 140 195 127 180M171 220C187 208 203 195 216 181M169 219C158 199 150 177 149 160M171 218C185 193 191 171 196 150M167 218C148 216 125 207 108 197"/>
+  </g>
+  <g stroke="#69775c" stroke-width="1.12">
+    <path d="M129 183C116 181 104 172 93 158L89 150L86 148L85 140L81 136L81 129L76 121C91 126 104 139 111 150L113 156L117 158L119 166L123 169L129 183Z" fill="url(#frimaire-01-leaf)"/>
+    <path d="M151 174C138 163 128 145 125 128L126 122L123 119L125 111L124 102L127 92C136 104 145 124 147 140L146 145L149 150L148 158Z" fill="url(#frimaire-01-leaf)"/>
+    <path d="M190 169C186 151 191 132 197 118L201 112L201 107L206 99L210 90C213 106 211 129 204 145L201 148L200 154L195 160Z" fill="url(#frimaire-01-leaf-right)"/>
+    <path d="M214 184C216 169 226 154 238 142L244 139L246 135L253 132L261 125C258 143 247 161 234 172L229 174L226 179L220 180Z" fill="url(#frimaire-01-leaf-right)"/>
+    <path d="M117 201C101 203 85 198 72 190L66 184L61 183L56 176L47 169C64 169 81 175 96 183L99 187L105 189L108 194Z" fill="url(#frimaire-01-leaf)"/>
+    <path d="M177 213C193 208 211 205 226 207L231 209L238 208L245 212L253 214C240 222 222 225 207 221L202 219L196 220L187 216Z" fill="url(#frimaire-01-leaf-right)"/>
+  </g>
+  <g stroke="#6c7c5d" stroke-width=".65" opacity=".88">
+    <path d="M128 182C111 159 96 140 78 124M118 169L105 164M111 158L109 146M100 146L88 141M98 143L96 136M119 171L116 161M89 135L83 133"/>
+    <path d="M150 172C141 148 133 121 127 96M145 157L134 147M140 143L143 131M136 130L129 123M131 114L133 107M146 158L145 148"/>
+    <path d="M190 169C199 141 205 113 209 94M196 149L194 136M201 132L208 123M204 118L202 109M197 145L203 140M193 159L190 150"/>
+    <path d="M214 184C229 164 246 144 259 128M227 168L228 156M237 155L249 150M246 143L247 136M229 165L239 163M219 177L220 167"/>
+    <path d="M116 201C95 189 73 178 51 171M99 191L89 192M89 186L83 177M76 179L65 178M104 194L98 197M68 176L63 172"/>
+    <path d="M179 214C203 214 228 217 249 214M199 215L210 209M213 216L222 222M228 216L237 211M190 215L199 219M238 215L243 217"/>
+  </g>
+  <g stroke="#748363" stroke-width=".45" opacity=".5">
+    <path d="M91 147L95 153M95 149L99 155M100 158L104 164M132 132L135 140M132 138L135 146M141 120L142 127M196 124L194 131M200 121L198 129M205 138L202 145M234 151L230 158M238 149L234 156M241 161L236 166M80 192L87 195M85 191L92 195M215 220L222 222M220 220L227 221"/>
+  </g>
+  <!-- A single wiry flowering axis with small, alternate, almost sessile upper leaves. -->
+  <path d="M170 219C173 195 176 176 179 155C182 133 190 116 194 96C198 76 199 57 207 41L209 41C202 58 201 78 197 97C193 116 185 134 182 156C179 177 176 198 173 220Z" fill="url(#frimaire-01-stem)" stroke="#6e7e5c" stroke-width="1.05"/>
+  <path d="M172 217C177 189 178 173 181 156M184 139C187 124 193 110 196 96M199 77C201 63 202 53 207 43" stroke="#d0cfad" stroke-width=".6"/>
+  <g fill="url(#frimaire-01-leaf-right)" stroke="#6f7c5f" stroke-width=".9">
+    <path d="M180 158C167 149 160 134 159 120C168 128 176 141 180 158Z"/>
+    <path d="M188 123C200 118 209 108 214 96C202 100 193 111 188 123Z"/>
+    <path d="M198 85C190 81 186 74 185 66C192 70 196 77 198 85Z"/>
+  </g>
+  <g stroke="#6f7f5f" stroke-width=".55"><path d="M180 157L161 123M189 122L212 99M198 84L187 69"/></g>
+  <!-- Unequal pedicels hold the bells obliquely upward; the corolla remains visibly tubular. -->
+  <g stroke="#738263" stroke-width="1.1">
+    <path d="M185 136C174 134 163 126 159 118M193 106C206 102 220 95 228 88M200 70C208 69 218 65 222 58M205 49C201 46 196 43 191 43M201 62C194 61 189 57 188 52"/>
+  </g>
+  <g transform="translate(159 118) rotate(-37)">
+    <path d="M-3 0L-8-6L-5-5L-5-12L0-5L4-12L4-5L8-7L4 1Z" fill="#98a582" stroke="#6e7d5e" stroke-width=".8"/>
+    <path d="M-3-2C-7-8-7-15-10-21L-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L10-18C7-12 6-6 3-2Z" fill="url(#frimaire-01-bell)" stroke="#7b7e9b" stroke-width="1"/>
+    <path d="M-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L8-18L2-21L-3-19L-8-21Z" fill="url(#frimaire-01-rim)" stroke="#8785a6" stroke-width=".65"/>
+    <path d="M-5-22C-4-16-3-9-1-4M3-22C3-16 3-9 2-4M-9-20C-7-13-6-7-4-4" stroke="#8084ad" stroke-width=".55" opacity=".75"/>
+    <path d="M-1-23L0-27L2-29" stroke="#d9cfc9" stroke-width=".7"/>
+  </g>
+  <g transform="translate(228 88) rotate(30) scale(1.04)">
+    <path d="M-3 1L-8-6L-5-5L-5-12L0-5L4-12L4-5L8-7L4 1Z" fill="#98a582" stroke="#6e7d5e" stroke-width=".8"/>
+    <path d="M-3-2C-6-8-7-15-10-21L-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L10-18C7-12 6-6 3-2Z" fill="url(#frimaire-01-bell)" stroke="#7b7e9b" stroke-width="1"/>
+    <path d="M-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L8-18L2-21L-3-19L-8-21Z" fill="url(#frimaire-01-rim)" stroke="#8785a6" stroke-width=".65"/>
+    <path d="M-5-22C-4-16-3-9-1-4M3-22C3-16 3-9 2-4M-9-20C-7-13-6-7-4-4" stroke="#8084ad" stroke-width=".55" opacity=".8"/>
+    <path d="M-1-22L0-27M0-27L-2-29M0-27L2-29" stroke="#dad2cd" stroke-width=".7"/>
+  </g>
+  <g transform="translate(222 58) rotate(24) scale(.84)">
+    <path d="M-3 1L-8-6L-5-5L-5-12L0-5L4-12L4-5L8-7L4 1Z" fill="#9ea98b" stroke="#6e7d5e" stroke-width=".8"/>
+    <path d="M-3-2C-7-8-7-15-10-21L-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L10-18C7-12 6-6 3-2Z" fill="url(#frimaire-01-bell)" stroke="#7b7e9b" stroke-width="1"/>
+    <path d="M-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L8-18L2-21L-3-19L-8-21Z" fill="url(#frimaire-01-rim)" stroke="#8785a6" stroke-width=".65"/>
+    <path d="M-5-22C-4-16-3-9-1-4M3-22C3-16 3-9 2-4M-9-20C-7-13-6-7-4-4" stroke="#8084ad" stroke-width=".55" opacity=".8"/>
+  </g>
+  <g transform="translate(188 52) rotate(-32) scale(.64)">
+    <path d="M-3 1L-8-6L-5-5L-5-12L0-5L4-12L4-5L8-7L4 1Z" fill="#9ea98b" stroke="#6e7d5e" stroke-width="1"/>
+    <path d="M-3-2C-7-8-7-15-10-21L-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L10-18C7-12 6-6 3-2Z" fill="url(#frimaire-01-bell)" stroke="#7b7e9b" stroke-width="1.2"/>
+    <path d="M-13-27L-6-24L-3-31L1-25L7-29L8-22L13-24L8-18L2-21L-3-19L-8-21Z" fill="url(#frimaire-01-rim)" stroke="#8785a6" stroke-width=".75"/>
+    <path d="M-5-22C-4-16-3-9-1-4M3-22C3-16 3-9 2-4" stroke="#8084ad" stroke-width=".65"/>
+  </g>
+  <path d="M192 44C187 45 183 42 181 38C182 34 184 31 187 30C192 32 194 38 192 44Z" fill="#a9abc1" fill-opacity=".76" stroke="#7d8298" stroke-width=".85"/>
+  <path d="M192 44L185 43L181 38M190 44L194 38M186 31C185 35 187 40 190 43" stroke="#748161" stroke-width=".7"/>
+  <path d="M168 219L164 214L167 210L170 214L175 209L176 217L174 222Z" fill="#a49e7d" stroke="#7b7f60" stroke-width=".85"/>
+  <path d="M168 219L170 216M171 220L174 216" stroke="#d5cbae" stroke-width=".65"/>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire-02-title frimaire-02-desc">
+  <title id="frimaire-02-title">Turneps — an old fodder-turnip form · 饲用芜菁</title>
+  <desc id="frimaire-02-desc">An illustrative old fodder-turnip form, freshly lifted: a substantial elongated cream and earthy ochre storage root with a muted green-violet shoulder, a thick rough-leaved crown, a narrowing lower root and fine torn root hairs. Unequal rounded and pointed leaf lobes, branching veins and curved engraved hatching describe the coarse foliage and swollen root without assigning a particular historical cultivar.</desc>
+  <defs>
+    <linearGradient id="frimaire-02-root" x1="114" y1="199" x2="231" y2="225" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b9a782" stop-opacity=".82"/><stop offset=".2" stop-color="#e1d5b6" stop-opacity=".82"/><stop offset=".48" stop-color="#f0e8d0" stop-opacity=".78"/><stop offset=".72" stop-color="#e4d8b9" stop-opacity=".8"/><stop offset="1" stop-color="#b8a27b" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="frimaire-02-shoulder" x1="177" y1="147" x2="181" y2="207" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7f8868" stop-opacity=".86"/><stop offset=".33" stop-color="#8d8b75" stop-opacity=".7"/><stop offset=".67" stop-color="#a0919a" stop-opacity=".53"/><stop offset="1" stop-color="#d7c8b6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="frimaire-02-leaf" x1="122" y1="46" x2="169" y2="151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a0a98a" stop-opacity=".66"/><stop offset=".55" stop-color="#8a9972" stop-opacity=".78"/><stop offset="1" stop-color="#707e5c" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="frimaire-02-right" x1="280" y1="73" x2="199" y2="154" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#aab08d" stop-opacity=".66"/><stop offset=".5" stop-color="#919d79" stop-opacity=".74"/><stop offset="1" stop-color="#73835d" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="frimaire-02-fold" x1="151" y1="88" x2="180" y2="127" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#adb394" stop-opacity=".71"/><stop offset="1" stop-color="#7a8964" stop-opacity=".88"/>
+    </linearGradient>
+  </defs>
+  <!-- The petioles form a rough basal rosette, with a few old stalk bases at the neck. -->
+  <g stroke="#6b7552" stroke-width="1.1" fill="#9aa37c">
+    <path d="M166 160C157 139 141 112 119 84L123 81C146 106 162 132 173 159Z"/>
+    <path d="M175 159C178 130 177 102 181 73L185 72C183 102 184 130 182 160Z"/>
+    <path d="M183 162C200 138 220 114 242 94L246 97C222 119 206 141 190 164Z"/>
+    <path d="M166 159C146 147 124 141 101 137L100 141C125 146 144 154 164 166Z"/>
+    <path d="M188 160C211 150 233 146 260 146L260 151C232 152 212 157 190 167Z"/>
+  </g>
+  <g stroke="#d1ccb0" stroke-width=".7" opacity=".8">
+    <path d="M169 157C158 133 141 108 122 85M179 155C180 125 180 101 183 76M188 157C205 133 224 112 243 97M163 161C141 150 122 144 104 140M193 163C214 154 235 149 257 149"/>
+  </g>
+  <!-- An upright blade has a large terminal lobe and smaller, widely cut lower lobes. -->
+  <path d="M181 108C172 110 165 105 169 99L175 94C162 96 155 89 161 82L167 79C156 76 154 69 161 65C156 59 160 52 166 52C159 46 164 39 171 40C170 32 177 28 183 33C190 29 198 34 197 41C206 40 210 48 203 54C213 57 210 65 203 68C212 73 207 82 198 81L193 80C199 87 195 94 188 94C194 103 186 106 181 108Z" fill="url(#frimaire-02-leaf)" stroke="#64714f" stroke-width="1.2"/>
+  <path d="M181 106C183 84 185 58 180 35" stroke="#677651" stroke-width="1.05"/>
+  <g stroke="#687652" stroke-width=".65" opacity=".87">
+    <path d="M182 94C176 90 169 86 164 84M183 81L165 69M184 69L169 56M183 56L171 43M183 54L198 46M184 66L203 60M183 80C190 74 197 72 202 72M182 93L190 86M177 72L171 66M191 62L195 55M173 87L172 81M186 43L190 38"/>
+  </g>
+  <!-- The largest leaf leans left; its uneven teeth and shallow folds keep the edge organic. -->
+  <path d="M147 125C138 127 132 122 135 116C125 122 116 115 120 108C109 112 100 105 104 98L111 93C97 95 90 89 93 82L99 77C85 78 81 69 87 63C76 60 78 51 86 48C79 42 83 35 90 36L99 39C104 30 113 33 114 42C123 36 131 43 128 50C140 47 147 55 141 63C154 64 157 72 149 78L142 82C153 84 158 93 150 99L143 101C153 106 154 113 146 116L147 125Z" fill="url(#frimaire-02-leaf)" stroke="#64724e" stroke-width="1.25"/>
+  <path d="M145 123C127 99 110 67 96 40" stroke="#65764f" stroke-width="1.15"/>
+  <g stroke="#667851" stroke-width=".67" opacity=".88">
+    <path d="M108 61C99 58 91 53 85 50M107 61C113 56 116 49 116 44M118 80C105 79 96 74 88 67M118 80C130 76 137 70 141 66M130 99C118 98 110 94 106 89M130 99L147 89M139 113L124 108M137 110L145 103M98 47L91 42M113 71L107 68M122 88L112 85M129 96L133 85M137 107L132 104"/>
+    <path d="M95 64L89 58M96 67L91 61M126 56L122 61M130 56L126 62M146 72L140 76M103 101L110 103M125 115L130 118" stroke-width=".48" opacity=".6"/>
+  </g>
+  <!-- A long outward leaf shows the unequal lobes of rough fodder-turnip foliage. -->
+  <path d="M215 134C207 129 209 121 217 119L223 120C217 111 221 102 229 104C226 94 233 88 241 92C237 82 242 75 251 77C245 68 252 60 259 64C257 54 265 49 271 55C277 48 286 52 285 61C297 60 302 68 294 75C305 80 301 88 291 88L286 86C293 95 287 104 277 100C278 112 269 119 260 112C258 125 247 129 241 121C237 133 225 139 220 132L215 134Z" fill="url(#frimaire-02-right)" stroke="#66744f" stroke-width="1.25"/>
+  <path d="M216 132C235 114 260 84 281 59" stroke="#697751" stroke-width="1.1"/>
+  <g stroke="#6b7953" stroke-width=".67" opacity=".9">
+    <path d="M228 121L223 109M240 108C235 101 235 96 236 93M251 94L249 81M262 80L262 66M273 67L273 57M267 74L292 69M256 88C266 88 277 83 286 80M245 101L279 96M232 116L256 117M224 126L236 125M241 106L245 96M252 94L264 96M270 84L277 77M255 113L263 107"/>
+    <path d="M292 76L286 78M288 73L281 75M248 85L251 90M242 94L245 99M273 104L266 108M270 101L263 105" stroke-width=".48" opacity=".61"/>
+  </g>
+  <!-- The low left leaf curls down, its thick midrib feeding a broad terminal lobe. -->
+  <path d="M133 148C128 158 119 158 114 152C109 162 99 161 96 154C89 163 80 160 77 153C68 162 58 157 59 149C50 153 43 146 48 139C39 136 40 127 48 124C45 115 54 110 61 115C65 106 76 109 78 117C86 109 95 115 94 122C104 116 112 121 111 129C123 124 132 130 126 138C134 138 137 142 133 148Z" fill="url(#frimaire-02-leaf)" stroke="#62704c" stroke-width="1.2"/>
+  <path d="M132 147C106 135 78 126 48 130" stroke="#657550" stroke-width="1.1"/>
+  <g stroke="#6c7953" stroke-width=".65" opacity=".88">
+    <path d="M62 129L58 117M63 129L58 146M78 129L81 117M79 130L77 148M95 134L99 122M95 134L94 153M111 140L115 131M112 140L111 153M124 144L128 138M53 130L49 126M67 139L64 147M87 136L85 143M101 132L106 127M119 145L120 151"/>
+  </g>
+  <!-- A foreshortened leaf droops toward the right, exposing a pale fold at its edge. -->
+  <path d="M225 151C230 141 241 139 246 146C250 135 259 133 264 140C271 130 280 134 280 142C291 136 299 142 295 150C306 151 306 160 298 163C305 172 299 180 290 176C290 186 281 190 274 184C269 193 259 190 259 181C249 185 242 178 246 171C236 175 229 168 234 161C226 163 221 159 225 151Z" fill="url(#frimaire-02-right)" stroke="#68754f" stroke-width="1.2"/>
+  <path d="M225 153C249 151 275 158 286 180" stroke="#6b7953" stroke-width="1.05"/>
+  <path d="M249 166C263 165 279 173 286 180C281 172 279 167 276 164C266 158 257 156 249 157Z" fill="#b7b99a" fill-opacity=".42"/>
+  <g stroke="#6c7954" stroke-width=".64" opacity=".9">
+    <path d="M239 153L242 146M241 153L236 162M254 156L258 142M255 157L248 168M268 163L277 142M269 163L263 180M281 174L290 164M285 178L280 184M273 154L282 148M263 172L270 176"/>
+  </g>
+  <!-- A young inner blade is folded along its midrib, with a short fleshy stalk. -->
+  <path d="M173 157C170 138 160 119 153 106L157 102C168 118 175 139 178 157Z" fill="#9fa780" stroke="#6e7955" stroke-width="1"/>
+  <path d="M156 116C144 112 138 105 144 99C134 97 135 88 141 85C135 78 141 72 147 74C148 66 157 67 161 74C169 70 176 77 172 84C181 86 179 95 172 98C180 105 174 115 167 113L162 120Z" fill="url(#frimaire-02-fold)" stroke="#63724e" stroke-width="1.1"/>
+  <path d="M162 118C152 103 147 86 150 73C157 86 159 102 162 118Z" fill="#c1c3a1" fill-opacity=".35" stroke="#7c885e" stroke-width=".65"/>
+  <g stroke="#667651" stroke-width=".58"><path d="M153 93L142 87M157 104L145 101M155 95L170 85M159 109L173 102M151 83L157 77"/></g>
+  <!-- Short stalk scars sit above a broad muted green-violet shoulder. -->
+  <g fill="#939a76" stroke="#737958" stroke-width=".95">
+    <path d="M158 162L150 150L153 144L160 151L164 163Z"/>
+    <path d="M168 158L163 139L166 135L172 143L174 160Z"/>
+    <path d="M180 158L185 141L190 139L190 148L186 161Z"/>
+    <path d="M190 161L199 151L203 153L199 164Z"/>
+  </g>
+  <!-- The large root is markedly longer than a squat table turnip and retains a heavy taper. -->
+  <path d="M160 155C147 155 132 162 123 174C111 189 107 208 111 229C115 251 127 270 143 286C155 299 169 308 180 316C189 323 194 326 202 325C194 324 189 318 186 311C183 304 189 297 195 289C210 270 226 250 233 226C239 205 238 187 228 174C220 162 204 158 189 157C180 158 170 160 160 155Z" fill="url(#frimaire-02-root)" stroke="#81745d" stroke-width="1.5"/>
+  <path d="M160 155C147 155 132 162 123 174C116 183 113 194 111 204C125 198 131 207 143 202C156 197 163 204 176 201C191 197 203 207 216 202C225 199 231 202 237 205C237 192 234 182 228 174C220 162 204 158 189 157C180 158 170 160 160 155Z" fill="url(#frimaire-02-shoulder)"/>
+  <path d="M151 164C164 168 180 168 194 163" stroke="#6b6e56" stroke-width="1.05"/>
+  <path d="M127 179C130 170 141 165 151 164M204 165C216 168 225 175 228 183M117 203C115 220 120 239 126 251M226 217C225 239 215 256 206 269M148 286C160 299 170 304 178 311" stroke="#a19170" stroke-width=".75" opacity=".76"/>
+  <!-- Sparse shoulder striations and long curved engraved strokes leave a broad pale centre. -->
+  <g stroke="#7d7c62" stroke-width=".62" opacity=".68">
+    <path d="M133 172C127 180 124 189 123 196M137 170C133 178 129 186 128 192M143 167C139 173 137 178 136 184M150 162L148 175M158 163L158 179M169 165L170 178M183 165L185 177M195 164C200 172 202 180 203 185M207 169C215 176 217 184 220 191M215 172C223 181 227 190 229 199M213 182C217 187 218 192 219 196"/>
+  </g>
+  <g stroke="#928264" stroke-width=".58" opacity=".72">
+    <path d="M114 208C111 224 116 240 122 252M118 210C116 228 121 244 128 255M122 222C123 238 129 251 136 262M123 246C129 262 139 274 148 283M129 257C137 272 147 283 157 291M142 277C153 291 165 300 175 306M148 281C158 293 169 301 177 306M228 205C231 217 226 233 222 243M233 213C231 229 227 241 220 254M228 234C225 247 218 259 210 269M222 244C216 258 207 271 197 281M214 259C206 273 197 282 190 291M205 275C198 284 193 291 188 299M191 291C186 298 184 304 186 311M181 309C185 316 190 321 196 323"/>
+    <path d="M119 196L123 194M136 199C140 198 143 199 145 200M207 201L214 202M121 218L126 217M132 237L138 239M219 230L223 228M213 248L216 245M146 268L151 272M184 294L188 290M160 284L164 287M197 262L201 259M159 224L164 224M188 239L194 237" opacity=".65"/>
+  </g>
+  <!-- Torn fine laterals emerge irregularly along the taper. -->
+  <g stroke="#8c7c61" stroke-width=".65" opacity=".86">
+    <path d="M114 228C105 234 104 242 97 247L92 248M103 242L98 241M124 255C116 259 119 269 111 274M117 266L112 265M144 284C139 291 142 296 136 302M140 296L134 297M232 223C240 226 241 234 247 237L252 236M241 232L240 238M218 259C225 262 224 270 231 274M226 269L231 267M192 296C199 298 200 304 207 307M201 302L207 301M180 315C174 318 174 322 170 326"/>
+  </g>
+  <!-- A few short abrasions describe coarse leaf texture without a dotted surface. -->
+  <g stroke="#677550" stroke-width=".45" opacity=".5">
+    <path d="M164 59L168 64M166 59L170 64M198 43L195 48M202 72L198 75M174 99L178 101M84 43L89 46M84 46L89 49M135 54L132 59M138 54L135 59M148 91L143 94M113 108L117 111M269 56L268 61M283 58L279 63M294 83L288 84M237 116L243 120M249 119L252 115M50 116L54 121M53 117L57 122M63 151L69 152M66 154L72 155M88 118L87 123M106 149L109 152M294 157L290 157M291 172L295 174M261 183L265 182M146 78L148 82M167 110L170 107"/>
+  </g>
+</svg>

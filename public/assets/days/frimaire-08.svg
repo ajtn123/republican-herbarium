@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire08-title frimaire08-desc">
+  <title id="frimaire08-title">Miel — honey</title>
+  <desc id="frimaire08-desc">A plain shallow earthenware bowl filled with clear amber honey. A turned wooden dipper is raised above it, drawing a slender unbroken thread back to the liquid. A broken piece of golden comb shows open hexagonal wax cells and its thick cut edge; a small honeybee hovers to one side. Warm translucent washes and fine umber engraving describe the materials.</desc>
+  <defs>
+    <linearGradient id="frimaire08-clay" x1="70" y1="234" x2="227" y2="288" gradientUnits="userSpaceOnUse"><stop stop-color="#c8b59a" stop-opacity=".76"/><stop offset=".35" stop-color="#ddcbb0" stop-opacity=".74"/><stop offset=".7" stop-color="#b8a181" stop-opacity=".84"/><stop offset="1" stop-color="#968064" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="frimaire08-rim" x1="81" y1="194" x2="224" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#e1d2b8" stop-opacity=".9"/><stop offset=".6" stop-color="#c6b18e" stop-opacity=".93"/><stop offset="1" stop-color="#ab9572" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="frimaire08-honey" x1="116" y1="196" x2="201" y2="242" gradientUnits="userSpaceOnUse"><stop stop-color="#d6b15d" stop-opacity=".7"/><stop offset=".45" stop-color="#c99a42" stop-opacity=".83"/><stop offset="1" stop-color="#a16c2c" stop-opacity=".92"/></linearGradient>
+    <linearGradient id="frimaire08-wood" x1="0" y1="-6" x2="0" y2="7" gradientUnits="userSpaceOnUse"><stop stop-color="#c3ac7e" stop-opacity=".92"/><stop offset=".45" stop-color="#b89a65" stop-opacity=".9"/><stop offset="1" stop-color="#91774d" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="frimaire08-coating" x1="-9" y1="-15" x2="11" y2="18" gradientUnits="userSpaceOnUse"><stop stop-color="#cead61" stop-opacity=".78"/><stop offset=".45" stop-color="#c5963d" stop-opacity=".86"/><stop offset="1" stop-color="#a5742d" stop-opacity=".92"/></linearGradient>
+    <linearGradient id="frimaire08-wax" x1="15" y1="0" x2="48" y2="61" gradientUnits="userSpaceOnUse"><stop stop-color="#dfc789" stop-opacity=".88"/><stop offset=".55" stop-color="#d1b06b" stop-opacity=".9"/><stop offset="1" stop-color="#bf9952" stop-opacity=".94"/></linearGradient>
+    <clipPath id="frimaire08-comb-clip"><path d="M0 8L13 1L24 0L33-7L47-2L59-3L65 8L72 15L69 29L72 35L62 47L49 49L40 57L27 54L17 58L7 46L-2 40L-4 26L0 18Z"/></clipPath>
+  </defs>
+  <!-- Unglazed clay: a broad lip above a low, simply turned bowl. -->
+  <path d="M63 218C68 241 78 269 97 285C112 299 138 305 158 304C184 304 209 297 225 282C240 267 248 241 251 218Z" fill="url(#frimaire08-clay)" stroke="#7c6951" stroke-width="1.6"/>
+  <path d="M111 294C121 307 185 311 202 294L199 303C182 313 128 312 114 303Z" fill="#ac9472" fill-opacity=".8" stroke="#7b6850" stroke-width="1.1"/>
+  <path d="M117 302C138 309 177 310 195 303" stroke="#d4bea0" stroke-width=".7"/>
+  <path d="M73 236C84 274 112 292 154 295C188 297 216 285 232 256M78 242C90 270 114 285 146 288M178 289C197 286 213 277 223 265" stroke="#947e5d" stroke-width=".65" opacity=".7"/>
+  <path d="M88 251C99 268 113 277 128 280M104 279C121 288 139 292 157 291M184 286L199 281" stroke="#e4d0ad" stroke-width=".85" opacity=".85"/>
+  <g stroke="#8a7354" stroke-width=".5" opacity=".63">
+    <path d="M69 235L74 247M73 245L79 257M80 258L87 270M88 270L96 280M99 283L108 289M111 291L123 297M127 298L138 301M146 301L157 302M171 301L181 300M194 296L204 292M215 285L223 277M226 274L233 262M235 255L240 242M241 238L245 226"/>
+    <path d="M85 242L89 248M92 254L98 262M112 274L118 278M132 285L140 287M163 292L172 291M199 278L206 273M223 247L226 240M233 237L235 232M100 244L108 251M120 256L129 260M140 272L150 274M182 273L191 270"/>
+  </g>
+  <ellipse cx="157" cy="216" rx="95" ry="31" fill="url(#frimaire08-rim)" stroke="#7b684e" stroke-width="1.5"/>
+  <ellipse cx="157" cy="216" rx="85" ry="23.5" fill="#927346" fill-opacity=".7" stroke="#8d7046" stroke-width=".9"/>
+  <path d="M74 217C76 203 113 193 154 193C197 192 235 201 240 216C235 228 198 237 157 237C115 237 81 230 74 217Z" fill="url(#frimaire08-honey)" stroke="#956e32" stroke-width=".85"/>
+  <path d="M82 212C91 201 124 197 151 198M192 199C212 202 227 206 232 213M87 224C111 235 167 237 196 231" stroke="#efda9d" stroke-width="1.05" opacity=".85"/>
+  <path d="M100 206C118 201 137 202 148 201M106 209C115 207 122 206 131 206M203 224C215 222 223 219 227 215" stroke="#f2ddb0" stroke-width=".65" opacity=".81"/>
+  <path d="M66 220C79 239 123 246 159 246C199 246 240 234 248 220M78 231C105 245 160 247 196 239" stroke="#ead8b9" stroke-width=".8" opacity=".9"/>
+  <path d="M76 227C92 239 123 242 142 243M195 240C220 235 237 229 244 221M93 197C105 193 120 190 136 188M193 190C213 194 231 200 241 207" stroke="#8d7757" stroke-width=".55" opacity=".65"/>
+  <!-- A fine viscous thread joins the dipper to a small mound in the liquid. -->
+  <path d="M178 153C181 166 175 177 177 191C178 201 176 207 177 213C178 217 182 218 183 219C181 222 172 222 170 219C171 217 176 217 175 213C174 202 177 192 175 183C174 172 179 162 176 155Z" fill="#bd8b36" fill-opacity=".82" stroke="#a87b32" stroke-width=".65"/>
+  <path d="M177 160C179 172 175 180 177 191M177 199L176 211" stroke="#ead095" stroke-width=".65" opacity=".95"/>
+  <path d="M165 220C168 225 185 227 191 221M159 222C167 230 189 231 198 223" stroke="#b1843c" stroke-width=".6" opacity=".66"/>
+  <path d="M170 223C175 225 184 224 187 223" stroke="#efd79a" stroke-width=".7"/>
+  <!-- The turned dipper has transverse grooves, a slender shaft and a rounded hand end. -->
+  <g transform="translate(168 141) rotate(-39)">
+    <path d="M16-4C48-4 84-5 125-6C135-7 140-4 141 0C141 4 136 7 128 6L17 4Z" fill="url(#frimaire08-wood)" stroke="#7b694a" stroke-width="1.2"/>
+    <path d="M24-2C56-2 91-3 126-4M31 2L67 2M78 2L124 3" stroke="#e1c795" stroke-width=".7" opacity=".85"/>
+    <path d="M37 1L58 0M66-2L92-2M97 1L122 1M129-3Q136-2 137 0M132 4L136 3" stroke="#8c744c" stroke-width=".5" opacity=".82"/>
+    <path d="M-25-1C-25-9-15-17-2-18C12-18 23-11 23-1C23 9 13 17 0 18C-13 18-24 10-25-1Z" fill="url(#frimaire08-coating)" stroke="#8b682e" stroke-width="1.35"/>
+    <g stroke="#8f6c30" stroke-width="1">
+      <path d="M-17-12C-22-7-22 6-16 12M-9-16C-14-8-14 9-7 16M0-18C-5-9-5 10 2 18M10-15C5-7 6 10 12 14M18-10C15-5 15 5 19 9"/>
+    </g>
+    <g stroke="#e5c582" stroke-width=".65" opacity=".91">
+      <path d="M-14-13C-18-7-18 3-15 8M-6-16C-10-7-9 6-5 13M3-16C-1-8 0 6 4 13M12-13C9-7 10 3 13 8M20-6L20 2"/>
+    </g>
+    <path d="M-22-4C-18-10-12-12-8-13M-1-14C3-14 7-13 10-11M-19 9C-15 13-10 15-4 15" stroke="#edce89" stroke-width=".65" opacity=".75"/>
+    <path d="M-6 16C-1 18 2 21 7 21C10 20 10 16 12 14" fill="#b98835" fill-opacity=".85" stroke="#a27730" stroke-width=".65"/>
+  </g>
+  <!-- A small broken comb lies beside the bowl; the cut edge shows wax partitions. -->
+  <g transform="translate(243 245) rotate(9) scale(1 .83)">
+    <path d="M-2 40L7 46L17 58L27 54L40 57L49 49L62 47L72 35L70 48L61 59L49 61L40 69L27 65L16 69L6 57L-2 51Z" fill="#ae8b49" fill-opacity=".9" stroke="#8e7547" stroke-width="1.15"/>
+    <g stroke="#80663d" stroke-width=".6" opacity=".75"><path d="M7 47L7 57M14 55L14 64M20 58L20 65M28 55L28 65M35 57L35 67M42 56L42 67M49 50L49 60M56 49L56 59M63 47L62 57M68 42L67 51"/></g>
+    <path d="M0 8L13 1L24 0L33-7L47-2L59-3L65 8L72 15L69 29L72 35L62 47L49 49L40 57L27 54L17 58L7 46L-2 40L-4 26L0 18Z" fill="url(#frimaire08-wax)" stroke="#a3884f" stroke-width="1.2"/>
+    <g clip-path="url(#frimaire08-comb-clip)">
+      <path d="M-10.70 -6.00L-7.35 -11.78L-0.65 -11.78L2.70 -6.00L-0.65 -0.22L-7.35 -0.22Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M-9.80 -5.70L-7.05 -10.78L-1.15 -10.78" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M-6.35 -1.32L-1.15 -1.32L1.70 -5.50" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M-10.94 7.20L-7.47 1.35L-0.53 1.35L2.94 7.20L-0.53 13.05L-7.47 13.05Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M-10.04 7.50L-7.17 2.35L-1.03 2.35" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M-10.82 20.40L-7.41 14.48L-0.59 14.48L2.82 20.40L-0.59 26.32L-7.41 26.32Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M-9.92 20.70L-7.11 15.48L-1.09 15.48" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M-10.70 33.60L-7.35 27.82L-0.65 27.82L2.70 33.60L-0.65 39.38L-7.35 39.38Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M-9.80 33.90L-7.05 28.82L-1.15 28.82" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M-6.35 38.28L-1.15 38.28L1.70 34.10" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M-10.94 46.80L-7.47 40.95L-0.53 40.95L2.94 46.80L-0.53 52.65L-7.47 52.65Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M-10.04 47.10L-7.17 41.95L-1.03 41.95" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M-10.82 60.00L-7.41 54.08L-0.59 54.08L2.82 60.00L-0.59 65.92L-7.41 65.92Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M-9.92 60.30L-7.11 55.08L-1.09 55.08" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M0.58 0.60L3.99 -5.32L10.81 -5.32L14.22 0.60L10.81 6.52L3.99 6.52Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M1.48 0.90L4.29 -4.32L10.31 -4.32" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M0.70 13.80L4.05 8.02L10.75 8.02L14.10 13.80L10.75 19.58L4.05 19.58Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M1.60 14.10L4.35 9.02L10.25 9.02" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M0.46 27.00L3.93 21.15L10.87 21.15L14.34 27.00L10.87 32.85L3.93 32.85Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M1.36 27.30L4.23 22.15L10.37 22.15" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M4.93 31.75L10.37 31.75L13.34 27.50" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M0.58 40.20L3.99 34.28L10.81 34.28L14.22 40.20L10.81 46.12L3.99 46.12Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M1.48 40.50L4.29 35.28L10.31 35.28" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M0.70 53.40L4.05 47.62L10.75 47.62L14.10 53.40L10.75 59.18L4.05 59.18Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M1.60 53.70L4.35 48.62L10.25 48.62" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M0.46 66.60L3.93 60.75L10.87 60.75L14.34 66.60L10.87 72.45L3.93 72.45Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M1.36 66.90L4.23 61.75L10.37 61.75" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M4.93 71.35L10.37 71.35L13.34 67.10" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M11.86 -6.00L15.33 -11.85L22.27 -11.85L25.74 -6.00L22.27 -0.15L15.33 -0.15Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M12.76 -5.70L15.63 -10.85L21.77 -10.85" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M11.98 7.20L15.39 1.28L22.21 1.28L25.62 7.20L22.21 13.12L15.39 13.12Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M12.88 7.50L15.69 2.28L21.71 2.28" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M16.39 12.02L21.71 12.02L24.62 7.70" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M12.10 20.40L15.45 14.62L22.15 14.62L25.50 20.40L22.15 26.18L15.45 26.18Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M13.00 20.70L15.75 15.62L21.65 15.62" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M11.86 33.60L15.33 27.75L22.27 27.75L25.74 33.60L22.27 39.45L15.33 39.45Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M12.76 33.90L15.63 28.75L21.77 28.75" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M11.98 46.80L15.39 40.88L22.21 40.88L25.62 46.80L22.21 52.72L15.39 52.72Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M12.88 47.10L15.69 41.88L21.71 41.88" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M16.39 51.62L21.71 51.62L24.62 47.30" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M12.10 60.00L15.45 54.22L22.15 54.22L25.50 60.00L22.15 65.78L15.45 65.78Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M13.00 60.30L15.75 55.22L21.65 55.22" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M23.50 0.60L26.85 -5.18L33.55 -5.18L36.90 0.60L33.55 6.38L26.85 6.38Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M24.40 0.90L27.15 -4.18L33.05 -4.18" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M27.85 5.28L33.05 5.28L35.90 1.10" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M23.26 13.80L26.73 7.95L33.67 7.95L37.14 13.80L33.67 19.65L26.73 19.65Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M24.16 14.10L27.03 8.95L33.17 8.95" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M23.38 27.00L26.79 21.08L33.61 21.08L37.02 27.00L33.61 32.92L26.79 32.92Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M24.28 27.30L27.09 22.08L33.11 22.08" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M23.50 40.20L26.85 34.42L33.55 34.42L36.90 40.20L33.55 45.98L26.85 45.98Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M24.40 40.50L27.15 35.42L33.05 35.42" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M27.85 44.88L33.05 44.88L35.90 40.70" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M23.26 53.40L26.73 47.55L33.67 47.55L37.14 53.40L33.67 59.25L26.73 59.25Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M24.16 53.70L27.03 48.55L33.17 48.55" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M23.38 66.60L26.79 60.68L33.61 60.68L37.02 66.60L33.61 72.52L26.79 72.52Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M24.28 66.90L27.09 61.68L33.11 61.68" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M34.78 -6.00L38.19 -11.92L45.01 -11.92L48.42 -6.00L45.01 -0.08L38.19 -0.08Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M35.68 -5.70L38.49 -10.92L44.51 -10.92" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M34.90 7.20L38.25 1.42L44.95 1.42L48.30 7.20L44.95 12.98L38.25 12.98Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M35.80 7.50L38.55 2.42L44.45 2.42" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M34.66 20.40L38.13 14.55L45.07 14.55L48.54 20.40L45.07 26.25L38.13 26.25Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M35.56 20.70L38.43 15.55L44.57 15.55" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M39.13 25.15L44.57 25.15L47.54 20.90" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M34.78 33.60L38.19 27.68L45.01 27.68L48.42 33.60L45.01 39.52L38.19 39.52Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M35.68 33.90L38.49 28.68L44.51 28.68" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M34.90 46.80L38.25 41.02L44.95 41.02L48.30 46.80L44.95 52.58L38.25 52.58Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M35.80 47.10L38.55 42.02L44.45 42.02" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M34.66 60.00L38.13 54.15L45.07 54.15L48.54 60.00L45.07 65.85L38.13 65.85Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M35.56 60.30L38.43 55.15L44.57 55.15" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M39.13 64.75L44.57 64.75L47.54 60.50" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M46.06 0.60L49.53 -5.25L56.47 -5.25L59.94 0.60L56.47 6.45L49.53 6.45Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M46.96 0.90L49.83 -4.25L55.97 -4.25" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M46.18 13.80L49.59 7.88L56.41 7.88L59.82 13.80L56.41 19.72L49.59 19.72Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M47.08 14.10L49.89 8.88L55.91 8.88" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M50.59 18.62L55.91 18.62L58.82 14.30" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M46.30 27.00L49.65 21.22L56.35 21.22L59.70 27.00L56.35 32.78L49.65 32.78Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M47.20 27.30L49.95 22.22L55.85 22.22" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M46.06 40.20L49.53 34.35L56.47 34.35L59.94 40.20L56.47 46.05L49.53 46.05Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M46.96 40.50L49.83 35.35L55.97 35.35" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M46.18 53.40L49.59 47.48L56.41 47.48L59.82 53.40L56.41 59.32L49.59 59.32Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M47.08 53.70L49.89 48.48L55.91 48.48" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M50.59 58.22L55.91 58.22L58.82 53.90" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M46.30 66.60L49.65 60.82L56.35 60.82L59.70 66.60L56.35 72.38L49.65 72.38Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M47.20 66.90L49.95 61.82L55.85 61.82" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M57.70 -6.00L61.05 -11.78L67.75 -11.78L71.10 -6.00L67.75 -0.22L61.05 -0.22Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M58.60 -5.70L61.35 -10.78L67.25 -10.78" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M62.05 -1.32L67.25 -1.32L70.10 -5.50" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M57.46 7.20L60.93 1.35L67.87 1.35L71.34 7.20L67.87 13.05L60.93 13.05Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M58.36 7.50L61.23 2.35L67.37 2.35" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M57.58 20.40L60.99 14.48L67.81 14.48L71.22 20.40L67.81 26.32L60.99 26.32Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M58.48 20.70L61.29 15.48L67.31 15.48" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M57.70 33.60L61.05 27.82L67.75 27.82L71.10 33.60L67.75 39.38L61.05 39.38Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M58.60 33.90L61.35 28.82L67.25 28.82" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M62.05 38.28L67.25 38.28L70.10 34.10" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M57.46 46.80L60.93 40.95L67.87 40.95L71.34 46.80L67.87 52.65L60.93 52.65Z" fill="#b28b3d" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M58.36 47.10L61.23 41.95L67.37 41.95" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M57.58 60.00L60.99 54.08L67.81 54.08L71.22 60.00L67.81 65.92L60.99 65.92Z" fill="#ae873f" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M58.48 60.30L61.29 55.08L67.31 55.08" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M68.98 0.60L72.39 -5.32L79.21 -5.32L82.62 0.60L79.21 6.52L72.39 6.52Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M69.88 0.90L72.69 -4.32L78.71 -4.32" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M69.10 13.80L72.45 8.02L79.15 8.02L82.50 13.80L79.15 19.58L72.45 19.58Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M70.00 14.10L72.75 9.02L78.65 9.02" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M68.86 27.00L72.33 21.15L79.27 21.15L82.74 27.00L79.27 32.85L72.33 32.85Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M69.76 27.30L72.63 22.15L78.77 22.15" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M73.33 31.75L78.77 31.75L81.74 27.50" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+      <path d="M68.98 40.20L72.39 34.28L79.21 34.28L82.62 40.20L79.21 46.12L72.39 46.12Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M69.88 40.50L72.69 35.28L78.71 35.28" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M69.10 53.40L72.45 47.62L79.15 47.62L82.50 53.40L79.15 59.18L72.45 59.18Z" fill="#bc9444" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M70.00 53.70L72.75 48.62L78.65 48.62" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M68.86 66.60L72.33 60.75L79.27 60.75L82.74 66.60L79.27 72.45L72.33 72.45Z" fill="#b99349" fill-opacity=".58" stroke="#a38346" stroke-width=".7"/>
+      <path d="M69.76 66.90L72.63 61.75L78.77 61.75" stroke="#f0d997" stroke-width=".65"/>
+      <path d="M73.33 71.35L78.77 71.35L81.74 67.10" stroke="#9e793a" stroke-width=".5" opacity=".7"/>
+    </g>
+    <path d="M3 10L3 17M14 3L22 3M31-4L35-4M53 0L58 0M68 17L67 25M9 47L16 54M31 53L39 55M53 47L60 45" stroke="#e9cd8a" stroke-width=".7"/>
+  </g>
+  <!-- Honeybee: two pairs of veined wings, six folded legs and a banded abdomen. -->
+  <g transform="translate(87 136) rotate(-20)">
+    <g fill="#e2dfcc" fill-opacity=".47" stroke="#9b9b80" stroke-width=".65">
+      <path d="M1-3C-12-4-19-15-15-21C-10-25-1-15 3-5Z"/>
+      <path d="M3-4C2-15 7-26 13-23C19-19 13-9 6-3Z"/>
+      <path d="M0-2C-10-2-16-7-15-11C-12-15-5-9 1-4Z"/>
+      <path d="M5-3C11-10 18-13 20-9C21-5 12-1 6-1Z"/>
+    </g>
+    <g stroke="#a5a38b" stroke-width=".4" opacity=".8"><path d="M1-5L-13-20M-4-10L-11-12M4-5L12-21M8-13L9-19M-1-3L-12-10M7-2L17-8"/></g>
+    <path d="M-1 3C-9 7-11 15-5 20C0 23 6 17 8 10C9 5 5 2-1 3Z" fill="#bd9b53" fill-opacity=".9" stroke="#71654b" stroke-width=".85"/>
+    <path d="M-6 8C-3 11 2 12 6 11M-8 13C-4 16 0 17 3 16M-6 18L-2 20" stroke="#6d6550" stroke-width="2.1"/>
+    <ellipse cx="2" cy="1" rx="5.4" ry="6.3" fill="#8a8060" stroke="#6b644b" stroke-width=".8"/>
+    <path d="M-2-3L-3-5M0-5L0-7M3-5L4-7M6-2L8-3M-3 1L-5 1M-2 4L-4 5" stroke="#c0b38a" stroke-width=".7"/>
+    <ellipse cx="3" cy="-6" rx="3.7" ry="3.2" fill="#79745b" stroke="#615e4b" stroke-width=".65"/>
+    <ellipse cx="5.2" cy="-6.8" rx="1.1" ry="1.5" fill="#4f5144"/>
+    <g stroke="#756d53" stroke-width=".65"><path d="M1-8L-1-12L-3-13M5-9L8-12L11-12M-2 0L-8 2L-12 0M-2 4L-9 7L-11 11M0 7L-5 14L-4 17M6 0L12 2L15 0M7 4L14 6L17 10M6 7L12 13L12 16"/></g>
+  </g>
+</svg>

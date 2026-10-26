@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire05-title frimaire05-desc">
+  <title id="frimaire05-title">Frimaire 5 — Cochon</title>
+  <desc id="frimaire05-desc">A calm adult farm pig stands facing left, its heavy grey-rose and ochre barrel resting on four short sturdy legs. Small folded ears, a broad blunt snout with two nostrils, divided dark hooves with little dewclaws, sparse bristles and a tightly curled tail distinguish the animal. Fine curved engraving follows the jowl, shoulder and rounded haunch beneath translucent muted washes.</desc>
+  <defs>
+    <linearGradient id="frimaire05-coat" x1="185" y1="121" x2="198" y2="237" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c1b39f" stop-opacity=".76"/>
+      <stop offset=".46" stop-color="#b3a08e" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#968172" stop-opacity=".89"/>
+    </linearGradient>
+    <linearGradient id="frimaire05-head" x1="97" y1="143" x2="116" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b6a38e" stop-opacity=".86"/>
+      <stop offset=".5" stop-color="#bba18f" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#9c8374" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="frimaire05-far" x1="186" y1="216" x2="195" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8d7c6c" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#aa9680" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="frimaire05-ear" x1="100" y1="118" x2="108" y2="163" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#bcaa93" stop-opacity=".91"/>
+      <stop offset="1" stop-color="#ad8d7e" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="frimaire05-snout" x1="43" y1="188" x2="66" y2="219" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c9b19f" stop-opacity=".92"/>
+      <stop offset=".55" stop-color="#bba090" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#a58a79" stop-opacity=".95"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#66594b">
+    <!-- The distant legs are set slightly inward beneath the broad trunk. -->
+    <path d="M160 210C168 210 175 216 175 228L172 251L175 265L175 274L171 280L154 280L153 276L158 270L159 252L155 230Z" fill="url(#frimaire05-far)" stroke-width="1.25"/>
+    <path d="M246 207C257 208 260 220 255 232L248 246L255 258L253 271L255 276L252 281L234 281L233 276L239 271L244 258L237 246C232 238 233 225 238 217Z" fill="url(#frimaire05-far)" stroke-width="1.25"/>
+    <path d="M158 270C164 272 169 272 174 270L175 275L171 280L154 280L153 276Z" fill="#7b6f5b" stroke-width=".9"/>
+    <path d="M239 271C244 273 249 274 253 272L255 276L252 281L234 281L233 276Z" fill="#7b6f5b" stroke-width=".9"/>
+    <path d="M164 274L163 280M244 275L243 281M162 235L164 251M242 242L249 256M159 258L164 260M243 262L247 265" stroke-width=".65" opacity=".75"/>
+    <!-- A slender dock makes a small open spiral beyond the rump. -->
+    <path d="M288 150C299 148 307 141 307 134C306 128 300 128 298 133C295 139 301 145 307 143C314 141 317 133 314 127C312 122 306 121 302 123L301 120C307 116 316 120 318 127C322 137 315 147 307 148C299 149 292 141 294 134C295 126 304 123 309 129C315 137 306 149 291 154Z" fill="#b69b86" fill-opacity=".9" stroke-width="1.05"/>
+    <path d="M289 152C300 150 307 143 308 137M299 132C298 136 300 140 304 141M315 127C317 134 314 141 309 143" stroke="#d3bca1" stroke-width=".65" opacity=".8"/>
+    <!-- Deep barrel, gently arched back and a broad rounded rump. -->
+    <path d="M118 137C134 126 151 121 174 120C201 117 223 117 246 119C268 121 286 134 294 153C303 174 300 196 288 213C278 228 261 236 241 238C216 241 191 239 172 235C151 232 135 226 124 214C113 202 108 187 109 171C109 157 112 145 118 137Z" fill="url(#frimaire05-coat)" stroke-width="1.6"/>
+    <!-- Near foreleg descends almost straight from the heavy shoulder. -->
+    <path d="M137 205C147 209 153 218 152 232L148 251L149 267L152 277L149 286L128 286L127 281L132 274L132 254C128 244 126 234 127 222Z" fill="url(#frimaire05-coat)" stroke-width="1.4"/>
+    <!-- A fleshy ham narrows to the short bent hind leg. -->
+    <path d="M273 201C285 211 286 221 280 234L270 249L276 262L274 275L277 281L273 287L252 287L251 282L257 276L261 262L252 248C246 240 246 230 250 219Z" fill="url(#frimaire05-coat)" stroke-width="1.4"/>
+    <!-- Far ear rises only a little above the low poll and folds outward. -->
+    <path d="M114 142C112 131 116 121 122 116C132 121 139 131 142 144C133 140 128 141 121 147Z" fill="url(#frimaire05-ear)" stroke-width="1.15"/>
+    <path d="M121 122C127 129 132 134 136 139C130 137 125 137 121 141C123 134 123 128 121 122Z" fill="#9c8070" fill-opacity=".55" stroke-width=".55"/>
+    <!-- The short tapered head broadens into a pendulous jowl below the eye. -->
+    <path d="M110 139C122 137 133 145 138 158C145 175 144 195 134 209C127 220 113 226 99 224C89 223 81 218 75 213L57 215C50 214 46 209 46 202C45 195 48 190 55 187L70 182C78 175 82 161 90 151C95 145 103 141 110 139Z" fill="url(#frimaire05-head)" stroke-width="1.5"/>
+    <!-- A modest leaf-shaped ear folds forward, its tip hanging beside the brow. -->
+    <path d="M112 146C109 133 100 125 88 126C83 132 78 138 74 143C72 148 74 157 78 163C89 162 101 156 107 151Z" fill="url(#frimaire05-ear)" stroke-width="1.25"/>
+    <path d="M89 132C94 140 91 150 79 158C87 158 98 152 105 146C102 139 96 134 89 132Z" fill="#a78b79" fill-opacity=".57" stroke-width=".6"/>
+    <path d="M89 134C92 141 89 149 82 154M77 148L77 155M100 135L105 142M121 125L124 131M128 134L134 139" stroke-width=".6" opacity=".7"/>
+    <path d="M88 129C85 135 81 140 78 144M103 150L97 154" stroke="#d4bca2" stroke-width=".7" opacity=".8"/>
+    <!-- The blunt snout ends in a broad oblique oval, with both nostrils visible. -->
+    <path d="M57 187C64 187 70 193 71 201C72 209 66 216 58 218C50 219 44 215 42 208C40 201 41 193 46 189C49 187 53 186 57 187Z" fill="url(#frimaire05-snout)" stroke-width="1.2"/>
+    <path d="M47 193C49 191 53 191 54 194C55 197 52 200 49 199C46 199 45 196 47 193Z" fill="#776656" stroke-width=".65"/>
+    <path d="M59 196C61 193 65 194 65 197C66 200 63 202 61 201C59 201 58 198 59 196Z" fill="#776656" stroke-width=".65"/>
+    <path d="M47 194L50 193M60 197L62 196M44 206C48 214 59 216 65 209M49 211L50 213M55 213L55 215" stroke-width=".6" opacity=".8"/>
+    <path d="M69 204C77 207 84 208 92 206M71 212C79 214 85 215 91 213M91 213C98 217 106 218 114 214" stroke-width=".85" opacity=".83"/>
+    <!-- A small, quiet eye sits behind the nasal bridge, beneath the folded ear. -->
+    <path d="M94 166C97 162 103 162 107 166C106 170 100 172 96 169Z" fill="#c8b29b" fill-opacity=".7" stroke-width=".65"/>
+    <path d="M96 166C99 164 103 164 105 167C102 169 99 169 96 166Z" fill="#534b40" stroke-width=".6"/>
+    <circle cx="101.7" cy="166" r=".65" fill="#e3d4bb" stroke="none"/>
+    <path d="M94 161C98 158 104 158 108 162M97 172L102 173M105 171L108 168M89 172C85 178 80 184 73 187M109 177C120 181 123 191 120 201C118 208 111 212 105 212" stroke-width=".7" opacity=".78"/>
+    <!-- Subtle folds model the neck, shoulder and weight of the abdomen. -->
+    <path d="M126 150C136 163 138 181 133 196M134 158C146 172 151 190 146 207M147 142C162 157 167 176 163 197C161 209 155 217 150 223M154 145C166 157 173 176 172 190" stroke-width=".85" opacity=".65"/>
+    <path d="M157 214C179 231 208 235 239 232M176 138C193 133 224 132 244 136M185 148C179 168 185 193 196 210M210 145C205 167 210 194 222 212M234 145C233 162 238 178 245 188" stroke-width=".65" opacity=".32"/>
+    <path d="M266 135C250 144 245 160 249 177C252 190 263 198 274 200M285 144C295 160 295 179 286 194M278 203C268 207 259 217 255 229M263 211C253 220 252 231 257 240M270 223C274 227 276 232 275 237" stroke-width=".83" opacity=".69"/>
+    <path d="M142 225C140 238 143 244 143 253M135 253L141 258M140 263L139 272M265 246L270 256M264 264L262 275M269 265L267 275" stroke-width=".75" opacity=".85"/>
+    <path d="M159 129C181 123 218 124 241 125M271 132C282 138 288 145 291 155M171 226C191 234 216 236 236 233M134 258L136 271M264 266L261 275" stroke="#d6c8af" stroke-width="1.65" opacity=".62"/>
+    <!-- Two weight-bearing claws, a deep cleft, and small rear dewclaws. -->
+    <path d="M132 275C137 278 144 279 150 276L152 280L149 286L128 286L127 281Z" fill="#7e705c" stroke-width="1.05"/>
+    <path d="M257 277C262 280 268 281 274 278L277 282L273 287L252 287L251 282Z" fill="#7e705c" stroke-width="1.05"/>
+    <path d="M139 280L138 286M263 282L262 287M132 283L136 283M142 283L148 283M256 284L260 284M266 285L272 285" stroke="#c8b596" stroke-width=".65"/>
+    <path d="M139 281L138 286M264 282L262 287" stroke="#564c40" stroke-width=".75"/>
+    <path d="M147 267L151 268L151 272L148 272ZM131 267L128 267L129 271L132 271ZM271 269L275 270L274 274L271 273ZM258 268L255 267L255 271L258 272Z" fill="#8b7b64" stroke-width=".7"/>
+    <!-- Sparse short bristles and changing curved strokes follow the skin. -->
+    <g stroke="#7e6b56" stroke-width=".55" opacity=".62">
+      <path d="M120 134L121 130M129 130L130 126M141 126L143 122M155 122L157 119M172 120L175 117M191 119L194 116M211 119L214 116M231 119L234 117M253 122L257 120M272 130L276 129"/>
+      <path d="M86 174L82 180M82 182L78 186M90 185L87 190M97 181L96 186M113 180L117 185M119 190L120 195M119 202L116 206M99 218L105 221M111 219L117 218M124 211L127 207"/>
+      <path d="M130 158L132 165M132 169L134 177M132 185L131 191M144 167L148 174M149 179L151 187M149 195L148 202M158 159L161 166M162 174L163 182M162 193L160 201M156 208L153 213"/>
+      <path d="M163 223L171 227M177 230L185 232M192 233L201 235M209 236L218 236M225 235L234 234M241 232L248 229M178 137L187 135M197 133L206 132M219 132L228 133M194 196L199 204M217 199L221 206"/>
+      <path d="M253 149L250 156M250 165L251 172M254 181L258 187M263 191L269 195M286 161L289 168M288 181L285 188M278 201L273 205M266 211L261 217M254 225L252 231M257 241L262 248M269 254L272 260"/>
+      <path d="M131 235L135 241M135 246L140 250M135 259L139 263M135 269L139 272M258 257L262 261M264 270L268 273M156 259L160 263M243 263L246 266"/>
+    </g>
+    <g stroke="#ded0b8" stroke-width=".6" opacity=".68">
+      <path d="M108 148L113 150M116 157L119 164M82 178L77 185M109 184C116 187 119 194 116 201M141 148C150 157 155 169 157 179M178 130L188 128M207 128L220 128M186 157L186 166M210 154L210 164M253 146L250 154M271 145L277 152M283 174L282 182M269 212L263 219M136 262L136 269"/>
+    </g>
+  </g>
+</svg>
