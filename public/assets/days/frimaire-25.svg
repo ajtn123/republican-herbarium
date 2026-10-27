@@ -57,7 +57,7 @@
     <path d="M101 148C92 121 69 110 57 89C43 66 46 42 65 35C88 27 113 37 131 52" stroke="#58513f" stroke-width="1.0"/>
     <path d="M116 144C119 111 137 77 166 55C196 32 235 29 273 37C290 40 306 48 318 58" stroke="#5e5542" stroke-width="1.0"/>
     <path d="M101 148L100 143M116 144L117 138" stroke="#a89a80" stroke-width=".65"/>
-    <path d="M101 148C92 121 69 110 57 89C43 66 46 42 65 35C88 27 113 37 131 52M116 144C119 111 137 77 166 55C196 32 235 29 273 37C290 40 306 48 318 58" stroke="#3e3d31" stroke-width="1.05" stroke-dasharray=".55 7.5" opacity=".65"/> 
+    <path d="M101 148C92 121 69 110 57 89C43 66 46 42 65 35C88 27 113 37 131 52M116 144C119 111 137 77 166 55C196 32 235 29 273 37C290 40 306 48 318 58" stroke="#3e3d31" stroke-width="1.05" stroke-dasharray=".55 7.5" opacity=".65"/>
     <!-- Near foreleg: slender femur, angled tibia and three visible tarsal joints. -->
     <path d="M133 186C137 191 133 198 126 205L111 219L100 258L98 267L90 273L81 277L74 279L73 282L82 281L92 277L102 270L106 260L117 222C128 214 140 205 143 196C145 190 141 186 137 185Z" fill="url(#frimaire25-leg)" stroke-width="1.15"/>
     <path d="M136 190C139 197 128 208 113 220M113 223L103 259M100 266L94 271M91 274L83 278M81 278L80 281M92 273L94 276" stroke="#b3a084" stroke-width=".65"/>
