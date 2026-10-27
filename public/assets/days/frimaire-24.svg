@@ -1,0 +1,297 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fr24-title fr24-desc">
+<title id="fr24-title">Oseille — Rumex acetosa</title>
+<desc id="fr24-desc">A common sorrel specimen with long-stalked oblong arrow-shaped basal leaves, their two pointed lobes turned distinctly backwards. A slender erect jointed stem carries an open, irregularly branched panicle of minute green and muted rusty-red flowers and three-valved fruits. Fine veins, sparse curved hatching, papery stem sheaths and a tapering root are rendered as a botanical engraving with translucent sage washes.</desc>
+<defs>
+ <linearGradient id="fr24-leaf" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#b0b49b" stop-opacity=".55"/><stop offset=".48" stop-color="#98a384" stop-opacity=".64"/><stop offset="1" stop-color="#768666" stop-opacity=".77"/></linearGradient>
+ <linearGradient id="fr24-fold" x1="0" y1="0" x2="1" y2=".2"><stop stop-color="#a8b194" stop-opacity=".6"/><stop offset="1" stop-color="#7e8c69" stop-opacity=".76"/></linearGradient>
+ <linearGradient id="fr24-root" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c0aa83" stop-opacity=".65"/><stop offset="1" stop-color="#998160" stop-opacity=".75"/></linearGradient>
+ <g id="fr24-fruit" stroke="#8e6f5c" stroke-width=".47">
+  <path d="M0 1.8C-2.8 1.3-3.6-.8-2-3C-.2-3.5 1.1-1.9 0 1.8Z" fill="#b18d7b" fill-opacity=".8"/>
+  <path d="M0 1.8C-1.1-.9 .2-3.3 2.5-3.1C4-1.1 2.7 1.5 0 1.8Z" fill="#a9a07b" fill-opacity=".81"/>
+  <path d="M-.2 1.7C-1.6.2-1.1-2.7.1-3.8C1.6-2.5 1.7.2-.2 1.7Z" fill="#b18875" fill-opacity=".81"/>
+  <path d="M-.2 1.1L0-2.6M-.8 0L-2-1.8M.6.2L2-1.9" stroke="#92745e" stroke-width=".35"/>
+ </g>
+ <g id="fr24-green" stroke="#7f8967" stroke-width=".45">
+  <path d="M0 1.6C-2.7.8-3.1-1-1.7-2.8C0-2.6 1-.9 0 1.6Z" fill="#a6ae89" fill-opacity=".84"/>
+  <path d="M0 1.6C-.8-.9.6-2.8 2.2-2.8C3.4-.8 2 1.2 0 1.6Z" fill="#b4ae87" fill-opacity=".83"/>
+  <path d="M0 .9L.1-1.6M-1.2-.4L-1.8-1.7" stroke="#8e8c68" stroke-width=".35"/>
+ </g>
+</defs>
+<!-- Fine tapering taproot and the compact crown. -->
+<path d="M176 291C180 298 180 307 177 316C175 322 176 327 178 331C172 327 171 321 173 315C176 307 172 300 172 294Z" fill="url(#fr24-root)" stroke="#88765c" stroke-width="1.1"/>
+<path d="M175 310C168 314 169 321 165 325M177 318C182 321 183 325 186 327M174 304C166 305 164 310 160 310M175 323L176 328" stroke="#9a8566" stroke-width=".65"/>
+<!-- Long petioles converge at the crown, remaining separate from the blade lobes. -->
+<g stroke="#75815f" stroke-width="2.05">
+ <path d="M175 295C164 278 153 257 143 239"/>
+ <path d="M176 295C164 284 147 271 132 258"/>
+ <path d="M177 293C188 271 195 249 202 229"/>
+ <path d="M178 295C192 284 205 273 216 262"/>
+</g>
+<g stroke="#bbc0a0" stroke-width=".6" opacity=".8"><path d="M174 292C161 272 151 252 144 240M176 293C161 279 147 268 134 260M179 291C190 268 196 249 203 231M179 293C193 283 207 271 215 263"/></g>
+<!-- Rear basal leaf: elongate, entire, with sharp retrorse auricles. -->
+<g transform="translate(143 239) rotate(-8)">
+ <path d="M0 0C-5 5-12 14-20 18C-20 6-16-5-18-17C-26-43-22-77-5-109C3-104 13-86 17-67C22-49 18-31 14-17C13-4 18 7 21 13C12 12 5 4 0 0Z" fill="url(#fr24-leaf)" stroke="#687759" stroke-width="1.2"/>
+ <path d="M0 1C-1-25-6-57-5-105M-2-16C-10-11-15 0-18 12M-1-17C6-12 13 0 18 9M-3-29C-13-30-19-37-21-45M-4-43C4-48 12-57 16-65M-5-57C-12-61-17-69-17-77M-4-74C2-78 6-86 7-92M-2-27C6-31 13-41 16-47" stroke="#6c7e5b" stroke-width=".67"/>
+ <path d="M-15-53Q-11-50-9-44M-17-50Q-12-47-10-42M9-71L6-63M11-67L8-59M-14 2L-10-6M9 1L6-8" stroke="#758263" stroke-width=".45" opacity=".6"/>
+</g>
+<!-- Right rear blade, a little narrower and turned away. -->
+<g transform="translate(202 229) rotate(21) scale(.77)">
+ <path d="M0 0C-5 4-10 14-19 21C-21 13-18 0-18-13C-25-38-21-72-2-108C7-97 17-78 19-58C22-39 17-26 15-14C14-2 17 10 21 18C12 15 4 5 0 0Z" fill="url(#fr24-fold)" stroke="#6d7b5b" stroke-width="1.35"/>
+ <path d="M0 1C1-26-2-60-2-104M0-14L-16 14M0-14L17 12M0-28Q-12-33-21-47M-1-43Q12-49 17-64M-1-60L-14-76M-2-76L7-92M0-25Q10-28 17-40" stroke="#6a7958" stroke-width=".8"/>
+ <path d="M-16-48L-9-40M-15-54L-9-46M11-65L6-55M13-61L8-51M-13 4L-8-5" stroke="#778362" stroke-width=".5" opacity=".6"/>
+</g>
+<!-- Slender erect flowering stem, with small papery ochreae at the nodes. -->
+<path d="M176 295C180 267 179 243 181 219C184 197 184 179 187 159C189 135 193 114 193 94C194 74 191 56 196 33" stroke="#727c59" stroke-width="2.45"/>
+<path d="M177 292C181 266 180 243 182 222M184 202L188 162M190 145C194 124 194 108 194 94M194 80L194 59" stroke="#b8ba96" stroke-width=".66"/>
+<g fill="#b6ab87" fill-opacity=".7" stroke="#8b8966" stroke-width=".65"><path d="M179 245L177 238L181 239L184 236L185 243Q182 247 179 245Z"/><path d="M182 208L181 201L184 202L188 199L188 206Z"/><path d="M185 170L184 164L187 165L190 162L190 168Z"/></g>
+<path d="M181 239L181 244M184 202L185 207M187 165L187 169" stroke="#b7b391" stroke-width=".55"/>
+<!-- Shorter upper leaves clasp the stem; their backwards lobes remain visible. -->
+<path d="M183 207C174 203 165 193 163 183C161 172 158 162 153 155C164 160 174 169 179 180C182 188 181 196 185 202L193 204L188 209L186 215Z" fill="url(#fr24-leaf)" stroke="#6a7959" stroke-width="1"/>
+<path d="M184 206C173 190 167 172 155 158M175 191L166 184M168 175L173 178M179 197L173 196" stroke="#71805e" stroke-width=".6"/>
+<path d="M185 169C191 164 201 154 204 144C206 138 208 131 213 126C213 140 212 153 204 161C199 166 193 167 190 171L191 178L185 174L181 177Z" fill="url(#fr24-fold)" stroke="#6e7d5c" stroke-width=".9"/>
+<path d="M187 171C200 157 207 144 211 130M199 157L208 150M203 149L203 141" stroke="#728160" stroke-width=".55"/>
+<!-- An open panicle, with unequal side branches and fine forked pedicels. -->
+<g stroke="#85825f" stroke-width=".88">
+ <path d="M187 160C170 145 151 133 130 116M188 147C209 136 230 118 246 97M191 129C174 111 153 94 140 76M192 115C206 101 219 81 228 62M193 96C181 81 169 67 165 51M193 81C205 67 215 51 219 40M194 64C185 55 181 45 180 36"/>
+ <path d="M153 134C150 122 149 114 143 103M143 126C132 124 123 120 115 115M135 120L133 108M160 140L162 128M172 149L169 137M224 119C225 106 230 98 232 87M233 109C245 108 253 101 259 93M239 104L242 92M214 128L218 117M203 137L207 126M166 102L164 87M154 91C145 90 136 85 132 79M148 86L149 74M175 112L178 99M211 90L210 78M221 76L235 71M216 82L226 83M224 69L223 57M177 70L178 58M169 59L159 57M185 85L180 76M206 61L207 49M213 50L224 48M198 73L198 64M188 56L188 43"/>
+</g>
+
+<path d="M130 116L127.0 116.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(127.0 116.0) rotate(12) scale(0.58)"/>
+<path d="M130 116L132.0 113.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(132.0 113.0) rotate(-38) scale(0.65)"/>
+<path d="M130 116L133.0 119.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(133.0 119.0) rotate(-7) scale(0.71)"/>
+<path d="M130 116L124.3 110.5" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(124.3 110.5) rotate(24) scale(0.78)"/>
+<path d="M130 116L127.7 121.5" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(127.7 121.5) rotate(-26) scale(0.85)"/>
+<path d="M143 103L145.0 100.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(145.0 100.0) rotate(29) scale(0.78)"/>
+<path d="M143 103L146.0 106.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(146.0 106.0) rotate(-21) scale(0.85)"/>
+<path d="M143 103L138.0 98.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(138.0 98.0) rotate(10) scale(0.92)"/>
+<path d="M143 103L140.7 108.5" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(140.7 108.5) rotate(-40) scale(0.58)"/>
+<path d="M115 115L118.0 118.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(118.0 118.0) rotate(-35) scale(0.58)"/>
+<path d="M115 115L110.0 110.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(110.0 110.0) rotate(-4) scale(0.65)"/>
+<path d="M115 115L113.0 120.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(113.0 120.0) rotate(27) scale(0.71)"/>
+<path d="M115 115L111.6 115.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(111.6 115.0) rotate(-23) scale(0.78)"/>
+<path d="M133 108L128.0 103.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(128.0 103.0) rotate(-18) scale(0.78)"/>
+<path d="M133 108L131.0 113.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(131.0 113.0) rotate(13) scale(0.85)"/>
+<path d="M133 108L130.0 108.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(130.0 108.0) rotate(-37) scale(0.92)"/>
+<path d="M162 128L160.0 133.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(160.0 133.0) rotate(-1) scale(0.58)"/>
+<path d="M162 128L159.0 128.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(159.0 128.0) rotate(30) scale(0.65)"/>
+<path d="M162 128L164.0 125.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(164.0 125.0) rotate(-20) scale(0.71)"/>
+<path d="M169 137L166.0 137.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(166.0 137.0) rotate(16) scale(0.78)"/>
+<path d="M169 137L171.0 134.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(171.0 134.0) rotate(-34) scale(0.85)"/>
+<path d="M169 137L172.0 140.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(172.0 140.0) rotate(-3) scale(0.92)"/>
+<path d="M246 97L248.0 94.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(248.0 94.0) rotate(33) scale(0.58)"/>
+<path d="M246 97L249.0 100.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(249.0 100.0) rotate(-17) scale(0.65)"/>
+<path d="M246 97L241.0 92.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(241.0 92.0) rotate(14) scale(0.71)"/>
+<path d="M246 97L243.7 102.5" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(243.7 102.5) rotate(-36) scale(0.78)"/>
+<path d="M246 97L242.6 97.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(242.6 97.0) rotate(-5) scale(0.85)"/>
+<path d="M232 87L235.0 90.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(235.0 90.0) rotate(-31) scale(0.78)"/>
+<path d="M232 87L227.0 82.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(227.0 82.0) rotate(0) scale(0.85)"/>
+<path d="M232 87L230.0 92.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(230.0 92.0) rotate(31) scale(0.92)"/>
+<path d="M232 87L228.6 87.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(228.6 87.0) rotate(-19) scale(0.58)"/>
+<path d="M232 87L234.3 83.7" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(234.3 83.7) rotate(12) scale(0.65)"/>
+<path d="M259 93L254.0 88.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(254.0 88.0) rotate(-14) scale(0.58)"/>
+<path d="M259 93L257.0 98.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(257.0 98.0) rotate(17) scale(0.65)"/>
+<path d="M259 93L256.0 93.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(256.0 93.0) rotate(-33) scale(0.71)"/>
+<path d="M259 93L261.3 89.7" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(261.3 89.7) rotate(-2) scale(0.78)"/>
+<path d="M242 92L240.0 97.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(240.0 97.0) rotate(3) scale(0.78)"/>
+<path d="M242 92L239.0 92.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(239.0 92.0) rotate(34) scale(0.85)"/>
+<path d="M242 92L244.0 89.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(244.0 89.0) rotate(-16) scale(0.92)"/>
+<path d="M218 117L215.0 117.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(215.0 117.0) rotate(20) scale(0.58)"/>
+<path d="M218 117L220.0 114.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(220.0 114.0) rotate(-30) scale(0.65)"/>
+<path d="M218 117L221.0 120.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(221.0 120.0) rotate(1) scale(0.71)"/>
+<path d="M218 117L212.3 111.5" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(212.3 111.5) rotate(32) scale(0.78)"/>
+<path d="M207 126L209.0 123.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(209.0 123.0) rotate(37) scale(0.78)"/>
+<path d="M207 126L210.0 129.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(210.0 129.0) rotate(-13) scale(0.85)"/>
+<path d="M207 126L202.0 121.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(202.0 121.0) rotate(18) scale(0.92)"/>
+<path d="M140 76L143.0 79.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(143.0 79.0) rotate(-27) scale(0.58)"/>
+<path d="M140 76L135.0 71.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(135.0 71.0) rotate(4) scale(0.65)"/>
+<path d="M140 76L138.0 81.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(138.0 81.0) rotate(35) scale(0.71)"/>
+<path d="M140 76L136.6 76.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(136.6 76.0) rotate(-15) scale(0.78)"/>
+<path d="M164 87L159.0 82.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(159.0 82.0) rotate(-10) scale(0.78)"/>
+<path d="M164 87L162.0 92.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(162.0 92.0) rotate(21) scale(0.85)"/>
+<path d="M164 87L161.0 87.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(161.0 87.0) rotate(-29) scale(0.92)"/>
+<path d="M132 79L130.0 84.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(130.0 84.0) rotate(7) scale(0.58)"/>
+<path d="M132 79L129.0 79.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(129.0 79.0) rotate(38) scale(0.65)"/>
+<path d="M132 79L134.0 76.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(134.0 76.0) rotate(-12) scale(0.71)"/>
+<path d="M132 79L135.4 82.3" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(135.4 82.3) rotate(19) scale(0.78)"/>
+<path d="M149 74L146.0 74.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(146.0 74.0) rotate(24) scale(0.78)"/>
+<path d="M149 74L151.0 71.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(151.0 71.0) rotate(-26) scale(0.85)"/>
+<path d="M149 74L152.0 77.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(152.0 77.0) rotate(5) scale(0.92)"/>
+<path d="M178 99L180.0 96.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(180.0 96.0) rotate(-40) scale(0.58)"/>
+<path d="M178 99L181.0 102.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(181.0 102.0) rotate(-9) scale(0.65)"/>
+<path d="M178 99L173.0 94.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(173.0 94.0) rotate(22) scale(0.71)"/>
+<path d="M228 62L231.0 65.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(231.0 65.0) rotate(-23) scale(0.78)"/>
+<path d="M228 62L223.0 57.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(223.0 57.0) rotate(8) scale(0.85)"/>
+<path d="M228 62L226.0 67.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(226.0 67.0) rotate(39) scale(0.92)"/>
+<path d="M228 62L224.6 62.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(224.6 62.0) rotate(-11) scale(0.58)"/>
+<path d="M210 78L205.0 73.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(205.0 73.0) rotate(-6) scale(0.58)"/>
+<path d="M210 78L208.0 83.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(208.0 83.0) rotate(25) scale(0.65)"/>
+<path d="M210 78L207.0 78.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(207.0 78.0) rotate(-25) scale(0.71)"/>
+<path d="M235 71L233.0 76.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(233.0 76.0) rotate(11) scale(0.78)"/>
+<path d="M235 71L232.0 71.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(232.0 71.0) rotate(-39) scale(0.85)"/>
+<path d="M235 71L237.0 68.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(237.0 68.0) rotate(-8) scale(0.92)"/>
+<path d="M226 83L223.0 83.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(223.0 83.0) rotate(28) scale(0.58)"/>
+<path d="M226 83L228.0 80.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(228.0 80.0) rotate(-22) scale(0.65)"/>
+<path d="M226 83L229.0 86.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(229.0 86.0) rotate(9) scale(0.71)"/>
+<path d="M223 57L225.0 54.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(225.0 54.0) rotate(-36) scale(0.78)"/>
+<path d="M223 57L226.0 60.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(226.0 60.0) rotate(-5) scale(0.85)"/>
+<path d="M223 57L218.0 52.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(218.0 52.0) rotate(26) scale(0.92)"/>
+<path d="M165 51L168.0 54.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(168.0 54.0) rotate(-19) scale(0.58)"/>
+<path d="M165 51L160.0 46.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(160.0 46.0) rotate(12) scale(0.65)"/>
+<path d="M165 51L163.0 56.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(163.0 56.0) rotate(-38) scale(0.71)"/>
+<path d="M178 58L173.0 53.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(173.0 53.0) rotate(-2) scale(0.78)"/>
+<path d="M178 58L176.0 63.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(176.0 63.0) rotate(29) scale(0.85)"/>
+<path d="M178 58L175.0 58.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(175.0 58.0) rotate(-21) scale(0.92)"/>
+<path d="M159 57L157.0 62.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(157.0 62.0) rotate(15) scale(0.58)"/>
+<path d="M159 57L156.0 57.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(156.0 57.0) rotate(-35) scale(0.65)"/>
+<path d="M159 57L161.0 54.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(161.0 54.0) rotate(-4) scale(0.71)"/>
+<path d="M180 76L177.0 76.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(177.0 76.0) rotate(32) scale(0.78)"/>
+<path d="M180 76L182.0 73.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(182.0 73.0) rotate(-18) scale(0.85)"/>
+<path d="M180 76L183.0 79.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(183.0 79.0) rotate(13) scale(0.92)"/>
+<path d="M219 40L221.0 37.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(221.0 37.0) rotate(-32) scale(0.58)"/>
+<path d="M219 40L222.0 43.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(222.0 43.0) rotate(-1) scale(0.65)"/>
+<path d="M219 40L214.0 35.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(214.0 35.0) rotate(30) scale(0.71)"/>
+<path d="M207 49L210.0 52.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(210.0 52.0) rotate(-15) scale(0.78)"/>
+<path d="M207 49L202.0 44.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(202.0 44.0) rotate(16) scale(0.85)"/>
+<path d="M207 49L205.0 54.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(205.0 54.0) rotate(-34) scale(0.92)"/>
+<path d="M224 48L219.0 43.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(219.0 43.0) rotate(2) scale(0.58)"/>
+<path d="M224 48L222.0 53.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(222.0 53.0) rotate(33) scale(0.65)"/>
+<path d="M224 48L221.0 48.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(221.0 48.0) rotate(-17) scale(0.71)"/>
+<path d="M198 64L196.0 69.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(196.0 69.0) rotate(19) scale(0.78)"/>
+<path d="M198 64L195.0 64.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(195.0 64.0) rotate(-31) scale(0.85)"/>
+<path d="M198 64L200.0 61.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-fruit" transform="translate(200.0 61.0) rotate(0) scale(0.92)"/>
+<path d="M180 36L177.0 36.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(177.0 36.0) rotate(36) scale(0.58)"/>
+<path d="M180 36L182.0 33.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(182.0 33.0) rotate(-14) scale(0.65)"/>
+<path d="M180 36L183.0 39.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(183.0 39.0) rotate(17) scale(0.71)"/>
+<path d="M188 43L190.0 40.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(190.0 40.0) rotate(-28) scale(0.78)"/>
+<path d="M188 43L191.0 46.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(191.0 46.0) rotate(3) scale(0.85)"/>
+<path d="M188 43L183.0 38.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(183.0 38.0) rotate(34) scale(0.92)"/>
+<path d="M196 33L199.0 36.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(199.0 36.0) rotate(-11) scale(0.58)"/>
+<path d="M196 33L191.0 28.0" stroke="#96916d" stroke-width=".48"/>
+<use xlink:href="#fr24-green" transform="translate(191.0 28.0) rotate(20) scale(0.65)"/>
+<!-- The two foremost blades display the characteristic sagittate bases clearly. -->
+<g transform="translate(132 258) rotate(-38)">
+ <path d="M0 0C-6 5-13 17-24 23C-24 13-20 2-21-12C-29-37-27-72-8-112C-5-119-3-124-2-130C7-120 18-98 22-76C27-51 21-31 18-16C17-2 22 11 26 19C15 18 6 6 0 0Z" fill="url(#fr24-leaf)" stroke="#647557" stroke-width="1.25"/>
+ <path d="M0 1C1-27-5-70-2-125M-1-15C-11-9-17 6-21 17M0-16C10-9 17 5 22 15M-2-32C-13-34-20-43-24-55M-3-47C6-51 16-63 21-76M-4-66C-14-72-19-82-18-91M-3-86C2-92 7-103 7-111M-1-30C7-34 15-44 21-53M-3-52C-12-57-19-66-22-74M-3-70C6-73 13-82 16-92" stroke="#667956" stroke-width=".69"/>
+ <path d="M-20-49Q-15-46-12-38M-21-55Q-15-51-12-43M15-67L10-58M17-72L12-63M-15-81L-10-72M-16 5L-11-5M-17 11L-13 3M14 6L9-5M17 9L12-1" stroke="#738262" stroke-width=".46" opacity=".6"/>
+ <path d="M-4-117C-7-99-8-80-6-62" stroke="#d5d4b6" stroke-width=".6" opacity=".7"/>
+</g>
+<g transform="translate(216 262) rotate(36)">
+ <path d="M0 0C-6 4-14 17-24 20C-23 9-17-1-18-14C-25-39-21-70-5-104C-1-111 2-118 3-123C13-108 22-87 23-65C25-43 19-26 17-14C16-2 20 10 24 19C14 16 5 5 0 0Z" fill="url(#fr24-leaf)" stroke="#657658" stroke-width="1.25"/>
+ <path d="M0 1C0-30-2-65 3-119M0-15C-10-9-16 5-21 15M0-15C10-8 17 5 20 13M0-30C-11-33-18-42-21-53M0-43C10-48 18-60 22-72M0-59C-10-64-16-73-15-82M1-77C10-83 14-92 14-99M0-25C8-27 16-35 21-45M0-58C10-63 16-72 19-84M1-88L-7-102" stroke="#697b58" stroke-width=".69"/>
+ <path d="M-17-47L-10-38M-18-52L-11-43M16-65L10-56M17-70L12-61M-11-80L-7-72M-16 6L-11-4M-18 11L-14 3M14 6L8-5M17 10L12 0" stroke="#748362" stroke-width=".46" opacity=".57"/>
+ <path d="M3-115C-1-91-3-74-2-55" stroke="#d0d2b1" stroke-width=".65" opacity=".72"/>
+</g>
+<!-- Small reddish crown scales. -->
+<path d="M171 295L168 287L173 290L177 285L179 292L184 288L181 296Q176 299 171 295Z" fill="#a09370" fill-opacity=".8" stroke="#7e7959" stroke-width=".8"/>
+<path d="M174 291L175 296M180 293L178 296" stroke="#b7ad87" stroke-width=".55"/>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire21-title frimaire21-desc">
+  <title id="frimaire21-title">Érable sucré — Acer saccharum</title>
+  <desc id="frimaire21-desc">A slender sugar maple twig with a broad sage green leaf, five unequal palmate lobes, rounded sinuses and pale branching veins. A smaller ochre autumn leaf turns to the right; two papery winged samaras hang below the opposite side of the twig.</desc>
+  <defs>
+    <linearGradient id="frimaire21-leaf" x1="104" y1="55" x2="196" y2="208" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b79a" stop-opacity=".66"/><stop offset=".49" stop-color="#96a183" stop-opacity=".75"/><stop offset="1" stop-color="#7b8969" stop-opacity=".81"/></linearGradient>
+    <linearGradient id="frimaire21-autumn" x1="232" y1="171" x2="281" y2="264" gradientUnits="userSpaceOnUse"><stop stop-color="#cfb780" stop-opacity=".74"/><stop offset=".56" stop-color="#bf9a61" stop-opacity=".72"/><stop offset="1" stop-color="#ac7650" stop-opacity=".77"/></linearGradient>
+    <linearGradient id="frimaire21-wing" x1="83" y1="276" x2="143" y2="299" gradientUnits="userSpaceOnUse"><stop stop-color="#d8c9a2" stop-opacity=".58"/><stop offset=".6" stop-color="#bba77f" stop-opacity=".71"/><stop offset="1" stop-color="#a88d64" stop-opacity=".78"/></linearGradient>
+    <linearGradient id="frimaire21-wood" x1="174" y1="264" x2="186" y2="266" gradientUnits="userSpaceOnUse"><stop stop-color="#a88b6d"/><stop offset=".6" stop-color="#8b7058"/><stop offset="1" stop-color="#735f4d"/></linearGradient>
+  </defs>
+  <!-- The twig has a gentle sweep, small opposite buds and narrow leaf scars. -->
+  <path d="M166 328C173 306 181 280 183 255C184 237 188 220 195 205C199 195 204 186 207 176L210 176C208 189 202 200 198 210C192 224 189 239 188 257C186 283 177 309 171 329Z" fill="url(#frimaire21-wood)" stroke="#77634f" stroke-width="1.25"/>
+  <path d="M168 326C176 300 184 276 185 254C187 233 191 221 196 209M200 198L206 182" stroke="#c5b296" stroke-width=".8"/>
+  <path d="M185 254C169 246 153 243 139 250C128 256 122 264 119 274" stroke="#8b745b" stroke-width="1.55"/>
+  <path d="M186 252C202 248 220 246 240 243" stroke="#987b58" stroke-width="2"/>
+  <path d="M189 229C173 218 158 209 148 202" stroke="#8b8061" stroke-width="2.7"/>
+  <path d="M188 228C173 217 160 209 150 203M187 251C203 247 222 245 237 244" stroke="#c2b995" stroke-width=".7"/>
+  <g fill="#a08063" stroke="#79614c" stroke-width=".8">
+    <path d="M207 179C203 174 206 167 211 163C214 169 212 175 209 179Z"/>
+    <path d="M194 212C196 207 201 204 204 205C204 210 200 214 196 215Z"/>
+    <path d="M188 252C192 249 196 251 197 254L189 256Z"/>
+    <path d="M181 258C176 256 174 253 174 250C179 249 182 252 183 255Z"/>
+  </g>
+  <g stroke="#d3bfa0" stroke-width=".5"><path d="M209 177L210 167M198 212L202 207M176 252L180 255M191 253L195 253"/></g>
+  <g stroke="#695744" stroke-width=".55" opacity=".68"><path d="M177 302L180 298M175 310L178 306M184 281L187 278M183 268L187 266M190 235L193 230M197 205L200 202M169 319L171 316M186 257Q183 259 181 257"/></g>
+  <!-- Autumn blade, slightly turned, retains the maple's rounded sinuses. -->
+  <path d="M239 245C229 252 220 250 214 244L217 239C209 239 203 236 198 232L205 226C210 221 212 216 208 213L199 208L214 203L212 198L221 197C226 193 228 186 229 179L237 186L242 182L244 194C246 200 250 203 254 200C260 196 262 190 263 183L261 179L267 176L274 164L275 175L281 173L279 185L284 185L279 194C275 202 276 208 282 210C289 212 298 206 306 201L304 210L315 208C310 217 304 224 307 231L314 234L306 238C300 240 296 245 299 250L306 258L296 258L296 264C284 260 272 262 267 267L263 262C251 261 244 255 239 245Z" fill="url(#frimaire21-autumn)" stroke="#947a56" stroke-width="1.2"/>
+  <path d="M240 245C242 227 256 195 273 167C265 197 257 225 240 245Z" fill="#d8bb7e" fill-opacity=".21"/>
+  <path d="M242 246C257 251 273 251 294 259C273 258 254 264 242 246Z" fill="#a26947" fill-opacity=".12"/>
+  <g stroke="#e3cf9c" stroke-width="1.15" opacity=".88"><path d="M239 245C246 219 261 190 273 168M239 245C231 225 232 205 231 184M239 245C228 236 216 229 202 231M240 245C264 231 286 218 309 211M240 245C260 249 280 251 302 257"/></g>
+  <g stroke="#9d8456" stroke-width=".57" opacity=".76"><path d="M239 243C247 216 260 193 273 170M235 228C229 221 224 212 216 204M233 216L240 199M249 219L248 207M254 206L266 197M263 189L265 180M248 231C260 228 268 222 276 213M261 232L275 237M276 224L285 213M290 218L298 217M257 248L267 241M271 250L282 245M285 253L296 247M225 235L220 226M220 232L209 231M245 250L252 259"/></g>
+  <g stroke="#a17c4f" stroke-width=".48" opacity=".5"><path d="M225 208L228 216M221 211L224 218M245 203L245 212M249 198L249 206M280 231L285 228M284 235L291 231M275 257L283 259M280 255L289 257M209 229L214 230M296 216L300 214"/></g>
+  <!-- One broad, naturally asymmetric five-lobed blade; the major sinuses are smooth U curves. -->
+  <path d="M148 206C133 217 116 212 103 201L107 193C91 192 79 187 66 179L57 175L65 164C71 158 75 151 75 143C75 138 70 135 64 133L46 128C57 122 67 117 70 111L61 108L73 100C76 91 73 81 68 70L84 76L87 67L102 85C110 94 123 99 131 92C138 86 137 75 137 66L132 65L140 54L148 34L154 48L161 43L162 61L168 59L169 76C171 86 172 94 179 96C190 101 202 92 212 83L226 70L228 80L245 74C240 89 236 103 241 111L254 115L246 121C256 131 269 136 279 139L261 143C253 144 246 149 246 156C246 164 255 174 262 182L246 181L248 190C234 189 223 191 212 195L208 204L201 197C182 210 166 215 148 206Z" fill="url(#frimaire21-leaf)" stroke="#69745a" stroke-width="1.4"/>
+  <!-- Subtle washes follow the lobes and the folds around the petiole. -->
+  <path d="M148 204C143 158 141 100 148 39C152 95 158 145 148 204Z" fill="#d4d4aa" fill-opacity=".14"/>
+  <path d="M150 204C183 176 206 131 242 79C227 124 199 183 150 204Z" fill="#687a59" fill-opacity=".12"/>
+  <path d="M147 204C121 177 91 154 50 129C93 141 132 166 147 204Z" fill="#d4cca1" fill-opacity=".13"/>
+  <path d="M106 200C118 205 135 207 148 204C172 211 187 203 200 198C184 211 166 215 148 207C132 216 117 210 106 200Z" fill="#637553" fill-opacity=".13"/>
+  <!-- The five pale primary veins spring from the petiole rather than a central stem. -->
+  <g stroke="#ddd9b5" stroke-width="1.65" opacity=".89">
+    <path d="M148 204C150 157 149 98 148 39"/>
+    <path d="M148 204C124 156 98 110 72 75"/>
+    <path d="M148 204C121 191 94 181 61 175"/>
+    <path d="M148 204C178 161 210 117 241 79"/>
+    <path d="M148 204C185 186 221 178 257 181"/>
+  </g>
+  <g stroke="#778260" stroke-width=".72" opacity=".83">
+    <path d="M148 202C151 152 149 98 148 40M147 202C120 150 98 111 73 76M148 203C120 191 90 179 62 175M150 202C182 157 211 116 241 80M150 203C185 185 221 178 257 181"/>
+    <path d="M149 76L141 55M150 92C157 81 160 71 163 64M149 115C137 104 131 98 127 95M150 133C163 119 171 108 174 99M150 156C136 141 122 129 106 122M150 176C162 154 173 141 188 131M148 189C133 176 118 166 101 162"/>
+    <path d="M101 119C88 112 81 109 71 110M111 136C98 132 87 130 77 129M121 154C111 148 96 145 78 144M93 107L90 84M116 144C118 124 115 109 107 95M130 170C133 152 130 138 126 132M136 184C130 188 120 190 109 191"/>
+    <path d="M176 166C195 162 211 154 225 144M189 148C204 147 219 140 230 128M204 127C220 124 233 119 247 116M218 108L226 82M204 127C198 116 201 103 206 93M187 151C184 139 185 128 190 117M167 181C170 188 179 193 190 197"/>
+    <path d="M188 187C194 175 201 168 210 162M209 181C219 175 232 169 246 169M225 180C229 184 236 187 244 188M112 190L102 199M94 183L83 182M83 178L72 169M224 114L236 105M155 112L161 98M140 111L138 101M150 151L161 138M119 153L106 152M201 157L214 155"/>
+  </g>
+  <!-- Sparse curved engraver's hatching describes the sinuses and rolled margins. -->
+  <g stroke="#687756" stroke-width=".5" opacity=".49">
+    <path d="M74 84Q78 91 78 98M79 85Q82 94 82 100M90 93Q95 98 101 101M118 103Q126 106 132 102M122 107Q129 108 134 105M137 78L138 86M140 77L141 85M159 74L158 83M162 79L160 87M176 105Q185 109 193 104M178 110Q185 113 192 109M228 94L225 103M231 96L229 104M249 126L256 131M246 130L253 135M252 146Q247 149 246 154M249 144Q243 148 242 153M245 175L252 177M235 182L242 185M213 193L219 191M204 194L210 191M113 201L121 205M117 199L125 204M94 186L101 189M71 163L76 158M75 166L80 161M72 136L79 138M76 133L84 136M146 48L145 56M151 53L153 60M149 183L145 176M153 186L158 179M173 181L179 178M107 149L112 151M210 139L216 136"/>
+  </g>
+  <!-- Paired samaras, each with a plump seed and an elongated translucent wing. -->
+  <path d="M119 271C118 278 119 282 121 286" stroke="#8a7354" stroke-width="1.1"/>
+  <path d="M120 282C111 286 100 291 91 294C82 297 71 299 61 297C64 290 72 283 82 280C92 277 107 276 117 277Z" fill="url(#frimaire21-wing)" stroke="#9b8865" stroke-width="1"/>
+  <path d="M123 282C128 291 134 304 142 312C149 319 158 321 165 319C163 310 159 300 150 292C143 286 133 281 125 278Z" fill="url(#frimaire21-wing)" stroke="#9b8865" stroke-width="1"/>
+  <path d="M118 279C99 280 79 288 64 296M125 281C141 292 155 306 163 318" stroke="#c7b68d" stroke-width="1.1"/>
+  <g stroke="#a4906c" stroke-width=".55" opacity=".8"><path d="M109 280C95 282 79 289 69 295M111 283C96 287 84 293 73 296M107 287C93 291 84 294 80 296M129 284C143 293 153 305 159 315M129 287C140 296 147 309 153 315M131 292C138 302 141 309 146 313M92 283L85 287M145 296L147 301"/></g>
+  <path d="M119 276C114 274 110 278 111 282C112 287 117 291 121 289C125 288 124 280 119 276Z" fill="#a78f64" stroke="#87724f" stroke-width="1"/>
+  <path d="M123 277C127 274 132 277 132 281C131 287 128 290 124 288C121 287 120 280 123 277Z" fill="#b09b71" stroke="#87724f" stroke-width="1"/>
+  <path d="M116 277C113 279 114 284 118 286M125 278C128 278 129 281 127 285" stroke="#d4c295" stroke-width=".7"/>
+  <path d="M119 281L120 286M125 282L125 286" stroke="#846e4d" stroke-width=".5" opacity=".7"/>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire29-title frimaire29-desc">
+  <title id="frimaire29-title">Olive — Olea europaea</title>
+  <desc id="frimaire29-desc">A slender olive twig bears opposite pairs of long, narrow, smooth-edged leaves, one turned to reveal its silvery underside. Three oval drupes ripen from green through muted purple to almost black. A separate lengthwise-cut olive exposes pale flesh and an elongated, ridged stone.</desc>
+  <defs>
+    <linearGradient id="frimaire29-leaf" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#aeb19a" stop-opacity=".66"/><stop offset=".48" stop-color="#8c9976" stop-opacity=".74"/><stop offset="1" stop-color="#6b7b58" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="frimaire29-leaf-dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9ba68a" stop-opacity=".66"/><stop offset="1" stop-color="#667852" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="frimaire29-silver" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dedfd0" stop-opacity=".8"/><stop offset=".55" stop-color="#bcc4ad" stop-opacity=".75"/><stop offset="1" stop-color="#9ca88e" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="frimaire29-twig" x1="157" y1="182" x2="165" y2="184" gradientUnits="userSpaceOnUse"><stop stop-color="#b0a080"/><stop offset=".48" stop-color="#95866b"/><stop offset="1" stop-color="#786c54"/></linearGradient>
+    <radialGradient id="frimaire29-green" cx=".31" cy=".25" r=".8"><stop stop-color="#bcc091" stop-opacity=".9"/><stop offset=".48" stop-color="#9aab73" stop-opacity=".95"/><stop offset="1" stop-color="#718252"/></radialGradient>
+    <radialGradient id="frimaire29-purple" cx=".28" cy=".26" r=".8"><stop stop-color="#aaa092"/><stop offset=".42" stop-color="#867481"/><stop offset="1" stop-color="#5b5261"/></radialGradient>
+    <radialGradient id="frimaire29-black" cx=".31" cy=".22" r=".8"><stop stop-color="#8a8d81"/><stop offset=".35" stop-color="#575d55"/><stop offset="1" stop-color="#343d37"/></radialGradient>
+    <linearGradient id="frimaire29-flesh" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#e0d7ae" stop-opacity=".95"/><stop offset=".5" stop-color="#c7c294" stop-opacity=".9"/><stop offset="1" stop-color="#aaa976" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="frimaire29-stone" x1="0" y1="0" x2="1" y2=".6"><stop stop-color="#c7b28b"/><stop offset=".43" stop-color="#ad9169"/><stop offset="1" stop-color="#8d7656"/></linearGradient>
+  </defs>
+  <!-- The twig is slightly angular at its opposite leaf nodes. -->
+  <path d="M123 326C134 302 139 283 145 262C151 242 158 224 162 207C168 188 174 172 178 153C183 133 189 117 194 100C199 84 203 66 209 47L211 47C208 68 202 86 198 102C193 120 187 136 183 155C178 177 173 192 167 209C162 229 155 245 149 264C143 285 137 307 128 327Z" fill="url(#frimaire29-twig)" stroke="#796e56" stroke-width="1.2"/>
+  <path d="M126 323C136 300 141 282 147 262C153 242 161 223 165 207M169 193C174 179 178 166 180 153M185 135C190 117 195 103 199 87M203 73L209 50" stroke="#c5b797" stroke-width=".7" opacity=".83"/>
+  <!-- Short petioles arise in pairs; the blades are leathery, entire and lanceolate. -->
+  <g stroke="#7a7d5b" stroke-width="1.3">
+    <path d="M147 262L135 254M147 262L158 258M163 211L151 204M163 211L174 205M179 158L168 150M179 158L192 153M194 105L184 98M194 105L205 101M205 67L200 59M205 67L214 63"/>
+  </g>
+  <g fill="url(#frimaire29-leaf)" stroke="#667354" stroke-width="1.15">
+    <path d="M135 254C117 250 97 234 84 219C77 211 72 202 68 195C79 200 91 204 103 213C119 225 130 241 135 254Z"/>
+    <path d="M158 258C170 241 190 229 209 223C220 220 231 220 241 217C235 225 228 233 216 240C197 250 176 256 158 258Z"/>
+    <path d="M151 204C136 195 124 179 115 161C110 150 105 140 99 132C110 137 119 144 128 155C142 171 150 190 151 204Z" fill="url(#frimaire29-leaf-dark)"/>
+    <path d="M174 205C190 190 209 179 229 174C241 172 251 171 261 167C254 177 245 185 233 190C213 199 192 204 174 205Z"/>
+    <path d="M168 150C156 140 147 123 143 107C140 94 138 82 134 71C143 77 151 85 157 97C166 114 170 135 168 150Z"/>
+    <path d="M184 98C176 90 171 77 170 63C169 51 170 41 167 31C176 38 182 48 185 61C189 75 188 88 184 98Z" fill="url(#frimaire29-leaf-dark)"/>
+    <path d="M205 101C215 87 233 76 247 71C256 68 265 67 274 63C268 72 259 81 247 87C232 95 217 100 205 101Z"/>
+    <path d="M200 59C193 52 190 43 190 33C197 36 204 43 205 51C205 55 203 58 200 59Z"/>
+    <path d="M214 63C219 49 230 38 241 29C240 42 235 54 226 61C221 65 218 65 214 63Z"/>
+  </g>
+  <!-- A twisted petiole turns one leaf upward: its pale, silvery lower surface is exposed. -->
+  <path d="M192 153C207 137 231 127 254 124C265 122 277 123 288 119C278 130 267 139 253 144C233 151 212 153 192 153Z" fill="url(#frimaire29-silver)" stroke="#839078" stroke-width="1.1"/>
+  <path d="M192 153C212 148 238 137 262 129C274 125 280 123 288 119C275 123 266 125 255 126C233 129 211 139 192 153Z" fill="#d1d6c4" fill-opacity=".42"/>
+  <g stroke="#71805c" stroke-width=".66" opacity=".87">
+    <path d="M133 252C117 238 91 212 71 198M126 246L116 232M116 237L103 232M107 228L99 215M97 217L86 211"/>
+    <path d="M161 257C182 246 212 230 237 219M177 249L188 237M191 242L208 239M208 233L217 225M222 226L230 224"/>
+    <path d="M150 201C137 182 115 150 102 135M143 189L140 175M135 178L123 169M125 163L123 152M114 150L108 145"/>
+    <path d="M177 204C199 194 231 179 257 169M193 197L204 186M207 190L225 187M224 182L233 176M239 176L248 173"/>
+    <path d="M167 147C158 125 144 92 136 75M161 132L161 116M155 118L146 107M148 102L146 90"/>
+    <path d="M184 95C179 78 173 51 168 34M181 79L184 66M177 66L172 56M174 52L174 43"/>
+    <path d="M208 99C227 88 251 76 270 65M221 91L230 80M234 85L248 81M248 78L255 70M259 70L265 68"/>
+    <path d="M201 58C199 50 194 39 191 35M216 62C224 52 234 39 239 32M226 50L228 41M229 47L235 44"/>
+  </g>
+  <g stroke="#95a08a" stroke-width=".62" opacity=".88">
+    <path d="M195 152C222 143 257 129 284 121M212 146L225 134M228 140L246 137M246 133L260 125M263 127L276 125M229 140L221 141M253 131L247 130"/>
+    <path d="M205 150L217 145M215 149L228 144M226 146L240 140M238 143L250 138M253 137L263 133M268 130L276 126" stroke-width=".45" opacity=".7"/>
+  </g>
+  <!-- Sparse curved hatch marks preserve the smooth margins and narrow shape. -->
+  <g stroke="#6b7959" stroke-width=".48" opacity=".45">
+    <path d="M88 216L94 224M93 219L100 228M100 225L107 234M111 235L116 241M123 245L128 250M171 253L180 250M180 252L189 248M194 245L204 241M215 237L224 233M113 149L117 157M118 156L121 165M126 169L130 179M139 186L143 196M187 200L196 197M199 197L208 194M215 190L225 186M233 184L243 179M144 88L147 97M147 97L150 107M153 112L156 122M162 137L164 144M174 48L176 57M177 57L179 66M182 82L183 89M216 95L224 90M231 88L240 84M250 79L258 75"/>
+  </g>
+  <!-- Olives are single drupes on slender axillary stalks, at three ripening stages. -->
+  <g stroke="#807653" stroke-width="1.1">
+    <path d="M178 159C171 162 164 163 160 170C157 175 157 181 157 186"/>
+    <path d="M163 211C177 212 185 215 189 224C191 229 192 234 192 238"/>
+    <path d="M146 263C148 274 154 280 160 283C166 286 168 290 168 295"/>
+  </g>
+  <path d="M151 184C155 182 160 184 163 187C170 192 174 201 173 211C172 221 167 229 160 230C153 231 148 223 146 214C143 204 145 191 151 184Z" fill="url(#frimaire29-green)" stroke="#69764e" stroke-width="1.25"/>
+  <path d="M151 185C154 188 158 189 162 188M153 190C148 195 148 204 149 210M170 208C171 216 166 224 162 226M158 229L160 230" stroke="#7c885f" stroke-width=".65"/>
+  <path d="M151 195C150 199 150 203 151 206" stroke="#d2d3ab" stroke-width="1.3" opacity=".72"/>
+  <path d="M187 236C194 233 201 237 204 245C209 255 208 267 203 276C200 281 196 283 192 282C184 281 179 272 178 262C176 251 180 240 187 236Z" fill="url(#frimaire29-purple)" stroke="#615e59" stroke-width="1.25"/>
+  <path d="M187 238C190 240 195 240 198 238M184 245C181 251 181 260 183 265M204 258C205 267 201 275 197 279" stroke="#726777" stroke-width=".7"/>
+  <path d="M186 246C184 250 184 255 184 258" stroke="#c6bdb1" stroke-width="1.25" opacity=".6"/>
+  <path d="M163 293C169 290 176 293 180 300C185 308 184 319 179 327C175 334 168 334 162 329C155 324 152 315 154 307C155 300 158 296 163 293Z" fill="url(#frimaire29-black)" stroke="#4d584b" stroke-width="1.25"/>
+  <path d="M162 295C166 297 170 296 173 294M160 302C157 308 158 316 161 320M180 309C181 316 177 325 172 329" stroke="#687061" stroke-width=".7"/>
+  <path d="M161 302C159 306 159 309 160 312" stroke="#b6b9a6" stroke-width="1.2" opacity=".6"/>
+  <!-- A separate longitudinal half shows mesocarp around the hard, grooved endocarp. -->
+  <g transform="translate(263 287) rotate(29)">
+    <path d="M-1-32C11-30 19-17 19-2C20 14 12 30 1 33C-10 31-18 17-19 2C-21-15-13-31-1-32Z" fill="#87915f" stroke="#77764f" stroke-width="1.25"/>
+    <path d="M-1-29C9-27 16-15 16-1C17 13 10 27 1 30C-8 28-15 15-16 2C-18-13-11-28-1-29Z" fill="url(#frimaire29-flesh)" stroke="#b6b185" stroke-width=".7"/>
+    <path d="M0-23C5-21 9-11 9 1C10 13 6 23 1 25C-5 23-10 13-10 1C-11-11-6-21 0-23Z" fill="url(#frimaire29-stone)" stroke="#907b58" stroke-width="1"/>
+    <path d="M0-21C-2-12-2-3-1 5C0 13 1 19 1 23M3-19C1-10 2-2 3 7C4 13 4 18 3 21M-4-17C-6-10-6-1-5 7C-4 13-3 18-1 21M6-11C4-5 5 6 6 12M-8-6C-9 2-7 11-5 16" stroke="#8e7452" stroke-width=".7"/>
+    <path d="M-1-17L-2-13M2-8L1-3M-4 2L-3 7M2 11L3 16M-5-11L-6-7M5 1L6 5" stroke="#d2bb94" stroke-width=".65"/>
+    <path d="M-7-22C-12-16-13-7-13 1M11-11C14 0 11 14 7 21M-11 13L-7 21M-3-27L0-26" stroke="#aaa579" stroke-width=".6" opacity=".8"/>
+    <path d="M-17-9L-18-3M-15 16L-12 22M13 19L10 24M14-18L16-12" stroke="#6e7951" stroke-width=".5" opacity=".7"/>
+  </g>
+</svg>

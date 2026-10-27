@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="nivose-04-title nivose-04-desc">
+  <title id="nivose-04-title">Soufre — soufre natif</title>
+  <desc id="nivose-04-desc">A natural cluster of pale lemon-yellow orthorhombic sulfur crystals on a rough warm-grey rock matrix. Unequal broad bipyramids show triangular faces, fine growth steps and ochre shaded lower planes; small broken sulfur fragments lie beside the specimen.</desc>
+  <defs>
+    <linearGradient id="nivose-04-rock" x1="125" y1="193" x2="204" y2="298" gradientUnits="userSpaceOnUse"><stop stop-color="#ccc5b4" stop-opacity=".64"/><stop offset=".47" stop-color="#b0a895" stop-opacity=".82"/><stop offset="1" stop-color="#8f8572" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="nivose-04-rockface" x1="189" y1="239" x2="230" y2="290" gradientUnits="userSpaceOnUse"><stop stop-color="#a59c87" stop-opacity=".3"/><stop offset="1" stop-color="#7d7362" stop-opacity=".7"/></linearGradient>
+    <linearGradient id="nivose-04-lemon" x1="125" y1="81" x2="182" y2="185" gradientUnits="userSpaceOnUse"><stop stop-color="#eee7a3" stop-opacity=".64"/><stop offset=".48" stop-color="#ded57e" stop-opacity=".7"/><stop offset="1" stop-color="#c9bd60" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="nivose-04-lit" x1="165" y1="94" x2="210" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#f2edb9" stop-opacity=".66"/><stop offset=".58" stop-color="#e3dc8d" stop-opacity=".78"/><stop offset="1" stop-color="#d7cd71" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="nivose-04-low" x1="140" y1="174" x2="176" y2="236" gradientUnits="userSpaceOnUse"><stop stop-color="#ccbe61" stop-opacity=".72"/><stop offset="1" stop-color="#b39f4f" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="nivose-04-lowlight" x1="191" y1="165" x2="195" y2="238" gradientUnits="userSpaceOnUse"><stop stop-color="#e1d57e" stop-opacity=".77"/><stop offset="1" stop-color="#bcac55" stop-opacity=".89"/></linearGradient>
+    <linearGradient id="nivose-04-backleft" x1="86" y1="124" x2="125" y2="208" gradientUnits="userSpaceOnUse"><stop stop-color="#eee6a1" stop-opacity=".68"/><stop offset=".52" stop-color="#dbd17a" stop-opacity=".75"/><stop offset="1" stop-color="#bdad54" stop-opacity=".83"/></linearGradient>
+    <linearGradient id="nivose-04-backright" x1="224" y1="119" x2="262" y2="211" gradientUnits="userSpaceOnUse"><stop stop-color="#e8e19a" stop-opacity=".7"/><stop offset=".55" stop-color="#d6cd6c" stop-opacity=".81"/><stop offset="1" stop-color="#b9a34f" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="nivose-04-front" x1="94" y1="195" x2="143" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#ede5a0" stop-opacity=".81"/><stop offset=".58" stop-color="#d3c66e" stop-opacity=".87"/><stop offset="1" stop-color="#b6a053" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="nivose-04-small" x1="0" y1="0" x2=".45" y2="1"><stop stop-color="#e9e09a" stop-opacity=".86"/><stop offset="1" stop-color="#c1ad59" stop-opacity=".89"/></linearGradient>
+  </defs>
+
+  <!-- An uneven calcareous matrix, with a broken lower face and small porous ledges. -->
+  <path d="M60 223L72 204L87 202L96 186L118 189L133 178L151 184L166 179L184 188L205 184L219 191L238 184L252 196L273 195L278 208L295 217L296 231L309 244L302 259L308 269L291 283L276 284L263 295L240 293L225 303L204 299L190 304L169 297L151 300L132 291L114 293L99 283L81 282L72 268L56 261L58 248L50 237Z" fill="url(#nivose-04-rock)" stroke="#807665" stroke-width="1.4"/>
+  <path d="M58 248L80 242L100 254L122 251L137 262L159 258L183 268L204 261L222 269L246 261L262 266L282 251L307 247L302 259L308 269L291 283L276 284L263 295L240 293L225 303L204 299L190 304L169 297L151 300L132 291L114 293L99 283L81 282L72 268L56 261Z" fill="url(#nivose-04-rockface)"/>
+  <path d="M62 224L78 226L85 216L102 221L114 214M60 239L76 233L87 236L99 229M80 242L91 246L98 240M100 254L108 265L121 270L132 291M123 251L139 246L155 252M159 258L167 274L180 282L190 304M183 268L190 257L204 261M221 269L225 281L219 292L225 303M246 261L250 277L263 295M262 266L274 268L281 261M281 251L289 238L301 235" stroke="#887c67" stroke-width=".95" opacity=".8"/>
+  <path d="M81 264L94 263L100 271L112 273M144 279L153 273L161 278M198 286L206 278L214 278M272 281L281 276L289 277M291 224L281 224L278 231M67 250L75 250L80 258M122 284L117 279L111 281M239 286L235 283L230 286" stroke="#746b5a" stroke-width=".7" opacity=".75"/>
+  <g stroke="#7d7360" stroke-width=".53" opacity=".66">
+    <path d="M61 254L67 260M64 252L72 260M70 252L77 262M77 272L81 277M81 269L87 279M87 269L94 280M96 274L102 282M100 273L108 283M111 285L116 289M118 273L124 279M123 273L130 282M135 270L140 282M140 269L145 280M146 269L150 276M149 287L154 294M154 285L162 295M161 286L167 293M174 281L180 291M181 286L187 297M190 277L195 282M193 273L200 281M206 287L210 295M211 285L217 296M230 274L236 280M234 271L241 279M241 270L246 278M252 283L257 289M260 273L266 281M264 270L270 278M281 284L286 280M287 270L298 264M286 266L297 259M294 248L302 251M57 234L62 230M61 238L68 231M66 239L73 235M86 207L88 213M92 204L95 212M260 202L265 211M267 201L271 208M279 213L285 217"/>
+    <path d="M84 255L87 257M101 261L103 264M128 260L131 261M138 287L141 288M157 264L160 266M175 294L178 296M201 267L204 269M216 288L217 292M229 296L233 293M247 287L250 288M277 256L279 253M296 271L293 275M64 244L67 243M287 234L291 231"/>
+  </g>
+  <g fill="#d5ccaf" fill-opacity=".65" stroke="#9d9178" stroke-width=".55">
+    <path d="M77 243L81 238L87 240L85 245Z"/><path d="M112 264L116 261L121 263L119 268Z"/><path d="M135 278L139 276L142 281L138 282Z"/><path d="M195 291L199 289L202 293L198 296Z"/><path d="M235 269L240 265L244 268L242 273Z"/><path d="M271 272L274 268L278 270L277 274Z"/><path d="M287 248L291 244L296 245L293 250Z"/>
+  </g>
+
+  <!-- Rear sulfur bipyramids: broad shoulders and short lower terminations. -->
+  <g stroke="#8e8049" stroke-width="1.1">
+    <path d="M108 116L75 167L109 186L143 164L116 221L75 167Z" fill="url(#nivose-04-backleft)"/>
+    <path d="M108 116L109 186L143 164Z" fill="#eee5a0" fill-opacity=".71"/>
+    <path d="M75 167L109 186L116 221Z" fill="#b6a052" fill-opacity=".6"/>
+    <path d="M109 186L143 164L116 221Z" fill="#d5c46c" fill-opacity=".83"/>
+    <path d="M108 116L75 167L109 186L143 164L108 116"/>
+    <path d="M109 186L116 221" stroke-width=".8"/>
+  </g>
+  <g stroke="#a19352" stroke-width=".55" opacity=".63">
+    <path d="M103 131L85 163L104 174M102 141L91 162L103 168M115 139L130 162L117 172M118 152L124 162L119 166M83 174L104 188L110 208M87 178L102 189M120 196L131 174"/>
+  </g>
+  <g stroke="#8a7a43" stroke-width="1.1">
+    <path d="M244 108L207 170L242 192L281 164L255 226L207 170Z" fill="url(#nivose-04-backright)"/>
+    <path d="M244 108L242 192L281 164Z" fill="#e5db8b" fill-opacity=".73"/>
+    <path d="M207 170L242 192L255 226Z" fill="#b5a052" fill-opacity=".7"/>
+    <path d="M242 192L281 164L255 226Z" fill="#c8b75c" fill-opacity=".82"/>
+    <path d="M244 108L207 170L242 192L281 164L244 108M242 192L255 226"/>
+  </g>
+  <path d="M239 125L215 168L236 181M237 137L222 166L235 174M248 128L269 162L248 179M249 139L262 161L250 172M250 190L269 176M251 196L265 185M219 179L237 194L247 214" stroke="#a08b49" stroke-width=".55" opacity=".58"/>
+  <path d="M241 118L240 144M248 117L260 139M108 121L97 141" stroke="#f5edbb" stroke-width=".8" opacity=".85"/>
+
+  <!-- The largest orthorhombic dipyramid has a rhombic belt and four visible faces. -->
+  <path d="M174 68L119 157L171 183L223 153L178 243L119 157Z" fill="url(#nivose-04-lemon)" stroke="#8c7d43" stroke-width="1.35"/>
+  <path d="M174 68L171 183L223 153Z" fill="url(#nivose-04-lit)" stroke="#9f914e" stroke-width=".9"/>
+  <path d="M119 157L171 183L178 243Z" fill="url(#nivose-04-low)" stroke="#8e7b43" stroke-width="1"/>
+  <path d="M171 183L223 153L178 243Z" fill="url(#nivose-04-lowlight)" stroke="#948248" stroke-width="1"/>
+  <path d="M174 68L119 157L171 183L223 153L174 68M171 183L178 243" stroke="#8a7a42" stroke-width="1.05"/>
+  <path d="M173 76L171 124M175 132L174 175M127 155L165 175M178 181L215 159M174 190L178 232" stroke="#f1e8af" stroke-width=".85" opacity=".91"/>
+  <!-- Fine growth terraces parallel the crystal's face boundaries. -->
+  <g stroke="#a69753" stroke-width=".53" opacity=".61">
+    <path d="M165 92L131 153L162 169M163 108L140 151L161 162M161 124L148 149L160 155M160 140L157 147L160 149M181 91L211 150L181 169M182 108L202 147L182 160M184 125L195 145L185 152M185 138L189 145L186 147"/>
+    <path d="M130 169L166 187L173 225M138 178L161 190L168 216M146 187L158 193L161 205M185 211L205 173M187 204L204 176M191 187L199 176"/>
+    <path d="M146 132L141 141M152 126L150 132M197 135L200 142M202 145L204 149M164 166L165 173M182 184L185 181M163 205L165 211"/>
+  </g>
+  <path d="M167 81L161 91M163 88L155 102M157 99L151 111M122 153L126 147M216 145L219 150M181 233L184 228" stroke="#877746" stroke-width=".58" opacity=".56"/>
+  <path d="M174 68L176 72L177 79L175 82" stroke="#8b7b46" stroke-width=".65"/>
+
+  <!-- A sideways crystal and a lower, partly embedded companion overlap the host. -->
+  <g stroke="#8c7a43" stroke-width="1.1">
+    <path d="M97 183L66 223L99 242L141 218L109 266L66 223Z" fill="url(#nivose-04-front)"/>
+    <path d="M97 183L99 242L141 218Z" fill="#e5d98d" fill-opacity=".85"/>
+    <path d="M66 223L99 242L109 266Z" fill="#b39e51" fill-opacity=".75"/>
+    <path d="M99 242L141 218L109 266Z" fill="#ccba64" fill-opacity=".9"/>
+    <path d="M97 183L66 223L99 242L141 218L97 183M99 242L109 266"/>
+  </g>
+  <path d="M94 195L74 222L94 233M92 208L82 221L94 227M102 198L128 218L106 233M106 210L119 219L108 227M78 232L98 244L105 258M111 249L125 231" stroke="#a28b48" stroke-width=".55" opacity=".63"/>
+  <path d="M96 189L97 218M69 222L92 235M103 243L132 225" stroke="#f1e6a6" stroke-width=".75" opacity=".77"/>
+  <g stroke="#8f7e45" stroke-width="1.1">
+    <path d="M224 193L188 231L223 253L265 228L232 277L188 231Z" fill="url(#nivose-04-small)"/>
+    <path d="M224 193L223 253L265 228Z" fill="#e9df94" fill-opacity=".79"/>
+    <path d="M188 231L223 253L232 277Z" fill="#b29d50" fill-opacity=".75"/>
+    <path d="M223 253L265 228L232 277Z" fill="#cabc61" fill-opacity=".87"/>
+    <path d="M224 193L188 231L223 253L265 228L224 193M223 253L232 277"/>
+  </g>
+  <path d="M219 205L198 230L216 243M217 216L206 229L215 235M230 207L252 227L231 241M233 220L243 227L233 233M201 240L219 252L227 269M237 263L252 240M241 253L248 243" stroke="#a18f4d" stroke-width=".55" opacity=".66"/>
+  <path d="M225 199L225 242M226 253L256 233M194 231L217 247" stroke="#f3e8ad" stroke-width=".8" opacity=".8"/>
+
+  <!-- Small intergrown crystals emerge from fissures rather than forming a regular crown. -->
+  <g stroke="#938047" stroke-width=".9">
+    <path d="M286 195L268 217L282 232L302 213Z" fill="#ded286" fill-opacity=".83"/>
+    <path d="M286 195L282 232L302 213Z" fill="#c6b35d" fill-opacity=".82"/>
+    <path d="M286 195L281 217L268 217M281 217L302 213M281 217L282 232"/>
+    <path d="M153 229L136 247L153 260L170 241Z" fill="#e0d58a" fill-opacity=".91"/>
+    <path d="M153 229L152 249L170 241L153 260Z" fill="#bca554" fill-opacity=".65"/>
+    <path d="M136 247L152 249L153 260M152 249L153 229" stroke-width=".7"/>
+    <path d="M178 253L164 264L175 278L190 264Z" fill="#ddd086" fill-opacity=".87"/>
+    <path d="M178 253L175 267L190 264L175 278Z" fill="#bca554" fill-opacity=".67"/>
+    <path d="M164 264L175 267L175 278M175 267L178 253" stroke-width=".65"/>
+    <path d="M265 257L254 266L265 277L280 267Z" fill="#d9cb79" fill-opacity=".91"/>
+    <path d="M265 257L265 268L280 267L265 277Z" fill="#b8a357" fill-opacity=".64"/>
+    <path d="M254 266L265 268L265 277M265 268L265 257" stroke-width=".65"/>
+  </g>
+  <path d="M288 205L294 212L286 221M148 245L151 240M154 252L159 247M174 262L170 264M265 263L260 266" stroke="#a38e4d" stroke-width=".5" opacity=".65"/>
+  <!-- Narrow dark seams make the contacts with the matrix legible. -->
+  <path d="M107 267L115 270L120 266M150 261L156 264L164 258M174 279L180 280L185 275M231 278L238 281L244 276M264 278L272 277L277 272M282 233L289 235L294 230" stroke="#7d7158" stroke-width=".85"/>
+  <path d="M114 270L119 275M155 265L157 270M184 278L187 283M240 281L244 285M275 276L279 280M287 237L288 241" stroke="#99875c" stroke-width=".6"/>
+
+  <!-- Broken loose pieces show angular pale interiors and short fractured edges. -->
+  <g stroke="#938049" stroke-width=".9">
+    <path d="M64 292L77 282L91 288L84 301L70 305L59 300Z" fill="#dfd18a" fill-opacity=".84"/>
+    <path d="M64 292L76 294L84 301L70 305L59 300Z" fill="#bca65e" fill-opacity=".72"/>
+    <path d="M77 282L76 294L91 288M64 292L76 294L70 305" stroke-width=".7"/>
+    <path d="M274 306L286 293L299 298L305 308L289 315Z" fill="#e3d894" fill-opacity=".88"/>
+    <path d="M286 293L290 304L305 308L289 315L274 306L290 304Z" fill="#c3ad60" fill-opacity=".68"/>
+    <path d="M286 293L290 304L289 315M290 304L299 298" stroke-width=".7"/>
+    <path d="M106 307L114 301L123 306L119 314L109 315Z" fill="#d7c67f" fill-opacity=".82"/>
+    <path d="M114 301L114 309L106 307M114 309L119 314M114 309L123 306" stroke-width=".65"/>
+  </g>
+  <path d="M69 291L73 289M78 286L83 288M66 298L70 301M282 305L286 304M294 310L299 309M109 308L111 310" stroke="#a08a4b" stroke-width=".5" opacity=".7"/>
+</svg>

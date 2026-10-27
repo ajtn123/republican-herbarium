@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="nivose05-title nivose05-desc">
+  <title id="nivose05-title">Nivôse 5 — Chien</title>
+  <desc id="nivose05-desc">A calm adult rural working dog stands facing left, with a proportionate broad muzzle, small alert brown eye and softly folded ears. Its short warm grey-tan coat shades into a cream throat, belly and four connected legs ending in rounded, separately engraved toes. A long relaxed tail curves down beside the haunch. Fine umber hatching follows the shoulder, ribs, muscular thigh and lay of the hair beneath muted translucent watercolor.</desc>
+  <defs>
+    <linearGradient id="nivose05-coat" x1="168" y1="110" x2="198" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b7a58c" stop-opacity=".83"/>
+      <stop offset=".47" stop-color="#b39c79" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#9b896d" stop-opacity=".88"/>
+    </linearGradient>
+    <linearGradient id="nivose05-far" x1="204" y1="207" x2="209" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8c8170" stop-opacity=".91"/>
+      <stop offset="1" stop-color="#b5aa91" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="nivose05-cream" x1="123" y1="153" x2="150" y2="281" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ded4bb" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#d2c7ad" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#c7b99e" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="nivose05-ear" x1="113" y1="94" x2="119" y2="135" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a39176" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#827461" stop-opacity=".96"/>
+    </linearGradient>
+    <linearGradient id="nivose05-tail" x1="279" y1="160" x2="311" y2="247" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9c8c73" stop-opacity=".94"/>
+      <stop offset=".7" stop-color="#b5a185" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#d0c3a9" stop-opacity=".88"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#655a49">
+    <!-- Distant limbs, inset from the two nearer weight-bearing legs. -->
+    <path d="M157 195C166 197 172 208 171 224L167 247L165 271C171 273 176 277 175 282C170 285 159 284 152 283C149 280 152 276 158 273L158 250L154 226L151 208Z" fill="url(#nivose05-far)" stroke-width="1.25"/>
+    <path d="M243 198C253 204 253 216 245 229L237 242L245 254L236 274C241 275 244 279 242 283L219 283C216 280 219 276 226 274L232 254L222 240C220 235 223 229 228 220L232 205Z" fill="url(#nivose05-far)" stroke-width="1.25"/>
+    <path d="M159 227L163 245L161 269M230 240L238 253L231 271M156 279C161 277 166 277 170 280M222 280C227 278 235 278 239 281M160 278L159 283M166 279L166 283M225 278L224 283M232 279L231 283" stroke-width=".65" opacity=".82"/>
+    <path d="M155 233L160 238M157 244L162 249M159 258L163 262M225 235L231 240M230 245L235 249M233 260L237 263M229 267L233 270" stroke-width=".58" opacity=".63"/>
+    <!-- The long relaxed tail narrows smoothly to its lightly curved tip. -->
+    <path d="M270 155C284 158 290 174 296 190C303 208 311 224 312 237C313 243 310 249 305 252C304 247 307 243 305 237C302 225 294 214 288 200C281 184 277 172 267 169Z" fill="url(#nivose05-tail)" stroke-width="1.35"/>
+    <path d="M275 163C286 175 287 188 294 202C299 214 307 228 308 238M283 183L287 192M291 204L295 212M299 222L303 230M306 240L306 247" stroke-width=".65" opacity=".74"/>
+    <path d="M278 166C286 178 289 193 295 205M301 219L307 232" stroke="#d6c9af" stroke-width="1" opacity=".78"/>
+    <!-- Skull, neck, barrel and near legs form one continuous anatomical contour. -->
+    <path d="M104 96C116 94 127 104 130 118L141 140C163 141 185 144 206 142C229 140 251 139 266 149C281 159 286 176 280 191C277 202 267 212 263 219L274 239C277 244 272 250 270 254L263 277C269 279 272 285 268 290L245 290C242 287 245 282 251 280L257 251C257 246 254 242 250 237L238 221C220 223 202 219 188 216C173 220 159 216 151 211L151 240L146 276C152 279 153 286 148 291L124 291C120 287 124 282 132 279L135 244C133 228 128 217 129 201C121 190 119 176 114 163C104 168 93 165 85 159L63 154C55 153 48 148 48 141C48 135 51 131 57 129L76 125C84 121 85 110 92 103C96 99 100 97 104 96Z" fill="url(#nivose05-coat)" stroke-width="1.6"/>
+    <!-- A grey-brown saddle is a quiet translucent wash, without a hard border. -->
+    <path d="M139 143C165 144 186 147 208 145C230 143 252 143 265 153C272 159 276 169 277 178C267 171 258 170 249 174C235 179 229 185 212 185C194 185 183 180 168 177C157 175 149 180 139 183C137 168 135 157 139 143Z" fill="#868479" fill-opacity=".36" stroke="none"/>
+    <!-- Pale throat, chest and feet are softly modelled into the short coat. -->
+    <path d="M86 149C98 150 108 144 114 137C114 150 120 158 125 165C131 175 133 183 134 192C137 204 142 208 148 211C146 224 145 232 145 241L140 278C145 281 148 283 148 287L127 287C126 285 130 282 136 281L139 243C136 225 133 216 132 202C123 192 121 178 116 164C104 169 93 164 85 159L64 154Z" fill="url(#nivose05-cream)" stroke="none"/>
+    <path d="M152 205C166 214 179 217 190 213C205 214 220 219 238 217L242 222C222 225 202 219 188 218C174 221 162 216 152 211Z" fill="#d7cbb1" fill-opacity=".67" stroke="none"/>
+    <path d="M257 250L268 253L261 278C265 280 269 284 266 287L248 287C247 285 251 283 255 282Z" fill="url(#nivose05-cream)" stroke="none"/>
+    <!-- The far ear is also folded; neither ear has a wolf-like erect tip. -->
+    <path d="M97 102C94 95 94 89 99 86C106 86 113 92 115 100L109 112C104 112 100 108 97 102Z" fill="#a28d70" fill-opacity=".9" stroke-width="1.1"/>
+    <path d="M100 90C105 92 108 97 109 102L104 105C103 99 101 94 100 90Z" fill="#817460" fill-opacity=".63" stroke-width=".6"/>
+    <!-- Rounded brow and a moderate muzzle, with a dark moist nose and closed mouth. -->
+    <path d="M98 104C104 102 111 106 113 114C115 126 110 136 102 142C97 146 91 149 85 150L65 148C57 147 52 144 51 139L56 131L77 128C86 124 87 113 93 107Z" fill="#bca383" fill-opacity=".42" stroke="none"/>
+    <path d="M77 134C82 138 86 140 92 141C99 141 106 137 111 132C109 143 100 151 87 153L65 151C57 150 52 147 51 143L54 137C60 141 67 142 74 141Z" fill="#d7c8ab" fill-opacity=".84" stroke-width=".65"/>
+    <path d="M51 130C55 129 60 130 62 133L60 139C56 142 51 140 48 137C47 134 48 132 51 130Z" fill="#514e43" stroke-width=".85"/>
+    <path d="M50 133C52 131 55 131 57 132" stroke="#b7b09a" stroke-width=".8"/>
+    <path d="M52 141L53 145C61 150 72 148 81 149C87 150 94 150 99 147M58 145L61 146M75 149L79 151M84 151L87 154" stroke-width=".76"/>
+    <path d="M86 121C89 117 95 117 99 121C97 125 91 127 87 124Z" fill="#d5bea0" fill-opacity=".84" stroke-width=".65"/>
+    <path d="M88 121C91 119 95 119 97 121C95 124 91 124 88 121Z" fill="#514a3d" stroke-width=".6"/>
+    <circle cx="93.7" cy="120.6" r=".7" fill="#e8ddc6" stroke="none"/>
+    <path d="M85 116C89 113 95 113 100 116M87 126L90 128M96 127L99 125M83 122C80 127 77 130 72 132M100 127C102 133 99 138 94 140" stroke-width=".72" opacity=".83"/>
+    <path d="M65 139L65 141M70 140L71 143M76 141L77 144M80 144L82 146M89 137L86 139" stroke-width=".5" opacity=".74"/>
+    <!-- Near ear rises only at its base, then folds over and hangs beside the cheek. -->
+    <path d="M109 100C109 94 114 91 120 94C128 98 132 105 130 115C129 123 124 132 119 136C113 133 108 126 108 119C109 113 113 108 109 100Z" fill="url(#nivose05-ear)" stroke-width="1.3"/>
+    <path d="M113 100C121 99 126 103 128 109C125 108 121 108 118 109C117 117 116 124 120 131C114 129 111 123 112 118C114 111 116 106 113 100Z" fill="#8a7761" fill-opacity=".66" stroke-width=".65"/>
+    <path d="M114 99C120 99 125 102 128 107M119 111C117 119 119 126 121 129M125 113L123 119M113 118L114 125" stroke-width=".6" opacity=".84"/>
+    <path d="M115 96C120 96 125 100 128 105M128 116L125 124M120 132L117 129" stroke="#cbb696" stroke-width=".75" opacity=".77"/>
+    <!-- Neck muscles, scapula, elbow and carpus are observed under the short hair. -->
+    <path d="M125 119C125 133 130 143 137 151M116 138C117 149 121 158 126 165M122 153C124 167 129 180 135 188M140 147C132 159 132 177 138 189C141 196 147 202 151 211M145 153C154 164 159 180 154 194M133 195C137 199 142 202 147 202M138 211C139 222 142 231 141 241M140 243C145 246 147 250 145 255M143 258L140 274" stroke-width=".85" opacity=".82"/>
+    <path d="M127 143C132 150 135 154 138 157M137 165C134 175 138 188 143 194M134 202C137 210 139 217 139 223" stroke="#e0d0ae" stroke-width="1.4" opacity=".64"/>
+    <!-- Sparse curved engraving follows the ribs and gathered abdomen. -->
+    <path d="M153 151C176 156 197 155 219 151M158 164C177 170 200 169 218 164M159 194C177 209 206 215 230 212M172 170C169 181 174 194 183 201M193 172C190 183 194 198 203 205M215 168C211 181 216 198 224 204" stroke-width=".65" opacity=".36"/>
+    <path d="M153 207C165 214 176 217 188 214M197 215C208 218 225 221 237 218" stroke="#ded0b4" stroke-width="1.6" opacity=".63"/>
+    <!-- The thigh leads through the stifle to an angled hock and a compact paw. -->
+    <path d="M259 151C245 155 238 169 240 184C242 194 249 201 257 203M273 162C280 174 276 188 270 196M263 201C253 205 246 214 243 222M248 220C249 228 254 235 261 240M260 241C264 240 269 241 273 244M259 251C263 254 267 254 270 252M262 258L258 276" stroke-width=".87" opacity=".8"/>
+    <path d="M252 157C244 163 242 175 244 182M261 154C269 158 274 165 275 173M255 212C251 218 251 223 253 229" stroke="#d6c3a2" stroke-width="1.2" opacity=".64"/>
+    <!-- Low rounded paws have individual toes and small blunt claws. -->
+    <path d="M132 279C138 281 143 279 146 276M125 286C131 283 141 282 149 285M129 284C127 286 128 289 129 291M136 283C133 285 134 289 135 291M143 283C141 285 142 289 142 291M251 280C255 282 260 279 263 277M246 286C252 283 262 283 269 286M250 284C248 286 249 289 250 290M257 284C254 286 255 289 256 290M264 285C262 287 263 289 263 290" stroke-width=".75"/>
+    <path d="M126 290L124 290M133 290L131 291M141 290L139 291M248 289L246 290M254 289L252 290M262 289L260 290M154 282L152 282M161 283L159 284M222 282L220 283M229 282L227 283" stroke="#514b3f" stroke-width=".85"/>
+    <!-- Small, changing strokes follow the direction of the close coat. -->
+    <g stroke="#7a6a53" stroke-width=".54" opacity=".66">
+      <path d="M100 100L102 104M104 106L106 111M103 115L105 120M98 131L96 135M83 129L79 132M81 136L85 138M92 151L96 155M103 150L108 148M109 145L112 141"/>
+      <path d="M126 124L127 131M128 135L131 141M131 145L134 151M124 159L126 166M127 171L130 178M130 183L133 190M132 194L136 199M136 205L140 211M140 218L143 224M140 231L144 237M140 252L144 257M139 264L142 269"/>
+      <path d="M140 160L138 166M140 173L141 180M142 184L145 191M148 191L152 197M149 170L153 177M148 151L153 154M158 149L165 151M174 151L182 152M192 151L201 150M211 148L219 147M229 146L237 147"/>
+      <path d="M161 198L167 202M171 204L178 208M183 210L190 212M197 213L205 215M213 216L221 217M229 216L236 214M165 177L166 183M178 186L182 193M188 195L193 200M202 199L208 204M215 198L219 202" opacity=".65"/>
+      <path d="M245 163L242 169M242 176L243 183M244 187L248 193M250 195L255 199M258 187L264 188M269 177L273 175M268 194L273 188M260 207L255 212M252 216L249 222M252 229L257 234M259 235L264 240M265 246L270 248M261 261L265 264M258 270L262 273"/>
+    </g>
+    <g stroke="#e0d1b3" stroke-width=".65" opacity=".72">
+      <path d="M98 108L101 111M104 129L101 134M125 133L127 140M128 153L130 160M132 171L134 179M145 159L142 165M153 146L161 148M170 148L178 150M186 149L195 149M206 147L214 146M224 145L232 146M250 153L246 159M249 170L252 176M266 159L271 165M176 174L176 180M197 177L197 184M216 175L217 183M158 205L164 209M175 213L182 214M205 216L212 217M260 265L258 273M141 262L140 270"/>
+    </g>
+  </g>
+</svg>

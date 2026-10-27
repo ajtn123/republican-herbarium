@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire25-title frimaire25-desc">
+  <title id="frimaire25-title">Grillon — Gryllus campestris</title>
+  <desc id="frimaire25-desc">An adult field cricket viewed obliquely from the side, with a rounded black head, shield-shaped pronotum, finely veined folded forewings and a segmented abdomen. Exactly six jointed legs include two greatly enlarged jumping femora and long spined hind tibiae. Two very long threadlike antennae sweep above the specimen, and two short cerci project from the rear. Warm umber engraving and restrained grey-brown washes describe the dark chitin.</desc>
+  <defs>
+    <linearGradient id="frimaire25-chitin" x1="127" y1="140" x2="161" y2="202" gradientUnits="userSpaceOnUse"><stop stop-color="#857a68" stop-opacity=".87"/><stop offset=".43" stop-color="#554f44" stop-opacity=".95"/><stop offset="1" stop-color="#38392f" stop-opacity=".97"/></linearGradient>
+    <linearGradient id="frimaire25-head" x1="100" y1="146" x2="124" y2="194" gradientUnits="userSpaceOnUse"><stop stop-color="#726b5b" stop-opacity=".91"/><stop offset=".47" stop-color="#403e34" stop-opacity=".98"/><stop offset="1" stop-color="#35362d"/></linearGradient>
+    <linearGradient id="frimaire25-wing" x1="172" y1="160" x2="222" y2="216" gradientUnits="userSpaceOnUse"><stop stop-color="#9a8a70" stop-opacity=".83"/><stop offset=".42" stop-color="#776b56" stop-opacity=".89"/><stop offset="1" stop-color="#544c3e" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="frimaire25-femur" x1="213" y1="148" x2="233" y2="184" gradientUnits="userSpaceOnUse"><stop stop-color="#9b8c71" stop-opacity=".87"/><stop offset=".44" stop-color="#74674f" stop-opacity=".95"/><stop offset="1" stop-color="#494537"/></linearGradient>
+    <linearGradient id="frimaire25-leg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#93816a"/><stop offset=".55" stop-color="#665943"/><stop offset="1" stop-color="#4b4537"/></linearGradient>
+    <linearGradient id="frimaire25-abdomen" x1="223" y1="190" x2="230" y2="224" gradientUnits="userSpaceOnUse"><stop stop-color="#6d6553" stop-opacity=".91"/><stop offset="1" stop-color="#454439" stop-opacity=".96"/></linearGradient>
+  </defs>
+  <g stroke="#504b3c">
+    <!-- Three legs on the far side: foreleg, middle leg, and folded jumping leg. -->
+    <g fill="url(#frimaire25-leg)" stroke-width="1.05" opacity=".87">
+      <path d="M134 177C127 178 111 183 98 188C95 189 93 192 91 196L64 232L60 235L44 240L43 243L60 240L67 235L96 200C100 197 100 194 102 193L137 185Z"/>
+      <path d="M160 180C166 183 170 192 173 204L181 229L205 250L217 252L226 257L224 259L214 256L202 255L176 233C174 231 173 228 172 224L159 196L154 187Z"/>
+      <path d="M181 182C180 165 187 139 202 125C211 116 223 116 231 122C237 126 237 132 233 140L214 172L197 191Z" fill="#81765f"/>
+      <path d="M228 128C234 129 237 136 239 142L297 226L303 232L318 235L324 240L322 242L315 238L300 237L292 230L232 148C229 143 225 135 228 128Z"/>
+    </g>
+    <g stroke-width=".65" opacity=".75">
+      <path d="M132 181L101 191L94 199M92 202L68 232M61 237L48 241M163 188L175 226M181 232L203 252M205 253L216 254M189 176C195 156 208 136 228 126M193 177C203 162 217 146 230 135M236 144L294 228M301 234L317 237"/>
+      <path d="M200 145L207 148M204 139L212 143M209 134L218 139M215 129L224 135M191 162L197 165M194 154L201 159M228 137L234 138M244 155L249 154L248 160M253 169L258 168L257 174M262 181L267 180L266 186M271 195L276 194L276 201M281 209L285 208L285 214M290 222L295 221L294 227"/>
+      <path d="M85 208L81 207M78 217L74 216M72 225L68 225M168 214L165 217M173 225L169 229M188 243L186 246"/>
+    </g>
+    <!-- The abdominal underside remains visible below the folded tegmina. -->
+    <path d="M166 176C192 172 226 179 249 190C262 196 272 206 271 215C269 224 255 228 239 227C211 227 180 216 162 201Z" fill="url(#frimaire25-abdomen)" stroke-width="1.4"/>
+    <g stroke-width=".9">
+      <path d="M180 187C179 198 183 208 188 214M194 190C192 202 197 214 202 219M209 193C207 207 212 219 217 223M225 198C222 208 226 220 232 226M240 202C236 211 240 221 245 227M253 207C249 215 251 222 256 226M264 211C260 217 261 222 264 224"/>
+    </g>
+    <g stroke="#b2a18a" stroke-width=".65" opacity=".68"><path d="M182 204L187 211M196 209L201 216M211 214L216 220M227 218L231 223M241 220L245 224M254 220L258 223"/></g>
+    <!-- Paired, short sensory cerci, each tapering continuously from the last segment. -->
+    <path d="M267 212C281 205 296 197 312 193C301 199 287 209 271 216Z" fill="#82755e" stroke-width="1.0"/>
+    <path d="M267 218C282 222 297 231 310 239C295 234 280 228 265 223Z" fill="#766b55" stroke-width="1.0"/>
+    <g stroke-width=".5" opacity=".8"><path d="M278 207L277 204M285 203L286 200M294 199L295 196M281 210L284 211M293 203L296 204M277 223L278 220M285 227L286 225M294 232L296 230M278 227L277 230M289 232L289 235M300 236L300 238"/></g>
+    <!-- Folded, coriaceous forewings have a broad dorsal field and fine longitudinal cells. -->
+    <path d="M155 151C178 150 208 163 232 181C247 192 258 204 265 213C245 217 223 213 202 206C181 199 160 188 149 175Z" fill="url(#frimaire25-wing)" stroke-width="1.45"/>
+    <path d="M162 152C181 153 208 166 229 181C243 192 255 204 263 212M158 156C175 160 195 174 214 188C231 199 247 208 262 212M153 162C168 171 185 185 204 197C224 208 242 212 262 213" stroke-width=".9"/>
+    <path d="M164 154C168 162 177 169 188 172L196 168M173 159L172 166M183 164L181 170M194 168L194 177M201 172L199 181M210 177L207 186M217 182L216 192M225 188L225 198M234 194L234 203M242 202L243 208M251 207L252 211" stroke-width=".72"/>
+    <path d="M158 162L162 174L176 182L187 181L194 175M162 174L164 183M176 182L175 190M187 181L189 190L203 196L214 188M189 190L190 198M203 196L204 204M215 197L214 207M225 202L224 210M236 207L235 212M246 210L245 214M173 169L171 177M180 173L177 181M194 183L192 191M202 188L201 195M208 193L208 201M219 200L218 207M231 206L230 211" stroke-width=".6" opacity=".9"/>
+    <g stroke="#c1ad8d" stroke-width=".65" opacity=".65"><path d="M167 155C186 158 207 170 225 182M159 161C175 167 191 180 204 189M177 185L185 190M208 199C223 208 240 212 252 213"/></g>
+    <g stroke-width=".45" opacity=".66"><path d="M191 164L196 166M201 169L206 172M211 175L216 178M222 182L227 186M231 190L236 194M241 199L245 202M251 207L255 210M162 181L167 186M171 189L177 192M181 195L187 198M193 200L198 203M206 207L212 209"/></g>
+    <!-- The convex pronotum forms a distinct saddle behind the globular head. -->
+    <path d="M125 143C136 137 151 138 161 146C167 154 168 165 165 178C163 185 158 190 151 191C138 189 127 184 121 176C117 164 118 151 125 143Z" fill="url(#frimaire25-chitin)" stroke-width="1.55"/>
+    <path d="M126 145C137 143 151 145 159 151C163 160 163 172 159 183C148 182 135 178 126 172C124 164 123 154 126 145Z" stroke="#a59980" stroke-width=".75" opacity=".73"/>
+    <path d="M127 144C125 156 126 168 131 177M156 146C153 156 155 173 160 182M123 175C131 182 144 187 154 188" stroke-width=".8"/>
+    <g stroke-width=".5" opacity=".72"><path d="M132 143L137 145M141 143L147 146M151 145L156 149M159 157L163 160M159 165L164 169M159 175L163 177M126 166L130 170M130 174L135 178M137 180L143 183M146 184L153 187"/></g>
+    <!-- Round head, small compound eyes and articulated mouth shield; no human expression. -->
+    <path d="M117 140C102 136 91 143 87 155C82 167 86 183 96 191C105 199 117 198 125 190C133 183 135 168 131 157C129 149 124 143 117 140Z" fill="url(#frimaire25-head)" stroke-width="1.55"/>
+    <path d="M94 149C99 143 108 142 114 144M89 158C87 166 90 177 94 181M116 146C124 152 128 162 127 173" stroke="#b0a28a" stroke-width=".85" opacity=".66"/>
+    <path d="M95 148C90 149 87 154 88 161C89 168 93 173 98 172C103 170 104 163 102 157C101 152 99 149 95 148Z" fill="#34392e" stroke="#3c3c31" stroke-width="1"/>
+    <path d="M92 152C90 156 91 162 93 165M95 151L98 155" stroke="#b0a38b" stroke-width=".65" opacity=".66"/>
+    <path d="M91 179C99 177 108 177 114 182L111 191C105 195 98 194 94 189Z" fill="#736651" stroke-width=".85"/>
+    <path d="M96 180C99 183 100 188 99 192M107 181L106 191M94 190C99 189 106 190 111 192M100 195L103 199L109 197M91 183L87 188L91 193M111 190L117 193L114 197" stroke-width=".85"/>
+    <path d="M113 151C109 158 108 166 111 174M119 158C120 167 118 174 115 178" stroke="#a3987f" stroke-width=".6" opacity=".57"/>
+    <g stroke="#a4977d" stroke-width=".5" opacity=".65"><path d="M117 182L121 178M119 186L123 181M123 174L126 170M106 145L109 148M102 173L104 175M88 171L91 174"/></g>
+    <!-- Exactly two threadlike antennae, with taper and sparse annulation. -->
+    <path d="M101 148C92 121 69 110 57 89C43 66 46 42 65 35C88 27 113 37 131 52" stroke="#58513f" stroke-width="1.0"/>
+    <path d="M116 144C119 111 137 77 166 55C196 32 235 29 273 37C290 40 306 48 318 58" stroke="#5e5542" stroke-width="1.0"/>
+    <path d="M101 148L100 143M116 144L117 138" stroke="#a89a80" stroke-width=".65"/>
+    <path d="M101 148C92 121 69 110 57 89C43 66 46 42 65 35C88 27 113 37 131 52M116 144C119 111 137 77 166 55C196 32 235 29 273 37C290 40 306 48 318 58" stroke="#3e3d31" stroke-width="1.05" stroke-dasharray=".55 7.5" opacity=".65"/> 
+    <!-- Near foreleg: slender femur, angled tibia and three visible tarsal joints. -->
+    <path d="M133 186C137 191 133 198 126 205L111 219L100 258L98 267L90 273L81 277L74 279L73 282L82 281L92 277L102 270L106 260L117 222C128 214 140 205 143 196C145 190 141 186 137 185Z" fill="url(#frimaire25-leg)" stroke-width="1.15"/>
+    <path d="M136 190C139 197 128 208 113 220M113 223L103 259M100 266L94 271M91 274L83 278M81 278L80 281M92 273L94 276" stroke="#b3a084" stroke-width=".65"/>
+    <path d="M108 236L104 237L106 241M105 249L101 250L103 254M114 226L111 227M106 259L110 262M97 270L100 273M74 280L69 279L67 282M75 282L72 286" stroke-width=".7"/>
+    <!-- Near middle leg: separate coxa and a modest femur, bending down and forward. -->
+    <path d="M160 194C168 197 169 204 165 215L157 242C156 247 152 251 149 255L135 276L131 282L120 288L117 292L120 294L124 290L135 286L140 280L157 259C162 254 164 250 165 244L176 216C181 202 177 195 169 191Z" fill="url(#frimaire25-leg)" stroke-width="1.15"/>
+    <path d="M165 198C174 204 169 219 162 239M161 246L154 255L138 277M134 283L124 288M129 286L131 290M138 280L141 283" stroke="#b3a183" stroke-width=".65"/>
+    <path d="M153 259L149 258L150 263M146 268L142 267L143 272M160 250L165 251M166 234L170 237M119 293L116 298M119 292L113 292L111 295" stroke-width=".7"/>
+    <!-- Near hindleg: broad muscular femur, flexed knee, long spined tibia and a three-part foot. -->
+    <path d="M183 194C181 182 194 164 210 148C221 138 236 134 247 139C256 143 260 150 258 157C255 165 245 171 234 177L198 199C192 203 186 201 183 194Z" fill="url(#frimaire25-femur)" stroke-width="1.45"/>
+    <path d="M250 149C254 146 259 149 261 155C265 167 267 187 271 206L283 269C284 274 284 279 281 284L278 289L289 293L307 293L319 298L320 301L316 302L307 297L289 298L274 294C271 293 271 289 274 286L278 279L278 273L264 208L251 169C249 162 247 154 250 149Z" fill="url(#frimaire25-leg)" stroke-width="1.25"/>
+    <path d="M188 190C199 178 225 149 247 144M189 195C206 189 234 169 253 155M194 189C211 177 231 159 249 150" stroke-width=".85"/>
+    <path d="M195 184L200 190M201 177L207 185M207 170L214 180M214 163L221 175M221 157L228 171M229 151L236 167M237 147L244 162" stroke="#514c3b" stroke-width=".7" opacity=".8"/>
+    <path d="M193 182C205 167 224 145 241 142M196 196C214 186 233 174 244 165" stroke="#c4ad87" stroke-width=".7" opacity=".72"/>
+    <path d="M256 155L265 195L280 272M281 278L275 289L289 295L307 295L317 299M290 294L289 297M303 294L302 297M311 295L309 298" stroke="#b9a588" stroke-width=".75"/>
+    <!-- Tibial spines arise from the same two margins; these are not additional legs. -->
+    <g stroke="#4f4939" stroke-width=".9" fill="#74664f">
+      <path d="M263 179L270 176L265 185Z"/>
+      <path d="M267 197L275 194L269 203Z"/>
+      <path d="M271 216L279 212L273 223Z"/>
+      <path d="M275 235L283 232L277 243Z"/>
+      <path d="M279 254L287 251L281 261Z"/>
+      <path d="M257 185L252 182L259 193Z"/>
+      <path d="M262 205L257 202L264 213Z"/>
+      <path d="M267 225L261 221L268 232Z"/>
+      <path d="M271 245L266 242L273 252Z"/>
+      <path d="M276 267L270 264L277 275Z"/>
+    </g>
+    <path d="M278 283L285 282L280 288M274 287L269 284M318 300L323 297L325 298M319 301L320 306L323 307" stroke-width=".8"/>
+    <ellipse cx="254.5" cy="155.5" rx="3.7" ry="5.1" transform="rotate(-15 254.5 155.5)" fill="#60553f" stroke-width=".8"/>
+    <path d="M253 152L254 157M186 189C185 193 188 196 192 196M134 192L136 196M164 201L168 205" stroke="#c4af8d" stroke-width=".65" opacity=".8"/>
+    <!-- Sparse fine bristles and short contour hatching model the chitin. -->
+    <g stroke="#665b45" stroke-width=".5" opacity=".75"><path d="M201 150L199 147M208 144L207 141M217 139L217 136M228 136L228 133M238 136L239 133M246 138L248 135M217 184L220 187M209 190L211 193M200 196L201 200M191 200L190 203M130 202L131 206M123 209L124 212M118 215L119 218M159 224L156 224M157 233L154 233M110 246L112 246M107 254L109 255M259 172L261 172M265 213L263 213M269 234L267 234M274 255L272 255"/></g>
+  </g>
+</svg>

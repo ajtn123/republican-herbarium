@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="frimaire30-title frimaire30-desc">
+  <title id="frimaire30-title">Pelle — a broad iron shovel</title>
+  <desc id="frimaire30-desc">An eighteenth-century shovel lies obliquely, its long, slightly bowed oak shaft ending in a simple wooden T-grip. A riveted iron socket joins it to a broad, shallow concave scoop. Turned shoulders, raised side rims and a gently rounded, worn cutting edge distinguish the shovel used to lift loose earth or grain. Fine wood grain and curved engraving strokes model muted ochre wood and weathered grey iron.</desc>
+  <defs>
+    <linearGradient id="frimaire30-oak" x1="171" y1="112" x2="188" y2="113" gradientUnits="userSpaceOnUse"><stop stop-color="#87724f" stop-opacity=".9"/><stop offset=".3" stop-color="#b09b73" stop-opacity=".85"/><stop offset=".6" stop-color="#c3ae83" stop-opacity=".82"/><stop offset="1" stop-color="#8b7755" stop-opacity=".94"/></linearGradient>
+    <linearGradient id="frimaire30-grip" x1="178" y1="35" x2="179" y2="51" gradientUnits="userSpaceOnUse"><stop stop-color="#bdab85" stop-opacity=".88"/><stop offset=".38" stop-color="#b39e76" stop-opacity=".86"/><stop offset="1" stop-color="#867451" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="frimaire30-iron" x1="130" y1="239" x2="227" y2="282" gradientUnits="userSpaceOnUse"><stop stop-color="#646d66" stop-opacity=".88"/><stop offset=".22" stop-color="#a1a69a" stop-opacity=".8"/><stop offset=".53" stop-color="#b9baab" stop-opacity=".7"/><stop offset=".77" stop-color="#8d958b" stop-opacity=".84"/><stop offset="1" stop-color="#626e67" stop-opacity=".93"/></linearGradient>
+    <linearGradient id="frimaire30-hollow" x1="180" y1="236" x2="180" y2="312" gradientUnits="userSpaceOnUse"><stop stop-color="#5b6963" stop-opacity=".5"/><stop offset=".38" stop-color="#bdc0b1" stop-opacity=".15"/><stop offset=".74" stop-color="#d7d6c3" stop-opacity=".2"/><stop offset="1" stop-color="#758079" stop-opacity=".3"/></linearGradient>
+    <linearGradient id="frimaire30-socket" x1="166" y1="207" x2="193" y2="209" gradientUnits="userSpaceOnUse"><stop stop-color="#5d675f"/><stop offset=".28" stop-color="#929a8e"/><stop offset=".54" stop-color="#b0b3a3"/><stop offset=".79" stop-color="#8b9488"/><stop offset="1" stop-color="#59665e"/></linearGradient>
+    <linearGradient id="frimaire30-bevel" x1="178" y1="302" x2="178" y2="318" gradientUnits="userSpaceOnUse"><stop stop-color="#9ba293"/><stop offset=".45" stop-color="#bfc1b2"/><stop offset="1" stop-color="#68746b"/></linearGradient>
+  </defs>
+  <g transform="rotate(-34 180 180)">
+    <!-- The bowed shaft continues into the socket; there is no exposed gap at the heel. -->
+    <path d="M177 46C176 72 175 98 174 122C172 150 173 177 175 204L178 230L188 229C186 204 184 180 184 155C183 128 185 101 186 77L187 46Z" fill="url(#frimaire30-oak)" stroke="#6f634c" stroke-width="1.45"/>
+    <path d="M179 54C179 79 177 102 177 124C175 148 177 175 178 191M180 199L182 222" stroke="#d2c09a" stroke-width=".8" opacity=".83"/>
+    <path d="M183 55C183 80 180 106 181 128C180 149 180 170 182 188" stroke="#826d4e" stroke-width=".7" opacity=".8"/>
+    <path d="M176 71L176 88M177 101L176 116M175 132C174 150 175 167 176 180M178 195L179 211M184 66L183 81M182 97L181 115M182 142L182 159M183 169L184 183M184 200L186 218" stroke="#7b684c" stroke-width=".53" opacity=".65"/>
+    <path d="M178 86C175 90 175 96 177 99C180 97 180 90 178 86ZM180 82C183 90 182 97 179 103M175 84C172 91 173 99 175 103M179 146C177 151 177 155 179 158C181 155 181 149 179 146ZM176 145C174 151 175 159 178 163M181 146C183 153 182 159 180 164" stroke="#84714f" stroke-width=".53" opacity=".78"/>
+    <g stroke="#685c46" stroke-width=".47" opacity=".58"><path d="M174 119L176 124M174 127L176 133M174 161L176 166M175 171L177 176M181 61L183 65M180 110L182 114M183 179L185 183M183 186L185 191M176 191L178 197M177 203L179 209"/></g>
+    <!-- A plain hand-hewn T, with the end of the shaft tenoned through its underside. -->
+    <path d="M154 35C167 34 194 34 208 36C212 39 212 45 208 48C194 49 167 48 154 47C150 44 150 38 154 35Z" fill="url(#frimaire30-grip)" stroke="#71644c" stroke-width="1.4"/>
+    <path d="M154 35C157 38 157 44 154 47M208 36C205 39 205 45 208 48" stroke="#79694d" stroke-width=".8"/>
+    <path d="M158 37C173 37 189 36 203 38M158 44C170 43 181 46 193 44L203 44" stroke="#d1be94" stroke-width=".7" opacity=".82"/>
+    <path d="M160 40C168 39 174 41 180 40M188 40L200 40M162 46L174 46M188 46L201 46M153 39L154 43" stroke="#82704e" stroke-width=".55"/>
+    <path d="M177 46L177 50Q181 52 186 49L186 47" fill="#9a8560" stroke="#6e624a" stroke-width=".8"/>
+    <path d="M179 47L179 49M183 47L183 49" stroke="#c4ae82" stroke-width=".55"/>
+    <!-- The bowl is wide and shallow: its two shoulders turn upward beside the neck. -->
+    <path d="M169 225C156 225 145 221 135 218C129 226 127 241 127 258C126 279 131 299 141 309C150 318 163 321 179 322C195 322 211 318 220 309C230 298 234 276 233 256C233 239 230 225 224 218C213 223 201 226 190 225L182 218Z" fill="url(#frimaire30-iron)" stroke="#5d645a" stroke-width="1.6"/>
+    <path d="M135 218C141 222 146 226 151 230C144 231 138 229 132 226Z" fill="#78847a" stroke="#626d62" stroke-width=".85"/>
+    <path d="M224 218C218 222 213 226 208 230C216 231 223 229 228 226Z" fill="#68766e" stroke="#5d695f" stroke-width=".85"/>
+    <path d="M136 221C141 224 145 226 148 228M223 221L212 228" stroke="#b9bdac" stroke-width=".75"/>
+    <!-- The inner contour follows the concave face, leaving narrow turned side rims. -->
+    <path d="M151 230C159 233 168 235 179 235C189 235 200 233 208 230C216 231 222 229 227 228C230 246 229 271 224 288C221 302 213 310 199 313C185 317 166 316 154 311C140 306 137 293 134 276C131 258 132 242 134 229C140 232 146 233 151 230Z" fill="url(#frimaire30-hollow)" stroke="#7d897e" stroke-width=".72"/>
+    <path d="M134 232C131 252 133 275 137 291C140 304 146 310 157 314M228 233C231 253 228 276 224 291C220 304 212 311 202 314" stroke="#c1c3b2" stroke-width=".9" opacity=".78"/>
+    <path d="M137 240C135 259 138 281 143 293C149 306 164 310 180 310C197 310 212 305 217 293C223 281 226 260 223 242" stroke="#748075" stroke-width=".72" opacity=".8"/>
+    <path d="M144 255C143 269 147 285 153 292M211 251C214 269 209 288 202 294M157 304C170 309 188 309 201 304" stroke="#d0cfba" stroke-width=".8" opacity=".75"/>
+    <!-- A rounded cutting edge has a thin, rubbed bevel, rather than a spade's square toe. -->
+    <path d="M132 288C137 305 145 311 158 315C170 319 187 319 200 315C214 312 223 304 228 287C226 298 224 304 220 309C211 318 195 322 179 322C163 321 150 318 141 309C136 304 133 296 132 288Z" fill="url(#frimaire30-bevel)" stroke="#687369" stroke-width=".72"/>
+    <path d="M141 307C151 316 164 319 178 319C193 320 209 315 218 307" stroke="#d0d0ba" stroke-width=".8"/>
+    <path d="M148 315L151 315L155 318M170 321L173 319L176 321M200 318L201 316M216 311L214 312" stroke="#5e6b61" stroke-width=".7"/>
+    <!-- Sparse curved hatching follows the hollow and the folded margins. -->
+    <g stroke="#606e63" stroke-width=".57" opacity=".7">
+      <path d="M132 235L137 242M131 244L136 251M131 254L136 261M132 264L137 271M133 274L139 282M136 286L142 293M140 297L146 303M146 306L151 310M153 310L160 314M162 313L168 316M175 315L181 318M188 315L193 317M202 312L208 313M214 305L219 302M221 293L226 286M224 280L229 273M226 266L231 259M227 252L231 245M227 239L230 234"/>
+      <path d="M146 235C148 241 152 245 157 248M153 234C157 241 162 245 167 246M164 237C168 242 172 244 177 245M190 237C186 241 183 243 179 245M201 234C198 240 194 243 190 245M213 233C210 239 206 243 201 246M142 248C144 257 146 263 149 267M141 258C142 268 145 276 149 281M146 283C148 292 153 298 159 301M151 286C154 294 159 298 165 300M208 285C205 294 201 298 195 301M215 274C214 284 211 291 207 296M219 255C221 264 219 275 217 281M217 246C219 253 219 258 219 264"/>
+    </g>
+    <g stroke="#7a8174" stroke-width=".5" opacity=".56"><path d="M156 263L159 271M164 278L168 286M185 291L183 298M197 269L194 276M177 256L178 265M168 298L176 300M195 254L193 261M151 272L154 277M205 294L202 298"/></g>
+    <g stroke="#b5b7a2" stroke-width=".65" opacity=".8"><path d="M150 252L154 257M159 259L162 266M169 272L171 278M193 285L190 292M200 259L198 265M179 303L188 302M153 296L157 300M212 272L210 280M142 235L145 240M215 236L218 233"/></g>
+    <!-- A forged socket is visibly continuous with its flattened heel on the scoop. -->
+    <path d="M174 188C176 186 183 185 187 187L188 210C188 220 191 229 197 235C191 241 171 242 163 236C170 229 173 221 173 211Z" fill="url(#frimaire30-socket)" stroke="#5d685d" stroke-width="1.3"/>
+    <path d="M174 188C177 191 184 191 187 187" stroke="#515f56" stroke-width="1.2"/>
+    <path d="M175 187C178 185 184 185 187 187" stroke="#bbc0ab" stroke-width=".75"/>
+    <path d="M177 194L176 214C176 225 173 232 169 236M181 193L181 215C181 225 183 234 186 238" stroke="#bec1ae" stroke-width=".75" opacity=".86"/>
+    <path d="M185 193L185 211C185 224 188 231 191 235M173 229L177 234M171 232L175 237M187 230L191 234M187 235L190 238" stroke="#5d6a5e" stroke-width=".65"/>
+    <path d="M179 192C179 205 177 216 178 228" stroke="#7b8779" stroke-width=".65" opacity=".8"/>
+    <ellipse cx="179.5" cy="205" rx="2.25" ry="2.6" fill="#687367" stroke="#536255" stroke-width=".7"/>
+    <path d="M178 204C178 202 180 202 181 204" stroke="#c0c2ac" stroke-width=".7"/>
+    <path d="M171 239C177 242 188 242 193 239M174 232L174 236M183 232L184 237" stroke="#56665a" stroke-width=".65" opacity=".7"/>
+    <!-- Slight irregular oxide stains, kept translucent like the wash on the original plates. -->
+    <path d="M138 268C142 271 140 278 143 282C140 281 138 276 138 268ZM215 239C213 241 213 246 214 249C217 245 218 242 215 239ZM204 309C200 312 194 313 190 312C193 309 200 310 204 309Z" fill="#99876a" opacity=".24"/>
+  </g>
+</svg>

@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="f23-title f23-desc">
+<title id="f23-title">Roseau — Phragmites australis</title>
+<desc id="f23-desc">A common reed with a tall, slender, jointed hollow culm, overlapping leaf sheaths, and long parallel-veined blades arching downward. Its open tawny and muted purple panicle divides repeatedly into fine branches bearing silky narrow spikelets. A short creeping rhizome and a few fibrous roots remain at the base.</desc>
+<defs>
+  <linearGradient id="f23-culm" x1="175" y1="216" x2="189" y2="218" gradientUnits="userSpaceOnUse"><stop stop-color="#b4b18d"/><stop offset=".45" stop-color="#a4aa82"/><stop offset="1" stop-color="#788364"/></linearGradient>
+  <linearGradient id="f23-leaf" x1="112" y1="166" x2="231" y2="281" gradientUnits="userSpaceOnUse"><stop stop-color="#adb397" stop-opacity=".57"/><stop offset=".5" stop-color="#8e9d7b" stop-opacity=".72"/><stop offset="1" stop-color="#748466" stop-opacity=".78"/></linearGradient>
+  <linearGradient id="f23-fold" x1="167" y1="213" x2="217" y2="281" gradientUnits="userSpaceOnUse"><stop stop-color="#afb397" stop-opacity=".65"/><stop offset="1" stop-color="#8c9975" stop-opacity=".7"/></linearGradient>
+  <linearGradient id="f23-rhizome" x1="163" y1="307" x2="169" y2="322" gradientUnits="userSpaceOnUse"><stop stop-color="#bca783"/><stop offset=".55" stop-color="#ab916c"/><stop offset="1" stop-color="#8f785a"/></linearGradient>
+  <g id="f23-spikelet" stroke-width=".48">
+    <path d="M0 1C-.2-1.4-.5-3.8-.2-6.5" stroke="#9b8775"/>
+    <path d="M-.2-1.5C-2.1-3.1-1.9-5.7-1.2-7.4C.1-5.7.6-3.8-.2-1.5Z" fill="#b9a28d" fill-opacity=".8" stroke="#97806e"/>
+    <path d="M0-3C1.8-4.4 1.6-6.8.6-8.5C-.3-6.4-.6-4.5 0-3Z" fill="#c9b89b" fill-opacity=".87" stroke="#a18a73"/>
+    <path d="M-.5-1.7C-2.4-3.1-3.2-5.4-3.4-7.4M-.4-2C-1.9-4-2.5-7-2.4-9M.1-2C2.1-3.5 3-6 3-8M.3-3.5C1.8-5.6 2.1-8 1.9-10M-.3-4.5L-.6-10.3" stroke="#bcac98" stroke-opacity=".85" stroke-width=".38"/>
+  </g>
+  <g id="f23-spikelet-rose" stroke-width=".46">
+    <path d="M0 .8L-.3-6.8" stroke="#9a847c"/>
+    <path d="M0-1.1C-1.7-2.8-2-5.5-1.4-7.4C.2-5.5.9-3.4 0-1.1Z" fill="#b5a0a0" fill-opacity=".75" stroke="#947b79"/>
+    <path d="M.1-3.3C1.7-5 1.3-6.8.4-8.2C-.4-6.6-.6-4.9.1-3.3Z" fill="#c2b0a9" fill-opacity=".75" stroke="#a28b84"/>
+    <path d="M-.4-1.5C-2.4-3.3-3.2-5.6-3-7.7M-.3-2.3C-1.5-4.2-2.1-7.2-1.9-9.6M.3-2.2C2.3-3.7 3.1-6.1 2.8-8.4M.4-3.7C1.9-5.8 1.9-8.1 1.6-9.7M-.3-5L-.5-10.2" stroke="#bba5a3" stroke-opacity=".8" stroke-width=".37"/>
+  </g>
+</defs>
+<!-- The horizontal rhizome has its own swollen joints and fine adventitious roots. -->
+<path d="M137 315C150 311 166 310 178 311C192 312 202 317 216 316L221 319C205 322 192 318 178 317C165 316 152 319 139 320Z" fill="url(#f23-rhizome)" stroke="#887458" stroke-width="1.15"/>
+<path d="M139 316C153 313 165 313 176 313M187 314C197 317 207 319 218 318" stroke="#d0bb94" stroke-width=".65"/>
+<path d="M147 313Q146 316 148 319M164 311Q162 314 164 318M181 312Q180 315 182 318M200 316L199 320M213 317L212 320" stroke="#8c7657" stroke-width=".8"/>
+<g stroke="#9c896a" stroke-width=".65"><path d="M150 319C146 325 142 323 137 328M151 322L150 327M167 318C164 324 165 326 160 330M165 324L169 329M182 318C182 324 187 326 186 331M184 326L180 330M200 320C201 325 205 325 208 329M203 324L202 328M138 317L132 318"/></g>
+<!-- A cylindrical culm; pale longitudinal light and darker annular nodes describe the internodes. -->
+<path d="M175 313C178 289 179 270 180 248C182 218 185 196 189 170C191 153 194 135 196 119L199 119C198 139 195 156 193 173C189 199 187 222 185 248C184 270 183 292 180 314Z" fill="url(#f23-culm)" stroke="#718062" stroke-width="1.1"/>
+<path d="M177 312C181 281 181 267 182 250M184 239C185 217 188 194 190 178M193 163C195 147 196 133 197 120" stroke="#d7d5b2" stroke-width=".75"/>
+<path d="M177 284Q180 286 184 284M180 248Q182 250 186 248M184 211Q187 213 190 211M188 176Q191 178 194 176M192 144L197 145" stroke="#69765b" stroke-width="1.7"/>
+<path d="M177 282L184 282M180 246L186 246M185 209L190 209M189 174L194 174" stroke="#c0bd99" stroke-width=".6"/>
+<!-- Long, entire, parallel-veined blades issue from alternate overlapping sheaths. -->
+<g fill="url(#f23-leaf)" stroke="#6e7b60" stroke-width="1.1">
+ <path d="M189 179C172 158 144 145 122 150C103 155 90 170 81 191C95 171 108 160 124 160C147 161 169 174 190 184Z"/>
+ <path d="M186 212C204 181 227 173 248 181C271 190 287 219 296 249C281 221 265 201 246 195C225 188 205 195 186 217Z"/>
+ <path d="M182 250C164 218 139 201 115 201C93 201 75 215 65 236C83 216 101 211 117 214C142 219 160 234 181 255Z"/>
+ <path d="M179 286C193 261 212 252 228 257C247 263 258 286 262 308C253 289 240 276 227 272C211 266 193 275 180 291Z"/>
+ <path d="M193 156C210 143 229 144 247 157C258 166 266 178 272 193C259 178 248 168 237 166C222 160 207 160 193 161Z" fill="url(#f23-fold)"/>
+</g>
+<!-- Broad sheaths clasp the culm below each narrow blade; the ligule is a minute pale fringe. -->
+<g stroke="#798568" stroke-width=".85" fill="url(#f23-fold)">
+ <path d="M189 177C188 184 188 197 185 209L189 211C192 200 192 192 192 182L194 178L190 179Z"/>
+ <path d="M184 211C185 222 182 236 181 247L185 248C187 235 188 224 188 215L192 209L187 212Z"/>
+ <path d="M181 249C182 262 179 273 178 283L182 284C185 271 184 263 185 254L181 249Z"/>
+ <path d="M177 285C179 294 177 303 175 311L180 313C183 302 182 296 182 287Z"/>
+</g>
+<g stroke="#d8d5b6" stroke-width=".5"><path d="M189 179L188 177M190 180L190 177M191 180L192 177M185 213L184 210M186 213L187 210M187 213L189 211M181 251L179 248M182 252L182 248M178 287L176 284M179 287L180 284"/></g>
+<g stroke="#6d7d60" stroke-width=".65" opacity=".82">
+ <path d="M190 182C163 165 141 152 121 155C106 157 92 174 83 188M189 181C161 159 143 151 128 153"/>
+ <path d="M187 215C208 189 227 182 246 187C264 192 284 225 293 243M190 213C209 194 231 187 247 190"/>
+ <path d="M182 253C158 226 140 209 116 207C98 205 80 220 69 231M179 251C155 223 138 213 118 211"/>
+ <path d="M179 289C198 269 212 260 227 264C240 267 254 292 259 302M183 287C200 274 215 267 226 268"/>
+ <path d="M194 159C215 150 233 153 246 161C255 167 264 180 269 188"/>
+</g>
+<g stroke="#68765a" stroke-width=".45" opacity=".42"><path d="M111 155L118 153M116 158L123 157M144 160L152 164M150 162L158 167M215 189L222 187M225 187L232 187M262 205L267 212M266 210L270 217M95 209L102 207M101 211L108 210M147 226L154 233M151 227L158 234M207 265L214 263M232 271L238 277M235 272L242 280"/></g>
+<!-- The open panicle carries many unequal branches, each dividing again before its silky spikelets. -->
+<path d="M194 152C192 132 196 113 200 96C205 78 210 58 209 36" stroke="#93866a" stroke-width="1.4"/>
+<path d="M195 147C195 128 200 109 203 96C208 75 211 57 210 39" stroke="#c6b69a" stroke-width=".55"/>
+
+
+<path d="M194 148Q163.0 142.7 147.0 126.0" stroke="#9d8881" stroke-width=".7"/>
+<path d="M177.8 144.1Q172.2 138.9 170.1 132.6" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(170.1 132.6) rotate(-22.0) scale(0.94)"/>
+<path d="M177.8 144.1Q169.7 145.0 169.7 142.8" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(169.7 142.8) rotate(-51.5) scale(.78)"/>
+<path d="M169.1 140.9Q165.3 137.0 165.0 132.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(165.0 132.3) rotate(-19.9) scale(0.79)"/>
+<path d="M161.3 137.1Q156.4 133.2 155.8 128.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(155.8 128.5) rotate(-31.9) scale(0.78)"/>
+<path d="M161.3 137.1Q153.0 138.0 153.0 134.1" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(153.0 134.1) rotate(-66.1) scale(.78)"/>
+<path d="M154.4 132.5Q149.3 127.2 149.6 120.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(149.6 120.7) rotate(-32.3) scale(0.94)"/>
+<path d="M148.3 127.3Q144.4 123.8 144.9 119.4" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(144.9 119.4) rotate(-44.8) scale(0.94)"/>
+<path d="M148.3 127.3Q139.7 128.2 139.7 125.8" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(139.7 125.8) rotate(-51.1) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(147.0 126.0) rotate(-32.4) scale(.9)"/>
+<path d="M195 143Q231.3 137.7 250.0 121.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M213.9 139.1Q216.4 134.3 217.9 128.4" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(217.9 128.4) rotate(22.5) scale(0.77)"/>
+<path d="M213.9 139.1Q222.2 140.0 222.2 135.7" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(222.2 135.7) rotate(56.2) scale(.78)"/>
+<path d="M224.1 135.9Q227.3 132.3 228.5 127.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(228.5 127.8) rotate(47.0) scale(0.93)"/>
+<path d="M233.2 132.1Q238.1 129.1 240.2 125.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(240.2 125.5) rotate(48.8) scale(0.83)"/>
+<path d="M233.2 132.1Q242.9 133.0 242.9 129.3" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(242.9 129.3) rotate(77.1) scale(.78)"/>
+<path d="M241.4 127.5Q243.6 124.4 249.2 120.6" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(249.2 120.6) rotate(34.0) scale(0.77)"/>
+<path d="M248.5 122.3Q253.7 117.8 256.3 112.4" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(256.3 112.4) rotate(53.2) scale(0.93)"/>
+<path d="M248.5 122.3Q257.5 123.2 257.5 120.3" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(257.5 120.3) rotate(78.1) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(250.0 121.0) rotate(33.7) scale(.9)"/>
+<path d="M195 136Q156.7 126.6 137.0 97.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M175.0 129.2Q171.2 126.1 171.6 122.2" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(171.6 122.2) rotate(-26.1) scale(1.05)"/>
+<path d="M175.0 129.2Q168.2 130.1 168.2 127.9" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(168.2 127.9) rotate(-63.0) scale(.78)"/>
+<path d="M164.3 123.5Q159.1 120.4 158.6 116.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(158.6 116.7) rotate(-28.1) scale(0.89)"/>
+<path d="M154.7 116.6Q149.1 112.8 150.0 108.2" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(150.0 108.2) rotate(-48.3) scale(1.04)"/>
+<path d="M154.7 116.6Q147.0 117.5 147.0 113.5" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(147.0 113.5) rotate(-73.2) scale(.78)"/>
+<path d="M146.1 108.6Q142.9 104.3 141.9 99.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(141.9 99.0) rotate(-33.7) scale(1.00)"/>
+<path d="M138.6 99.3Q136.2 95.3 131.5 90.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(131.5 90.3) rotate(-41.7) scale(0.86)"/>
+<path d="M138.6 99.3Q129.3 100.2 129.3 97.6" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(129.3 97.6) rotate(-77.4) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(137.0 97.0) rotate(-26.8) scale(.9)"/>
+<path d="M197 130Q237.3 122.6 258.0 99.0" stroke="#9d8881" stroke-width=".7"/>
+<path d="M218.0 124.6Q221.0 120.6 223.7 115.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(223.7 115.7) rotate(39.2) scale(0.91)"/>
+<path d="M218.0 124.6Q226.9 125.5 226.9 123.6" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(226.9 123.6) rotate(57.8) scale(.78)"/>
+<path d="M229.3 120.0Q234.8 115.5 233.0 109.9" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(233.0 109.9) rotate(26.3) scale(0.97)"/>
+<path d="M239.4 114.6Q241.7 110.9 244.5 106.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(244.5 106.3) rotate(44.2) scale(0.91)"/>
+<path d="M239.4 114.6Q247.6 115.5 247.6 111.9" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(247.6 111.9) rotate(62.9) scale(.78)"/>
+<path d="M248.4 108.2Q250.8 104.9 255.9 100.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(255.9 100.8) rotate(50.6) scale(1.03)"/>
+<path d="M256.3 100.9Q260.7 96.3 262.7 90.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(262.7 90.7) rotate(29.5) scale(0.86)"/>
+<path d="M256.3 100.9Q263.5 101.8 263.5 97.0" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(263.5 97.0) rotate(56.6) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(258.0 99.0) rotate(33.9) scale(.9)"/>
+<path d="M198 123Q162.4 112.0 144.0 77.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M179.4 114.9Q175.5 111.4 172.3 107.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(172.3 107.0) rotate(-38.9) scale(0.84)"/>
+<path d="M179.4 114.9Q173.0 115.8 173.0 113.3" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(173.0 113.3) rotate(-54.0) scale(.78)"/>
+<path d="M169.4 108.2Q167.0 103.5 163.9 97.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(163.9 97.8) rotate(-35.7) scale(0.80)"/>
+<path d="M160.4 100.1Q157.4 96.5 153.2 92.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(153.2 92.0) rotate(-49.6) scale(0.84)"/>
+<path d="M160.4 100.1Q151.9 101.0 151.9 99.0" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(151.9 99.0) rotate(-72.4) scale(.78)"/>
+<path d="M152.5 90.6Q149.9 87.4 147.7 83.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(147.7 83.5) rotate(-49.1) scale(0.79)"/>
+<path d="M145.5 79.8Q142.3 76.2 139.1 71.9" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(139.1 71.9) rotate(-21.8) scale(1.04)"/>
+<path d="M145.5 79.8Q138.8 80.7 138.8 75.8" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(138.8 75.8) rotate(-76.0) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(144.0 77.0) rotate(-29.2) scale(.9)"/>
+<path d="M200 115Q236.3 105.4 255.0 75.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M218.9 108.0Q221.5 105.5 225.0 102.4" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(225.0 102.4) rotate(45.3) scale(0.91)"/>
+<path d="M218.9 108.0Q227.2 108.9 227.2 104.7" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(227.2 104.7) rotate(72.9) scale(.78)"/>
+<path d="M229.1 102.1Q232.4 98.2 235.1 93.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(235.1 93.3) rotate(23.8) scale(0.79)"/>
+<path d="M238.2 95.1Q241.5 92.1 243.4 88.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(243.4 88.5) rotate(41.3) scale(0.93)"/>
+<path d="M238.2 95.1Q246.0 96.0 246.0 93.0" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(246.0 93.0) rotate(67.1) scale(.78)"/>
+<path d="M246.4 86.9Q249.6 82.5 254.0 77.2" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(254.0 77.2) rotate(50.9) scale(1.06)"/>
+<path d="M253.5 77.4Q258.6 74.6 258.4 71.2" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(258.4 71.2) rotate(48.9) scale(0.77)"/>
+<path d="M253.5 77.4Q262.4 78.3 262.4 74.1" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(262.4 74.1) rotate(63.2) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(255.0 75.0) rotate(29.8) scale(.9)"/>
+<path d="M201 109Q168.7 98.4 152.0 65.0" stroke="#9d8881" stroke-width=".7"/>
+<path d="M184.1 101.3Q180.9 97.9 180.8 93.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(180.8 93.7) rotate(-34.4) scale(1.02)"/>
+<path d="M184.1 101.3Q176.5 102.2 176.5 99.6" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(176.5 99.6) rotate(-55.7) scale(.78)"/>
+<path d="M175.1 94.9Q172.4 90.8 169.8 85.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(169.8 85.8) rotate(-48.6) scale(0.94)"/>
+<path d="M166.9 87.1Q163.2 83.4 160.8 78.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(160.8 78.8) rotate(-40.9) scale(1.04)"/>
+<path d="M166.9 87.1Q158.3 88.0 158.3 84.8" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(158.3 84.8) rotate(-47.1) scale(.78)"/>
+<path d="M159.7 78.0Q156.2 73.6 154.7 68.1" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(154.7 68.1) rotate(-21.1) scale(0.77)"/>
+<path d="M153.4 67.6Q148.5 62.8 146.7 57.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(146.7 57.0) rotate(-43.1) scale(0.84)"/>
+<path d="M153.4 67.6Q144.9 68.5 144.9 66.4" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(144.9 66.4) rotate(-65.0) scale(.78)"/>
+<use href="#f23-spikelet" transform="translate(152.0 65.0) rotate(-36.8) scale(.9)"/>
+<path d="M203 101Q234.0 92.1 250.0 64.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M219.2 94.5Q221.5 90.8 222.8 86.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(222.8 86.3) rotate(36.0) scale(0.81)"/>
+<path d="M219.2 94.5Q226.4 95.4 226.4 91.7" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(226.4 91.7) rotate(70.5) scale(.78)"/>
+<path d="M230.6 87.1Q233.4 83.2 236.2 78.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(236.2 78.5) rotate(31.5) scale(1.06)"/>
+<path d="M240.4 77.6Q244.6 74.6 245.9 70.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(245.9 70.8) rotate(47.5) scale(0.85)"/>
+<path d="M240.4 77.6Q246.5 78.5 246.5 74.3" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(246.5 74.3) rotate(64.4) scale(.78)"/>
+<path d="M248.7 66.2Q253.5 61.7 252.5 56.1" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(252.5 56.1) rotate(53.1) scale(0.97)"/>
+<use href="#f23-spikelet" transform="translate(250.0 64.0) rotate(46.2) scale(.9)"/>
+<path d="M205 94Q177.9 84.2 164.0 53.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M190.9 86.8Q185.6 82.2 187.3 76.6" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(187.3 76.6) rotate(-21.9) scale(0.79)"/>
+<path d="M190.9 86.8Q182.0 87.7 182.0 82.9" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(182.0 82.9) rotate(-66.5) scale(.78)"/>
+<path d="M180.9 78.6Q176.7 75.0 176.6 70.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(176.6 70.7) rotate(-54.7) scale(0.96)"/>
+<path d="M172.4 68.1Q167.4 65.3 165.7 61.9" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(165.7 61.9) rotate(-21.6) scale(1.01)"/>
+<path d="M172.4 68.1Q165.5 69.0 165.5 66.9" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(165.5 66.9) rotate(-67.5) scale(.78)"/>
+<path d="M165.1 55.5Q163.1 52.8 157.3 49.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(157.3 49.5) rotate(-48.1) scale(1.00)"/>
+<use href="#f23-spikelet" transform="translate(164.0 53.0) rotate(-38.2) scale(.9)"/>
+<path d="M207 85Q230.8 76.8 243.0 51.0" stroke="#9d8881" stroke-width=".7"/>
+<path d="M219.4 79.0Q222.0 74.9 225.6 69.9" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(225.6 69.9) rotate(47.7) scale(0.87)"/>
+<path d="M219.4 79.0Q227.5 79.9 227.5 75.3" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(227.5 75.3) rotate(59.1) scale(.78)"/>
+<path d="M228.1 72.2Q231.4 67.9 231.5 62.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(231.5 62.7) rotate(43.1) scale(0.95)"/>
+<path d="M235.7 63.5Q240.8 60.7 242.7 57.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(242.7 57.3) rotate(24.1) scale(0.80)"/>
+<path d="M235.7 63.5Q245.6 64.4 245.6 60.7" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(245.6 60.7) rotate(59.6) scale(.78)"/>
+<path d="M242.0 53.0Q246.1 49.6 249.1 45.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(249.1 45.3) rotate(38.3) scale(0.94)"/>
+<use href="#f23-spikelet" transform="translate(243.0 51.0) rotate(43.4) scale(.9)"/>
+<path d="M208 78Q187.5 69.4 177.0 42.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M197.3 71.7Q192.9 67.5 193.0 62.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(193.0 62.5) rotate(-48.6) scale(0.98)"/>
+<path d="M197.3 71.7Q187.7 72.6 187.7 70.3" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(187.7 70.3) rotate(-62.3) scale(.78)"/>
+<path d="M189.8 64.4Q185.8 61.4 185.8 57.6" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(185.8 57.6) rotate(-54.4) scale(1.00)"/>
+<path d="M183.3 55.3Q177.8 52.4 178.5 49.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(178.5 49.0) rotate(-35.5) scale(0.81)"/>
+<path d="M183.3 55.3Q176.3 56.2 176.3 54.1" stroke="#b4a18b" stroke-width=".43"/>
+<use href="#f23-spikelet" transform="translate(176.3 54.1) rotate(-65.2) scale(.78)"/>
+<path d="M177.9 44.2Q172.9 39.7 171.0 34.2" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(171.0 34.2) rotate(-24.5) scale(0.93)"/>
+<use href="#f23-spikelet" transform="translate(177.0 42.0) rotate(-42.5) scale(.9)"/>
+<path d="M210 69Q226.5 61.6 235.0 38.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M218.6 63.6Q224.3 60.4 221.9 56.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(221.9 56.5) rotate(28.6) scale(0.99)"/>
+<path d="M227.4 53.6Q229.8 49.6 232.1 44.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(232.1 44.8) rotate(34.4) scale(0.91)"/>
+<path d="M234.3 39.9Q237.8 36.8 240.6 33.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(240.6 33.0) rotate(45.4) scale(0.81)"/>
+<use href="#f23-spikelet" transform="translate(235.0 38.0) rotate(46.7) scale(.9)"/>
+<path d="M210 61Q196.1 54.5 189.0 34.0" stroke="#9d8881" stroke-width=".7"/>
+<path d="M202.8 56.3Q197.7 54.1 195.5 51.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(195.5 51.3) rotate(-43.9) scale(0.79)"/>
+<path d="M195.4 47.6Q189.5 43.7 189.3 39.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(189.3 39.0) rotate(-53.1) scale(0.96)"/>
+<path d="M189.6 35.6Q185.5 33.1 185.1 30.1" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(185.1 30.1) rotate(-37.8) scale(1.06)"/>
+<use href="#f23-spikelet" transform="translate(189.0 34.0) rotate(-39.3) scale(.9)"/>
+<path d="M210 54Q219.9 48.7 225.0 32.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M215.2 50.1Q218.8 46.7 222.9 42.5" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(222.9 42.5) rotate(45.6) scale(0.95)"/>
+<path d="M220.4 43.1Q222.5 40.2 224.2 36.7" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet-rose" transform="translate(224.2 36.7) rotate(31.1) scale(0.85)"/>
+<path d="M224.6 33.3Q230.3 30.2 229.3 26.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(229.3 26.3) rotate(47.1) scale(0.97)"/>
+<use href="#f23-spikelet" transform="translate(225.0 32.0) rotate(31.3) scale(.9)"/>
+<path d="M210 46Q203.4 42.2 200.0 30.0" stroke="#9b8876" stroke-width=".7"/>
+<path d="M206.6 43.2Q203.6 40.9 200.5 38.0" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(200.5 38.0) rotate(-54.5) scale(0.89)"/>
+<path d="M203.0 38.0Q198.5 35.5 199.6 32.3" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(199.6 32.3) rotate(-43.9) scale(0.84)"/>
+<path d="M200.3 31.0Q194.4 26.9 193.8 21.8" stroke="#ad9985" stroke-width=".48"/>
+<use href="#f23-spikelet" transform="translate(193.8 21.8) rotate(-54.4) scale(0.81)"/>
+<use href="#f23-spikelet" transform="translate(200.0 30.0) rotate(-42.2) scale(.9)"/>
+<g stroke="#b2a08f" stroke-width=".35" opacity=".72">
+<path d="M143 103Q136 98 134 91M145 106Q138 100 136 94M153 90Q147 83 147 77M160 78Q155 71 156 65M174 61Q169 55 170 48M183 48Q180 42 181 36M239 70Q245 64 246 58M249 85Q256 80 258 74M258 102Q265 98 267 92M257 115Q265 113 269 108M246 129Q255 129 261 125M135 114Q130 109 128 103M154 132Q148 132 144 127"/>
+</g>
+<g stroke="#b7a18f" stroke-width=".45"><path d="M208 44L207 33M210 40L212 30M208 47L203 35M211 49L216 38M209 56L207 43M211 54L215 45"/></g>
+<use href="#f23-spikelet-rose" transform="translate(210 39) rotate(4) scale(.78)"/>
+</svg>
