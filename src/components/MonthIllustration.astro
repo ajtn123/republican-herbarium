@@ -2,13 +2,15 @@
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import IllustrationImage from './IllustrationImage.astro';
 interface Props {
   month: { slug: string; zh: string };
   class?: string;
   decorative?: boolean;
   loading?: 'eager' | 'lazy';
+  defer?: boolean;
 }
-const { month, class: className, decorative = false, loading = 'lazy' } = Astro.props;
+const { month, class: className, decorative = false, loading = 'lazy', defer = false } = Astro.props;
 const assetPath = `/assets/months/${month.slug}.svg`;
 const version = createHash('sha256').update(readFileSync(resolve('public', assetPath.slice(1)))).digest('hex').slice(0, 12);
 const descriptions: Record<string, string> = {
@@ -26,12 +28,10 @@ const descriptions: Record<string, string> = {
   fructidor: '成熟的梨、无花果和剖开的果肉',
 };
 ---
-<img
+<IllustrationImage
   class:list={['month-illustration', className]}
   src={`${assetPath}?v=${version}`}
-  width="360"
-  height="360"
   alt={decorative ? '' : `${month.zh}：${descriptions[month.slug]}`}
   loading={loading}
-  decoding="async"
+  defer={defer}
 />

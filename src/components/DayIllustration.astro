@@ -3,10 +3,11 @@ import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { dayArtwork } from '../lib/day-art';
-interface Props { slug: string; class?: string; decorative?: boolean; loading?: 'eager' | 'lazy'; }
-const { slug, class: className, decorative = false, loading = 'lazy' } = Astro.props;
+import IllustrationImage from './IllustrationImage.astro';
+interface Props { slug: string; class?: string; decorative?: boolean; loading?: 'eager' | 'lazy'; defer?: boolean; }
+const { slug, class: className, decorative = false, loading = 'lazy', defer = false } = Astro.props;
 const art = dayArtwork[slug];
 if (!art) throw new Error(`Unknown illustrated day: ${slug}`);
 const version = createHash('sha256').update(readFileSync(resolve('public', art.asset.slice(1)))).digest('hex').slice(0, 12);
 ---
-<img class:list={['day-illustration', className]} src={`${art.asset}?v=${version}`} width="360" height="360" alt={decorative ? '' : art.description} loading={loading} decoding="async"/>
+<IllustrationImage class:list={['day-illustration', className]} src={`${art.asset}?v=${version}`} alt={decorative ? '' : art.description} loading={loading} defer={defer}/>

@@ -1,0 +1,20 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  loading?: 'eager' | 'lazy';
+  defer?: boolean;
+}
+const { src, alt, class: className, loading = 'lazy', defer = false } = Astro.props;
+const attributes = { class: className, width: 360, height: 360, alt, loading, decoding: 'async' as const };
+const placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'/%3E";
+---
+<img {...attributes} src={defer ? placeholder : src} data-deferred-src={defer ? src : undefined}/>
+{defer && <noscript>
+  <style is:inline>img[data-deferred-src]{display:none}</style>
+  <img {...attributes} src={src}/>
+</noscript>}
+<style>
+  img[data-deferred-src] { visibility: hidden; }
+</style>
