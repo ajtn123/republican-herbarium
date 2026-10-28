@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="floreal05-title floreal05-desc">
+  <title id="floreal05-title">Floréal 5 — Rossignol</title>
+  <desc id="floreal05-desc">A common nightingale sings quietly in left profile on a single slender twig. Its modest dark eye and narrow, slightly parted insect-eating bill sit in a plain warm-brown head. Soft umber feathers cover the back and folded wing, the throat and rounded belly are pale buff, and long overlapping tail feathers are distinctly rufous. Two slim scaled legs end in fine toes clasping the twig. Muted transparent washes and fine curved engraving strokes describe the plumage.</desc>
+  <defs>
+    <linearGradient id="floreal05-body" x1="164" y1="121" x2="149" y2="229" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ac9274" stop-opacity=".87"/>
+      <stop offset=".42" stop-color="#c4ae8d" stop-opacity=".81"/>
+      <stop offset="1" stop-color="#e3d5b9" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="floreal05-head" x1="110" y1="80" x2="129" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a18a6c" stop-opacity=".88"/>
+      <stop offset=".52" stop-color="#b29b7c" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#d3c2a2" stop-opacity=".86"/>
+    </linearGradient>
+    <linearGradient id="floreal05-breast" x1="122" y1="136" x2="173" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eee4cc" stop-opacity=".88"/>
+      <stop offset=".55" stop-color="#e2d3b5" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#c8b99a" stop-opacity=".74"/>
+    </linearGradient>
+    <linearGradient id="floreal05-wing" x1="162" y1="139" x2="233" y2="211" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a99273" stop-opacity=".91"/>
+      <stop offset=".56" stop-color="#947c5f" stop-opacity=".91"/>
+      <stop offset="1" stop-color="#806d56" stop-opacity=".93"/>
+    </linearGradient>
+    <linearGradient id="floreal05-tail" x1="222" y1="183" x2="285" y2="259" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ad7d59" stop-opacity=".93"/>
+      <stop offset=".47" stop-color="#b7835d" stop-opacity=".91"/>
+      <stop offset="1" stop-color="#9f6b4d" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="floreal05-leg" x1="165" y1="231" x2="173" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a8967d" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#b5a08a" stop-opacity=".94"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#736550">
+    <!-- One spare, living twig supports the small grasping feet. -->
+    <path d="M57 297C97 291 128 286 163 284C208 281 255 273 303 271L302 275C256 277 213 285 165 288C127 291 94 295 58 300Z" fill="#b8a68a" fill-opacity=".64" stroke-width="1.05"/>
+    <path d="M60 298C117 291 145 288 178 286C225 282 267 275 299 273M104 291L99 289M138 287L144 285M231 278L238 279M276 273L281 271" stroke-width=".54" opacity=".66"/>
+    <!-- The tail is long and softly rounded, with the diagnostic chestnut wash. -->
+    <path d="M211 185C233 193 265 225 294 250C298 255 298 259 294 260C285 257 268 245 254 233L220 207Z" fill="#a87653" fill-opacity=".83" stroke-width="1.08"/>
+    <path d="M213 189C234 198 263 224 291 252C296 257 297 261 293 263C285 261 266 245 249 231L216 205Z" fill="url(#floreal05-tail)" stroke-width="1.05"/>
+    <path d="M208 193C231 201 252 225 281 254C286 259 289 264 285 266C276 265 259 248 242 232L213 209Z" fill="url(#floreal05-tail)" stroke-width="1.02"/>
+    <path d="M207 197C225 205 244 228 270 254C275 260 279 267 275 268C267 265 251 248 235 233L210 211Z" fill="#ae7b57" fill-opacity=".92" stroke-width=".91"/>
+    <g stroke-width=".59" opacity=".77">
+      <path d="M220 199Q257 228 293 259M217 202Q248 227 284 262M215 207Q243 233 274 264"/>
+      <path d="M246 223L253 225M253 230L259 232M260 237L267 239M267 244L274 246M274 251L280 253M260 230L267 232M270 239L277 242M279 247L285 250M245 235L251 237M252 243L258 245M261 253L267 256" opacity=".52"/>
+      <path d="M224 199Q252 221 278 247M221 207Q246 231 268 255" stroke="#d4aa7d" stroke-width=".83" opacity=".86"/>
+    </g>
+    <!-- The farther leg is drawn first, with its hind toe behind the twig. -->
+    <path d="M188 221C193 223 195 229 192 238L185 257L187 276L194 280L203 279C207 279 208 281 204 282L193 284L183 280L180 257L184 237L182 226Z" fill="#aa967d" fill-opacity=".91" stroke-width="1.03"/>
+    <path d="M185 279C184 282 185 286 189 287C193 288 195 286 194 283M190 280C189 282 190 286 193 286M184 280L177 286C175 287 175 290 177 290" stroke-width="1.62"/>
+    <path d="M188 241L182 257L185 276M183 254L187 255M182 260L186 260M183 266L187 266M183 272L187 272" stroke-width=".55" opacity=".8"/>
+    <!-- The rounded breast and long back are a continuous, feathered form. -->
+    <path d="M132 113C149 116 158 126 174 134C194 143 218 153 231 171C244 189 239 205 225 217C212 228 192 236 170 233C148 231 130 220 120 202C110 184 111 165 115 149C119 135 124 125 132 113Z" fill="url(#floreal05-body)" stroke-width="1.4"/>
+    <path d="M119 137C124 141 133 141 139 137C144 147 144 158 149 172C158 196 173 216 197 225C187 233 173 234 159 230C139 225 124 213 117 196C110 179 112 154 119 137Z" fill="url(#floreal05-breast)" stroke="none"/>
+    <path d="M133 212C148 226 173 230 191 227C207 225 218 221 229 211C222 226 196 237 174 234C154 233 141 224 133 212Z" fill="#a49a7f" fill-opacity=".22" stroke="none"/>
+    <!-- The plain crown rises gently into a small head, without a conspicuous eyebrow. -->
+    <path d="M92 103C90 95 96 84 106 80C117 75 131 79 139 87C146 95 147 105 144 116C143 123 147 130 155 136C145 143 132 147 120 142C112 139 108 132 106 123C104 116 96 113 92 110Z" fill="url(#floreal05-head)" stroke-width="1.28"/>
+    <path d="M94 109C105 109 111 115 115 124C119 134 129 140 141 138C134 144 123 146 115 137C109 131 109 121 103 117Z" fill="#e2d3b5" fill-opacity=".8" stroke="none"/>
+    <path d="M99 92C106 84 117 83 126 86C132 88 137 92 139 97M131 88L135 92M107 82L112 81" stroke="#cdb89a" stroke-width="1.05" opacity=".67"/>
+    <!-- A narrow, straight bill opens only slightly. -->
+    <path d="M94 101C84 98 75 95 62 93C72 99 81 104 93 106Z" fill="#897b62" fill-opacity=".96" stroke-width=".95"/>
+    <path d="M93 109C84 109 76 110 67 112C78 114 86 114 95 112Z" fill="#b8a383" fill-opacity=".94" stroke-width=".88"/>
+    <path d="M64 94L91 103M69 112L92 111M85 101L88 101" stroke="#5f5949" stroke-width=".5"/>
+    <path d="M91 105L98 108L94 111" fill="#8d6e57" fill-opacity=".65" stroke-width=".55"/>
+    <path d="M106 101C107 97 113 96 116 100C117 103 114 106 111 106C108 106 106 104 106 101Z" fill="#d0bb9a" fill-opacity=".85" stroke-width=".53"/>
+    <ellipse cx="111.1" cy="101.4" rx="2.65" ry="2.85" fill="#403f35" stroke="#625c4a" stroke-width=".55"/>
+    <circle cx="110.35" cy="100.55" r=".66" fill="#f1e7cd" stroke="none"/>
+    <path d="M105 96Q111 93 116 97M108 108Q113 110 117 107M121 103C126 106 128 111 127 116M128 119Q133 119 137 116M114 118Q117 124 122 126" stroke-width=".53" opacity=".65"/>
+    <!-- Fine short head feathers change direction around the cheek and throat. -->
+    <g stroke-width=".51" opacity=".59">
+      <path d="M99 91L103 89M105 86L109 85M118 83L122 84M131 87L134 90M138 95L140 99M141 105L140 110M137 113L135 116M119 110L122 112M120 114L123 116M116 113L118 116M113 122L116 126M118 128L122 131M124 133L129 135M131 135L136 135M138 126L141 130M145 133L149 135"/>
+      <path d="M99 103L103 104M99 107L103 109M105 114L108 118M115 133L118 136M123 138L127 139M133 140L137 139" stroke="#f2e6cd" stroke-width=".85" opacity=".78"/>
+    </g>
+    <!-- A closed, plain wing: narrow primary tips lie beyond the overlapping coverts. -->
+    <path d="M158 139C170 134 190 141 207 154C225 168 236 188 236 209C224 212 210 205 197 194C180 179 160 159 158 139Z" fill="url(#floreal05-wing)" stroke-width="1.12"/>
+    <g fill="#9a8163" fill-opacity=".88" stroke-width=".73">
+      <path d="M178 153C196 162 220 186 235 207C229 212 218 201 207 190C194 176 184 164 178 153Z"/>
+      <path d="M173 151C189 155 214 178 230 201C226 206 216 198 204 186C190 173 179 160 173 151Z"/>
+      <path d="M168 149C182 151 204 169 223 194C220 200 209 191 198 180C185 168 175 157 168 149Z"/>
+      <path d="M164 147C177 146 196 160 214 184C212 190 203 184 192 174C179 162 169 153 164 147Z"/>
+    </g>
+    <g stroke-width=".51" opacity=".7">
+      <path d="M183 160Q208 183 232 207M177 156Q200 176 227 201M172 153Q191 167 219 193M169 150Q185 160 210 183"/>
+      <path d="M218 192L216 196M225 199L223 202M209 180L207 184M214 187L213 190M200 171L198 175M206 178L204 181M194 164L192 168" opacity=".48"/>
+      <path d="M182 157Q204 173 230 201M173 150Q192 162 215 185" stroke="#c4ac88" stroke-width=".75"/>
+    </g>
+    <!-- Irregularly overlapping shoulder feathers retain the nightingale's unmarked wing. -->
+    <g fill="#b29a78" fill-opacity=".77" stroke-width=".62">
+      <path d="M156 139C163 136 172 140 178 147C176 152 171 152 167 148C161 147 157 143 156 139Z"/>
+      <path d="M170 144C178 141 186 147 191 154C189 159 183 158 180 155C175 154 172 149 170 144Z"/>
+      <path d="M184 152C191 150 200 157 203 164C201 168 196 166 193 163C188 161 186 157 184 152Z"/>
+      <path d="M197 161C204 159 211 167 214 174C211 178 207 175 204 172C200 170 198 165 197 161Z"/>
+      <path d="M159 149C166 149 174 156 178 163C175 166 171 163 168 160C163 158 161 154 159 149Z"/>
+      <path d="M172 159C179 158 186 166 190 173C187 177 182 173 180 170C176 168 174 164 172 159Z"/>
+      <path d="M185 170C191 170 198 177 201 183C198 186 193 182 191 179C188 177 186 174 185 170Z"/>
+    </g>
+    <g stroke-width=".46" opacity=".6">
+      <path d="M161 140L169 146M170 144L175 149M178 148L184 154M187 155L194 162M200 164L207 171M162 151L170 158M175 162L182 169M188 172L195 180"/>
+      <path d="M161 136L166 137M174 139L180 142M186 145L192 149M200 155L205 159M213 168L217 174M226 189L229 194" stroke="#d4bf9e" stroke-width=".83" opacity=".76"/>
+    </g>
+    <!-- Curved, sparse hatching gives the pale breast volume without breast markings. -->
+    <g stroke-width=".56" opacity=".53">
+      <path d="M119 144Q116 151 118 156M116 161Q114 167 117 173M117 179Q117 186 120 191M122 196Q124 204 129 208M132 213Q137 219 143 222M149 225Q155 228 162 228M169 231Q176 232 182 230M190 229Q196 228 202 225M208 223Q214 220 218 217"/>
+      <path d="M128 147Q126 153 128 158M126 164Q125 170 128 175M129 181Q130 187 134 192M137 198Q140 204 145 208M149 213Q155 217 161 218M169 222Q175 224 181 222M190 222Q196 221 201 219" opacity=".62"/>
+      <path d="M139 151L141 157M140 167L143 172M143 183L147 188M151 197L155 201M161 210L167 213M183 214L188 214M206 208L210 210M217 205L222 207" opacity=".5"/>
+      <path d="M117 183L119 188M123 204L127 210M138 221L144 225M155 231L161 232M184 233L190 231M208 226L213 223M228 214L231 211"/>
+      <path d="M122 149Q119 163 121 171M125 188Q129 199 136 205M146 217Q157 223 167 224M183 229L190 227" stroke="#f6ecd5" stroke-width="1.07" opacity=".87"/>
+    </g>
+    <!-- Feathering covers the upper tibia; a long bare tarsus descends to the perch. -->
+    <path d="M158 226C165 226 172 231 172 238C172 244 168 249 165 255L168 278L174 282L182 281C185 281 186 283 182 285L172 287L163 282L161 257C160 251 163 243 161 240L155 233Z" fill="url(#floreal05-leg)" stroke-width="1.02"/>
+    <path d="M155 226L160 230L162 228L165 234L168 232L172 236L174 232" fill="#d4c5a6" fill-opacity=".94" stroke-width=".7"/>
+    <path d="M165 281C161 282 157 283 154 286C152 288 153 291 155 292C157 293 159 291 158 289M168 282C165 284 164 287 166 289C168 292 171 291 171 288M172 283C171 285 172 288 174 289C177 290 179 287 177 285" stroke="#86745c" stroke-width="1.78"/>
+    <path d="M165 282C160 281 155 280 151 281C149 282 150 284 152 284" stroke="#8e7b64" stroke-width="1.45"/>
+    <g stroke-width=".55" opacity=".85">
+      <path d="M165 242L163 255L166 277M162 253L167 254M162 258L166 259M162 264L167 264M163 270L168 270M164 275L168 275M164 279L169 279"/>
+      <path d="M155 292L157 291M167 290L169 289M175 289L177 287M188 287L191 287M177 290L179 288" stroke="#625c4c" stroke-width=".73"/>
+      <path d="M164 260L165 267M165 272L167 277M165 283L158 287M174 283L178 283" stroke="#dec8a8" stroke-width=".73"/>
+    </g>
+  </g>
+</svg>

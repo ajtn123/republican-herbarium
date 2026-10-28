@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="prairial15-title prairial15-desc">
+<title id="prairial15-title">Prairial 15 — Caille</title>
+<desc id="prairial15-desc">A common quail stands low in left profile, its compact rounded body clothed in warm buff and umber feathers with narrow cream shaft streaks and irregular dark mottles. A pale eyebrow crosses the small striped head above a brown eye; modest dark marks border the cream throat. Its folded pointed wing almost conceals the very short tail. Two short, sturdy, scaled legs end in separate natural clawed toes. Translucent earth-coloured washes and fine curved engraving describe the plumage.</desc>
+<defs>
+  <linearGradient id="prairial15-body" x1="122" y1="150" x2="204" y2="275" gradientUnits="userSpaceOnUse"><stop stop-color="#c1a47c" stop-opacity=".88"/><stop offset=".48" stop-color="#c8ac82" stop-opacity=".9"/><stop offset="1" stop-color="#b19a79" stop-opacity=".88"/></linearGradient>
+  <linearGradient id="prairial15-wing" x1="153" y1="152" x2="254" y2="247" gradientUnits="userSpaceOnUse"><stop stop-color="#aa8f69" stop-opacity=".94"/><stop offset=".45" stop-color="#b39a72" stop-opacity=".9"/><stop offset="1" stop-color="#8d7c62" stop-opacity=".94"/></linearGradient>
+  <linearGradient id="prairial15-head" x1="91" y1="119" x2="127" y2="193" gradientUnits="userSpaceOnUse"><stop stop-color="#b69a70" stop-opacity=".92"/><stop offset=".5" stop-color="#cfb78e" stop-opacity=".93"/><stop offset="1" stop-color="#d7c29c" stop-opacity=".86"/></linearGradient>
+  <linearGradient id="prairial15-leg" x1="172" y1="264" x2="178" y2="308" gradientUnits="userSpaceOnUse"><stop stop-color="#bba78b" stop-opacity=".94"/><stop offset="1" stop-color="#a99279" stop-opacity=".94"/></linearGradient>
+  <g id="prairial15-scapular">
+    <path d="M0 0C8 -4 20 1 30 10C37 16 41 24 37 25C27 26 8 11 0 0Z" fill="#b39a72" stroke-width=".62"/>
+    <path d="M9 2C15 5 23 11 29 17L34 20C28 18 23 15 18 11Z" fill="#70614c" fill-opacity=".85" stroke="none"/>
+    <path d="M18 5L21 10L27 10L28 15L34 16L36 21" stroke="#6f614c" stroke-width="1.3" opacity=".8"/>
+    <path d="M4 .4C13 5 25 17 36 23" stroke="#ead8ad" stroke-width="1.8"/>
+    <path d="M7 3C16 9 26 19 34 22" stroke="#78684f" stroke-width=".4"/>
+  </g>
+  <clipPath id="prairial15-wingclip"><path d="M142 158C160 146 192 150 218 165C246 181 268 211 274 237C256 250 231 248 208 237C178 222 151 196 140 176C136 168 136 163 142 158Z"/></clipPath>
+</defs>
+<g stroke="#75664f">
+  <!-- Far foot: the leg emerges from the flank just behind the near leg. -->
+  <path d="M216 259C222 258 227 262 226 270L222 283L225 298L234 301L247 303C250 304 250 307 246 307L228 305L235 311C238 313 235 316 232 313L222 305L211 311C207 313 205 310 209 308L218 301L208 302C205 302 205 300 208 299L217 296L215 281L215 270Z" fill="#a79379" fill-opacity=".93" stroke-width="1.05"/>
+  <path d="M220 271L219 282L222 296M216 279L222 280M217 285L223 286M218 290L224 291M219 296L225 297M221 301L246 305M223 303L233 312M220 303L209 310" stroke-width=".57" opacity=".8"/>
+  <path d="M246 305L251 308M234 313L237 316M208 311L205 314M208 300L204 302" stroke="#655d4c" stroke-width=".75"/>
+  <!-- The tail is a very short feather tip, kept below the rounded rump. -->
+  <path d="M270 208C279 209 288 215 294 221C291 224 282 225 274 224L263 218Z" fill="#9c8766" fill-opacity=".93" stroke-width="1"/>
+  <path d="M273 213L288 220M276 218L289 222" stroke="#d9c39a" stroke-width=".7"/>
+  <!-- Deep rounded breast, short neck and full low abdomen. -->
+  <path d="M124 144C154 132 188 135 216 143C242 150 265 166 277 188C288 209 287 230 274 247C261 265 235 274 208 277C183 280 158 276 137 270C113 263 95 250 86 230C78 213 79 193 85 179C91 165 104 151 124 144Z" fill="url(#prairial15-body)" stroke-width="1.43"/>
+  <path d="M89 221C95 241 118 258 144 265C175 274 204 277 234 269C218 282 170 281 139 271C111 263 93 248 86 230Z" fill="#84765e" fill-opacity=".16" stroke="none"/>
+  <path d="M111 167C117 163 132 170 142 185C153 204 151 232 140 247C119 242 103 226 98 207C95 190 98 175 111 167Z" fill="#e2cea5" fill-opacity=".27" stroke="none"/>
+  <!-- Small uncrested head and softly merging nape. -->
+  <path d="M80 148C77 137 81 125 92 119C103 111 117 114 126 122C134 130 134 143 135 151C137 160 145 167 151 174C143 184 129 192 117 188C105 185 98 174 93 164C88 160 82 157 80 148Z" fill="url(#prairial15-head)" stroke-width="1.25"/>
+  <!-- Dark crown ribbons retain a pale median stripe. -->
+  <path d="M83 134C87 121 100 116 111 118C121 119 128 126 131 135C123 130 117 125 107 124C96 123 89 128 83 134Z" fill="#77664d" fill-opacity=".83" stroke-width=".45"/>
+  <path d="M94 119C103 116 116 120 123 126L128 132C119 126 111 122 101 121Z" fill="#e0c79d" fill-opacity=".95" stroke="none"/>
+  <!-- A long cream eyebrow, dark eye-line and mottled ear coverts. -->
+  <path d="M81 138C90 132 100 129 111 133C119 136 124 142 130 147L132 153C123 148 117 141 108 138C97 134 89 138 81 142Z" fill="#ead9b5" fill-opacity=".97" stroke="none"/>
+  <path d="M84 145C93 140 101 139 110 143C117 147 124 153 132 156L132 161C120 157 114 150 105 147C97 145 91 147 87 149Z" fill="#806a4f" fill-opacity=".9" stroke-width=".42"/>
+  <path d="M90 151C99 150 110 153 116 159C110 164 99 162 93 158Z" fill="#c9b084" fill-opacity=".85" stroke="none"/>
+  <path d="M85 153C90 155 94 163 99 168C103 174 109 178 115 181C108 180 103 177 98 173C92 167 89 160 85 157Z" fill="#7b664e" fill-opacity=".83" stroke-width=".45"/>
+  <path d="M88 155C97 156 102 163 108 166L114 170C110 175 104 173 99 170C93 165 91 160 88 155Z" fill="#e1cba5" fill-opacity=".95" stroke="none"/>
+  <path d="M104 172C110 174 116 175 121 174M108 177L113 180M119 177L123 180" stroke="#77644c" stroke-width="1.25" opacity=".72"/>
+  <!-- Short horn-coloured bill, understated eye and feather detail. -->
+  <path d="M81 140C75 139 69 142 64 146C69 148 75 151 82 148L86 145Z" fill="#b7a68a" fill-opacity=".96" stroke-width=".95"/>
+  <path d="M65 146L79 145L83 144M69 147L76 148" stroke="#7a6b54" stroke-width=".56"/>
+  <path d="M76 142L79 142" stroke="#5d5849" stroke-width=".85"/>
+  <path d="M89 141C92 138 97 138 100 141C99 145 96 147 93 146C90 146 88 144 89 141Z" fill="#b49d73" stroke-width=".5"/>
+  <ellipse cx="94.2" cy="142.3" rx="2.05" ry="2.3" fill="#4e4a3b" stroke="#665a46" stroke-width=".45"/>
+  <circle cx="93.6" cy="141.5" r=".55" fill="#efdfbd" stroke="none"/>
+  <g stroke-width=".5" opacity=".73">
+    <path d="M84 135L87 133M92 128L96 127M106 128L111 130M115 133L119 136M124 139L127 143M117 148L120 151M123 154L126 157M109 153L112 155M102 151L105 153M111 159L115 162M120 162L124 165M126 164L131 168M131 171L136 174M123 171L128 174M116 167L119 169M99 157L102 159M98 164L101 166"/>
+    <path d="M134 152L136 156M136 160L140 165M128 176L133 179M121 183L127 185M108 182L112 185M97 173L101 178"/>
+    <path d="M114 125L119 128M111 137L117 140M115 154L119 157M122 167L127 170M129 175L136 178" stroke="#efdbb5" stroke-width=".7"/>
+  </g>
+  <!-- Fine dark breast streaks become broken mottles on the flank. -->
+  <g fill="#80694d" fill-opacity=".76" stroke="none">
+    <path d="M94 182Q94 190 98 193L97 185Z"/><path d="M105 186Q104 194 108 198L108 190Z"/><path d="M117 188Q117 198 121 201L121 193Z"/>
+    <path d="M90 199Q91 207 94 209L94 202Z"/><path d="M102 204Q102 212 106 216L106 208Z"/><path d="M115 209Q115 217 119 220L119 213Z"/>
+    <path d="M91 217L94 225L96 226L95 220Z"/><path d="M101 227L104 234L107 235L105 230Z"/><path d="M114 229L118 238L121 239L118 232Z"/>
+    <path d="M125 238L130 245L134 247L132 242Z"/><path d="M140 244L144 251L148 252L146 247Z"/><path d="M152 249L157 256L161 257L158 252Z"/>
+    <path d="M166 253L171 259L176 259L172 255Z"/><path d="M184 257L188 263L193 262L189 258Z"/><path d="M202 258L206 263L211 262L207 259Z"/>
+    <path d="M220 255L226 261L230 258L225 256Z"/><path d="M240 250L245 254L250 250L245 251Z"/>
+  </g>
+  <g stroke="#8a7356" stroke-width=".5" opacity=".63">
+    <path d="M88 192Q87 198 90 202M97 189Q96 197 99 201M111 195Q109 203 112 207M124 198Q122 206 125 210M96 211Q95 219 99 222M108 216Q108 223 112 228M122 220Q123 229 127 232M134 229Q136 236 141 239M149 237Q152 243 158 245M166 244Q171 250 177 250M185 250Q191 255 198 254M207 251Q214 255 220 252M231 246Q236 251 242 248"/>
+    <path d="M97 237L102 243M110 245L116 250M125 253L131 257M141 261L148 264M161 268L168 269M181 272L188 272M202 271L209 271M222 268L229 266M242 260L248 257M258 249L262 245"/>
+  </g>
+  <!-- Long, narrow streaks on the back follow the feather shafts toward the rump. -->
+  <g stroke-width=".63">
+    <path d="M139 145C151 142 164 146 177 153C169 154 152 151 139 145Z" fill="#8c7554" fill-opacity=".8"/>
+    <path d="M160 141C173 140 188 144 201 152C190 153 172 147 160 141Z" fill="#8c7554" fill-opacity=".83"/>
+    <path d="M187 143C199 143 218 150 229 161C217 157 199 149 187 143Z" fill="#8b7253" fill-opacity=".83"/>
+    <path d="M216 152C231 155 244 165 252 176C239 170 225 158 216 152Z" fill="#836b50" fill-opacity=".85"/>
+    <path d="M143 145Q160 147 176 152M165 142Q184 146 199 151M191 145Q211 152 225 159M220 155Q239 164 249 174" stroke="#ead8b0" stroke-width="1.65"/>
+    <path d="M243 171Q257 181 266 195M258 185Q271 198 275 210M269 203Q279 214 278 225M274 224Q274 235 268 243" stroke="#e1cba2" stroke-width="1.4"/>
+    <path d="M250 176L252 181L257 182M261 190L263 196L268 198M270 208L270 214L275 216M275 229L271 233L272 239" stroke="#7b684f" stroke-width="1.5"/>
+  </g>
+  <!-- A folded wing with narrow cream shafts, broken bars, and individual flight feathers. -->
+  <path d="M142 158C160 146 192 150 218 165C246 181 268 211 274 237C256 250 231 248 208 237C178 222 151 196 140 176C136 168 136 163 142 158Z" fill="url(#prairial15-wing)" stroke-width="1.05"/>
+  <g fill="#a48c69" stroke-width=".72">
+    <path d="M170 177C196 185 238 213 269 236C271 241 264 244 257 242C229 230 194 203 170 177Z"/>
+    <path d="M165 174C189 179 228 204 258 226C266 232 268 237 262 238C242 233 191 199 165 174Z"/>
+    <path d="M160 170C181 174 216 191 245 213C255 220 258 225 253 227C233 224 186 194 160 170Z"/>
+    <path d="M154 166C173 168 203 181 230 199C240 206 245 212 239 213C219 209 176 183 154 166Z"/>
+  </g>
+  <g clip-path="url(#prairial15-wingclip)" stroke="#6f624e" stroke-width="1.8" opacity=".74">
+    <path d="M178 176L176 183L182 188M190 183L188 191L194 196M202 191L199 199L205 204M214 199L211 207L216 213M227 208L224 217L229 221M240 218L236 226L242 232M252 227L249 236L253 242"/>
+  </g>
+  <g stroke="#dfcda7" stroke-width=".88" opacity=".95">
+    <path d="M175 181C205 203 242 230 266 239M170 176C200 196 235 221 259 234M166 173C190 188 225 211 249 222M160 169C184 181 214 201 236 208"/>
+  </g>
+  <g>
+    <use href="#prairial15-scapular" transform="translate(143 159) rotate(-15) scale(.9 .83)"/>
+    <use href="#prairial15-scapular" transform="translate(161 156) rotate(-7) scale(.92 .86)"/>
+    <use href="#prairial15-scapular" transform="translate(181 160) rotate(2) scale(.95 .9)"/>
+    <use href="#prairial15-scapular" transform="translate(201 168) rotate(9) scale(.94 .86)"/>
+    <use href="#prairial15-scapular" transform="translate(222 181) rotate(17) scale(.87 .83)"/>
+    <use href="#prairial15-scapular" transform="translate(143 173) rotate(-9) scale(.83 .82)"/>
+    <use href="#prairial15-scapular" transform="translate(159 177) rotate(0) scale(.91 .86)"/>
+    <use href="#prairial15-scapular" transform="translate(178 183) rotate(6) scale(.91 .83)"/>
+    <use href="#prairial15-scapular" transform="translate(198 194) rotate(12) scale(.87 .8)"/>
+    <use href="#prairial15-scapular" transform="translate(157 193) rotate(4) scale(.78 .74)"/>
+    <use href="#prairial15-scapular" transform="translate(174 204) rotate(10) scale(.76 .72)"/>
+  </g>
+  <g stroke-width=".46" opacity=".68">
+    <path d="M147 154L154 153M165 151L172 152M187 155L192 157M210 164L216 168M231 179L235 184M249 198L253 203M262 217L264 222M259 245L252 246M237 244L231 242M213 236L207 233M191 224L186 221M174 210L169 205M153 189L149 184M139 169L139 164"/>
+    <path d="M177 191L185 198M192 200L199 207M211 214L218 220M232 227L240 233M252 235L259 239M154 164L164 168M174 164L183 169M195 173L203 179M216 184L222 190M233 199L240 207"/>
+    <path d="M119 255Q127 259 134 260M149 267L156 268M175 272L182 273M199 274L206 273M225 270L233 268M254 256L259 252" stroke="#e8d4af" stroke-width=".8"/>
+  </g>
+  <!-- Short sturdy near tarsus and four separate unwebbed toes. -->
+  <path d="M166 266C172 269 180 270 187 269L184 278L181 285L184 301L191 304L208 307C212 308 212 311 208 311L188 308L194 316C196 319 193 321 191 318L181 309L167 317C163 319 161 316 165 313L176 305L162 307C158 308 157 305 161 304L176 300L175 285L175 279L169 275Z" fill="url(#prairial15-leg)" stroke-width="1.07"/>
+  <path d="M166 266L169 272L173 271L176 276L180 273L183 276L187 269" fill="#b39a77" stroke-width=".6"/>
+  <g stroke="#89765b" stroke-width=".58">
+    <path d="M178 280L178 285L181 299M175 284L181 285M176 289L182 290M177 294L183 295M178 299L184 300M180 304L208 309M181 306L192 317M179 306L165 315M173 304L161 306"/>
+    <path d="M172 310L174 313M168 313L170 316M186 312L189 311M189 315L192 314M193 306L192 309M201 307L200 310M165 304L165 306"/>
+  </g>
+  <path d="M208 309Q212 309 215 312M192 318L195 321M164 316L160 319M160 306L157 309" stroke="#655c49" stroke-width=".78"/>
+  <path d="M177 280L177 286M178 289L180 297M186 305L205 308M168 314L176 308" stroke="#decbab" stroke-width=".63" opacity=".84"/>
+</g>
+</svg>

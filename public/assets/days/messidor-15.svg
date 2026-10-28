@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="messidor-15-title messidor-15-desc">
+  <title id="messidor-15-title">Chamois — Rupicapra rupicapra</title>
+  <desc id="messidor-15-desc">A European chamois stands alert, facing right on a slight rocky foothold. Its lithe tawny body, short dark tail, dark slender legs and four divided hooves are engraved with fine umber strokes. Two slim black horns rise nearly straight and hook sharply backward only at their tips. A cream forehead and cheek are divided by the characteristic dark stripe passing from the ear through the small eye toward the muzzle.</desc>
+  <defs>
+    <linearGradient id="messidor-15-coat" x1="165" y1="149" x2="178" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#aa8863" stop-opacity=".79"/><stop offset=".43" stop-color="#b59a76" stop-opacity=".79"/><stop offset="1" stop-color="#87755c" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="messidor-15-neck" x1="252" y1="125" x2="217" y2="219" gradientUnits="userSpaceOnUse"><stop stop-color="#a38662" stop-opacity=".86"/><stop offset=".56" stop-color="#9b7f5b" stop-opacity=".77"/><stop offset="1" stop-color="#746650" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="messidor-15-leg" x1="167" y1="212" x2="172" y2="305" gradientUnits="userSpaceOnUse"><stop stop-color="#73644f" stop-opacity=".92"/><stop offset=".58" stop-color="#655f50" stop-opacity=".95"/><stop offset="1" stop-color="#494b42" stop-opacity=".94"/></linearGradient>
+    <linearGradient id="messidor-15-far" x1="174" y1="209" x2="186" y2="306" gradientUnits="userSpaceOnUse"><stop stop-color="#7d725e" stop-opacity=".89"/><stop offset="1" stop-color="#666655" stop-opacity=".91"/></linearGradient>
+    <linearGradient id="messidor-15-face" x1="262" y1="113" x2="280" y2="158" gradientUnits="userSpaceOnUse"><stop stop-color="#dfd5bb" stop-opacity=".94"/><stop offset=".6" stop-color="#d5c6a7" stop-opacity=".94"/><stop offset="1" stop-color="#b8a589" stop-opacity=".91"/></linearGradient>
+    <linearGradient id="messidor-15-horn" x1="249" y1="70" x2="259" y2="115" gradientUnits="userSpaceOnUse"><stop stop-color="#45483e"/><stop offset=".5" stop-color="#535348"/><stop offset="1" stop-color="#6a604c"/></linearGradient>
+  </defs>
+  <!-- Only a small broken ledge supports the sure-footed animal. -->
+  <g stroke="#8e8875" stroke-width=".7">
+    <path d="M68 312L94 308L117 312L143 306L167 310L191 305L214 309L239 303L259 305L279 313L296 316L276 319L238 318L212 321L176 319L143 321L112 317L83 318Z" fill="#b4af98" fill-opacity=".15"/>
+    <path d="M91 313L110 312L123 315M139 312L150 309L161 312M184 313L197 308L210 311M233 310L246 306L263 310M273 314L285 316M119 318L134 317M226 317L241 315" opacity=".56"/>
+  </g>
+  <g stroke="#655c49">
+    <!-- Far limbs: the forefoot rests a little higher, and the far hock sits behind the near one. -->
+    <path d="M217 202C226 205 232 217 233 231L232 247L242 278L244 291L252 298L251 306L237 307L234 304L237 297L232 280L222 254C218 247 218 239 218 232L213 216Z" fill="url(#messidor-15-far)" stroke-width="1.2"/>
+    <path d="M106 199C99 208 100 220 108 230L119 244C122 248 121 253 118 259L106 288L104 298L109 304L107 311L94 312L91 309L96 301L99 285L107 255L95 239C86 228 86 215 91 206Z" fill="url(#messidor-15-far)" stroke-width="1.2"/>
+    <path d="M237 297C241 299 246 300 251 298L252 301L251 306L237 307L234 304Z" fill="#55564a" stroke-width=".9"/>
+    <path d="M96 301C100 303 105 304 108 303L109 306L107 311L94 312L91 309Z" fill="#55564a" stroke-width=".9"/>
+    <path d="M243 301L243 306M100 305L99 311M223 224L225 241M226 253L236 279M106 235L114 246M113 262L103 290" stroke-width=".65" opacity=".75"/>
+    <path d="M239 304L242 304M246 304L250 303M94 309L98 309M102 309L106 308" stroke="#c1b79c" stroke-width=".6"/>
+    <!-- A compact tail lies close to the rump, with no long goatlike plume. -->
+    <path d="M91 160C84 162 78 165 76 172C75 177 79 182 83 183L88 179L87 174L96 171Z" fill="#766a51" fill-opacity=".93" stroke-width="1.05"/>
+    <path d="M89 165C82 168 80 172 81 177M80 175L82 180M85 168L82 172" stroke-width=".65"/>
+    <!-- The back slopes gently toward the withers; the chest narrows into long fine cannons. -->
+    <path d="M92 159C106 148 123 146 144 149C166 152 188 157 206 155C219 154 225 143 233 131C240 120 248 115 258 117C267 118 272 126 275 135C277 143 272 153 266 161L253 176C251 186 248 198 242 209C238 217 235 224 235 234L239 258L240 287L245 297L243 308L229 309L226 306L231 298L231 270L226 249C221 238 218 226 218 215C201 225 181 230 161 226C147 225 135 220 125 215C120 225 116 233 119 241L134 255C138 259 136 265 132 272L118 293L118 301L123 307L120 315L106 315L103 312L110 304L109 293L121 266C123 263 123 261 119 258L103 245C94 237 90 226 91 213C81 200 78 186 81 175C83 169 87 163 92 159Z" fill="url(#messidor-15-coat)" stroke-width="1.55"/>
+    <!-- Thin transparent washes locate the darker dorsal line and the pale belly. -->
+    <path d="M90 160C113 148 128 151 145 153C168 156 190 160 209 157C224 154 231 139 239 130C234 141 232 153 222 160C207 168 185 165 166 162C141 157 117 153 95 164Z" fill="#6c604a" fill-opacity=".30" stroke="none"/>
+    <path d="M129 207C150 216 163 219 181 218C194 218 205 215 218 209L218 215C203 225 183 229 163 226C147 224 135 220 125 215Z" fill="#d4c4a2" fill-opacity=".48" stroke="none"/>
+    <path d="M252 121C258 121 264 126 265 135C269 143 260 155 251 166C247 178 244 192 237 207L229 222L219 215C226 203 230 192 228 180C227 167 230 152 235 141C240 130 245 124 252 121Z" fill="url(#messidor-15-neck)" stroke="none"/>
+    <!-- Both short, almost upright horns recurved abruptly at the very tip. The far horn is seen beyond the forehead. -->
+    <path d="M266 116C268 105 269 91 267 78C266 71 263 68 259 69C255 70 254 74 256 77C252 75 252 70 255 67C258 64 262 64 266 67C272 73 273 83 273 94L272 117Z" fill="url(#messidor-15-horn)" stroke-width="1.05"/>
+    <path d="M270 109C271 95 271 82 268 74M267 112L272 113M268 106L272 107M269 100L273 101M269 94L273 95M269 88L273 89M268 82L272 83" stroke="#b0a48a" stroke-width=".48" opacity=".68"/>
+    <!-- Far ear projects outward from behind the horn. -->
+    <path d="M267 122C276 113 285 108 294 110C292 118 283 126 274 128L268 127Z" fill="#a28c6c" fill-opacity=".93" stroke-width="1.05"/>
+    <path d="M272 123C279 117 285 113 290 113C285 120 280 123 274 124Z" fill="#d4bea0" fill-opacity=".8" stroke-width=".55"/>
+    <path d="M275 122L286 115M281 121L285 119M290 111L292 111" stroke-width=".5" opacity=".7"/>
+    <!-- The fine triangular face is creamy on forehead and cheek. -->
+    <path d="M254 114C265 113 272 119 278 128C283 135 290 138 298 143L306 147C309 149 308 154 305 157C301 160 294 161 286 159L275 158C267 160 260 157 255 151C250 145 247 136 247 127C248 121 250 116 254 114Z" fill="url(#messidor-15-face)" stroke-width="1.2"/>
+    <path d="M258 115C264 116 271 122 275 129C281 137 291 141 302 147L299 151C288 146 279 143 272 137C267 132 264 124 258 120Z" fill="#e4dac1" fill-opacity=".7" stroke="none"/>
+    <!-- An uninterrupted dark eye-to-muzzle band is the key chamois field mark. -->
+    <path d="M251 122C257 123 263 125 268 130C272 134 277 137 284 140L301 147L304 152C292 150 280 147 271 142C265 139 263 135 258 133L252 132Z" fill="#5d5949" fill-opacity=".94" stroke-width=".55"/>
+    <path d="M262 140C268 143 270 146 276 148C283 151 289 152 294 153L288 158L276 157C268 159 261 153 259 147Z" fill="#e0d2b5" fill-opacity=".86" stroke="none"/>
+    <path d="M298 144C301 144 305 146 307 148C309 150 307 153 305 154C302 154 299 152 298 149Z" fill="#4c4c41" stroke-width=".7"/>
+    <path d="M302 148L305 149M307 155C303 158 297 158 290 156M302 154L302 156M284 154L288 155M277 151L281 153" stroke-width=".65"/>
+    <path d="M266 131C269 128 273 129 275 131C275 134 271 135 268 134Z" fill="#353e36" stroke="#635d48" stroke-width=".55"/>
+    <path d="M265 129C269 126 273 127 276 129M267 135L270 137" stroke-width=".6"/>
+    <circle cx="272.2" cy="130.5" r=".66" fill="#e7ddc1" stroke="none"/>
+    <path d="M261 139C259 145 262 152 268 155M277 134C282 137 287 140 292 141M285 145L289 146M255 119L259 122M254 136L255 141M295 152L298 153" stroke-width=".55" opacity=".75"/>
+    <!-- Near horn: the shaft stays slim and straight before its tight backward hook. -->
+    <path d="M251 119C250 108 250 94 249 82C249 74 247 70 244 70C241 70 240 74 242 77C238 75 237 71 239 67C241 63 247 63 250 67C255 73 255 82 255 92L257 117Z" fill="url(#messidor-15-horn)" stroke-width="1.2"/>
+    <path d="M253 113C252 100 253 87 251 77C250 72 248 68 245 67" stroke="#b8ad91" stroke-width=".7" opacity=".65"/>
+    <path d="M251 113L256 112M251 107L255 106M250 101L255 100M250 95L255 94M250 89L255 88M250 83L254 82M250 77L253 76" stroke="#a99c7f" stroke-width=".55" opacity=".77"/>
+    <path d="M250 118L252 116M254 117L256 116" stroke="#c2b598" stroke-width=".55"/>
+    <!-- Near ear is a pointed oval with a dark outside and a pale furry interior. -->
+    <path d="M250 124C239 122 232 113 228 100C238 100 248 105 253 112C256 117 255 121 253 124Z" fill="#8e7b5f" fill-opacity=".94" stroke-width="1.1"/>
+    <path d="M248 119C240 116 234 109 232 103C241 106 248 111 250 116Z" fill="#dbccb0" fill-opacity=".87" stroke-width=".55"/>
+    <path d="M236 107L246 117M236 111L239 113M242 109L245 112M230 103L232 108M248 109L251 113" stroke-width=".5" opacity=".7"/>
+    <!-- Shoulder, chest and curved belly are modeled by sparse organic engraving. -->
+    <path d="M244 144C239 155 239 169 234 179M232 152C228 162 229 173 229 182C230 195 225 206 219 215M235 183C235 197 229 210 227 220M223 166C213 177 214 195 220 207M218 214C221 219 223 229 224 237M231 231C232 240 235 248 235 257" stroke-width=".8" opacity=".8"/>
+    <path d="M233 160C230 171 233 182 230 193M229 200L225 210M236 144L232 152M240 135L237 141" stroke="#d9c8a6" stroke-width="1.1" opacity=".63"/>
+    <path d="M112 156C123 154 139 156 152 159M152 162C172 167 195 168 208 162M136 168C136 184 147 203 158 210M163 171C163 188 174 208 184 215M192 171C189 185 196 200 204 208M130 205C150 220 188 224 211 213" stroke-width=".65" opacity=".34"/>
+    <path d="M101 159C112 164 118 176 117 188C116 198 110 207 102 212M86 178C83 191 87 203 94 210M107 215C104 226 108 235 115 241M114 245L126 257M124 264L133 265" stroke-width=".8" opacity=".78"/>
+    <path d="M105 161C114 167 118 176 117 184M93 159L88 164M129 216C153 228 187 230 209 219" stroke="#dac5a0" stroke-width="1.3" opacity=".67"/>
+    <!-- The near legs change from tawny upper limbs to charcoal below the joints. -->
+    <path d="M218 211C220 221 222 235 226 249L231 270L231 298L226 306L229 309L243 308L245 297L240 287L239 258L235 234C235 227 236 221 239 215L235 220L232 219L229 222L225 217L222 217Z" fill="url(#messidor-15-leg)" stroke="none"/>
+    <path d="M103 241L119 258C123 261 123 263 121 266L109 293L110 304L103 312L106 315L120 315L123 307L118 301L118 293L132 272C136 265 138 259 134 255L121 243L119 247L115 243L113 247L109 243L107 246Z" fill="url(#messidor-15-leg)" stroke="none"/>
+    <path d="M226 250L234 253M233 265L235 285M234 286L235 296M125 267L115 290M114 292L114 301M229 291L228 294M240 289L242 292M108 297L106 300M119 294L120 297" stroke="#b5a78b" stroke-width=".65" opacity=".76"/>
+    <path d="M231 298C235 299 240 298 244 297L245 300L243 308L229 309L226 306Z" fill="#494d42" stroke-width="1"/>
+    <path d="M110 304C114 306 119 307 122 306L123 309L120 315L106 315L103 312Z" fill="#494d42" stroke-width="1"/>
+    <path d="M236 301L235 308M113 308L112 314" stroke="#303b33" stroke-width=".9"/>
+    <path d="M229 306L233 306M238 305L242 304M106 312L110 312M115 312L120 311" stroke="#b4b19a" stroke-width=".6"/>
+    <!-- Fine short hatching follows a close, seasonally tawny coat. -->
+    <g stroke="#75644a" stroke-width=".52" opacity=".67">
+      <path d="M99 160L106 160M112 156L119 157M127 155L134 156M142 157L149 159M156 160L164 162M173 163L180 164M189 163L196 163M204 161L210 159M217 156L222 152"/>
+      <path d="M90 169L87 175M88 182L88 188M90 194L93 200M98 203L102 208M110 171L113 177M113 183L112 189M110 194L107 200M102 218L103 224M106 232L110 237M115 237L118 241"/>
+      <path d="M126 172L129 179M133 186L137 192M142 198L147 203M155 208L161 212M169 214L175 217M184 218L190 218M201 214L206 211M145 176L147 182M169 178L171 185M193 180L195 186" opacity=".75"/>
+      <path d="M123 211L129 215M137 218L143 220M152 223L159 224M168 225L175 226M185 225L192 224M201 221L208 218M217 207L220 201M220 191L221 184M218 178L220 172"/>
+      <path d="M243 132L240 138M239 147L237 154M235 160L235 166M234 171L233 178M230 180L230 186M231 192L229 198M225 204L223 210M226 215L226 221M227 231L230 237M231 244L234 248M253 148L251 152M258 153L261 156"/>
+    </g>
+    <g stroke="#dfcba7" stroke-width=".6" opacity=".66">
+      <path d="M93 168L90 175M100 158L107 156M120 155L128 155M137 157L145 159M161 162L170 164M182 164L190 164M204 162L211 160M217 157L222 153M106 171L109 178M129 179L132 185M152 178L155 185M176 180L178 188M200 174L201 181M132 210L139 215M151 220L159 222M176 223L184 224M199 220L206 218M239 151L237 158M234 178L234 185M228 202L225 208M230 264L233 275M120 275L116 284"/>
+    </g>
+  </g>
+</svg>

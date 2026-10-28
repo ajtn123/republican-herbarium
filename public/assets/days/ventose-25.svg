@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="ventose-25-title ventose-25-desc">
+  <title id="ventose-25-title">Thon — Thunnus</title>
+  <desc id="ventose-25-desc">A robust tuna in left-facing profile, with a pointed snout, slate blue-grey back and silvery warm-ochre belly. A spiny first dorsal and a separate second dorsal precede matching rows of small finlets above and below the narrow, keeled tail stalk. A powerful crescent tail, short pointed pectoral fin, paired pelvic fins, gill cover and fine curved engraving distinguish this ocean fish.</desc>
+  <defs>
+    <linearGradient id="ventose-25-body" x1="156" y1="137" x2="161" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#687b80" stop-opacity=".88"/>
+      <stop offset=".28" stop-color="#8b9998" stop-opacity=".82"/>
+      <stop offset=".57" stop-color="#b8beb2" stop-opacity=".79"/>
+      <stop offset=".81" stop-color="#d0cbb6" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#c1b599" stop-opacity=".86"/>
+    </linearGradient>
+    <linearGradient id="ventose-25-head" x1="76" y1="149" x2="87" y2="219" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#819194" stop-opacity=".3"/>
+      <stop offset=".65" stop-color="#d3d1bc" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#b4aa90" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="ventose-25-fin" x1="166" y1="117" x2="189" y2="241" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#748486" stop-opacity=".88"/>
+      <stop offset=".48" stop-color="#969a8b" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#b7a785" stop-opacity=".86"/>
+    </linearGradient>
+    <linearGradient id="ventose-25-tail" x1="282" y1="180" x2="326" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7d8a86" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#667778" stop-opacity=".88"/>
+    </linearGradient>
+    <linearGradient id="ventose-25-pectoral" x1="111" y1="186" x2="165" y2="215" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#758581" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#abb19f" stop-opacity=".82"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#5e6256">
+    <!-- Separate dorsal fins: erect spines anteriorly, a softer swept fin behind. -->
+    <path d="M110 147C114 130 119 113 126 102L131 119L136 115L141 129L146 126L151 137L156 134L161 143L166 140L174 147Z" fill="url(#ventose-25-fin)" stroke-width="1.2"/>
+    <path d="M113 146L126 104M120 146L131 120M127 146L136 117M134 146L141 130M142 146L146 128M149 146L151 138M156 147L157 137M163 147L166 142" stroke-width=".67" opacity=".78"/>
+    <path d="M191 145C197 132 203 122 212 116C209 130 211 142 224 153Z" fill="url(#ventose-25-fin)" stroke-width="1.2"/>
+    <path d="M194 146Q204 130 211 119M199 148Q206 135 211 129M206 149L212 139M213 151L216 145" stroke-width=".65" opacity=".74"/>
+    <!-- Far pelvic fin is seen just beyond the pale ventral edge. -->
+    <path d="M125 218C131 229 138 235 151 241C141 230 139 223 140 217Z" fill="#999d88" fill-opacity=".74" stroke-width=".95"/>
+    <path d="M128 219L146 238M133 220L143 232" stroke-width=".6" opacity=".65"/>
+    <!-- Anal fin begins behind the pelvic pair and leads into the lower finlets. -->
+    <path d="M196 215C201 228 210 238 225 246C218 232 216 222 221 209Z" fill="url(#ventose-25-fin)" stroke-width="1.15"/>
+    <path d="M199 216Q208 233 223 243M205 214Q212 230 220 236M212 212L218 229M216 213L219 222" stroke-width=".65" opacity=".74"/>
+    <!-- The lunate tail is supported by a very narrow peduncle. -->
+    <path d="M276 174C291 161 305 134 322 114C319 139 311 162 297 180C311 200 320 222 324 247C305 228 290 203 276 190L280 182Z" fill="url(#ventose-25-tail)" stroke-width="1.45"/>
+    <path d="M282 179C297 162 311 137 319 121M285 179C301 159 313 138 317 127M289 181C303 170 311 154 316 140M282 186C299 207 313 231 321 242M285 185C302 203 313 224 318 236M289 183C303 194 313 212 317 226" stroke-width=".68" opacity=".77"/>
+    <path d="M295 171L302 164M305 151L311 142M294 193L301 202M308 216L314 226" stroke="#c4c6ae" stroke-width=".67" opacity=".6"/>
+    <!-- Fusiform torso: fullest immediately aft of the gills, tapering steadily to the tail. -->
+    <path d="M38 181C50 174 58 161 75 152C94 140 116 136 138 138C175 139 201 150 223 162C242 172 260 176 279 176L285 180L279 188C260 188 244 193 225 204C202 218 173 229 145 230C115 232 91 221 74 208C61 199 50 191 38 188L43 185Z" fill="url(#ventose-25-body)" stroke-width="1.5"/>
+    <path d="M40 182C58 179 77 171 92 157C103 159 111 173 109 192C108 208 101 216 93 220C70 208 56 192 40 188L44 185Z" fill="url(#ventose-25-head)" stroke="none"/>
+    <!-- A dilute dorsal wash and a narrow silvery flank follow the volume. -->
+    <path d="M69 157C91 140 115 139 138 141C168 142 198 153 219 165C190 156 166 151 139 152C111 152 87 157 69 164Z" fill="#627980" fill-opacity=".22" stroke="none"/>
+    <path d="M111 195C143 196 174 191 204 187C231 183 249 182 272 182C247 185 228 191 207 198C171 208 141 214 114 208Z" fill="#e0dfcb" fill-opacity=".24" stroke="none"/>
+    <path d="M112 183C148 176 184 179 217 181C240 183 257 183 276 181" stroke="#657a7c" stroke-width=".85" opacity=".58"/>
+    <path d="M116 180C147 173 180 176 208 179" stroke="#c8cebe" stroke-width="1.05" opacity=".48"/>
+    <!-- A moderate eye and a small terminal mouth leave a firm pointed snout. -->
+    <path d="M62 173C65 168 72 166 77 169C82 173 79 180 74 182C68 184 62 180 62 173Z" fill="#c0c1ab" fill-opacity=".82" stroke-width=".8"/>
+    <circle cx="71.5" cy="175.1" r="4.1" fill="#48514d" stroke="#646858" stroke-width=".8"/>
+    <circle cx="70.4" cy="173.6" r="1" fill="#e3dfc6" stroke="none"/>
+    <path d="M62 169C67 165 74 164 79 167M64 182C68 185 74 185 78 182" stroke-width=".57" opacity=".63"/>
+    <path d="M40 182C48 184 57 184 62 183M40 188C48 189 54 190 59 193M48 185L58 186M58 183L64 183" stroke-width=".85"/>
+    <path d="M56 176L59 175M57 178L59 178" stroke-width=".75"/>
+    <!-- Curved operculum encloses the gills; a short post-opercular collar is shaded. -->
+    <path d="M87 153C98 160 105 172 107 184C110 200 103 212 94 219M90 155C99 165 103 177 103 189C104 202 100 211 94 215" stroke-width="1" opacity=".9"/>
+    <path d="M81 186C87 186 94 190 96 196C97 202 94 208 90 211M77 193C80 198 84 201 89 202M84 161C89 164 92 169 94 173" stroke-width=".7" opacity=".66"/>
+    <path d="M109 159C115 168 118 178 118 187M110 161L112 169M113 174L115 182M110 201L106 211" stroke-width=".6" opacity=".63"/>
+    <!-- The near pectoral is short and pointed, rooted just behind the gill cover. -->
+    <path d="M108 186C124 188 147 200 164 214C145 210 125 205 112 195C108 192 106 189 108 186Z" fill="url(#ventose-25-pectoral)" stroke-width="1.1"/>
+    <path d="M110 189C128 194 145 204 160 212M111 192C126 199 141 205 153 209M116 189C132 193 143 200 152 206" stroke-width=".62" opacity=".78"/>
+    <!-- Paired pelvic fins sit below the chest, well forward of the anal fin. -->
+    <path d="M125 221C136 222 149 231 160 240C144 237 132 232 123 225Z" fill="#a5aa95" fill-opacity=".88" stroke-width="1.05"/>
+    <path d="M127 224L156 238M132 224L151 233M131 229L146 235" stroke-width=".62" opacity=".73"/>
+    <!-- Distinct, matched dorsal and ventral finlets follow the tapering tail stalk. -->
+    <g fill="#b4ad8a" fill-opacity=".91" stroke-width=".85">
+      <path d="M225 163L230 152Q231 161 237 169Z"/>
+      <path d="M237 170L242 161Q243 169 249 174Z"/>
+      <path d="M249 175L254 168Q255 174 260 177Z"/>
+      <path d="M260 177L264 172Q265 176 270 178Z"/>
+      <path d="M270 178L274 174L277 178Z"/>
+      <path d="M226 203L231 213Q232 204 238 197Z"/>
+      <path d="M239 197L244 205Q244 197 250 192Z"/>
+      <path d="M251 192L256 199Q256 192 261 189Z"/>
+      <path d="M261 189L266 195L271 188Z"/>
+      <path d="M271 188L275 191L278 187Z"/>
+    </g>
+    <path d="M228 164L230 156M241 171L243 165M253 175L254 171M263 178L264 174M230 202L232 209M243 196L244 202M254 192L256 196M264 189L266 192" stroke-width=".5" opacity=".66"/>
+    <path d="M259 181C266 179 274 179 280 181C273 182 267 184 260 184" stroke="#566963" stroke-width="1.15" opacity=".73"/>
+    <!-- Sparse minute scales and curved hatching, concentrated over the shoulder and underside. -->
+    <g stroke="#647168" stroke-width=".55" opacity=".55">
+      <path d="M114 149Q117 155 121 157M120 147Q123 153 127 155M127 147Q130 152 134 154M136 148Q139 153 143 154M147 149Q150 154 154 156M158 152Q162 156 166 158M171 155Q175 159 179 161M185 160Q189 164 193 166M199 166Q204 169 208 172"/>
+      <path d="M118 162Q121 167 125 168M129 159Q132 164 136 165M141 160Q144 165 148 166M154 163Q157 167 161 168M167 167Q170 170 174 171M184 170Q187 173 191 174" opacity=".66"/>
+      <path d="M115 215Q120 221 126 223M122 213Q128 220 134 224M132 214Q138 222 145 225M143 215Q150 222 157 225M156 215Q162 222 169 224M169 213Q176 219 183 221M183 210Q190 215 197 216M198 205Q204 210 210 210M213 199Q218 203 224 204M228 192Q232 195 236 196M241 187Q245 190 249 190"/>
+      <path d="M165 202Q166 207 170 210M179 199Q180 204 184 207M194 195Q195 200 199 203M210 190Q211 194 215 196M121 173Q121 178 125 181M134 171Q134 175 138 178" opacity=".58"/>
+      <path d="M71 196L76 201M78 202L83 205M85 206L90 208M90 192L94 195M96 171L99 178M98 199L97 205M107 214L113 218M218 173L224 176M234 178L240 180"/>
+    </g>
+    <g stroke="#e0ddc7" stroke-width=".75" opacity=".65">
+      <path d="M81 153C96 145 114 142 131 143M143 144C162 146 179 151 192 156M114 212C125 221 142 225 155 225M168 224C183 222 198 217 210 211M64 190L73 196M86 212L92 215M240 189L253 185"/>
+      <path d="M128 157L134 158M147 157L154 158M167 160L174 162M157 213L164 215M180 210L186 211M204 201L210 201M276 180L281 180"/>
+    </g>
+  </g>
+</svg>

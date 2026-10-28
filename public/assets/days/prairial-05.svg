@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="prairial05-title prairial05-desc">
+<title id="prairial05-title">Prairial 5 — Canard</title>
+<desc id="prairial05-desc">A female domestic mallard duck stands in a quiet left-facing three-quarter profile. Her low, broad body and short curved neck carry warm brown and buff mottled feathers. A dark eye stripe crosses her pale cheek above a broad flattened ochre bill. Individually layered brown wing feathers surround a small muted sage-grey speculum, and a short pointed tail and two ochre webbed feet complete the specimen. Fine umber engraving and transparent watercolor washes describe the plumage.</desc>
+<defs>
+<linearGradient id="prairial05-body" x1="131" y1="151" x2="209" y2="265" gradientUnits="userSpaceOnUse"><stop stop-color="#c5ad84" stop-opacity=".84"/><stop offset=".5" stop-color="#b79a73" stop-opacity=".87"/><stop offset="1" stop-color="#a18b69" stop-opacity=".86"/></linearGradient>
+<linearGradient id="prairial05-head" x1="82" y1="110" x2="116" y2="178" gradientUnits="userSpaceOnUse"><stop stop-color="#b3a080" stop-opacity=".78"/><stop offset=".48" stop-color="#d2bd94" stop-opacity=".83"/><stop offset="1" stop-color="#baa27b" stop-opacity=".5"/></linearGradient>
+<linearGradient id="prairial05-wing" x1="152" y1="167" x2="272" y2="235" gradientUnits="userSpaceOnUse"><stop stop-color="#b29b75" stop-opacity=".88"/><stop offset=".45" stop-color="#a08b6a" stop-opacity=".9"/><stop offset="1" stop-color="#8a7a60" stop-opacity=".91"/></linearGradient>
+<linearGradient id="prairial05-bill" x1="57" y1="124" x2="58" y2="141" gradientUnits="userSpaceOnUse"><stop stop-color="#b7a274" stop-opacity=".95"/><stop offset="1" stop-color="#c3a16c" stop-opacity=".91"/></linearGradient>
+<linearGradient id="prairial05-foot" x1="182" y1="260" x2="179" y2="306" gradientUnits="userSpaceOnUse"><stop stop-color="#b69a63" stop-opacity=".92"/><stop offset="1" stop-color="#bf995c" stop-opacity=".9"/></linearGradient>
+<g id="prairial05-flank"><path d="M-5 -2C-2 -4 3 -2 5 1C6 5 4 8 1 10C-2 8 -5 3 -5 -2Z" fill="#d1b68b" fill-opacity=".29" stroke="none"/><path d="M-2 -1C1 -2 3 1 3 4L1 7C-1 5 -3 2 -2 -1Z" fill="#7a674e" fill-opacity=".61" stroke="none"/><path d="M-5 1Q-3 7 1 10Q4 8 5 5" stroke="#8b775b" stroke-width=".45" opacity=".72"/><path d="M-3 1L-1 5M4 2L4 5" stroke="#e1c79c" stroke-width=".56" opacity=".76"/></g>
+<g id="prairial05-flank-b"><path d="M-5 -1C-1 -4 4 -1 5 3C6 6 3 9 0 10C-3 8 -5 3 -5 -1Z" fill="#d1b68b" fill-opacity=".25" stroke="none"/><path d="M-2 -1Q3 0 3 5L1 7L-2 3Z" fill="#826d50" fill-opacity=".6" stroke="none"/><path d="M-4 2Q-2 7 1 9M3 8L5 5M-2 0L1 3" stroke="#8a7455" stroke-width=".46" opacity=".63"/><path d="M-3 2L-1 6M3 1L4 4" stroke="#e0c59a" stroke-width=".65" opacity=".82"/></g>
+<g id="prairial05-covert"><path d="M0 0C6 -3 15 -1 20 5C24 10 22 15 18 16C10 15 3 9 0 0Z" fill-opacity=".8" stroke-width=".66"/><path d="M5 3C10 2 16 6 18 10L17 12C12 11 7 7 5 3Z" fill="#73634e" fill-opacity=".77" stroke="none"/><path d="M4 5Q10 13 18 14M7 2Q15 4 19 9" stroke="#d4bd94" stroke-width=".58" opacity=".82"/><path d="M7 5L15 11" stroke="#9e8967" stroke-width=".48"/></g>
+</defs>
+<g stroke="#776a54">
+<!-- The farther foot is visible beyond the low belly. -->
+<path d="M225 253L234 254L234 268L230 281L231 288C238 292 248 295 255 300C257 303 253 304 248 302L235 298L223 304C219 306 216 305 218 302L221 298L205 302C201 303 200 300 204 298L219 291L223 286L223 271Z" fill="#b49b69" fill-opacity=".82" stroke-width="1.12"/>
+<g stroke="#947a51" stroke-width=".62"><path d="M229 269L227 285L227 293L251 301M227 293L205 300M227 293L220 303M224 274L232 275M224 279L230 280M224 284L229 285M224 289L230 290"/><path d="M234 296L243 298M219 296L213 299" stroke="#ddbc82"/></g>
+<!-- Short, gently lifted tail feathers project only a little beyond the rump. -->
+<path d="M272 175C288 180 305 179 320 174C317 185 306 198 293 205L275 204Z" fill="#9d8969" fill-opacity=".9" stroke-width="1.2"/>
+<path d="M281 191C296 187 307 183 317 177M282 196C297 191 307 186 313 182M284 201C295 198 303 192 308 188" stroke="#675e4d" stroke-width=".69"/>
+<path d="M293 189L296 192M301 185L304 188M291 198L294 200M309 181L310 183" stroke="#d1b68a" stroke-width=".7"/>
+<!-- A single continuous outline joins the compact head and short neck to the broad body. -->
+<path d="M75 124C74 113 83 104 96 105C111 104 119 114 116 127C113 136 115 148 125 156C135 162 145 158 157 155C185 148 221 152 251 164C277 173 297 187 301 204C306 222 296 239 276 249C246 265 193 271 151 262C122 256 102 242 97 223C92 208 97 191 103 178C107 166 103 154 93 148C83 144 76 137 75 124Z" fill="url(#prairial05-body)" stroke-width="1.48"/>
+<path d="M75 124C74 113 83 104 96 105C111 104 119 114 116 127C113 136 115 148 125 156C131 160 137 160 142 159C129 171 118 187 104 198C102 189 109 175 105 165C101 152 93 149 85 142C78 137 75 130 75 124Z" fill="url(#prairial05-head)" stroke="none"/>
+<path d="M99 217C106 239 124 250 153 255C200 266 251 257 279 246C252 263 193 272 151 262C124 257 103 242 99 225Z" fill="#7e795d" fill-opacity=".16" stroke="none"/>
+<path d="M104 149C111 153 116 159 117 167C118 180 111 191 111 199C106 192 107 182 107 175C108 163 103 156 98 152Z" fill="#aa926f" fill-opacity=".22" stroke="none"/>
+<!-- Flattened bill: broad rounded end, dark nail and female mottling along the ridge. -->
+<path d="M77 123C65 124 52 127 44 130C39 132 38 136 43 139C53 143 67 141 79 136L82 130Z" fill="url(#prairial05-bill)" stroke-width="1.15"/>
+<path d="M42 135C53 137 67 134 78 131M44 138C55 141 66 138 74 137" stroke="#7d7152" stroke-width=".62"/>
+<path d="M77 124L67 126L66 129L59 130L62 132L72 131L77 133L79 129Z" fill="#73735d" fill-opacity=".81" stroke="none"/>
+<path d="M40 133C38 135 40 138 44 139L47 139L45 135L45 131Z" fill="#7c765b" stroke-width=".5"/>
+<path d="M63 128C64 126 68 126 69 127C68 129 65 130 63 128Z" fill="#5f624e" stroke="none"/>
+<path d="M48 132L54 130M54 138L61 137M74 134L77 134" stroke="#e0c294" stroke-width=".55" opacity=".85"/>
+<!-- Pale eyebrow and cheek frame the restrained dark eye stripe. -->
+<path d="M78 121C86 115 96 116 107 121L108 124C99 121 88 120 80 124Z" fill="#deccaa" fill-opacity=".8" stroke="none"/>
+<path d="M77 126C85 122 93 122 99 125L113 132L112 135C104 132 98 129 93 129C87 128 82 131 78 131Z" fill="#74634f" fill-opacity=".82" stroke="none"/>
+<path d="M79 134C85 137 89 137 96 134C103 139 106 145 108 151C95 149 85 143 79 138Z" fill="#dfcba5" fill-opacity=".52" stroke="none"/>
+<path d="M85 125C87 121 93 120 96 124C97 127 94 130 91 130C88 130 86 128 85 125Z" fill="#baa88b" stroke-width=".53"/>
+<ellipse cx="90.6" cy="125.7" rx="2.35" ry="2.55" fill="#41473c" stroke="#5b5847" stroke-width=".45"/><circle cx="89.9" cy="125" r=".64" fill="#f0e5cb" stroke="none"/>
+<g stroke-width=".52" opacity=".72"><path d="M80 114L85 111M87 110L92 109M97 109L102 111M105 112L109 115M108 119L112 122M112 125L114 128M83 118L87 116M93 115L98 116M101 116L105 118M84 135L88 137M91 137L95 139M98 140L102 143M102 146L106 149M108 137L110 141M111 145L114 149M114 151L118 155M101 154L105 158M107 158L111 162M111 164L115 168M106 168L110 172M110 175L114 179M106 181L109 186M105 190L108 194"/>
+<path d="M88 112L91 111M99 112L102 114M81 119L84 117M94 141L98 143M104 151L107 154M110 160L112 163M113 170L115 173M108 185L111 188" stroke="#ead8b1" stroke-width=".8"/></g>
+<!-- Irregular dark centres follow the rounded breast and flank feathers. -->
+<use href="#prairial05-flank" transform="translate(117 177) rotate(-17) scale(0.76)"/>
+<use href="#prairial05-flank-b" transform="translate(126 183) rotate(-23) scale(0.8)"/>
+<use href="#prairial05-flank-b" transform="translate(112 190) rotate(-15) scale(0.82)"/>
+<use href="#prairial05-flank" transform="translate(121 197) rotate(-22) scale(0.87)"/>
+<use href="#prairial05-flank-b" transform="translate(109 205) rotate(-14) scale(0.78)"/>
+<use href="#prairial05-flank-b" transform="translate(118 214) rotate(-21) scale(0.91)"/>
+<use href="#prairial05-flank" transform="translate(129 222) rotate(-28) scale(0.94)"/>
+<use href="#prairial05-flank-b" transform="translate(112 221) rotate(-16) scale(0.74)"/>
+<use href="#prairial05-flank-b" transform="translate(122 235) rotate(-30) scale(0.85)"/>
+<use href="#prairial05-flank" transform="translate(137 239) rotate(-37) scale(0.95)"/>
+<use href="#prairial05-flank-b" transform="translate(150 246) rotate(-44) scale(0.93)"/>
+<use href="#prairial05-flank-b" transform="translate(164 251) rotate(-53) scale(0.95)"/>
+<use href="#prairial05-flank" transform="translate(180 253) rotate(-65) scale(0.91)"/>
+<use href="#prairial05-flank-b" transform="translate(198 254) rotate(-79) scale(0.93)"/>
+<use href="#prairial05-flank-b" transform="translate(217 252) rotate(-87) scale(0.9)"/>
+<use href="#prairial05-flank" transform="translate(236 247) rotate(-99) scale(0.85)"/>
+<use href="#prairial05-flank-b" transform="translate(254 242) rotate(-106) scale(0.82)"/>
+<use href="#prairial05-flank-b" transform="translate(270 235) rotate(-118) scale(0.75)"/>
+<use href="#prairial05-flank" transform="translate(131 207) rotate(-26) scale(0.94)"/>
+<use href="#prairial05-flank-b" transform="translate(143 218) rotate(-36) scale(0.98)"/>
+<use href="#prairial05-flank-b" transform="translate(153 230) rotate(-45) scale(0.94)"/>
+<use href="#prairial05-flank" transform="translate(170 238) rotate(-54) scale(0.95)"/>
+<use href="#prairial05-flank-b" transform="translate(187 243) rotate(-65) scale(0.91)"/>
+<use href="#prairial05-flank-b" transform="translate(205 244) rotate(-77) scale(0.91)"/>
+<use href="#prairial05-flank" transform="translate(223 241) rotate(-86) scale(0.88)"/>
+<use href="#prairial05-flank-b" transform="translate(242 236) rotate(-98) scale(0.85)"/>
+<use href="#prairial05-flank-b" transform="translate(259 229) rotate(-107) scale(0.74)"/>
+<use href="#prairial05-flank" transform="translate(138 192) rotate(-26) scale(0.76)"/>
+<use href="#prairial05-flank-b" transform="translate(150 202) rotate(-37) scale(0.85)"/>
+<use href="#prairial05-flank-b" transform="translate(166 216) rotate(-46) scale(0.89)"/>
+<use href="#prairial05-flank" transform="translate(181 228) rotate(-61) scale(0.89)"/>
+<use href="#prairial05-flank-b" transform="translate(198 232) rotate(-73) scale(0.83)"/>
+<use href="#prairial05-flank-b" transform="translate(217 231) rotate(-83) scale(0.83)"/>
+<use href="#prairial05-flank" transform="translate(235 227) rotate(-94) scale(0.8)"/>
+<!-- Folded wing has slender overlapping flight feathers and a quiet grey-green speculum. -->
+<path d="M140 171C153 159 177 158 198 164C231 173 265 192 286 220C267 239 240 239 211 228C181 217 153 194 140 171Z" fill="url(#prairial05-wing)" stroke-width="1.05"/>
+<g stroke-width=".72">
+<path d="M163 181C195 179 244 204 284 222C289 225 287 230 282 231C260 232 237 219 215 208C190 195 174 189 163 181Z" fill="#8e7c60" fill-opacity=".94"/>
+<path d="M157 177C190 176 238 199 278 217C285 220 287 224 282 226C262 228 233 211 213 202C190 192 170 187 157 177Z" fill="#a08b69" fill-opacity=".92"/>
+<path d="M151 174C176 170 217 186 261 207C270 211 278 215 279 219C266 224 237 209 214 199C187 188 165 183 151 174Z" fill="#ab9572" fill-opacity=".9"/>
+<path d="M163 175C191 176 228 188 253 202C249 212 239 217 231 216C214 206 190 194 170 189Z" fill="#89968a" fill-opacity=".82"/>
+<path d="M166 178C191 181 224 192 248 205M173 190C190 194 213 206 231 216" stroke="#d8cfaf" stroke-width="2.6"/>
+<path d="M189 185L181 194M200 189L192 199M211 193L203 205M222 197L215 211M233 201L226 215M242 204L236 213" stroke="#657a70" stroke-width=".65" opacity=".76"/>
+<path d="M151 172C173 168 207 179 236 194C240 197 242 201 239 203C224 204 204 192 188 187C173 181 161 180 151 172Z" fill="#b8a07a" fill-opacity=".95"/>
+</g>
+<g stroke-width=".54" opacity=".83"><path d="M170 183C202 191 246 220 281 228M164 179C195 184 240 210 279 222M156 175C181 177 202 188 226 198M249 218L247 224M258 222L257 228M269 225L269 230M239 209L236 215M249 213L246 220M259 216L257 222"/>
+<path d="M177 185L187 188M196 195L207 200M217 207L228 213M241 219L251 223M266 227L277 229" stroke="#d6bf95" stroke-width=".68"/></g>
+<!-- Varied overlapping scapulars and coverts, with buff margins and umber centres. -->
+<use href="#prairial05-covert" transform="translate(141 169) rotate(-12) scale(0.9)" fill="#baa681"/>
+<use href="#prairial05-covert" transform="translate(156 166) rotate(-6) scale(0.96)" fill="#b39b73"/>
+<use href="#prairial05-covert" transform="translate(172 167) rotate(-1) scale(0.95)" fill="#bfa883"/>
+<use href="#prairial05-covert" transform="translate(188 171) rotate(5) scale(0.95)" fill="#aa916b"/>
+<use href="#prairial05-covert" transform="translate(204 177) rotate(7) scale(0.9)" fill="#b49c76"/>
+<use href="#prairial05-covert" transform="translate(220 184) rotate(13) scale(0.85)" fill="#b9a17a"/>
+<use href="#prairial05-covert" transform="translate(146 180) rotate(-8) scale(0.91)" fill="#b7a07b"/>
+<use href="#prairial05-covert" transform="translate(163 181) rotate(-2) scale(0.98)" fill="#b19a73"/>
+<use href="#prairial05-covert" transform="translate(180 185) rotate(3) scale(0.97)" fill="#c0a984"/>
+<use href="#prairial05-covert" transform="translate(197 192) rotate(7) scale(0.9)" fill="#ad9470"/>
+<use href="#prairial05-covert" transform="translate(214 199) rotate(12) scale(0.84)" fill="#baa47f"/>
+<use href="#prairial05-covert" transform="translate(156 193) rotate(-7) scale(0.85)" fill="#bca681"/>
+<use href="#prairial05-covert" transform="translate(173 198) rotate(0) scale(0.89)" fill="#aa936e"/>
+<use href="#prairial05-covert" transform="translate(190 204) rotate(4) scale(0.85)" fill="#baa17c"/>
+<g stroke-width=".53" opacity=".67"><path d="M134 163L140 163M146 158L151 158M161 156L167 157M177 155L183 157M195 157L201 160M215 161L221 164M235 167L241 170M253 175L259 179M268 184L273 189M280 194L284 200M287 207L289 212M292 218L291 224M285 231L282 235M274 244L269 247M254 254L248 256M233 260L226 262M212 265L205 266M187 265L180 264M163 261L157 259M144 256L138 253M126 247L122 244M113 235L110 231M103 219L102 213M102 203L103 198"/>
+<path d="M131 169L135 172M130 178L134 182M137 186L141 190M144 197L148 201M151 210L156 214M162 221L168 224M176 230L183 233M193 237L199 239M211 240L217 241M229 239L235 239M249 236L254 234M271 220L275 220M277 206L281 211M263 187L267 191M244 176L250 179M224 168L230 171"/>
+<path d="M118 244C125 250 133 253 140 255M158 261C168 264 177 265 184 265M241 259C254 257 265 252 272 248M149 158C160 155 168 154 176 155M206 159L215 162" stroke="#e0c69c" stroke-width=".9"/></g>
+<g stroke="#74664f" stroke-width=".43" opacity=".55"><path d="M151 172L153 176M154 174L156 177M165 171L168 175M169 173L172 176M181 173L184 178M185 175L188 179M197 178L200 183M201 180L204 184M213 185L216 189M217 187L220 192M231 193L234 197M233 196L235 200M155 184L157 189M159 187L161 191M173 187L175 192M176 190L178 195M191 192L193 198M195 196L197 200M207 200L210 205M213 204L215 208M163 199L166 203M180 205L184 209M196 212L200 215M151 236L154 240M166 246L169 249M184 249L188 252M203 250L207 251M226 247L230 247M244 242L248 241"/></g>
+<!-- Near leg: short scaled tarsus and three forward toes linked by a single broad web. -->
+<path d="M176 260C181 261 187 262 191 262L190 276L185 288L186 294C192 297 198 302 199 306C200 309 197 310 192 308L181 304L168 311C164 313 160 312 162 309L167 304L148 308C143 309 141 306 145 303L160 296L174 293L178 288L178 274Z" fill="url(#prairial05-foot)" stroke-width="1.13"/>
+<path d="M175 259L177 265L181 264L183 269L187 266L190 269L191 262" fill="#bba47d" stroke-width=".62"/>
+<g stroke="#947b52" stroke-width=".64"><path d="M183 273L183 283L181 295M179 275L188 276M179 280L186 281M178 285L185 286M177 290L184 291M181 295L146 306M181 295L165 310M181 295L195 306"/><path d="M170 299L157 304M176 302L171 307M184 299L191 304" stroke="#e0bc83" stroke-width=".7"/></g>
+<path d="M145 306L148 305M163 311L166 309M194 307L197 308M204 300L207 299M219 304L222 302M251 302L254 302" stroke="#7e7254" stroke-width=".78"/>
+</g>
+</svg>

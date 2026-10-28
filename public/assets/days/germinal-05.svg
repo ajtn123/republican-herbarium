@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="germinal05-title germinal05-desc">
+  <title id="germinal05-title">Germinal 5 — Poule</title>
+  <desc id="germinal05-desc">An adult brown farm hen stands quietly in left profile. Her small five-pointed red comb and two short wattles surround a fine horn-coloured beak and amber eye. Golden neck hackles fall over a rounded tawny body with softly barred feathers, an overlapping folded wing and a short upright arch of brown tail feathers. Two scaled ochre legs have three separate forward toes and a small rear toe, each with a pale claw. Fine umber engraving and translucent earthy washes describe the plumage.</desc>
+  <defs>
+    <linearGradient id="germinal05-body" x1="139" y1="143" x2="207" y2="269" gradientUnits="userSpaceOnUse"><stop stop-color="#c3a178" stop-opacity=".82"/><stop offset=".43" stop-color="#ba946b" stop-opacity=".87"/><stop offset="1" stop-color="#96795c" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="germinal05-neck" x1="98" y1="108" x2="142" y2="191" gradientUnits="userSpaceOnUse"><stop stop-color="#d2b582" stop-opacity=".9"/><stop offset=".6" stop-color="#c5a16e" stop-opacity=".92"/><stop offset="1" stop-color="#b38e61" stop-opacity=".7"/></linearGradient>
+    <linearGradient id="germinal05-wing" x1="152" y1="165" x2="249" y2="234" gradientUnits="userSpaceOnUse"><stop stop-color="#c2a17a" stop-opacity=".94"/><stop offset=".55" stop-color="#ad8b66" stop-opacity=".93"/><stop offset="1" stop-color="#8b7157" stop-opacity=".94"/></linearGradient>
+    <linearGradient id="germinal05-tail" x1="254" y1="172" x2="292" y2="130" gradientUnits="userSpaceOnUse"><stop stop-color="#77674f" stop-opacity=".95"/><stop offset=".55" stop-color="#938064" stop-opacity=".92"/><stop offset="1" stop-color="#a08b6c" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="germinal05-red" x1="90" y1="85" x2="98" y2="142" gradientUnits="userSpaceOnUse"><stop stop-color="#b56e5c" stop-opacity=".95"/><stop offset="1" stop-color="#9c5d50" stop-opacity=".92"/></linearGradient>
+    <linearGradient id="germinal05-leg" x1="166" y1="260" x2="175" y2="319" gradientUnits="userSpaceOnUse"><stop stop-color="#c0aa7d" stop-opacity=".96"/><stop offset="1" stop-color="#b59a6a" stop-opacity=".95"/></linearGradient>
+    <g id="germinal05-feather">
+      <path d="M-7.8 0C-4.2 -2.2 3.6 -2.6 7.9 .2C7.8 4.9 4.4 9.2 .4 9.4C-3.5 8.8 -7.4 5.1 -7.8 0Z" fill-opacity=".24" stroke-width=".43"/>
+      <path d="M-6 2.1Q.1 10.2 6.3 2.6" stroke="#77644d" stroke-width="1.1" opacity=".7"/>
+      <path d="M-4.6 2.2Q.2 7.7 4.7 2.7" stroke="#dec29a" stroke-width=".58" opacity=".8"/>
+      <path d="M-.1 1L.4 6.9" stroke="#907553" stroke-width=".4" opacity=".65"/>
+    </g>
+    <g id="germinal05-covert">
+      <path d="M0 0C6.4 -3.8 17 1.7 20.9 7.5C22.1 11.4 18.9 15 15.5 13.6C9.6 11.8 3.9 5.8 0 0Z" fill-opacity=".68" stroke-width=".59"/>
+      <path d="M5 2.1C8.4 6.5 13 10.7 18.3 10.1" stroke="#76614a" stroke-width="1.3" opacity=".8"/>
+      <path d="M6.1 2.1C10.2 6.9 13.2 8.3 17.6 8.6" stroke="#dbc096" stroke-width=".56" opacity=".85"/>
+      <path d="M4 1Q10 6 16.2 10.3" stroke="#887052" stroke-width=".4" opacity=".55"/>
+    </g>
+    <clipPath id="germinal05-flight-clip"><path d="M150 175C177 164 229 185 263 225C260 240 239 244 218 235C188 224 161 199 150 175Z"/></clipPath>
+  </defs>
+  <g stroke="#74634f">
+    <!-- The far foot is set a little behind the near one. Four unwebbed toes. -->
+    <path d="M209 252C218 250 222 254 221 263L217 281L220 299L227 305L241 309C245 310 245 313 241 313L225 309L231 317C233 319 230 321 228 318L218 308L205 316C202 318 200 315 203 313L214 303L203 305C199 306 198 303 201 302L212 298L211 282L210 267Z" fill="#a9926d" fill-opacity=".92" stroke-width="1.05"/>
+    <path d="M215 267L214 282L217 299M212 278L218 279M212 285L218 286M213 291L219 292M214 297L220 298M217 303L241 311M218 305L229 317M216 305L204 314M211 302L202 303" stroke-width=".56" opacity=".82"/>
+    <path d="M241 311Q245 311 247 314M229 318L232 321M202 315L199 317M201 303L198 305" stroke="#615a49" stroke-width=".77"/>
+    <!-- A hen's short tail rises in a compact arch, with no long sickles. -->
+    <g fill="url(#germinal05-tail)" stroke-width="1.05">
+      <path d="M243 184C251 166 263 141 277 128C282 124 286 125 285 131C283 149 267 172 253 189Z"/>
+      <path d="M248 185C259 162 276 136 290 129C296 126 299 129 296 136C288 154 275 174 258 190Z"/>
+      <path d="M252 189C266 166 283 148 300 141C305 139 308 142 304 148C292 166 279 182 262 194Z"/>
+      <path d="M258 190C273 173 288 159 304 155C311 153 312 156 307 162C293 177 282 188 266 198Z"/>
+    </g>
+    <g stroke-width=".61" opacity=".81">
+      <path d="M249 182Q272 148 281 131M254 185Q279 147 292 133M258 189Q287 157 302 146M264 193Q289 172 306 158" stroke="#d0b58b"/>
+      <path d="M263 157L269 160M270 145L277 148M275 135L282 138M272 166L279 170M280 155L287 159M287 143L294 147M279 178L286 181M289 168L296 171M297 158L303 161" stroke="#665b48" stroke-width="1.55"/>
+      <path d="M263 154L270 157M272 144L278 146M275 164L281 167M284 154L290 157M284 176L289 178M294 166L299 168" stroke="#bdab88" stroke-width=".6"/>
+    </g>
+    <!-- Rounded back, deep breast and a softly feathered abdomen. -->
+    <path d="M112 137C121 143 134 148 145 149C164 143 187 142 210 147C232 151 250 164 264 179C277 194 283 209 277 226C270 247 251 259 229 266C209 273 178 275 154 269C129 264 109 250 98 230C88 212 88 191 94 173C98 159 101 148 100 139Z" fill="url(#germinal05-body)" stroke-width="1.5"/>
+    <path d="M99 217C106 241 128 258 155 264C183 271 214 269 239 260C221 273 178 278 153 269C125 261 106 246 98 230Z" fill="#827158" fill-opacity=".17" stroke="none"/>
+    <path d="M128 151C146 143 165 143 182 145C169 150 161 158 157 170C144 171 130 163 128 151Z" fill="#e0c396" fill-opacity=".21" stroke="none"/>
+    <!-- A small feathered head and modest neck emerge from the breast. -->
+    <path d="M86 108C83 100 86 91 94 87C102 83 113 87 118 94C124 102 122 112 116 120C111 128 112 137 119 144C127 153 140 159 153 168C145 179 126 185 111 179C98 174 94 160 96 146C98 135 97 128 91 124C87 121 84 115 86 108Z" fill="url(#germinal05-neck)" stroke-width="1.32"/>
+    <path d="M110 125C107 137 110 148 121 159C128 166 139 170 147 171C137 176 127 175 118 169C106 159 103 140 110 125Z" fill="#a58659" fill-opacity=".22" stroke="none"/>
+    <!-- Five low comb points and short, female-sized wattles. -->
+    <path d="M87 95L88 87Q89 84 92 87L94 78Q95 75 98 80L101 84L104 77Q106 74 108 80L110 86L115 82Q118 81 118 85L118 92C110 90 99 89 91 96Z" fill="url(#germinal05-red)" stroke="#8b6453" stroke-width=".97"/>
+    <path d="M91 89L92 93M97 83L98 90M105 82L106 90M112 87L112 91" stroke="#d4997f" stroke-width=".56" opacity=".8"/>
+    <path d="M89 119C85 125 86 134 89 139C92 143 96 142 97 137C98 132 96 126 96 121Z" fill="#aa6756" fill-opacity=".89" stroke-width=".84"/>
+    <path d="M96 119C91 124 91 134 94 141C96 147 102 145 103 139C105 132 102 126 103 120Z" fill="url(#germinal05-red)" stroke-width=".9"/>
+    <path d="M94 126Q93 135 96 140M99 126Q102 134 99 140" stroke="#d29378" stroke-width=".55" opacity=".75"/>
+    <!-- The facial skin is small; the head remains mostly feathered. -->
+    <path d="M87 106C89 99 100 96 106 101C110 104 108 110 105 114L108 120C104 125 98 126 94 122L89 119Z" fill="#b47d64" fill-opacity=".81" stroke-width=".63"/>
+    <path d="M105 112C109 111 112 115 111 119C110 123 107 124 104 122C102 119 103 115 105 112Z" fill="#d0bba0" fill-opacity=".92" stroke-width=".61"/>
+    <path d="M88 107C82 106 76 109 69 112C73 114 78 118 86 117L90 114Z" fill="#d3bd8a" fill-opacity=".97" stroke-width="1"/>
+    <path d="M69 112L85 112L88 110M74 113L78 115" stroke="#977d55" stroke-width=".57"/>
+    <path d="M81 109L84 109" stroke="#76694d" stroke-width=".9"/>
+    <path d="M91 104C94 101 99 101 102 104C102 108 99 110 96 109C93 109 91 107 91 104Z" fill="#d8b17a" stroke-width=".61"/>
+    <ellipse cx="96.8" cy="105.1" rx="2.08" ry="2.32" fill="#494b3f" stroke="#645b47" stroke-width=".4"/>
+    <circle cx="96.2" cy="104.4" r=".64" fill="#f3e5c9" stroke="none"/>
+    <path d="M91 99Q97 96 104 100M88 120L93 121M98 114L100 118M111 98L115 103M111 104L114 109M113 115L115 118M97 93L101 94M105 94L109 96" stroke-width=".48" opacity=".75"/>
+    <!-- Narrow hackles lie in the direction of the short neck. -->
+    <g stroke-width=".63" opacity=".73">
+      <path d="M106 126C104 136 106 145 111 151M111 128C109 138 112 146 117 152M114 140C115 148 120 155 126 159M119 147C123 153 128 159 135 162M97 142C97 152 100 160 106 166M101 146C101 155 107 164 113 169M105 151C107 160 114 167 121 171M111 156C115 164 121 170 128 174M120 160C125 166 132 171 139 174M97 132L97 137M117 123L115 129M116 133L118 138M100 125L100 132"/>
+      <path d="M102 144L104 155M109 144L114 155M116 152L122 160M126 161L134 167M109 165L115 171M125 172L132 175" stroke="#efd3a0" stroke-width=".76"/>
+      <path d="M101 151L105 159M110 151L115 160M118 156L125 164M128 165L134 169M98 153L102 162M106 165L110 171" stroke="#93744e" stroke-width=".85"/>
+    </g>
+    <!-- Barred breast and belly feathers follow the round body. -->
+    <g fill="#caad85">
+      <use href="#germinal05-feather" transform="translate(101 177) rotate(-20) scale(.76 .88)"/>
+      <use href="#germinal05-feather" transform="translate(111 180) rotate(-18) scale(.88 .92)"/>
+      <use href="#germinal05-feather" transform="translate(124 183) rotate(-13) scale(.93 1)"/>
+      <use href="#germinal05-feather" transform="translate(98 190) rotate(-22) scale(.8 .96)"/>
+      <use href="#germinal05-feather" transform="translate(110 194) rotate(-17) scale(.92 1)"/>
+      <use href="#germinal05-feather" transform="translate(124 196) rotate(-14) scale(.94 1.02)"/>
+      <use href="#germinal05-feather" transform="translate(138 201) rotate(-12) scale(1 .95)"/>
+      <use href="#germinal05-feather" transform="translate(99 204) rotate(-19) scale(.86 1)"/>
+      <use href="#germinal05-feather" transform="translate(111 207) rotate(-16) scale(.92 1.05)"/>
+      <use href="#germinal05-feather" transform="translate(125 212) rotate(-11) scale(1 1)"/>
+      <use href="#germinal05-feather" transform="translate(140 217) rotate(-7) scale(1.05 1)"/>
+      <use href="#germinal05-feather" transform="translate(103 219) rotate(-20) scale(.82 .95)"/>
+      <use href="#germinal05-feather" transform="translate(115 224) rotate(-13) scale(.97 1)"/>
+      <use href="#germinal05-feather" transform="translate(130 229) rotate(-9) scale(1.04 .99)"/>
+      <use href="#germinal05-feather" transform="translate(146 232) rotate(-4) scale(1.07 1)"/>
+      <use href="#germinal05-feather" transform="translate(161 236) rotate(0) scale(1.07 .95)"/>
+      <use href="#germinal05-feather" transform="translate(114 238) rotate(-17) scale(.86 .91)"/>
+      <use href="#germinal05-feather" transform="translate(127 243) rotate(-12) scale(.99 .95)"/>
+      <use href="#germinal05-feather" transform="translate(143 248) rotate(-7) scale(1.03 .94)"/>
+      <use href="#germinal05-feather" transform="translate(159 251) rotate(-2) scale(1.06 .97)"/>
+      <use href="#germinal05-feather" transform="translate(176 253) rotate(3) scale(1.04 .94)"/>
+      <use href="#germinal05-feather" transform="translate(193 254) rotate(5) scale(1.02 .9)"/>
+      <use href="#germinal05-feather" transform="translate(209 253) rotate(10) scale(1 .94)"/>
+      <use href="#germinal05-feather" transform="translate(225 249) rotate(16) scale(.98 .9)"/>
+      <use href="#germinal05-feather" transform="translate(240 243) rotate(24) scale(.95 .94)"/>
+      <use href="#germinal05-feather" transform="translate(253 234) rotate(31) scale(.9 .92)"/>
+      <use href="#germinal05-feather" transform="translate(262 222) rotate(35) scale(.84 .9)"/>
+      <use href="#germinal05-feather" transform="translate(263 204) rotate(31) scale(.85 .9)"/>
+      <use href="#germinal05-feather" transform="translate(254 190) rotate(22) scale(.84 .88)"/>
+      <use href="#germinal05-feather" transform="translate(239 176) rotate(19) scale(.9 .84)"/>
+      <use href="#germinal05-feather" transform="translate(224 165) rotate(12) scale(.9 .84)"/>
+      <use href="#germinal05-feather" transform="translate(208 158) rotate(6) scale(.88 .8)"/>
+      <use href="#germinal05-feather" transform="translate(191 153) rotate(2) scale(.85 .76)"/>
+      <use href="#germinal05-feather" transform="translate(173 153) rotate(-5) scale(.84 .72)"/>
+      <use href="#germinal05-feather" transform="translate(144 258) rotate(-9) scale(.87 .65)"/>
+      <use href="#germinal05-feather" transform="translate(160 262) rotate(-4) scale(.93 .68)"/>
+      <use href="#germinal05-feather" transform="translate(177 264) rotate(1) scale(.93 .67)"/>
+      <use href="#germinal05-feather" transform="translate(195 265) rotate(6) scale(.91 .65)"/>
+      <use href="#germinal05-feather" transform="translate(213 263) rotate(10) scale(.92 .66)"/>
+      <use href="#germinal05-feather" transform="translate(230 257) rotate(19) scale(.88 .7)"/>
+    </g>
+    <!-- The folded wing has separate, blunt-ended flight feathers. -->
+    <path d="M148 165C163 157 183 160 204 168C231 178 254 198 267 223C260 239 238 244 215 236C184 226 157 203 146 182C142 175 142 169 148 165Z" fill="url(#germinal05-wing)" stroke-width="1.12"/>
+    <g fill="#b79872" fill-opacity=".95" stroke-width=".74">
+      <path d="M164 178C184 172 219 194 260 224C269 231 262 238 254 237C227 232 187 202 164 178Z"/>
+      <path d="M160 176C179 170 212 189 250 216C260 224 263 231 256 233C237 233 183 198 160 176Z"/>
+      <path d="M155 174C174 168 202 183 237 207C249 216 254 223 248 225C228 224 177 194 155 174Z"/>
+      <path d="M151 172C169 167 193 177 223 196C236 205 241 212 236 215C216 214 170 188 151 172Z"/>
+    </g>
+    <g clip-path="url(#germinal05-flight-clip)" stroke="#75624c" stroke-width="2.05" opacity=".64">
+      <path d="M177 178Q173 188 169 191M188 183Q185 195 179 200M200 190Q198 202 191 209M213 198Q210 211 204 218M226 207Q223 219 219 227M239 216Q236 228 233 235M251 225L247 239"/>
+    </g>
+    <g stroke="#dfc59c" stroke-width=".6" opacity=".9">
+      <path d="M169 181C192 198 233 229 259 233M166 178C191 196 227 218 251 228M161 176C185 191 218 211 243 220M157 174C179 187 212 203 231 210"/>
+      <path d="M184 187L181 194M197 194L195 202M210 203L208 210M222 212L221 220M237 222L235 228" opacity=".7"/>
+    </g>
+    <g fill="#c0a17a">
+      <use href="#germinal05-covert" transform="translate(148 165) rotate(-12) scale(.92 .87)"/>
+      <use href="#germinal05-covert" transform="translate(164 165) rotate(-6) scale(.97 .9)"/>
+      <use href="#germinal05-covert" transform="translate(181 168) rotate(-1) scale(1 .91)"/>
+      <use href="#germinal05-covert" transform="translate(198 174) rotate(3) scale(.97 .94)"/>
+      <use href="#germinal05-covert" transform="translate(214 182) rotate(8) scale(.95 .91)"/>
+      <use href="#germinal05-covert" transform="translate(228 191) rotate(13) scale(.9 .87)"/>
+      <use href="#germinal05-covert" transform="translate(147 177) rotate(-8) scale(.9 .92)"/>
+      <use href="#germinal05-covert" transform="translate(162 179) rotate(-4) scale(.97 .96)"/>
+      <use href="#germinal05-covert" transform="translate(179 184) rotate(1) scale(.98 .97)"/>
+      <use href="#germinal05-covert" transform="translate(196 192) rotate(7) scale(.97 .95)"/>
+      <use href="#germinal05-covert" transform="translate(211 201) rotate(10) scale(.9 .9)"/>
+      <use href="#germinal05-covert" transform="translate(156 191) rotate(-1) scale(.88 .9)"/>
+      <use href="#germinal05-covert" transform="translate(171 198) rotate(5) scale(.92 .91)"/>
+      <use href="#germinal05-covert" transform="translate(187 207) rotate(9) scale(.89 .88)"/>
+    </g>
+    <!-- Sparse strokes turn around the rump and the soft abdominal fringe. -->
+    <g stroke-width=".49" opacity=".65">
+      <path d="M151 150L156 152M161 148L166 150M180 146L186 148M202 149L208 152M221 154L227 158M237 162L242 167M251 171L255 176M267 187L270 193M275 203L276 208M274 221L271 227M266 238L260 243M250 252L244 256M232 264L225 267M210 270L203 271M184 273L177 273M158 270L151 268M136 263L130 259M116 251L111 246M102 236L99 230M94 215L93 209M93 192L94 185"/>
+      <path d="M247 181L250 186M258 194L261 199M266 213L266 218M251 244L247 248M236 253L231 257M221 262L215 264M202 265L197 267M180 266L175 267M159 262L154 262M140 255L135 253M122 246L118 243M109 231L106 226"/>
+      <path d="M138 258L144 260M155 265L161 267M174 269L181 270M195 270L201 270M218 267L224 265M241 258L247 254M271 226L274 219" stroke="#e4c9a2" stroke-width=".85"/>
+    </g>
+    <!-- Feathered thigh, exposed hock, scaled shank and four clawed toes. -->
+    <path d="M158 263C164 266 172 267 179 267L178 278L173 288L175 306L181 310L200 314C205 315 205 318 201 318L179 314L185 323C188 326 184 328 182 325L172 315L156 324C152 326 150 323 154 320L166 310L150 313C146 314 145 311 149 310L167 305L166 291L165 282L160 275Z" fill="url(#germinal05-leg)" stroke-width="1.08"/>
+    <path d="M158 263L160 270L164 269L166 275L170 272L173 277L177 273L179 267" fill="#b1936b" stroke-width=".62"/>
+    <g stroke="#917a53" stroke-width=".61">
+      <path d="M169 281L169 290L171 305M166 285L173 286M166 292L173 293M167 298L174 299M168 304L175 305M172 310L201 316M172 311L183 324M170 311L154 322M165 309L149 312"/>
+      <path d="M161 316L163 319M157 319L159 322M177 318L180 316M180 321L183 319M183 313L182 316M191 315L190 317M154 310L154 312"/>
+    </g>
+    <path d="M201 316Q205 316 207 319M183 325L186 328M153 323L149 326M148 312L144 315" stroke="#615b49" stroke-width=".83"/>
+    <path d="M168 282L168 289M169 295L171 302M178 312L199 315M156 321L166 314" stroke="#e1c99e" stroke-width=".64" opacity=".86"/>
+  </g>
+</svg>

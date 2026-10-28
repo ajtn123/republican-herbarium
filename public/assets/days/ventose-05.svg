@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="ventose-05-title ventose-05-desc">
+  <title id="ventose-05-title">Bouc — Capra hircus</title>
+  <desc id="ventose-05-desc">An adult male domestic goat stands facing left, with a lean grey-brown and cream body, muscular neck, long narrow face and a conspicuous pointed beard. Two ridged horns sweep upward and backward without forming a spiral. Short sideways ears, a raised short tail and four divided dark hooves complete the specimen. Fine warm umber engraving follows the coarse coat over quiet translucent watercolor.</desc>
+  <defs>
+    <linearGradient id="ventose-05-coat" x1="180" y1="146" x2="195" y2="238" gradientUnits="userSpaceOnUse"><stop stop-color="#b4ad9b" stop-opacity=".79"/><stop offset=".45" stop-color="#c8bfaa" stop-opacity=".82"/><stop offset="1" stop-color="#9d927d" stop-opacity=".86"/></linearGradient>
+    <linearGradient id="ventose-05-neck" x1="111" y1="124" x2="160" y2="211" gradientUnits="userSpaceOnUse"><stop stop-color="#aaa18b" stop-opacity=".86"/><stop offset=".54" stop-color="#8f8874" stop-opacity=".81"/><stop offset="1" stop-color="#a19780" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="ventose-05-far" x1="206" y1="211" x2="224" y2="303" gradientUnits="userSpaceOnUse"><stop stop-color="#897e69" stop-opacity=".84"/><stop offset="1" stop-color="#aaa089" stop-opacity=".87"/></linearGradient>
+    <linearGradient id="ventose-05-horn" x1="109" y1="110" x2="155" y2="56" gradientUnits="userSpaceOnUse"><stop stop-color="#827764"/><stop offset=".5" stop-color="#a79c85"/><stop offset="1" stop-color="#c1b79c"/></linearGradient>
+    <linearGradient id="ventose-05-face" x1="93" y1="116" x2="92" y2="168" gradientUnits="userSpaceOnUse"><stop stop-color="#c6baa0" stop-opacity=".86"/><stop offset="1" stop-color="#d6cbb4" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="ventose-05-beard" x1="87" y1="163" x2="104" y2="215" gradientUnits="userSpaceOnUse"><stop stop-color="#857b64" stop-opacity=".91"/><stop offset=".7" stop-color="#a29476" stop-opacity=".86"/><stop offset="1" stop-color="#b3a487" stop-opacity=".81"/></linearGradient>
+  </defs>
+  <g stroke="#665d4d">
+    <!-- The four legs have individually observed joints and paired toes. -->
+    <path d="M166 202C174 205 180 218 178 233L175 251L177 286L182 298L180 307L167 308L164 305L170 296L168 272L165 252C161 236 160 218 162 209Z" fill="url(#ventose-05-far)" stroke-width="1.25"/>
+    <path d="M269 198C280 203 282 216 276 230L272 238L286 252C290 256 289 261 286 267L281 290L285 300L281 308L268 308L266 305L274 296L279 263C280 260 278 257 275 255L261 242C256 236 257 230 260 222L262 206Z" fill="url(#ventose-05-far)" stroke-width="1.25"/>
+    <path d="M170 296C174 299 178 299 181 298L182 302L180 307L167 308L164 305Z" fill="#6c6554" stroke-width=".95"/>
+    <path d="M274 296C278 299 282 299 284 299L285 302L281 308L268 308L266 305Z" fill="#6c6554" stroke-width=".95"/>
+    <path d="M173 300L171 307M277 300L274 307" stroke="#47463c" stroke-width=".9"/>
+    <g stroke-width=".6" opacity=".75"><path d="M169 226L171 243M171 257L173 286M265 237L282 255M283 269L278 291M165 246L171 250M168 270L173 273M276 275L281 278M274 286L279 288"/><path d="M168 305L171 305M175 304L179 304M269 305L273 305M278 304L282 304" stroke="#bfb296"/></g>
+    <!-- The short tail is lifted above the rump, not hanging like a sheep's. -->
+    <path d="M277 157C285 152 292 142 295 128L299 133L300 129C305 140 300 151 291 159L285 169Z" fill="#b4aa92" fill-opacity=".9" stroke-width="1.25"/>
+    <path d="M282 160C289 153 295 143 297 135M291 151L297 148M288 155L294 154M296 138L299 137" stroke-width=".65" opacity=".8"/>
+    <path d="M285 158L290 151M293 145L295 138" stroke="#ded0b2" stroke-width="1" opacity=".8"/>
+    <!-- Angular withers, deep chest, lean flank and rounded muscular haunch. -->
+    <path d="M110 117C121 116 128 129 136 140L151 151C166 150 178 152 195 152C216 152 236 145 255 148C270 149 281 157 285 170C290 186 283 204 273 216C264 226 260 231 263 239L274 251C279 256 275 263 273 270L267 291L270 301L267 310L252 310L249 307L258 297L263 265C264 261 263 258 259 255L244 242C240 236 239 230 241 221C225 226 203 229 185 225L180 228L177 225L170 226L167 222C159 221 154 217 151 214L149 239C148 246 145 251 147 259L146 288L150 300L147 310L132 310L129 307L137 297L138 267C137 257 139 249 136 242C130 229 127 215 130 202C118 190 113 173 108 160C101 165 94 167 86 166L72 166C63 166 56 163 54 159C51 155 53 150 57 147L73 135C81 128 86 117 96 113C101 111 107 112 110 117Z" fill="url(#ventose-05-coat)" stroke-width="1.6"/>
+    <!-- A broad wash gives the mature buck a thick powerful neck and darker brisket. -->
+    <path d="M113 122C120 124 126 136 134 145L150 156C140 165 138 180 143 194C147 204 150 211 155 216L145 216C134 210 126 198 122 187C116 176 114 163 107 156C113 145 116 133 113 122Z" fill="url(#ventose-05-neck)" stroke="none"/>
+    <path d="M147 154C171 151 186 158 203 155C223 153 238 149 252 151C244 157 233 161 219 162C193 167 170 160 153 161Z" fill="#7f7b67" fill-opacity=".22" stroke="none"/>
+    <!-- Far horn, with a broad base and an unbranched backward sweep. -->
+    <path d="M117 116C120 99 128 83 140 73C152 63 166 58 181 57C163 63 151 73 143 84C135 95 132 107 131 118Z" fill="url(#ventose-05-horn)" stroke-width="1.1"/>
+    <path d="M124 109C130 85 147 67 171 61" stroke="#d0c5a9" stroke-width=".75" opacity=".8"/>
+    <path d="M119 107L131 110M121 100L133 104M124 94L135 98M128 88L139 92M132 82L143 87M137 77L147 82M143 72L151 77M149 68L157 72M156 64L162 68" stroke-width=".7" opacity=".8"/>
+    <!-- A short leaflike far ear projects behind the horn base. -->
+    <path d="M118 121C126 114 139 111 153 114C149 123 137 128 128 128L119 126Z" fill="#a69b83" fill-opacity=".9" stroke-width="1.15"/>
+    <path d="M124 122C133 118 143 116 149 116C143 122 135 125 127 125Z" fill="#c6b59e" fill-opacity=".75" stroke-width=".55"/>
+    <path d="M126 122L144 118M132 124L137 122" stroke-width=".55" opacity=".7"/>
+    <!-- Pale narrow face with a long nasal bridge and square mobile upper lip. -->
+    <path d="M99 115C109 113 117 121 116 134C115 146 108 157 98 162C91 166 82 166 72 166C63 166 56 163 54 159C51 155 53 150 57 147L73 135C81 128 86 118 96 114Z" fill="url(#ventose-05-face)" stroke-width="1.2"/>
+    <path d="M108 120C114 129 108 145 99 151C94 154 89 155 85 154C93 142 97 129 101 119Z" fill="#9b8b71" fill-opacity=".25" stroke="none"/>
+    <path d="M74 138C73 148 78 157 89 162L73 166C65 166 58 163 55 160C62 160 68 155 70 150L67 145Z" fill="#e1d4b9" fill-opacity=".73" stroke="none"/>
+    <path d="M91 122C85 132 77 141 65 148M107 134C108 144 103 151 95 154M108 148C112 151 113 156 112 161" stroke-width=".8" opacity=".76"/>
+    <path d="M87 131C89 127 95 125 99 127C102 129 100 133 97 134C92 136 89 135 87 131Z" fill="#a7977c" fill-opacity=".8" stroke-width=".6"/>
+    <path d="M89 130C92 128 97 127 99 129C97 132 92 133 89 130Z" fill="#4f4a3e" stroke-width=".65"/>
+    <path d="M92 130L97 129.5" stroke="#b9ad8e" stroke-width=".65"/>
+    <circle cx="96.5" cy="129" r=".58" fill="#ede0c6" stroke="none"/>
+    <path d="M88 126C91 123 96 122 100 124M90 136L94 137M98 135L101 133" stroke-width=".55" opacity=".75"/>
+    <path d="M57 148C59 146 63 146 65 148L65 152C62 155 57 156 54 154C53 152 54 150 57 148Z" fill="#827766" stroke-width=".8"/>
+    <path d="M56 150C59 148 62 148 63 150M54 159C60 162 68 162 74 160L80 157M64 154L65 158M76 161L82 159" stroke-width=".75"/>
+    <path d="M57 158L58 160M63 160L63 163M69 160L70 163M83 151L86 153M81 145L85 146M100 143L102 141" stroke-width=".45" opacity=".7"/>
+    <!-- Near horn tapers into a long scimitar, its transverse rings following the curve. -->
+    <path d="M101 119C99 105 102 89 111 76C123 58 142 48 164 46C146 54 133 66 125 80C119 92 117 106 117 119Z" fill="url(#ventose-05-horn)" stroke-width="1.3"/>
+    <path d="M107 111C107 83 124 60 151 51" stroke="#d6c9ad" stroke-width=".9" opacity=".77"/>
+    <path d="M101 111L116 112M101 104L117 106M102 97L118 100M104 90L120 94M107 83L122 88M111 77L125 83M115 71L128 77M120 66L132 71M126 61L137 66M132 56L142 61M139 52L147 57M146 49L152 53" stroke-width=".8" opacity=".87"/>
+    <path d="M101 115L105 116M106 116L111 117M113 114L116 115M105 108L110 109M108 94L113 95M114 80L119 82M123 67L127 69" stroke="#d7caad" stroke-width=".65" opacity=".7"/>
+    <!-- Near ear reaches sideways rather than forming a deerlike upright leaf. -->
+    <path d="M101 121C92 116 84 111 75 110C76 117 81 123 90 126C95 128 100 127 104 125Z" fill="#b7aa91" fill-opacity=".94" stroke-width="1.2"/>
+    <path d="M97 123C88 121 82 117 79 113C88 115 93 117 99 122Z" fill="#cfbba4" fill-opacity=".77" stroke-width=".55"/>
+    <path d="M81 114L96 122M86 120L91 121M78 115L82 119" stroke-width=".55" opacity=".75"/>
+    <!-- Long separate hair locks give the buck his conspicuous goatee. -->
+    <path d="M84 163C91 165 98 163 104 160C105 170 108 179 105 190L103 187L103 202L99 199L95 214L92 207L89 211L88 200L84 203L84 192L80 193C80 184 81 173 84 163Z" fill="url(#ventose-05-beard)" stroke-width="1.05"/>
+    <g stroke-width=".6" opacity=".85"><path d="M86 169C84 181 85 189 87 196M90 168C87 182 91 197 92 204M95 168C93 183 96 195 95 206M99 166C97 179 100 189 98 198M102 170C103 179 102 185 101 191M83 179L83 188"/><path d="M88 170C86 180 88 193 89 200M94 171C92 180 95 191 94 199M100 174L100 183" stroke="#d5c7a6" opacity=".8"/></g>
+    <!-- The neck and shoulder have longer coarser hair than the legs and face. -->
+    <path d="M114 139C117 150 124 161 127 173M117 158C120 174 126 190 135 198M133 148C142 152 145 158 145 166M144 161C135 173 136 190 141 201C144 208 148 212 152 215M149 164C158 179 160 192 153 206M131 200L135 208M137 217C137 225 141 235 143 240M141 246C145 249 145 253 143 258" stroke-width=".85" opacity=".8"/>
+    <path d="M126 172L128 184L131 180L135 193L137 189M137 148L141 156L145 153L148 161M126 190L130 199L132 196L136 204" stroke-width=".6" opacity=".76"/>
+    <!-- A few curved lines model ribs, tucked abdomen, hip and hock. -->
+    <path d="M158 160C178 164 199 165 220 159M160 199C178 216 209 223 237 215M175 171C171 184 177 201 187 208M198 169C195 184 201 202 211 213M220 166C216 180 221 197 230 207" stroke-width=".65" opacity=".31"/>
+    <path d="M256 154C245 161 240 174 243 187C245 195 252 201 260 202M275 165C280 174 279 186 273 196C267 207 255 215 247 226M250 232C250 238 254 244 260 247M264 252L271 258M264 263L273 263" stroke-width=".85" opacity=".78"/>
+    <path d="M149 210C167 223 207 230 237 220M140 226L143 239M250 159C244 167 244 177 247 183M262 154C269 157 274 163 277 170M156 155C175 155 187 158 201 156" stroke="#e0d4bb" stroke-width="1.55" opacity=".62"/>
+    <path d="M153 214L158 215L162 220L167 218L172 223L177 220L181 225M190 225L196 223L201 227L205 224M215 225L220 222L224 224L230 220" stroke-width=".65" opacity=".72"/>
+    <path d="M142 264L142 286L140 297M268 269L262 292L261 298M138 291L136 293L136 296M147 292L149 296M258 292L256 295M267 292L269 295" stroke-width=".72" opacity=".86"/>
+    <path d="M137 297C140 300 146 301 149 300L150 303L147 310L132 310L129 307Z" fill="#6d6554" stroke-width="1.05"/>
+    <path d="M258 297C261 300 267 301 269 300L270 303L267 310L252 310L249 307Z" fill="#6d6554" stroke-width="1.05"/>
+    <path d="M140 302L137 309M260 302L257 309" stroke="#46433a" stroke-width="1"/>
+    <path d="M132 307L136 307M141 307L146 307M252 307L256 307M261 307L266 307" stroke="#c9bda1" stroke-width=".65"/>
+    <!-- Irregular short strokes follow the fall of a rough, open coat. -->
+    <g stroke="#7a705a" stroke-width=".55" opacity=".66">
+      <path d="M108 127L110 133M110 138L113 146M116 147L120 156M115 163L119 172M120 177L124 185M126 187L129 195M130 192L135 201M132 165L133 175M132 178L136 187M136 184L140 192M137 201L141 208M144 205L148 212M149 193L151 200M147 175L151 183"/>
+      <path d="M157 164L166 167M175 163L184 165M191 160L199 161M209 157L217 157M225 154L233 153M240 151L246 152M162 177L166 184M170 186L176 194M181 196L187 203M194 204L201 210M208 209L214 214M224 207L229 211" opacity=".72"/>
+      <path d="M161 210L168 215M174 216L181 220M188 220L196 223M204 222L211 223M219 220L226 219M233 217L238 213M180 177L181 185M201 175L202 182M223 174L224 181" opacity=".68"/>
+      <path d="M249 164L245 171M247 176L248 183M248 187L253 194M254 192L260 198M266 185L271 182M267 200L271 195M260 209L265 204M253 217L258 211M247 224L251 219M247 235L251 240M253 245L258 250M265 250L270 254M266 274L270 277M263 284L267 287M138 225L142 231M140 239L144 245M140 254L144 259M140 273L145 278M140 284L144 288"/>
+      <path d="M95 118L97 121M101 124L103 128M100 136L98 141M93 144L89 149M89 151L86 155M108 152L109 157M77 140L74 144M70 146L67 149"/>
+    </g>
+    <g stroke="#e2d6bc" stroke-width=".65" opacity=".74"><path d="M115 130L119 139M123 147L128 154M125 163L129 171M131 184L135 192M142 168L140 177M153 162L161 164M173 157L183 159M194 158L203 157M213 155L221 153M236 152L242 152M171 176L172 183M193 174L194 182M214 171L215 178M158 205L164 211M177 214L183 217M197 219L204 220M219 218L225 216M253 165L250 173M261 171L265 178M263 279L261 288M141 272L142 283"/></g>
+  </g>
+</svg>

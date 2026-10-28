@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="thermidor25-title thermidor25-desc">
+  <title id="thermidor25-title">Loutre — Lutra lutra</title>
+  <desc id="thermidor25-desc">A Eurasian otter walks low to the ground, turning its broad whiskered muzzle towards the viewer. Its long supple body wears a dense dark umber coat above a pale grey-cream throat. Small rounded ears, modest dark eyes, four short articulated limbs with webbed toes, and a long muscular tail tapering from a broad root distinguish the animal. Fine curved engraving follows the short fur beneath restrained transparent watercolor.</desc>
+  <defs>
+    <linearGradient id="thermidor25-coat" x1="170" y1="126" x2="178" y2="211" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#897663" stop-opacity=".88"/>
+      <stop offset=".46" stop-color="#796653" stop-opacity=".89"/>
+      <stop offset="1" stop-color="#655b4d" stop-opacity=".93"/>
+    </linearGradient>
+    <linearGradient id="thermidor25-tail" x1="250" y1="169" x2="293" y2="257" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75624f" stop-opacity=".94"/>
+      <stop offset=".58" stop-color="#82705a" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#9b8a70" stop-opacity=".86"/>
+    </linearGradient>
+    <linearGradient id="thermidor25-far" x1="190" y1="184" x2="194" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#665b4c" stop-opacity=".96"/>
+      <stop offset="1" stop-color="#8a7960" stop-opacity=".92"/>
+    </linearGradient>
+    <linearGradient id="thermidor25-throat" x1="73" y1="164" x2="133" y2="205" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d4ceba" stop-opacity=".94"/>
+      <stop offset=".5" stop-color="#bfb6a0" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#a29378" stop-opacity=".7"/>
+    </linearGradient>
+    <linearGradient id="thermidor25-head" x1="75" y1="134" x2="100" y2="185" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#95816a" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#7c705b" stop-opacity=".83"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#5d5243">
+    <!-- The distant limbs appear between the near limbs, with separate wrists and feet. -->
+    <path d="M146 185C154 188 159 197 157 207L151 219L153 229C158 228 164 230 166 234C165 237 161 237 158 237L143 237C139 236 138 233 140 229L140 216C139 208 135 203 135 196Z" fill="url(#thermidor25-far)" stroke-width="1.2"/>
+    <path d="M229 180C242 182 248 192 245 205L240 214L246 222C251 223 258 222 262 225C265 228 263 231 259 232L240 231C237 230 235 227 234 224L226 215C221 210 220 203 222 194Z" fill="url(#thermidor25-far)" stroke-width="1.2"/>
+    <path d="M145 205C150 210 149 216 146 220L147 229M230 204C229 210 232 214 236 217M239 223L245 226M143 233C150 232 157 232 162 234M242 228C247 226 254 227 260 228M147 232L146 237M153 232L153 237M159 233L160 236M247 227L246 231M253 227L253 231M259 228L259 231" stroke-width=".65" opacity=".87"/>
+    <!-- The thick tail is continuous with the rump and tapers all the way to a round point. -->
+    <path d="M233 153C255 158 265 175 271 195C277 214 282 230 295 242C305 251 316 257 325 261C328 263 328 265 324 266C312 266 298 261 286 254C269 244 255 229 246 213C236 196 230 179 227 165Z" fill="url(#thermidor25-tail)" stroke-width="1.45"/>
+    <path d="M244 167C255 181 257 198 265 216C275 239 296 254 318 262M252 180C260 196 262 213 274 230M272 230C283 243 298 253 311 257" stroke-width=".72" opacity=".7"/>
+    <path d="M250 182C257 200 259 215 268 230M278 241C289 250 303 258 317 262" stroke="#b1a084" stroke-width="1.1" opacity=".66"/>
+    <path d="M244 183L247 192M249 198L253 207M256 217L261 225M266 233L273 241M280 247L288 252M296 257L304 260M310 262L317 264" stroke-width=".55" opacity=".75"/>
+    <!-- A flexible, elongated trunk sweeps into a low neck and a broad, flattened skull. -->
+    <path d="M106 139C122 143 136 140 151 137C175 132 200 130 221 137C239 143 250 154 251 168C252 184 244 193 232 196C212 202 188 201 167 198C150 195 137 191 124 186C111 187 103 189 91 187C79 188 67 186 58 182C51 179 46 175 46 170C46 163 54 159 62 156C67 146 75 139 87 136C94 134 100 135 106 139Z" fill="url(#thermidor25-coat)" stroke-width="1.55"/>
+    <!-- Long translucent washes describe a sleek, close coat rather than shaggy outlines. -->
+    <path d="M118 145C148 140 171 135 193 136C215 135 233 143 240 154C216 148 193 146 173 150C153 154 138 158 123 164C114 165 106 161 100 157Z" fill="#aa9579" fill-opacity=".24" stroke="none"/>
+    <path d="M133 179C157 190 184 194 211 192C229 191 241 183 248 175C245 189 233 196 213 198C185 201 156 194 133 187Z" fill="#554e43" fill-opacity=".2" stroke="none"/>
+    <!-- The pale chin continues into the characteristic grey cream throat. -->
+    <path d="M50 170C58 168 67 168 76 172C87 176 96 177 107 172C113 170 117 167 121 165C118 178 122 186 132 194C119 191 115 185 108 184C95 190 80 188 67 184C56 181 48 177 48 172Z" fill="url(#thermidor25-throat)" stroke="none"/>
+    <path d="M58 180C72 186 87 189 99 186C110 183 115 183 121 185M102 181C112 179 116 175 119 170" stroke-width=".65" opacity=".57"/>
+    <!-- Short near forelimb: shoulder, elbow, broad wrist and spreading webbed digits. -->
+    <path d="M126 175C138 179 144 190 140 204C138 211 131 215 125 220L122 231C119 235 115 238 111 241C107 243 105 240 106 238C103 243 99 242 100 239C96 242 93 240 95 237C91 238 89 235 92 232L107 223L109 210C108 201 105 194 108 185" fill="url(#thermidor25-coat)" stroke-width="1.35"/>
+    <path d="M126 184C135 191 135 202 129 209C123 214 118 216 116 222L114 230M111 225C109 230 104 233 100 235M113 230C114 234 112 237 110 240M106 231C108 234 104 237 102 240M101 233C103 235 98 238 96 239M94 233L92 235" stroke-width=".7" opacity=".86"/>
+    <path d="M109 231L105 235L102 234M104 234L99 237L97 236M116 233L112 235" stroke="#aa9b7e" stroke-width=".75" opacity=".78"/>
+    <path d="M113 239L111 241M103 239L101 241M97 237L95 239M93 234L91 235" stroke="#514b40" stroke-width=".75"/>
+    <!-- Near hindlimb folds through the stifle and low hock before the broad hind foot. -->
+    <path d="M224 174C239 177 245 189 242 202C241 210 232 218 224 222L226 233C233 237 242 239 246 244C248 247 245 249 241 248C242 252 238 253 235 250C234 254 230 254 226 251C224 254 221 252 220 249C214 246 211 243 211 238L210 224C201 218 197 211 198 202C198 194 203 189 207 186" fill="url(#thermidor25-coat)" stroke-width="1.4"/>
+    <path d="M223 182C233 187 237 198 231 206C226 212 217 215 215 222M216 222C220 224 222 229 222 233M215 235C218 240 224 243 230 244M225 242C226 245 225 248 227 251M232 244C233 246 233 249 235 251M239 245L241 248M215 240C219 241 221 243 222 246" stroke-width=".75" opacity=".88"/>
+    <path d="M226 245L230 248L234 247M235 245L240 247M219 242L223 245" stroke="#b1a084" stroke-width=".8" opacity=".7"/>
+    <path d="M224 251L222 251M231 252L229 252M239 251L237 251M245 248L243 248" stroke="#514b40" stroke-width=".75"/>
+    <!-- Two small, round ears barely project above the low crown. -->
+    <path d="M86 137C83 132 85 127 90 127C96 127 100 131 100 136L96 140Z" fill="#81705b" fill-opacity=".94" stroke-width="1"/>
+    <path d="M89 131C92 130 95 132 95 135" stroke="#b6a68b" stroke-width=".7"/>
+    <path d="M110 140C110 134 113 131 118 133C123 135 124 141 121 146C118 150 113 149 110 145Z" fill="#756550" fill-opacity=".96" stroke-width="1.1"/>
+    <path d="M114 138C116 136 120 138 120 141C120 145 117 146 115 144Z" fill="#a18b72" fill-opacity=".65" stroke-width=".6"/>
+    <path d="M112 144L115 147M119 134L122 138" stroke="#c3b395" stroke-width=".65" opacity=".73"/>
+    <!-- Rounded forehead, moderate eyes, dark nose and full paired whisker pads. -->
+    <path d="M87 138C99 137 111 144 113 154C115 162 109 169 100 173C86 178 72 173 61 172L51 170C52 164 58 160 64 158C70 146 77 140 87 138Z" fill="url(#thermidor25-head)" stroke="none"/>
+    <path d="M61 163C66 159 74 159 79 162C83 164 88 166 91 170C88 175 79 178 72 175C65 177 56 174 52 171C49 168 53 165 61 163Z" fill="#c6bfa9" fill-opacity=".89" stroke-width=".68"/>
+    <path d="M54 162C58 160 64 160 68 163L67 168C64 171 59 171 55 168C52 166 52 164 54 162Z" fill="#49483f" stroke-width=".8"/>
+    <path d="M55 164C58 162 62 162 65 163" stroke="#b9b8a3" stroke-width=".75"/>
+    <path d="M61 170L61 173C65 176 71 177 76 175M61 173C58 175 54 174 52 173M77 176C84 176 90 173 94 169" stroke-width=".7"/>
+    <path d="M76 151C78 148 82 148 85 150C85 153 82 155 79 154Z" fill="#a99b80" stroke-width=".65"/>
+    <path d="M78 151C80 149 83 150 84 151C83 153 80 154 78 152Z" fill="#44453d" stroke-width=".65"/>
+    <circle cx="81.9" cy="151" r=".55" fill="#e1dcc5" stroke="none"/>
+    <path d="M76 148C79 146 83 146 86 148M79 156L82 156M88 150C93 150 96 153 98 157M70 153L66 158M101 145C106 148 109 153 108 158M100 162C100 167 96 170 91 172" stroke-width=".65" opacity=".8"/>
+    <!-- Long tactile whiskers fan from the muzzle in irregular, slender arcs. -->
+    <g stroke="#746e5c" stroke-width=".52" opacity=".85">
+      <path d="M64 168C54 162 43 160 34 161M63 170C51 167 40 169 32 172M63 172C51 172 42 177 36 181M67 172C56 177 49 183 45 189M75 168C83 161 93 157 102 157M76 170C88 165 100 165 108 168M77 173C87 172 98 176 105 180M75 174C84 177 91 184 95 190"/>
+    </g>
+    <path d="M58 166L58 167M64 165L64 166M69 168L69 169M72 171L72 172M64 173L64 174M80 169L81 169" stroke-width=".65" opacity=".67"/>
+    <!-- Curved lines model the long shoulder, rib cage and muscular hip. -->
+    <path d="M127 150C145 145 169 139 190 140M132 157C154 151 178 145 199 147M132 172C155 160 180 151 204 151M144 180C166 188 188 192 207 191M149 187C166 195 186 198 202 197M160 148C157 160 161 174 169 181M183 143C179 157 183 175 192 183M213 145C222 150 227 158 229 167" stroke-width=".63" opacity=".37"/>
+    <path d="M123 152C117 158 116 165 120 173M134 161C125 170 125 182 131 188M219 144C230 149 239 157 242 164M220 174C209 174 201 181 199 190M201 199C202 207 208 212 215 215" stroke-width=".85" opacity=".73"/>
+    <path d="M140 144C159 138 177 136 194 137M205 140C218 142 230 147 235 153M126 164C121 171 123 179 127 184M219 180C230 183 234 190 233 197" stroke="#bdad90" stroke-width="1.1" opacity=".66"/>
+    <!-- Close, overlapping fur strokes follow each change of volume. -->
+    <g stroke="#574f42" stroke-width=".5" opacity=".63">
+      <path d="M90 140L94 142M96 143L100 146M104 149L106 152M97 155L100 158M88 158L91 161M102 167L99 170M107 160L109 156M84 142L80 145M73 148L70 152M102 177L98 180M111 171L108 175M116 155L119 151M119 146L124 143"/>
+      <path d="M131 145L137 144M142 143L148 142M156 139L163 138M174 136L181 136M190 136L197 136M205 138L212 140M221 143L226 146M231 150L235 154M239 154L241 160M242 168L242 175M239 181L235 186"/>
+      <path d="M140 151L146 148M152 146L158 144M166 141L173 139M181 138L188 138M197 141L203 143M212 147L218 151M225 156L228 161M232 167L232 173M150 163L157 159M166 155L173 152M183 152L190 153M198 157L205 161M210 165L215 170" opacity=".7"/>
+      <path d="M137 176L143 179M149 183L155 185M162 189L169 191M179 195L187 196M192 199L199 200M210 201L218 200M226 197L231 194M157 170L161 176M174 164L176 171M190 165L193 172M202 176L206 181"/>
+      <path d="M117 187L118 193M121 193L123 199M121 204L117 210M114 213L113 219M122 216L127 213M130 208L134 202M134 191L131 186M212 185L207 189M206 193L204 199M206 205L209 210M216 210L222 208M227 203L231 199M216 224L217 229M217 233L221 237M228 238L234 241M237 191L239 197"/>
+    </g>
+    <g stroke="#c0ad8b" stroke-width=".58" opacity=".61">
+      <path d="M90 139L94 140M99 145L102 148M85 157L88 160M116 151L120 147M132 148L138 147M146 144L153 142M165 139L173 138M183 138L191 139M205 142L211 144M222 146L227 150M233 153L236 159M144 158L150 155M165 146L172 144M181 145L188 145M201 151L207 154M156 178L162 181M174 185L181 187M191 190L197 191M126 189L129 195M116 208L115 214M217 185L223 187M229 191L231 196M209 200L212 205M222 214L218 217M253 194L256 203M265 224L269 230M287 248L294 252"/>
+    </g>
+  </g>
+</svg>

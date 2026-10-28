@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="messidor25-title messidor25-desc">
+<title id="messidor25-title">Messidor 25 — Pintade</title>
+<desc id="messidor25-desc">A helmeted guineafowl of an old European farm type stands in left profile. Its very small bare bluish-grey head bears a modest horn-brown casque, a short pointed bill and two muted red wattles. A narrow neck descends into the high shoulders of a deep pear-shaped grey-umber body. Small pale pearl markings follow curved breast feathers and the overlapping feathers of a long folded wing; the short tail points down. Two strong scaled legs end in separate natural toes and small claws. Translucent earthy washes and sparse curved engraving give the plumage its volume.</desc>
+<defs>
+ <linearGradient id="messidor25-body" x1="125" y1="132" x2="214" y2="265" gradientUnits="userSpaceOnUse"><stop stop-color="#99978a" stop-opacity=".84"/><stop offset=".36" stop-color="#77796f" stop-opacity=".92"/><stop offset="1" stop-color="#595c54" stop-opacity=".93"/></linearGradient>
+ <linearGradient id="messidor25-wing" x1="157" y1="149" x2="256" y2="232" gradientUnits="userSpaceOnUse"><stop stop-color="#85867a" stop-opacity=".87"/><stop offset=".55" stop-color="#6d7065" stop-opacity=".94"/><stop offset="1" stop-color="#53584f" stop-opacity=".96"/></linearGradient>
+ <linearGradient id="messidor25-neck" x1="102" y1="97" x2="128" y2="169" gradientUnits="userSpaceOnUse"><stop stop-color="#a3b3b0" stop-opacity=".89"/><stop offset=".42" stop-color="#8f9a94" stop-opacity=".92"/><stop offset="1" stop-color="#62685e" stop-opacity=".95"/></linearGradient>
+ <linearGradient id="messidor25-head" x1="83" y1="70" x2="103" y2="96" gradientUnits="userSpaceOnUse"><stop stop-color="#c3ceca" stop-opacity=".94"/><stop offset="1" stop-color="#96a9a6" stop-opacity=".94"/></linearGradient>
+ <linearGradient id="messidor25-horn" x1="96" y1="53" x2="100" y2="75" gradientUnits="userSpaceOnUse"><stop stop-color="#aa9475" stop-opacity=".91"/><stop offset="1" stop-color="#796c54" stop-opacity=".96"/></linearGradient>
+ <linearGradient id="messidor25-leg" x1="173" y1="259" x2="180" y2="319" gradientUnits="userSpaceOnUse"><stop stop-color="#a9a38b" stop-opacity=".96"/><stop offset="1" stop-color="#9b9076" stop-opacity=".94"/></linearGradient>
+ <g id="messidor25-pearl"><path d="M-1.2 -.5Q-.2 -1.6 .9 -.7Q1.6 .3 .7 1.1Q-.6 1.6 -1.3 .5Z" fill="#e4ddbd" fill-opacity=".9" stroke="#bab9a2" stroke-width=".22"/></g>
+ <g id="messidor25-breastfeather"><path d="M-6 -2Q-5 6 .2 7Q5.4 6.5 7 -1" stroke="#4e564c" stroke-width=".42" opacity=".43"/><path d="M-4.3 -.8Q-4 3.8 -.2 4.7" stroke="#abb09c" stroke-width=".39" opacity=".46"/><use href="#messidor25-pearl" transform="translate(-.1 -3.1) scale(.72 .83)"/><use href="#messidor25-pearl" transform="translate(-3.1 1) scale(.86 .91)"/><use href="#messidor25-pearl" transform="translate(2.8 2.1) scale(.9 .88)"/></g>
+ <g id="messidor25-covert"><path d="M0 0C7 -1 17 5 21 12C21 16 17 18 13 16C7 13 2 6 0 0Z" fill="#929183" fill-opacity=".2" stroke="#4f574c" stroke-width=".53"/><path d="M4 3Q9 11 17 14" stroke="#a5aa96" stroke-width=".43" opacity=".55"/><use href="#messidor25-pearl" transform="translate(6.4 4.6) rotate(-15) scale(.92 1.08)"/><use href="#messidor25-pearl" transform="translate(11.8 7.8) scale(1 .92)"/><use href="#messidor25-pearl" transform="translate(16.1 11.6) rotate(24) scale(.9 1.05)"/></g>
+</defs>
+<g stroke="#626354">
+<!-- The further leg and its distinct backward toe. -->
+<path d="M213 254C220 253 224 257 223 264L218 281L220 302L229 309L244 313Q249 315 244 317L227 313L232 320Q234 323 231 324L218 313L207 320Q203 322 202 319L213 309L202 311Q198 311 200 308L214 304L211 282L212 268Z" fill="#a09a81" fill-opacity=".95" stroke-width="1.04"/>
+<path d="M218 268L215 282L217 302M213 279L219 280M213 287L220 288M214 294L220 295M215 300L220 301M218 308L243 315M219 310L231 322M216 311L205 319M212 308L201 310" stroke-width=".55" opacity=".83"/>
+<path d="M244 315L248 318M231 323L234 326M203 320L199 323M200 310L197 312" stroke="#655f4e" stroke-width=".8"/>
+<!-- A very short folded tail slopes down from the rounded rump. -->
+<g fill="#606659" fill-opacity=".94" stroke-width=".9">
+<path d="M263 195C278 202 291 220 300 239C295 242 280 226 266 213Z"/>
+<path d="M268 202C281 213 295 233 298 247C292 247 277 231 266 215Z"/>
+<path d="M264 209C273 222 286 236 290 248C282 246 273 236 263 224Z"/>
+</g>
+<path d="M273 210Q288 226 297 239M271 216Q286 234 294 243M268 222L287 244" stroke="#b1b09a" stroke-width=".49" opacity=".8"/>
+<!-- The deep, high-backed body is broader behind the narrow neck. -->
+<path d="M117 134C137 127 155 122 177 123C208 122 238 132 258 151C279 170 288 192 285 212C283 235 266 252 243 261C217 271 182 273 153 265C125 257 104 242 96 220C88 201 93 181 101 162C108 149 111 141 117 134Z" fill="url(#messidor25-body)" stroke-width="1.45"/>
+<path d="M96 211C103 237 127 255 158 261C199 273 248 260 268 241C252 264 219 272 187 269C143 270 108 250 97 224Z" fill="#454e44" fill-opacity=".18" stroke="none"/>
+<path d="M122 139C145 128 178 124 201 129C173 130 149 139 134 153Z" fill="#d1cbb4" fill-opacity=".16" stroke="none"/>
+<!-- A slender bare neck carries the disproportionately small head. -->
+<path d="M88 88C91 89 96 88 101 85C105 96 101 108 105 119C110 130 120 138 134 146C130 155 120 164 111 165C106 153 103 144 98 136C91 124 90 114 91 104C91 98 89 93 88 88Z" fill="url(#messidor25-neck)" stroke-width="1.13"/>
+<path d="M99 96C97 107 99 120 106 130C111 139 119 147 125 149M94 106C93 116 97 127 101 133M102 132L109 140" stroke="#64776e" stroke-width=".52" opacity=".83"/>
+<path d="M95 101L97 99M96 108L99 106M97 115L100 113M99 121L102 119M102 127L105 125M108 135L110 132M111 141L114 138" stroke="#d0d3c1" stroke-width=".62" opacity=".69"/>
+<!-- Fine dark hackles start low on the throat, without a turkey's beard. -->
+<g stroke="#4b554c" stroke-width=".59" opacity=".86"><path d="M104 135L107 144M109 139L113 149M114 141L119 151M119 143L125 152M103 141L108 154M107 148L111 160M112 150L116 161M117 153L121 163M123 154L126 161M127 151L130 157"/></g>
+<!-- Unfeathered little head, horn casque, and restrained facial red. -->
+<path d="M81 82C80 76 84 70 91 68C98 66 106 70 107 76C108 82 105 88 101 93C96 98 89 95 85 91L83 87Z" fill="url(#messidor25-head)" stroke-width="1.06"/>
+<path d="M91 69C92 64 93 57 97 52C98 50 100 50 100 54C100 60 106 64 106 72C101 70 97 71 91 72Z" fill="url(#messidor25-horn)" stroke-width=".94"/>
+<path d="M97 55C96 62 99 66 100 69M94 66L95 70M102 65L104 70" stroke="#c0ae8b" stroke-width=".58" opacity=".76"/>
+<path d="M83 82C77 81 71 84 65 87C69 89 75 92 82 90L85 87Z" fill="#c6bda1" fill-opacity=".97" stroke-width=".93"/>
+<path d="M67 87L81 86M78 83L81 83" stroke="#8d856c" stroke-width=".52"/>
+<path d="M81 88C77 90 77 96 80 101C81 105 86 104 86 100C87 96 84 91 86 89Z" fill="#a66558" fill-opacity=".92" stroke-width=".74"/>
+<path d="M87 90C86 95 88 103 92 106C95 108 98 105 97 101C97 96 93 93 93 90Z" fill="#b07160" fill-opacity=".95" stroke-width=".79"/>
+<path d="M81 92Q80 98 83 101M90 94Q90 101 94 104" stroke="#d2957c" stroke-width=".51" opacity=".8"/>
+<path d="M84 79C87 76 92 76 95 78C95 81 91 83 88 82Z" fill="#dbd7bd" fill-opacity=".9" stroke-width=".53"/>
+<ellipse cx="89.7" cy="79.1" rx="1.64" ry="1.9" fill="#3e473e" stroke="#5e6656" stroke-width=".36"/>
+<circle cx="89.2" cy="78.5" r=".46" fill="#eee5cd" stroke="none"/>
+<path d="M85 74Q90 72 95 75M97 79L101 80M95 85L98 85M99 89L101 88M84 87L87 85M88 92L90 92M103 76L104 79" stroke="#7c928a" stroke-width=".48" opacity=".83"/>
+<!-- Sparse curved engraving turns over the shoulder and beneath the pearls. -->
+<g stroke="#555e52" stroke-width=".5" opacity=".72">
+<path d="M132 134Q141 140 145 146M148 129Q157 135 161 141M166 128Q176 133 180 139M186 129Q196 134 201 140M206 134Q217 139 221 146M227 142Q237 147 242 155M247 154Q257 162 260 171M263 173Q271 180 274 190M276 195L279 203M279 214Q276 224 272 229M270 238L263 245M253 253L245 258M229 264L220 267M207 269L197 270M174 269L166 267M149 263L141 260M123 251L117 246M108 237L103 231M98 217L97 210M98 194L100 185M103 174L107 167M112 156L116 150"/>
+</g>
+<use href="#messidor25-breastfeather" transform="translate(130 139.9) rotate(-25) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(144 141.0) rotate(-18) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(159 142.1) rotate(-10) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(175 139.9) rotate(0) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(192 141.0) rotate(8) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(208 142.1) rotate(15) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(224 139.9) rotate(24) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(123 150.9) rotate(-28) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(137 152.0) rotate(-22) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(152 153.1) rotate(-13) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(168 150.9) rotate(-4) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(185 152.0) rotate(5) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(202 153.1) rotate(13) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(220 150.9) rotate(23) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(238 152.0) rotate(30) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(115 163.9) rotate(-25) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(129 165.0) rotate(-20) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(144 166.1) rotate(-15) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(244 163.9) rotate(31) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(258 165.0) rotate(38) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(107 176.9) rotate(-20) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(122 178.0) rotate(-16) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(137 179.1) rotate(-11) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(263 176.9) rotate(35) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(103 190.9) rotate(-19) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(118 192.0) rotate(-14) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(133 193.1) rotate(-10) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(273 190.9) rotate(27) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(104 205.9) rotate(-18) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(119 207.0) rotate(-14) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(134 208.1) rotate(-9) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(275 205.9) rotate(27) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(110 220.9) rotate(-19) scale(0.91 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(125 222.0) rotate(-12) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(141 223.1) rotate(-8) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(271 220.9) rotate(26) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(120 234.9) rotate(-18) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(137 236.0) rotate(-9) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(153 237.1) rotate(-4) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(261 234.9) rotate(22) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(138 246.9) rotate(-12) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(155 248.0) rotate(-7) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(173 249.1) rotate(-1) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(191 246.9) rotate(4) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(210 248.0) rotate(8) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(229 249.1) rotate(13) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(247 246.9) rotate(19) scale(1 1)"/>
+<use href="#messidor25-breastfeather" transform="translate(156 257.9) rotate(-9) scale(0.91 0.77)"/>
+<use href="#messidor25-breastfeather" transform="translate(173 259.0) rotate(-3) scale(0.91 0.77)"/>
+<use href="#messidor25-breastfeather" transform="translate(191 260.1) rotate(2) scale(0.91 0.77)"/>
+<use href="#messidor25-breastfeather" transform="translate(209 257.9) rotate(7) scale(0.91 0.77)"/>
+<use href="#messidor25-breastfeather" transform="translate(227 259.0) rotate(13) scale(0.91 0.77)"/>
+<!-- The folded wing has layered rounded coverts above narrow flight feathers. -->
+<path d="M148 150C164 141 187 144 207 155C235 169 263 195 277 221C273 233 258 243 242 243C210 243 174 221 155 197C143 182 138 161 148 150Z" fill="url(#messidor25-wing)" stroke-width="1.09"/>
+<g fill="#62695d" fill-opacity=".73" stroke-width=".68">
+<path d="M164 168C192 171 249 205 273 228Q277 236 268 236C234 227 187 192 164 168Z"/>
+<path d="M160 165C186 166 242 196 266 220Q271 229 261 229C231 222 182 187 160 165Z"/>
+<path d="M155 162C180 161 232 187 258 211Q263 220 254 221C223 215 176 183 155 162Z"/>
+<path d="M151 158C175 157 221 177 247 201Q253 210 244 211C216 207 171 178 151 158Z"/>
+<path d="M148 155C170 151 210 168 234 190Q240 198 232 199C205 196 166 173 148 155Z"/>
+</g>
+<g stroke="#a9af9b" stroke-width=".45" opacity=".68"><path d="M171 173Q219 214 269 233M167 169Q218 207 262 225M161 165Q207 197 254 217M157 161Q203 187 243 207M154 157Q191 176 232 195"/></g>
+
+<g>
+<use href="#messidor25-pearl" transform="translate(183.85 180.91) rotate(31) scale(0.75 .93)"/>
+<use href="#messidor25-pearl" transform="translate(181.75 185.11) rotate(31) scale(0.75 .93)"/>
+<use href="#messidor25-pearl" transform="translate(195.71 186.29) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(193.61 190.49) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(207.58 191.95) rotate(31) scale(0.72 .93)"/>
+<use href="#messidor25-pearl" transform="translate(205.48 196.15) rotate(31) scale(0.72 .93)"/>
+<use href="#messidor25-pearl" transform="translate(219.45 198.05) rotate(31) scale(0.63 .93)"/>
+<use href="#messidor25-pearl" transform="translate(217.35 202.25) rotate(31) scale(0.63 .93)"/>
+<use href="#messidor25-pearl" transform="translate(231.31 204.66) rotate(31) scale(0.81 .93)"/>
+<use href="#messidor25-pearl" transform="translate(229.21 208.86) rotate(31) scale(0.81 .93)"/>
+<use href="#messidor25-pearl" transform="translate(243.18 211.77) rotate(31) scale(0.85 .93)"/>
+<use href="#messidor25-pearl" transform="translate(241.08 215.97) rotate(31) scale(0.85 .93)"/>
+<use href="#messidor25-pearl" transform="translate(255.05 219.28) rotate(31) scale(0.66 .93)"/>
+<use href="#messidor25-pearl" transform="translate(252.95 223.48) rotate(31) scale(0.66 .93)"/>
+<use href="#messidor25-pearl" transform="translate(180.17 175.23) rotate(31) scale(0.86 .93)"/>
+<use href="#messidor25-pearl" transform="translate(178.07 179.43) rotate(31) scale(0.86 .93)"/>
+<use href="#messidor25-pearl" transform="translate(191.34 180.15) rotate(31) scale(0.81 .93)"/>
+<use href="#messidor25-pearl" transform="translate(189.24 184.35) rotate(31) scale(0.81 .93)"/>
+<use href="#messidor25-pearl" transform="translate(202.52 185.36) rotate(31) scale(0.63 .93)"/>
+<use href="#messidor25-pearl" transform="translate(200.42 189.56) rotate(31) scale(0.63 .93)"/>
+<use href="#messidor25-pearl" transform="translate(213.69 191.00) rotate(31) scale(0.73 .93)"/>
+<use href="#messidor25-pearl" transform="translate(211.59 195.20) rotate(31) scale(0.73 .93)"/>
+<use href="#messidor25-pearl" transform="translate(224.86 197.16) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(222.76 201.36) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(236.04 203.82) rotate(31) scale(0.74 .93)"/>
+<use href="#messidor25-pearl" transform="translate(233.94 208.02) rotate(31) scale(0.74 .93)"/>
+<use href="#messidor25-pearl" transform="translate(247.21 210.88) rotate(31) scale(0.62 .93)"/>
+<use href="#messidor25-pearl" transform="translate(245.11 215.08) rotate(31) scale(0.62 .93)"/>
+<use href="#messidor25-pearl" transform="translate(176.49 169.55) rotate(31) scale(0.87 .93)"/>
+<use href="#messidor25-pearl" transform="translate(174.39 173.75) rotate(31) scale(0.87 .93)"/>
+<use href="#messidor25-pearl" transform="translate(186.97 174.02) rotate(31) scale(0.68 .93)"/>
+<use href="#messidor25-pearl" transform="translate(184.87 178.22) rotate(31) scale(0.68 .93)"/>
+<use href="#messidor25-pearl" transform="translate(197.45 178.77) rotate(31) scale(0.65 .93)"/>
+<use href="#messidor25-pearl" transform="translate(195.35 182.97) rotate(31) scale(0.65 .93)"/>
+<use href="#messidor25-pearl" transform="translate(207.93 183.96) rotate(31) scale(0.84 .93)"/>
+<use href="#messidor25-pearl" transform="translate(205.83 188.16) rotate(31) scale(0.84 .93)"/>
+<use href="#messidor25-pearl" transform="translate(218.41 189.67) rotate(31) scale(0.83 .93)"/>
+<use href="#messidor25-pearl" transform="translate(216.31 193.87) rotate(31) scale(0.83 .93)"/>
+<use href="#messidor25-pearl" transform="translate(228.89 195.87) rotate(31) scale(0.64 .93)"/>
+<use href="#messidor25-pearl" transform="translate(226.79 200.07) rotate(31) scale(0.64 .93)"/>
+<use href="#messidor25-pearl" transform="translate(239.37 202.48) rotate(31) scale(0.70 .93)"/>
+<use href="#messidor25-pearl" transform="translate(237.27 206.68) rotate(31) scale(0.70 .93)"/>
+<use href="#messidor25-pearl" transform="translate(172.81 163.87) rotate(31) scale(0.77 .93)"/>
+<use href="#messidor25-pearl" transform="translate(170.71 168.07) rotate(31) scale(0.77 .93)"/>
+<use href="#messidor25-pearl" transform="translate(182.60 167.88) rotate(31) scale(0.62 .93)"/>
+<use href="#messidor25-pearl" transform="translate(180.50 172.08) rotate(31) scale(0.62 .93)"/>
+<use href="#messidor25-pearl" transform="translate(192.39 172.18) rotate(31) scale(0.77 .93)"/>
+<use href="#messidor25-pearl" transform="translate(190.29 176.38) rotate(31) scale(0.77 .93)"/>
+<use href="#messidor25-pearl" transform="translate(202.17 176.92) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(200.07 181.12) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(211.96 182.17) rotate(31) scale(0.70 .93)"/>
+<use href="#messidor25-pearl" transform="translate(209.86 186.37) rotate(31) scale(0.70 .93)"/>
+<use href="#messidor25-pearl" transform="translate(221.75 187.92) rotate(31) scale(0.64 .93)"/>
+<use href="#messidor25-pearl" transform="translate(219.65 192.12) rotate(31) scale(0.64 .93)"/>
+<use href="#messidor25-pearl" transform="translate(231.53 194.08) rotate(31) scale(0.83 .93)"/>
+<use href="#messidor25-pearl" transform="translate(229.43 198.28) rotate(31) scale(0.83 .93)"/>
+<use href="#messidor25-pearl" transform="translate(169.14 158.19) rotate(31) scale(0.65 .93)"/>
+<use href="#messidor25-pearl" transform="translate(167.04 162.39) rotate(31) scale(0.65 .93)"/>
+<use href="#messidor25-pearl" transform="translate(178.23 161.75) rotate(31) scale(0.68 .93)"/>
+<use href="#messidor25-pearl" transform="translate(176.13 165.95) rotate(31) scale(0.68 .93)"/>
+<use href="#messidor25-pearl" transform="translate(187.32 165.60) rotate(31) scale(0.87 .93)"/>
+<use href="#messidor25-pearl" transform="translate(185.22 169.80) rotate(31) scale(0.87 .93)"/>
+<use href="#messidor25-pearl" transform="translate(196.42 169.88) rotate(31) scale(0.79 .93)"/>
+<use href="#messidor25-pearl" transform="translate(194.32 174.08) rotate(31) scale(0.79 .93)"/>
+<use href="#messidor25-pearl" transform="translate(205.51 174.68) rotate(31) scale(0.62 .93)"/>
+<use href="#messidor25-pearl" transform="translate(203.41 178.88) rotate(31) scale(0.62 .93)"/>
+<use href="#messidor25-pearl" transform="translate(214.60 179.98) rotate(31) scale(0.74 .93)"/>
+<use href="#messidor25-pearl" transform="translate(212.50 184.18) rotate(31) scale(0.74 .93)"/>
+<use href="#messidor25-pearl" transform="translate(223.70 185.67) rotate(31) scale(0.88 .93)"/>
+<use href="#messidor25-pearl" transform="translate(221.60 189.87) rotate(31) scale(0.88 .93)"/>
+</g>
+<use href="#messidor25-covert" transform="translate(148 150.0) rotate(-15) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(164 150.8) rotate(-12) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(180 150.0) rotate(-6) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(196 150.8) rotate(0) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(211 150.0) rotate(8) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(146 162.0) rotate(-9) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(162 162.8) rotate(-6) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(179 162.0) rotate(0) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(196 162.8) rotate(7) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(213 162.0) rotate(12) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(230 162.8) rotate(18) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(151 176.0) rotate(-5) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(168 176.8) rotate(0) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(185 176.0) rotate(6) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(202 176.8) rotate(12) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(219 176.0) rotate(18) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(235 176.8) rotate(24) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(160 190.0) rotate(1) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(177 190.8) rotate(7) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(194 190.0) rotate(13) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(211 190.8) rotate(20) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(174 204.0) rotate(8) scale(.91 .91)"/>
+<use href="#messidor25-covert" transform="translate(191 204.8) rotate(14) scale(.91 .91)"/>
+<!-- Soft flank margins and separate short shaft marks prevent a flat pattern. -->
+<g stroke="#4f594e" stroke-width=".48" opacity=".72"><path d="M115 172L112 178M109 186L107 192M109 203L110 209M117 220L120 226M129 237L134 241M149 251L156 253M175 258L182 259M200 260L207 260M226 255L233 253M247 246L254 243M266 231L270 227M263 208L267 212M250 183L253 189M237 168L241 173M220 154L224 159"/></g>
+<g stroke="#c0c3aa" stroke-width=".57" opacity=".65"><path d="M106 177L104 183M100 202L101 208M109 230L113 236M129 248L135 251M158 264L165 265M189 267L197 267M225 262L231 260M259 248L264 244M279 217L278 222M276 192L278 198M261 164L265 171M236 142L242 146M209 130L215 132M174 125L182 125"/></g>
+<!-- The near thigh ends in a strong hock and scaled grey-ochre shank. -->
+<path d="M159 261C164 264 175 266 182 266C183 273 179 281 175 287L177 306L184 311L201 315Q206 316 203 319L182 316L187 324Q189 327 186 328L175 317L159 326Q155 329 154 325L168 313L153 315Q149 316 149 313L169 307L168 289L166 279Z" fill="url(#messidor25-leg)" stroke-width="1.05"/>
+<path d="M159 261L162 270L166 269L169 277L173 273L176 279L180 274L182 266" fill="#707666" fill-opacity=".94" stroke-width=".56"/>
+<g stroke="#766f59" stroke-width=".57"><path d="M173 283L172 290L174 306M168 287L175 288M168 294L176 295M169 301L176 302M171 307L178 308M174 312L201 317M174 313L186 326M173 313L157 325M168 311L151 314M161 319L164 321M158 322L161 324M181 319L184 317M184 323L186 321M186 314L185 317M194 316L193 318M156 312L156 314"/></g>
+<path d="M202 317Q206 318 208 320M186 327L189 330M155 326L152 329M150 314L146 317" stroke="#635f4e" stroke-width=".78"/>
+<path d="M171 285L170 291M172 298L173 305M181 313L199 316M159 324L169 316" stroke="#d2c8a8" stroke-width=".6" opacity=".86"/>
+</g>
+</svg>

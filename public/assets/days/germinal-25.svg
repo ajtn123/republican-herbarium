@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="germinal25-title germinal25-desc">
+  <title id="germinal25-title">Germinal 25 — Pigeon</title>
+  <desc id="germinal25-desc">A domestic rock pigeon in left profile, with a small slate head, short bill and pale cere, rounded breast, and a faint sage and dusty rose sheen on the neck. Overlapping grey wing feathers carry two distinct charcoal bars. A slate tail has a dark terminal band. Two red-umber scaled legs end in separate jointed toes and small claws. Fine curved engraving marks follow the plumage beneath translucent grey watercolor washes.</desc>
+  <defs>
+    <linearGradient id="germinal25-body" x1="117" y1="123" x2="198" y2="266" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#889291" stop-opacity=".88"/>
+      <stop offset=".5" stop-color="#a1a6a0" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#b9bbb0" stop-opacity=".87"/>
+    </linearGradient>
+    <linearGradient id="germinal25-head" x1="85" y1="88" x2="127" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9aa3a0" stop-opacity=".94"/>
+      <stop offset=".55" stop-color="#7c8987" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#778681" stop-opacity=".83"/>
+    </linearGradient>
+    <linearGradient id="germinal25-sheen" x1="92" y1="143" x2="139" y2="165" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#687d70" stop-opacity=".78"/>
+      <stop offset=".47" stop-color="#7e9280" stop-opacity=".65"/>
+      <stop offset=".8" stop-color="#a68d96" stop-opacity=".56"/>
+      <stop offset="1" stop-color="#8b858e" stop-opacity=".27"/>
+    </linearGradient>
+    <linearGradient id="germinal25-wing" x1="157" y1="158" x2="241" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c3c5bb" stop-opacity=".91"/>
+      <stop offset=".6" stop-color="#b0b5af" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#939e9b" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="germinal25-tail" x1="258" y1="213" x2="298" y2="259" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8c9997" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#707f80" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="germinal25-foot" x1="173" y1="259" x2="173" y2="307" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a98377" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#a36d5f" stop-opacity=".94"/>
+    </linearGradient>
+    <clipPath id="germinal25-tail-clip"><path d="M237 198C259 211 286 230 315 252L308 259L302 258L296 264L290 262L283 267C266 250 247 239 227 231Z"/></clipPath>
+  </defs>
+  <g stroke="#686b61">
+    <!-- The far tarsus carries the weight behind the near leg. -->
+    <path d="M206 253C211 253 215 255 216 259L213 274L212 287L218 295L233 299C236 300 236 302 232 302L215 299L220 307C221 310 218 311 216 308L208 299L194 305C191 306 190 304 193 302L204 295L205 280L204 265Z" fill="#a18473" fill-opacity=".84" stroke-width="1.05"/>
+    <g stroke="#866655" stroke-width=".58">
+      <path d="M210 268L208 287L209 296M206 276L212 277M206 282L212 283M206 288L212 289M208 293L213 294M211 297L232 300M209 297L218 308M207 297L193 304"/>
+      <path d="M219 298L218 300M224 299L223 301M213 301L216 301M199 299L201 302"/>
+    </g>
+    <path d="M233 300Q237 300 239 303M219 308L222 312M193 304L189 307" stroke="#5c5d50" stroke-width=".85"/>
+    <!-- Broad, closed rectrices extend behind the wing, with a terminal slate band. -->
+    <path d="M237 198C259 211 286 230 315 252L308 259L302 258L296 264L290 262L283 267C266 250 247 239 227 231Z" fill="url(#germinal25-tail)" stroke-width="1.25"/>
+    <g clip-path="url(#germinal25-tail-clip)">
+      <path d="M287 231C293 241 299 249 305 258L293 271C286 258 277 250 271 245Z" fill="#526567" fill-opacity=".92" stroke="none"/>
+      <path d="M243 208C261 223 281 239 307 255M238 218C258 232 277 248 295 261M234 228C252 239 269 252 283 266" stroke-width=".7"/>
+      <path d="M259 220L263 229M269 227L273 237M278 235L281 243M249 229L251 236M261 237L264 246M272 246L275 255M282 255L285 263" stroke-width=".43" opacity=".6"/>
+      <path d="M246 209L291 244M239 221L281 253" stroke="#c4c9bc" stroke-width=".65" opacity=".75"/>
+    </g>
+    <!-- Full breast and short, muscular neck form the familiar pigeon silhouette. -->
+    <path d="M81 109C79 95 88 81 102 80C117 78 128 89 129 102C130 113 122 121 126 132C131 145 146 149 165 151C199 150 228 159 247 179C261 194 269 214 262 232C254 252 222 263 191 264C151 266 119 254 100 234C82 215 80 194 88 172C94 155 101 144 99 132C98 123 89 120 82 118Z" fill="url(#germinal25-body)" stroke-width="1.55"/>
+    <path d="M81 109C79 95 88 81 102 80C117 78 128 89 129 102C130 113 122 121 126 132C130 142 139 147 150 151C143 161 127 170 110 172C100 165 96 155 99 144C103 129 95 121 82 118Z" fill="url(#germinal25-head)" stroke="none"/>
+    <path d="M100 129C112 136 117 133 125 129C128 143 136 147 149 152C144 163 132 176 119 180C106 176 98 168 94 159C98 148 101 138 100 129Z" fill="url(#germinal25-sheen)" stroke="none"/>
+    <path d="M94 166C101 172 109 177 118 181C123 183 124 187 122 193C109 188 98 181 90 176Z" fill="#a18d94" fill-opacity=".25" stroke="none"/>
+    <path d="M88 193C84 211 97 232 116 243C136 255 164 262 190 259C153 258 126 247 112 229C101 215 101 204 101 197Z" fill="#c8c9bc" fill-opacity=".38" stroke="none"/>
+    <!-- Short, slightly tapered bill; the pale cere sits above the nostril. -->
+    <path d="M84 106C79 107 69 112 62 117C66 121 76 121 84 117L89 112Z" fill="#7b8077" fill-opacity=".96" stroke-width="1.05"/>
+    <path d="M62 117Q70 118 83 114M64 117L67 116" stroke="#535f59" stroke-width=".65"/>
+    <path d="M77 109C80 105 85 103 88 106L89 111L83 114L77 113Z" fill="#d5d4c4" stroke-width=".65"/>
+    <path d="M79 109Q82 106 85 108M81 111L84 110" stroke="#8d9386" stroke-width=".55"/>
+    <path d="M89 97C91 92 98 91 102 94C104 98 101 102 97 103C92 103 90 101 89 97Z" fill="#b2b4a5" fill-opacity=".65" stroke-width=".55"/>
+    <circle cx="96.5" cy="97.4" r="3.25" fill="#b19b72" stroke="#787967" stroke-width=".6"/>
+    <circle cx="96.6" cy="97.4" r="1.65" fill="#3e4b48" stroke="none"/>
+    <circle cx="96" cy="96.8" r=".48" fill="#ebe7d5" stroke="none"/>
+    <path d="M88 94C92 90 98 90 103 93M91 105L97 106M108 99C113 103 115 110 111 115M87 117C92 118 97 119 101 123M105 85C112 86 118 91 120 96" stroke-width=".59" opacity=".7"/>
+    <!-- The folded wing contains long remiges beneath rows of broad coverts. -->
+    <path d="M139 158C155 149 183 151 207 162C233 174 255 197 270 231C253 241 227 240 202 229C177 218 154 201 141 181C136 173 135 164 139 158Z" fill="url(#germinal25-wing)" stroke-width="1.2"/>
+    <g fill="#8b9997" fill-opacity=".68" stroke-width=".7">
+      <path d="M168 176C198 183 240 209 270 231C270 236 262 238 257 236C224 218 187 194 168 176Z"/>
+      <path d="M162 173C191 177 230 199 263 224C265 229 261 231 255 230C221 212 182 190 162 173Z"/>
+      <path d="M155 170C180 171 218 190 253 215C256 220 253 223 247 221C213 206 176 186 155 170Z"/>
+      <path d="M148 167C172 166 205 181 239 205C242 210 239 214 233 211C201 198 169 181 148 167Z"/>
+    </g>
+    <g stroke-width=".52" opacity=".74">
+      <path d="M173 180C202 194 233 219 265 233M166 177C196 189 227 212 258 227M159 173C185 182 218 203 250 219M152 169C180 177 209 194 236 208"/>
+      <path d="M247 221L245 226M255 227L253 231M235 211L233 216M242 216L240 221M222 202L220 207M231 207L229 212M210 194L208 199M217 198L215 203" opacity=".7"/>
+    </g>
+    <path d="M140 159C158 152 180 155 198 164C214 173 225 183 230 194C211 198 188 189 170 181C154 174 143 168 140 159Z" fill="#bdc1b7" fill-opacity=".87" stroke-width=".75"/>
+    <g fill="#b7bdb3" fill-opacity=".86" stroke-width=".55">
+      <path d="M142 160C150 157 159 158 167 164C166 169 160 171 154 168C148 168 144 165 142 160Z"/>
+      <path d="M159 162C168 160 179 164 185 170C183 176 178 177 171 174C164 173 161 168 159 162Z"/>
+      <path d="M178 169C189 167 200 174 207 182C203 187 198 186 191 182C184 180 181 176 178 169Z"/>
+      <path d="M148 171C159 168 171 176 177 182C175 188 168 188 162 183C155 181 151 177 148 171Z"/>
+      <path d="M168 180C177 178 191 186 196 192C192 197 186 196 180 192C174 190 170 186 168 180Z"/>
+      <path d="M190 189C200 188 212 197 218 204C214 208 207 205 201 201C195 198 192 194 190 189Z"/>
+    </g>
+    <!-- Two separate dark wing bars arc across the median and greater coverts. -->
+    <path d="M182 162C187 164 192 166 197 169C198 180 206 191 220 201L215 207C199 196 189 182 186 173L179 168Z" fill="#596966" fill-opacity=".88" stroke-width=".64"/>
+    <path d="M205 173C211 176 216 181 220 185C222 197 234 211 244 219L238 224C226 215 214 201 212 192L200 180Z" fill="#526461" fill-opacity=".89" stroke-width=".65"/>
+    <g stroke="#9caaa0" stroke-width=".5" opacity=".72">
+      <path d="M184 170L189 172M187 177L193 178M190 183L196 183M194 189L201 188M201 196L207 195M208 202L214 201M208 183L214 184M213 191L219 190M217 198L224 197M222 205L230 204M228 211L236 210M235 218L241 216"/>
+    </g>
+    <!-- Fine, direction-following contour strokes remain sparse on the breast. -->
+    <g stroke-width=".55" opacity=".64">
+      <path d="M89 87L94 85M112 89L117 93M121 100L122 106M119 112L117 116M105 116L108 120M104 126L109 129M104 135L110 139M102 145L108 149M100 154L106 158M97 163L104 167M94 174L101 179M91 185L98 190M92 197L98 202M96 210L103 215M103 223L110 228"/>
+      <path d="M116 134L119 139M115 144L119 149M115 155L119 160M112 164L117 168M126 145L130 149M126 155L131 159M124 165L128 169M119 174L124 178M127 181L132 185"/>
+      <path d="M112 236C117 240 122 242 127 244M133 248C139 251 145 253 151 254M158 256C165 258 171 259 177 259M185 259L193 259M202 258L211 256M219 254L227 250M234 248L241 243"/>
+      <path d="M109 202C111 208 115 213 119 216M118 224C122 229 126 232 132 235M130 214L135 220M139 228L145 232M150 238L157 241M166 245L174 247M184 249L191 249" opacity=".72"/>
+      <path d="M145 155L152 154M162 153L169 155M176 155L184 158M198 159L204 162M219 168L225 173M239 183L243 188M253 199L256 205M257 215L258 221"/>
+      <path d="M146 161L154 165M160 166L168 170M178 174L186 180M155 177L162 181M174 184L180 189M194 194L200 200M150 190L155 196M160 201L166 206M172 211L180 216M188 222L196 226"/>
+    </g>
+    <g stroke="#dce0ce" stroke-width=".74" opacity=".68">
+      <path d="M88 94C90 87 97 84 103 84M91 181C86 195 91 212 99 221M113 239C126 249 142 254 154 255M138 161C144 156 153 155 161 156M151 174L160 178M174 164L179 167M218 190L221 194M247 224L255 229"/>
+    </g>
+    <!-- Near leg: feathered thigh, slim scaly tarsus, three forward toes and hind toe. -->
+    <path d="M163 256C168 258 176 260 181 260L179 272L174 280L174 295L179 300L196 303C199 304 199 306 195 306L178 304L181 313C182 316 179 317 177 313L171 304L154 313C151 315 149 312 152 310L165 300L150 303C147 304 146 301 150 300L166 296L167 281L166 271Z" fill="url(#germinal25-foot)" stroke-width="1.1"/>
+    <path d="M163 256L166 264L170 263L172 267L176 264L178 267L181 260" fill="#aeb6ab" fill-opacity=".91" stroke-width=".62"/>
+    <g stroke="#866352" stroke-width=".58">
+      <path d="M173 274L170 283L170 297M168 280L174 281M168 285L174 286M168 290L174 291M168 295L174 296M171 301L178 313M170 301L153 312M172 302L195 304M166 299L150 302"/>
+      <path d="M159 306L161 309M155 309L157 312M173 306L177 306M175 310L180 310M181 303L180 305M187 303L186 305M155 300L156 302"/>
+    </g>
+    <path d="M197 305L201 308M179 315L182 319M152 312L148 316M149 302L145 304" stroke="#585e50" stroke-width=".82"/>
+    <path d="M170 281L169 293M174 301L192 304M156 311L169 302" stroke="#d0aa8d" stroke-width=".66" opacity=".8"/>
+  </g>
+</svg>

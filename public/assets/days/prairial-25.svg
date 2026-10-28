@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="prairial-25-title prairial-25-desc">
+  <title id="prairial-25-title">Tanche — Tinca tinca</title>
+  <desc id="prairial-25-desc">A European tench faces right, its stout, almost cylindrical body washed in dark olive, sage and bronze. Minute embedded scales scarcely interrupt the smooth flanks. A small red-brown eye, fleshy little terminal mouth with one tiny barbel at either corner, single short-based rounded dorsal fin, rounded paired and anal fins, and broad shallowly notched tail identify this freshwater fish.</desc>
+  <defs>
+    <linearGradient id="prairial-25-body" x1="204" y1="127" x2="193" y2="245" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#667159" stop-opacity=".89"/>
+      <stop offset=".25" stop-color="#7b8260" stop-opacity=".84"/>
+      <stop offset=".56" stop-color="#98946a" stop-opacity=".8"/>
+      <stop offset=".81" stop-color="#b4a77b" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#a69671" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="prairial-25-head" x1="271" y1="149" x2="282" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7d8263" stop-opacity=".38"/>
+      <stop offset=".58" stop-color="#b9ae84" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#ac9d75" stop-opacity=".48"/>
+    </linearGradient>
+    <linearGradient id="prairial-25-fin" x1="184" y1="101" x2="191" y2="264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#858769" stop-opacity=".78"/>
+      <stop offset=".44" stop-color="#777b5e" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#9d9472" stop-opacity=".84"/>
+    </linearGradient>
+    <linearGradient id="prairial-25-tail" x1="42" y1="184" x2="100" y2="183" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8c8b6b" stop-opacity=".74"/>
+      <stop offset=".58" stop-color="#727a5d" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#858668" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="prairial-25-pectoral" x1="259" y1="204" x2="223" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#697255" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#a59a73" stop-opacity=".82"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#62634e">
+    <!-- One soft, rounded dorsal, with a short base on the middle of the back. -->
+    <path d="M148 145C155 130 164 114 177 105C187 98 198 97 205 101C212 106 215 117 216 130C198 130 170 136 148 145Z" fill="url(#prairial-25-fin)" stroke-width="1.2"/>
+    <path d="M153 141C162 124 171 113 178 107M160 139C169 121 180 107 186 103M168 137C177 120 189 105 194 102M176 135C187 118 198 107 201 103M184 133C197 118 204 110 205 106M193 132C205 120 210 115 209 111M203 131L213 121" stroke-width=".69" opacity=".76"/>
+    <path d="M163 128L169 120M174 121L180 113M185 115L192 108M197 115L203 109M206 122L211 117" stroke="#c2b995" stroke-width=".65" opacity=".58"/>
+    <!-- The farther pelvic is visible behind the belly as a small rounded lobe. -->
+    <path d="M191 235C192 245 185 256 177 258C171 258 169 251 173 244L177 235Z" fill="#8c8b6b" fill-opacity=".78" stroke-width=".95"/>
+    <path d="M185 239Q182 250 176 255M179 240L174 251" stroke-width=".57" opacity=".66"/>
+    <!-- The short anal fin is posterior to the pelvic pair and has no sharp point. -->
+    <path d="M130 216C123 222 115 233 115 241C115 249 124 253 133 250C144 247 153 240 160 233Z" fill="url(#prairial-25-fin)" stroke-width="1.15"/>
+    <path d="M134 221Q120 237 119 243M139 225Q126 241 125 248M145 228Q133 244 130 249M151 231L137 246M156 233L144 242" stroke-width=".65" opacity=".78"/>
+    <!-- A broad caudal fan, with rounded lobes and only a shallow central indentation. -->
+    <path d="M99 169C83 163 69 150 51 144C43 141 37 144 39 153C41 164 46 176 49 184C44 195 40 207 39 219C39 226 44 229 51 226C68 220 84 204 100 196C102 188 102 178 99 169Z" fill="url(#prairial-25-tail)" stroke-width="1.3"/>
+    <path d="M97 175C81 167 60 153 43 147M97 178C80 171 60 158 41 153M97 181C79 176 59 166 44 164M97 184C80 182 64 178 48 177M97 187C80 190 62 195 46 199M97 190C81 196 60 211 41 219M98 193C81 201 62 218 47 224M91 188C78 194 58 203 43 210" stroke-width=".67" opacity=".75"/>
+    <path d="M46 151L59 157M51 168L65 173M54 183L69 185M51 200L64 197M48 218L62 211M75 164L82 169M75 205L83 200" stroke="#ccc2a0" stroke-width=".65" opacity=".6"/>
+    <!-- The full shoulder and rounded abdomen taper to a thick, unkeeled tail stalk. -->
+    <path d="M94 171C117 160 137 144 164 136C189 128 211 124 233 128C253 131 270 142 281 155C289 163 294 172 302 177C308 178 311 181 308 185C312 188 308 193 301 193C291 210 271 225 245 234C218 244 189 244 160 235C137 228 120 211 100 197L92 194C94 186 94 178 94 171Z" fill="url(#prairial-25-body)" stroke-width="1.5"/>
+    <path d="M106 166C128 154 143 144 166 138C190 130 212 128 232 131C249 134 264 143 274 153C247 142 220 139 195 143C160 147 138 161 108 175Z" fill="#596b50" fill-opacity=".17" stroke="none"/>
+    <path d="M111 192C140 199 160 204 190 205C221 206 243 201 261 191C252 211 225 222 195 224C166 224 138 211 111 198Z" fill="#c8bb8c" fill-opacity=".17" stroke="none"/>
+    <path d="M256 142C273 149 285 165 292 174L304 179L307 185L302 191C291 209 273 222 247 232C258 216 266 202 266 184C266 168 261 154 256 142Z" fill="url(#prairial-25-head)" stroke="none"/>
+    <!-- A fine lateral line follows the convex flank, clear of the minute scale marks. -->
+    <path d="M101 184C134 178 164 176 193 177C216 178 240 180 258 182" stroke="#6a7253" stroke-width=".72" opacity=".56"/>
+    <path d="M111 182C137 176 161 174 185 175M200 176C219 177 238 178 252 181" stroke="#d0c39a" stroke-width=".65" opacity=".47"/>
+    <!-- The small eye has a subdued reddish iris beneath a low brow. -->
+    <path d="M268 166C268 162 272 159 276 161C280 162 281 167 278 170C274 174 269 172 268 166Z" fill="#b1a47c" fill-opacity=".67" stroke-width=".7"/>
+    <circle cx="274.7" cy="166.2" r="3.3" fill="#975f45" fill-opacity=".94" stroke="#6c5b43" stroke-width=".65"/>
+    <circle cx="275" cy="166.2" r="1.65" fill="#474a38" stroke="none"/>
+    <circle cx="275.6" cy="165.3" r=".55" fill="#e2d6b4" stroke="none"/>
+    <path d="M269 159C272 157 276 158 279 160M270 173C273 175 276 174 279 172M285 172L287 173" stroke-width=".55" opacity=".7"/>
+    <!-- Fleshy lips form a small terminal mouth; a single minute barbel at each corner. -->
+    <path d="M300 178C304 179 308 180 308 183C307 185 304 185 300 184M301 186C304 188 308 187 309 186M301 190C304 191 306 191 308 190" stroke-width=".82"/>
+    <path d="M305 183L309 184M297 180L299 181" stroke="#514f3d" stroke-width=".68"/>
+    <path d="M300 185C300 188 299 191 296 192" stroke="#6d644b" stroke-width=".8"/>
+    <path d="M306 182C308 181 311 182 312 184" stroke="#797056" stroke-width=".62"/>
+    <path d="M291 194C287 199 282 203 278 204M283 181C286 184 290 186 293 186M286 189L291 190" stroke-width=".64" opacity=".62"/>
+    <!-- The operculum curves over a deep cheek, with short hatching in its shaded rear. -->
+    <path d="M254 141C263 153 268 168 267 183C266 205 257 222 245 233" stroke-width="1.05" opacity=".88"/>
+    <path d="M250 142C258 156 263 171 263 185C262 202 255 217 247 226" stroke-width=".63" opacity=".66"/>
+    <path d="M258 169C253 174 253 183 257 189M261 193C270 193 276 190 279 184M258 207C265 207 270 204 273 201M263 147L269 153" stroke-width=".64" opacity=".65"/>
+    <path d="M253 157L257 165M255 168L257 174M256 181L257 187M256 194L254 201M252 207L249 214M247 219L243 225" stroke-width=".57" opacity=".57"/>
+    <!-- Pectoral fin: a soft rounded paddle rooted immediately behind the gill cover. -->
+    <path d="M259 202C253 206 244 211 235 216C225 222 219 229 222 235C225 241 234 238 242 232C252 225 259 215 261 207C262 204 261 202 259 202Z" fill="url(#prairial-25-pectoral)" stroke-width="1.1"/>
+    <path d="M258 205C248 214 233 225 224 233M259 208C249 219 236 231 227 236M255 214C249 224 242 231 234 235M254 206C244 213 232 219 227 225M248 211L236 220" stroke-width=".64" opacity=".78"/>
+    <path d="M240 222L229 232M247 221L237 232" stroke="#c4b794" stroke-width=".55" opacity=".57"/>
+    <!-- The near pelvic fin rounds out below the abdomen without a pointed tip. -->
+    <path d="M212 239C217 240 225 238 229 236C227 246 219 260 210 265C204 268 197 265 198 259C199 252 205 244 212 239Z" fill="url(#prairial-25-fin)" stroke-width="1.1"/>
+    <path d="M217 241C210 247 202 257 201 262M221 240C218 249 209 261 205 264M225 240C222 248 216 256 212 261M212 243L204 254" stroke-width=".64" opacity=".78"/>
+    <!-- Fine embedded scales appear only as scattered, very short curved strokes. -->
+    <g stroke="#687153" stroke-width=".48" opacity=".48">
+      <path d="M128 165q-2 2 0 4M141 159q-2 2 0 4M155 153q-2 2 0 4M170 149q-2 2 0 4M186 145q-2 2 0 4M203 143q-2 2 0 4M220 143q-2 2 0 4M236 146q-2 2 0 4"/>
+      <path d="M122 178q-2 2 0 4M136 173q-2 2 0 4M151 168q-2 2 0 4M166 165q-2 2 0 4M182 162q-2 2 0 4M199 160q-2 2 0 4M217 160q-2 2 0 4M234 163q-2 2 0 4M248 168q-2 2 0 4" opacity=".74"/>
+      <path d="M133 190q-2 2 0 4M149 187q-2 2 0 4M166 186q-2 2 0 4M184 187q-2 2 0 4M202 187q-2 2 0 4M219 187q-2 2 0 4M236 188q-2 2 0 4" opacity=".64"/>
+      <path d="M145 205q-2 2 0 4M160 205q-2 2 0 4M176 205q-2 2 0 4M193 206q-2 2 0 4M211 205q-2 2 0 4M227 202q-2 2 0 4M244 198q-2 2 0 4" opacity=".64"/>
+      <path d="M160 219q-2 2 0 4M176 221q-2 2 0 4M193 222q-2 2 0 4M211 221q-2 2 0 4" opacity=".7"/>
+    </g>
+    <!-- Unequal curved engraving marks model the dark back and the lower contour. -->
+    <g stroke="#667052" stroke-width=".55" opacity=".58">
+      <path d="M112 166Q120 163 124 158M124 159Q130 155 134 151M137 152Q144 147 148 144M151 145Q157 141 163 139M167 139Q174 135 180 134M184 135Q190 131 197 131M202 132Q208 129 215 129M221 130Q228 130 233 133M237 134Q243 136 246 140"/>
+      <path d="M110 196Q117 202 121 208M121 202Q126 211 132 215M131 209Q137 217 143 220M143 216Q149 224 155 226M156 221Q162 229 169 232M170 225Q176 232 183 235M185 228Q191 235 198 237M201 230Q207 236 215 236M218 228Q225 233 231 232M233 224Q239 228 244 227"/>
+      <path d="M108 177L103 180M110 190L103 188M120 188L116 192M139 179L135 181M156 176L152 178M174 174L170 176M192 174L188 176M213 176L209 178M233 177L229 179" opacity=".5"/>
+      <path d="M243 152Q247 157 248 162M238 211Q235 216 230 218M146 198Q141 195 138 191M167 214Q163 212 161 208M188 215Q183 213 181 210M208 216Q203 215 200 212" opacity=".58"/>
+    </g>
+    <g stroke="#d7ccaa" stroke-width=".68" opacity=".6">
+      <path d="M146 145C163 138 177 134 191 132M205 131C219 129 233 132 244 137M159 230C171 234 181 237 193 238M200 239C214 239 227 237 238 234M275 151L282 160M284 205L276 211"/>
+      <path d="M140 199L147 202M159 204L165 206M180 209L186 210M202 209L208 209M222 206L228 204M238 195L244 193M251 176L254 183M98 180L105 178M99 191L105 193" opacity=".66"/>
+    </g>
+  </g>
+</svg>

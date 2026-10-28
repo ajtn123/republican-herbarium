@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fructidor25-title fructidor25-desc">
+<title id="fructidor25-title">Écrevisse — Astacus astacus</title>
+<desc id="fructidor25-desc">A living European freshwater crayfish in a slightly diagonal dorsal view. An olive and umber cephalothorax bears a toothed rostrum, two small stalked eyes, two long antennae and short forked antennules. Its first pair of walking limbs ends in large, unequal articulated pincers; four further pairs of slender jointed walking legs spread from beneath the carapace. Six overlapping abdominal segments taper to a broad tail fan with a central telson and paired, two-part uropods. Fine warm-grey contours, curved shell hatching and translucent muted washes form a natural-history engraving on a transparent field.</desc>
+<defs>
+ <linearGradient id="fructidor25-shell" x1="-28" y1="-58" x2="32" y2="15" gradientUnits="userSpaceOnUse"><stop stop-color="#b2ad86" stop-opacity=".86"/><stop offset=".36" stop-color="#91956d" stop-opacity=".93"/><stop offset=".74" stop-color="#777c59" stop-opacity=".96"/><stop offset="1" stop-color="#665f46" stop-opacity=".96"/></linearGradient>
+ <linearGradient id="fructidor25-abdomen" x1="-23" y1="43" x2="27" y2="87" gradientUnits="userSpaceOnUse"><stop stop-color="#aaa780" stop-opacity=".9"/><stop offset=".46" stop-color="#8e916a" stop-opacity=".94"/><stop offset="1" stop-color="#6b6c4e" stop-opacity=".98"/></linearGradient>
+ <linearGradient id="fructidor25-limb" x1="-85" y1="-75" x2="90" y2="32" gradientUnits="userSpaceOnUse"><stop stop-color="#aaa07c" stop-opacity=".92"/><stop offset=".4" stop-color="#8d8964" stop-opacity=".95"/><stop offset="1" stop-color="#776d50" stop-opacity=".96"/></linearGradient>
+ <linearGradient id="fructidor25-claw-left" x1="-101" y1="-115" x2="-61" y2="-69" gradientUnits="userSpaceOnUse"><stop stop-color="#b4ab84" stop-opacity=".88"/><stop offset=".46" stop-color="#90966b" stop-opacity=".96"/><stop offset="1" stop-color="#6d7050" stop-opacity=".97"/></linearGradient>
+ <linearGradient id="fructidor25-claw-right" x1="72" y1="-128" x2="102" y2="-79" gradientUnits="userSpaceOnUse"><stop stop-color="#b1a47a" stop-opacity=".88"/><stop offset=".45" stop-color="#92936a" stop-opacity=".96"/><stop offset="1" stop-color="#6a6b4e" stop-opacity=".97"/></linearGradient>
+ <linearGradient id="fructidor25-fan" x1="-28" y1="112" x2="27" y2="139" gradientUnits="userSpaceOnUse"><stop stop-color="#b0ad88" stop-opacity=".83"/><stop offset=".5" stop-color="#939879" stop-opacity=".88"/><stop offset="1" stop-color="#7d8160" stop-opacity=".94"/></linearGradient>
+</defs>
+<g transform="translate(183 184) rotate(-16) scale(.94)" stroke="#645e47">
+ <!-- Four walking legs on either side; the separate large chelipeds below are the first pair. -->
+ <g fill="url(#fructidor25-limb)" stroke-width="1.05">
+  <g id="fructidor25-right-walking-legs">
+   <path d="M20-39C29-45 41-50 49-51L53-46C44-41 33-36 23-31Z"/>
+   <path d="M49-51C58-49 71-42 77-35L73-31C65-36 56-42 50-44Z"/>
+   <path d="M75-36L98-54L103-66L106-70L105-63L102-51L77-30L73-31Z"/>
+   <path d="M26-20C38-25 53-25 61-23L62-16C48-15 37-14 27-12Z"/>
+   <path d="M60-24C70-19 81-9 87 1L83 5C76-2 67-10 59-16Z"/>
+   <path d="M84 0L111-13L122-24L126-25L122-20L113-10L87 6L83 5Z"/>
+   <path d="M27-1C40-1 55 2 64 7L62 14C48 11 37 8 27 7Z"/>
+   <path d="M63 6C72 14 78 26 83 38L78 41C70 31 65 22 59 14Z"/>
+   <path d="M80 37L109 36L120 27L124 27L120 31L111 40L82 43L78 41Z"/>
+   <path d="M22 17C34 20 47 25 55 32L52 39C40 33 31 29 21 26Z"/>
+   <path d="M53 31C61 39 65 53 65 65L60 68C56 57 54 46 49 38Z"/>
+   <path d="M63 63L84 79L97 79L101 81L97 82L83 83L60 69Z"/>
+  </g>
+  <g id="fructidor25-left-walking-legs">
+   <path d="M-20-38C-32-43-45-46-53-44L-54-37C-43-36-33-33-23-30Z"/>
+   <path d="M-52-45C-63-41-72-34-78-24L-73-20C-66-27-59-33-51-37Z"/>
+   <path d="M-77-25L-99-42L-106-53L-109-54L-108-49L-102-39L-77-19L-73-20Z"/>
+   <path d="M-26-19C-39-21-54-18-62-13L-60-7C-47-10-37-10-27-10Z"/>
+   <path d="M-61-14C-72-8-81 3-85 14L-80 17C-74 8-67 0-59-6Z"/>
+   <path d="M-84 13L-108 12L-119 4L-123 4L-119 8L-109 16L-83 20L-80 17Z"/>
+   <path d="M-27 0C-40 3-55 9-63 15L-60 21C-46 16-36 13-26 9Z"/>
+   <path d="M-62 14C-71 24-74 37-75 48L-69 50C-65 40-63 30-58 22Z"/>
+   <path d="M-73 47L-98 53L-111 47L-115 48L-111 51L-99 57L-72 54L-69 50Z"/>
+   <path d="M-23 18C-34 25-45 33-51 41L-46 46C-36 39-29 34-20 28Z"/>
+   <path d="M-50 40C-56 52-54 66-51 77L-45 77C-46 65-45 55-44 46Z"/>
+   <path d="M-50 75L-66 93L-79 98L-82 101L-77 100L-63 96L-44 80L-45 77Z"/>
+  </g>
+ </g>
+ <!-- Joint folds, segment ridges, and the two little chelate tips of the anterior walking pairs. -->
+ <g stroke-width=".63" opacity=".86">
+  <path d="M48-49L50-45M72-36L76-32M98-54L101-52M60-22L60-17M82 0L86 3M110-12L113-10M61 8L60 13M78 37L82 40M108 37L111 39M52 33L51 37M60 64L64 66M83 80L83 82M-51-43L-52-38M-76-25L-73-22M-100-41L-102-39M-60-12L-59-8M-84 13L-80 16M-108 13L-109 16M-61 16L-59 20M-73 47L-70 49M-98 54L-98 57M-48 42L-45 45M-50 76L-46 77M-65 93L-63 96"/>
+  <path d="M105-64L110-65L109-70M103-62L101-67M122-21L127-20L130-24M120-19L120-24M-107-50L-113-50L-115-55M-105-48L-104-54M-119 7L-125 9L-128 6M-117 9L-117 4"/>
+ </g>
+ <g stroke="#c5b99a" stroke-width=".65" opacity=".72"><path d="M31-40L46-46M56-44L70-35M84-40L96-50M36-18L55-19M66-16L79-3M92-1L106-9M36 5L56 10M66 17L77 34M87 39L104 38M31 25L47 33M56 44L60 59M69 71L80 80M-32-37L-47-40M-59-37L-70-26M-84-32L-97-42M-36-15L-54-12M-66-5L-78 11M-90 15L-103 14M-35 10L-55 17M-65 28L-70 43M-80 52L-94 55M-29 29L-44 40M-49 53L-48 71M-53 84L-62 93"/></g>
+ <!-- Broad, paired first limbs: coxa, merus, carpus and the palm of each chela. -->
+ <g fill="url(#fructidor25-limb)" stroke-width="1.2">
+  <path d="M-19-53C-30-58-43-60-48-57C-54-55-56-49-53-44C-48-39-34-42-23-43Z"/>
+  <path d="M-47-54C-53-65-57-75-64-80C-70-82-76-76-74-70C-70-60-63-52-55-45Z"/>
+  <path d="M-66-80C-74-82-82-76-82-70C-81-65-75-63-70-65L-62-71Z"/>
+  <path d="M18-51C29-58 42-63 48-60C54-58 57-53 54-48C48-42 35-42 22-42Z"/>
+  <path d="M47-59C50-72 56-83 64-86C71-88 76-82 74-76C71-65 64-55 55-48Z"/>
+  <path d="M64-87C71-91 80-87 82-81C84-76 79-71 73-72L63-77Z"/>
+ </g>
+ <!-- Left chela: a broad tuberculate palm, fixed finger, and a separately hinged movable finger. -->
+ <path d="M-74-67C-85-68-96-79-99-91C-103-102-106-113-106-124C-101-121-97-113-93-107L-84-94C-83-101-87-109-89-116C-90-121-90-126-87-131C-80-123-77-112-74-102C-67-93-63-85-65-78C-66-72-69-69-74-67Z" fill="url(#fructidor25-claw-left)" stroke-width="1.25"/>
+ <path d="M-89-94C-93-100-98-107-101-112M-85-93C-84-89-85-84-89-81M-86-94C-87-101-90-110-91-117" stroke-width=".9"/>
+ <path d="M-96-105L-94-107L-92-103L-91-103M-93-100L-91-102L-89-99M-88-105L-90-104M-89-113L-91-112M-90-119L-92-118" stroke-width=".65"/>
+ <path d="M-98-96C-96-86-85-75-76-73M-102-117C-99-110-96-104-92-99M-86-125C-83-117-81-109-79-104" stroke="#d3c4a0" stroke-width=".8" opacity=".7"/>
+ <path d="M-91-95C-91-88-84-80-78-78M-86-97C-79-97-73-88-71-82M-96-88L-92-86M-93-82L-89-81M-88-77L-84-76M-77-95L-76-91M-73-89L-72-85M-76-73L-73-71" stroke-width=".55" opacity=".8"/>
+ <!-- Right chela is slightly longer and narrower, with a clear gape and curved teeth. -->
+ <path d="M74-73C66-77 66-89 72-100C76-108 81-119 84-130C89-127 88-117 86-110L83-98C89-102 95-112 100-123C102-128 103-134 107-137C112-125 108-112 104-103C104-92 100-82 91-77C85-73 79-71 74-73Z" fill="url(#fructidor25-claw-right)" stroke-width="1.25"/>
+ <path d="M82-98C80-92 83-86 87-84M86-100C94-108 100-119 103-127M85-107C86-113 87-119 86-123" stroke-width=".85"/>
+ <path d="M88-105L90-103L92-107M94-114L97-112L98-116M101-123L103-121M85-110L88-109M86-117L89-116" stroke-width=".65"/>
+ <path d="M78-79C89-79 99-89 100-99M106-131C108-122 104-111 102-108M83-123C80-113 77-109 75-103" stroke="#d3c4a0" stroke-width=".8" opacity=".68"/>
+ <g stroke-width=".55" opacity=".78"><path d="M73-96C71-90 73-83 77-81M77-101C79-100 81-99 82-97M91-98C95-98 98-100 101-102M91-91L96-92M87-85L92-86M81-80L85-81M70-85L72-84M75-76L78-75"/></g>
+ <g stroke-width=".65" opacity=".82"><path d="M-26-51L-43-51M-51-55L-52-50M-56-65L-66-74M-70-78C-75-77-78-73-78-70M-63-64L-60-65M-60-59L-57-60M-49-43L-48-46M25-51L44-55M49-59L52-54M56-68L65-80M69-86C74-85 78-81 78-78M59-61L63-59M56-55L60-53"/></g>
+ <g stroke="#c8b996" stroke-width=".68" opacity=".77"><path d="M-28-55C-36-57-44-57-48-54M-54-62L-63-74M-71-77L-77-73M28-55L43-59M54-68L60-79M69-88L75-84"/></g>
+ <!-- Six overlapping abdominal somites, with small lateral pleura and a subdued axial highlight. -->
+ <path d="M-24 23C-27 40-24 61-20 77C-17 92-12 104-8 113L9 115C18 101 23 87 24 72C28 54 28 35 23 22Z" fill="url(#fructidor25-abdomen)" stroke-width="1.2"/>
+ <g fill="url(#fructidor25-abdomen)" stroke-width="1">
+  <path d="M-24 25C-12 32 11 33 23 25L27 41L23 48C10 52-11 51-23 45L-27 39Z"/>
+  <path d="M-23 43C-12 50 11 51 24 45L25 59L20 67C10 70-8 69-19 63L-24 57Z"/>
+  <path d="M-20 61C-8 67 10 69 21 63L22 76L17 83C7 86-6 84-16 79L-21 73Z"/>
+  <path d="M-17 77C-6 83 8 85 18 80L17 92L12 98C4 99-5 97-13 93L-17 87Z"/>
+  <path d="M-13 92C-5 97 6 99 13 96L12 106L8 111C1 111-5 108-10 105L-13 101Z"/>
+  <path d="M-10 104C-3 109 4 110 9 108L9 118L4 123C-1 122-5 119-8 115Z"/>
+ </g>
+ <g stroke="#d1c7a4" stroke-width=".85" opacity=".7"><path d="M-21 28C-10 35 9 36 21 29M-20 47C-9 53 10 55 21 49M-17 65C-7 71 8 73 18 68M-14 81C-5 87 6 89 15 85M-10 96C-4 101 4 103 10 100M-7 108L3 114L7 113"/></g>
+ <g stroke-width=".55" opacity=".76"><path d="M-23 36L-20 39M-20 38L-17 41M-17 40L-14 43M15 41L18 38M19 40L22 37M-21 54L-18 57M-17 56L-14 59M13 60L16 57M17 59L21 55M-18 71L-15 74M-14 73L-11 76M12 77L15 74M16 76L19 72M-14 87L-11 90M-10 89L-7 92M9 94L12 90M-10 101L-7 104M6 106L9 103M-5 114L-2 117M4 118L6 116"/></g>
+ <!-- The two pairs of uropod blades surround, rather than replace, the central telson. -->
+ <g fill="url(#fructidor25-fan)" stroke-width="1">
+  <path d="M-7 112C-16 108-26 112-31 122C-34 127-35 132-32 136C-22 139-12 131-6 121Z"/>
+  <path d="M-6 115C-15 114-21 120-22 130C-23 136-21 140-18 142C-10 142-3 133 0 124Z"/>
+  <path d="M7 114C17 111 28 118 31 127C34 133 32 139 29 141C19 140 10 132 5 123Z"/>
+  <path d="M5 117C14 116 21 124 21 133C22 139 19 144 16 145C8 143 2 133 0 125Z"/>
+  <path d="M-7 114C-3 117 3 119 8 116L10 136C10 143 7 147 2 148C-4 147-10 143-11 138Z"/>
+ </g>
+ <g stroke-width=".58" opacity=".8"><path d="M-9 116C-18 117-26 125-31 133M-8 119C-14 123-19 132-19 138M-17 116C-22 121-24 127-25 133M-24 117C-28 121-30 126-31 129M8 118C17 120 25 131 29 137M7 122C13 125 18 135 17 141M18 119C23 125 26 130 26 136M-6 120C-6 127-7 136-4 142M-1 121L0 144M4 122C5 129 7 137 5 143M-31 128C-26 130-22 130-18 128M19 128C24 129 28 131 31 134"/></g>
+ <path d="M-31 136L-32 139M-28 137L-29 140M-24 137L-24 140M-19 141L-20 144M-15 141L-16 144M-11 138L-11 142M-6 145L-7 148M0 148L0 151M5 147L6 150M10 144L12 147M16 145L17 148M21 142L23 145M26 140L28 143M30 139L33 141" stroke="#8c8668" stroke-width=".5" opacity=".8"/>
+ <!-- Single continuous carapace, narrow head and broad branchial chambers. -->
+ <path d="M-14-83C-23-78-27-66-28-52C-32-36-33-16-31 3C-30 16-28 25-23 29C-10 35 11 36 24 29C30 21 33 7 32-8C32-30 27-51 22-66C20-74 18-80 12-83L4-85Z" fill="url(#fructidor25-shell)" stroke-width="1.35"/>
+ <path d="M-20-68C-14-62-8-60 0-59C8-59 16-62 21-68M-27-47C-18-40-10-38 0-39C11-40 20-44 27-50" stroke-width=".95"/>
+ <path d="M-27-48C-26-27-27 1-22 23M27-50C25-32 28-9 24 14C23 21 20 26 17 29M-18-54C-17-48-18-43-20-40M18-56C17-50 18-47 21-44" stroke-width=".8" opacity=".82"/>
+ <path d="M-13-73C-8-69-4-68 0-67C5-67 10-70 13-73M-11-58C-10-40-11-20-8-2C-6 13-5 22-2 28" stroke="#c6c3a0" stroke-width="1.1" opacity=".66"/>
+ <path d="M-18-27C-19-14-18 4-14 16M13-32C17-15 18 6 13 23" stroke="#737657" stroke-width=".7" opacity=".65"/>
+ <g stroke-width=".52" opacity=".72"><path d="M-24-58L-21-55M-25-53L-22-50M-26-36Q-22-34-20-30M-27-29Q-23-26-21-22M-27-21Q-23-18-21-14M-27-13Q-23-10-21-6M-26-5Q-23-2-20 1M-25 3Q-22 6-19 9M-23 11L-18 16M-21 19L-16 23M-17 26L-12 29M23-57L20-54M25-34Q21-31 19-27M26-26Q22-23 20-19M27-18Q23-15 21-11M27-10Q23-7 21-3M26-2Q23 1 21 5M25 6L21 11M23 14L19 19M20 22L16 26M-17-66L-14-63M-11-64L-8-62M8-63L11-65M14-65L17-68M-12-36L-9-33M-13-27L-10-24M-12-17L-9-14M10-35L12-32M12-25L14-22M13-14L15-11M-11 5L-8 9M-8 17L-5 21M10 13L12 10M9 22L12 19"/></g>
+ <g fill="#8d8d65" stroke-width=".6"><path d="M-25-64L-29-65L-27-60M24-63L28-65L27-59M-29-43L-33-43L-31-38M29-43L33-43L32-37"/></g>
+ <!-- Rostrum and separate stalks keep the head recognizably crustacean. -->
+ <path d="M-11-77L-9-88L-6-89L-4-98L0-106L4-97L6-89L9-88L11-77C5-73-5-74-11-77Z" fill="#969b72" stroke-width="1.15"/>
+ <path d="M0-101L0-80M-5-91L-8-94L-7-87M5-91L8-94L7-87M-7-84L-10-86M7-84L10-86" stroke-width=".65"/>
+ <path d="M-14-78L-23-87L-21-91L-10-83Z" fill="#a6a17b" stroke-width=".9"/>
+ <path d="M13-78L23-85L22-89L10-83Z" fill="#a6a17b" stroke-width=".9"/>
+ <ellipse cx="-23" cy="-89" rx="3.5" ry="3.1" transform="rotate(26 -23 -89)" fill="#444b3b" stroke-width=".75"/>
+ <ellipse cx="23" cy="-87" rx="3.4" ry="3" transform="rotate(-21 23 -87)" fill="#444b3b" stroke-width=".75"/>
+ <path d="M-24-90L-22-91M22-88L24-88" stroke="#d0c9a9" stroke-width=".65" opacity=".8"/>
+ <!-- Antennal scales and two long tapering flagella; the shorter inner organs are bifid antennules. -->
+ <path d="M-13-79C-21-84-25-93-25-100C-18-96-12-88-10-82Z" fill="#a6a781" stroke-width=".8"/>
+ <path d="M13-79C21-83 26-91 28-98C20-95 14-88 11-82Z" fill="#a6a781" stroke-width=".8"/>
+ <path d="M-17-86C-25-111-40-134-61-143C-77-150-95-148-108-139" stroke="#665f48" stroke-width="1.05"/>
+ <path d="M18-85C34-111 58-132 81-136C97-139 114-137 125-129" stroke="#665f48" stroke-width="1.05"/>
+ <path d="M-17-86L-20-94M18-85L23-93" stroke="#b9b18c" stroke-width=".65"/>
+ <path d="M-24-106L-22-107M-30-119L-28-120M-38-131L-36-133M-49-139L-48-141M-62-144L-62-146M-76-147L-76-149M-90-146L-91-148M-103-142L-104-144M30-103L32-102M40-115L42-113M52-125L53-123M65-133L66-130M79-136L79-134M93-137L93-135M107-135L106-133M119-132L118-130" stroke-width=".5" opacity=".8"/>
+ <path d="M-6-83L-10-98L-16-111M-10-99C-9-106-10-111-12-116M6-83L11-96L19-108M11-97C11-104 13-111 16-116" stroke="#736c50" stroke-width=".9"/>
+ <path d="M-13-105L-15-104M-15-109L-17-108M-10-110L-8-110M-11-114L-9-114M15-102L17-101M18-106L20-105M13-107L11-108M15-112L13-113" stroke="#8a8363" stroke-width=".5"/>
+</g>
+</svg>

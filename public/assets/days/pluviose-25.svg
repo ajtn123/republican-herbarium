@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="pluviose-25-title pluviose-25-desc">
+  <title id="pluviose-25-title">Lièvre — Lepus europaeus</title>
+  <desc id="pluviose-25-desc">An alert European brown hare in a raised half crouch, facing left. A slender long-muzzled head, very long black-tipped upright ears, amber lateral eye, rangy tawny agouti body and large muscular folded hind legs distinguish it from a domestic rabbit. Fine warm umber engraving follows the fur over transparent ochre and grey-brown watercolor washes.</desc>
+  <defs>
+    <linearGradient id="pluviose-25-coat" x1="191" y1="166" x2="205" y2="283" gradientUnits="userSpaceOnUse"><stop stop-color="#b5a083" stop-opacity=".81"/><stop offset=".43" stop-color="#a78e6b" stop-opacity=".87"/><stop offset="1" stop-color="#8d7c63" stop-opacity=".86"/></linearGradient>
+    <linearGradient id="pluviose-25-head" x1="102" y1="126" x2="93" y2="189" gradientUnits="userSpaceOnUse"><stop stop-color="#b39c78" stop-opacity=".87"/><stop offset=".6" stop-color="#ac9270" stop-opacity=".84"/><stop offset="1" stop-color="#c1ac8b" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="pluviose-25-ear" x1="104" y1="40" x2="120" y2="142" gradientUnits="userSpaceOnUse"><stop stop-color="#a59479" stop-opacity=".89"/><stop offset=".5" stop-color="#c1ae8b" stop-opacity=".82"/><stop offset="1" stop-color="#a58c6b" stop-opacity=".91"/></linearGradient>
+    <linearGradient id="pluviose-25-haunch" x1="241" y1="193" x2="280" y2="284" gradientUnits="userSpaceOnUse"><stop stop-color="#b6a081" stop-opacity=".5"/><stop offset=".55" stop-color="#a48a66" stop-opacity=".72"/><stop offset="1" stop-color="#c2ac88" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="pluviose-25-far" x1="225" y1="239" x2="232" y2="308" gradientUnits="userSpaceOnUse"><stop stop-color="#8e8069" stop-opacity=".92"/><stop offset="1" stop-color="#b39f7f" stop-opacity=".92"/></linearGradient>
+    <linearGradient id="pluviose-25-cream" x1="124" y1="189" x2="161" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#dfd2b6" stop-opacity=".83"/><stop offset="1" stop-color="#d3c2a0" stop-opacity=".8"/></linearGradient>
+  </defs>
+  <g stroke="#695b46">
+    <!-- The far foreleg is long and fine, with a small furred foot. -->
+    <path d="M161 222C164 234 163 249 159 263L155 289C155 293 159 297 158 301C151 306 134 307 125 305C122 304 122 301 126 299L142 293L145 266C145 253 146 238 149 228Z" fill="url(#pluviose-25-far)" stroke-width="1.15"/>
+    <path d="M153 245C154 259 150 281 150 290M131 301L149 298M139 300L137 304M146 299L144 304M152 299L151 303" stroke-width=".63" opacity=".75"/>
+    <!-- Far hind limb: the hock sits behind the thigh and its long foot points forward. -->
+    <path d="M274 226C289 232 296 246 294 259L307 278C312 284 313 289 310 294L305 302C294 306 268 306 251 305C247 305 245 301 249 299L279 291L291 285L277 270C268 260 265 247 264 236Z" fill="url(#pluviose-25-far)" stroke-width="1.2"/>
+    <path d="M279 251C282 263 294 274 300 284L294 293L262 301M270 300L269 304M278 298L278 304M287 297L288 303M298 293L303 292" stroke-width=".65" opacity=".67"/>
+    <!-- The short tail is dark above and creamy beneath, held close to the rump. -->
+    <path d="M290 223C300 222 309 228 313 236C316 242 314 248 308 251C301 248 295 242 292 237Z" fill="#cfc0a0" fill-opacity=".92" stroke-width="1.05"/>
+    <path d="M294 225C303 226 310 230 313 237C309 237 304 236 300 233L296 233Z" fill="#625d4c" fill-opacity=".92" stroke-width=".6"/>
+    <path d="M305 241L310 245M299 236L304 241M305 233L310 235M309 247L311 246" stroke="#e2d6b9" stroke-width=".75" opacity=".9"/>
+    <!-- Long sloping neck and stretched rib cage rise into a powerful, high rump. -->
+    <path d="M119 154C132 159 141 177 151 190C164 186 177 177 192 172C212 165 236 160 255 166C277 173 291 190 296 209C302 229 297 248 285 261C272 275 252 282 231 281C209 282 189 275 173 265C158 255 148 244 141 230C132 216 125 201 121 186C115 181 111 173 112 165Z" fill="url(#pluviose-25-coat)" stroke-width="1.55"/>
+    <!-- A broken pale bib passes into the light abdomen rather than a hard collar. -->
+    <path d="M120 178C125 191 131 204 138 212C143 220 147 224 153 227C153 239 161 251 175 260C189 271 212 277 231 276C216 282 191 276 174 266C158 257 148 245 141 231C132 217 126 201 121 186L115 179Z" fill="url(#pluviose-25-cream)" stroke="none"/>
+    <path d="M147 192C141 202 140 213 145 225M157 199C167 212 172 228 169 242M177 190C189 183 204 179 220 177M175 233C187 250 207 261 227 265" stroke-width=".8" opacity=".45"/>
+    <!-- Far ear leans outward; the narrow dark cap is characteristic of a hare. -->
+    <path d="M119 138C119 118 126 85 134 60C138 47 143 39 148 39C152 44 151 56 148 69C142 95 137 122 130 142Z" fill="url(#pluviose-25-ear)" stroke-width="1.15"/>
+    <path d="M126 130C127 111 134 78 143 53C146 55 143 77 139 93C135 110 132 123 129 132Z" fill="#d1bca0" fill-opacity=".74" stroke="#99856e" stroke-width=".55"/>
+    <path d="M136 55C140 45 144 39 148 39C151 43 151 51 150 58L144 56L141 60L138 58Z" fill="#595648" fill-opacity=".95" stroke-width=".65"/>
+    <path d="M129 122C134 103 138 80 143 66M137 78L140 73M132 99L136 93M145 60L143 68" stroke-width=".5" opacity=".58"/>
+    <!-- Near ear has a long furred blade and a softly rose-grey inner surface. -->
+    <path d="M109 141C102 122 96 94 92 71C89 56 88 41 93 35C100 35 105 49 109 64C116 87 121 114 123 136L120 145Z" fill="url(#pluviose-25-ear)" stroke-width="1.25"/>
+    <path d="M113 132C106 113 101 87 98 68C96 58 95 48 95 44C100 49 104 63 107 76C112 96 117 119 118 133Z" fill="#bdab9a" fill-opacity=".68" stroke="#947f69" stroke-width=".6"/>
+    <path d="M92 35C98 34 104 47 107 58L101 56L98 60L94 56L91 59C89 48 89 39 92 35Z" fill="#575446" fill-opacity=".94" stroke-width=".7"/>
+    <path d="M99 64C102 86 109 112 115 130M100 72L102 79M105 91L108 98M111 112L115 118M97 64L99 70" stroke-width=".56" opacity=".62"/>
+    <path d="M94 61L96 72M98 85L101 97M105 109L109 120M111 132L114 137M139 75L136 87M132 107L129 120" stroke="#e2d3b5" stroke-width=".75" opacity=".72"/>
+    <!-- The head is lean and elongated, with a small nose and an amber lateral eye. -->
+    <path d="M111 128C121 130 127 139 129 150C132 160 129 175 122 182C115 189 105 188 96 182C88 182 82 184 75 183C65 183 54 178 50 172C46 167 47 162 52 159L71 151C79 142 86 134 96 130C101 128 106 127 111 128Z" fill="url(#pluviose-25-head)" stroke-width="1.4"/>
+    <path d="M74 164C81 168 86 170 92 172C99 177 106 179 114 177C111 184 104 185 97 181L87 181C82 184 74 183 68 180C60 177 54 173 52 168C60 171 67 171 74 164Z" fill="#d7c5a5" fill-opacity=".8" stroke="none"/>
+    <path d="M81 150C73 157 64 160 56 162M117 147C123 157 121 167 115 172C110 176 102 175 97 171M119 176L123 180" stroke-width=".75" opacity=".73"/>
+    <path d="M94 150C96 145 102 143 107 146C112 149 111 155 107 158C102 160 96 158 94 154Z" fill="#d4bd95" fill-opacity=".82" stroke="#8b7758" stroke-width=".67"/>
+    <path d="M97 151C98 147 103 146 106 148C110 150 108 155 105 156C101 157 98 155 97 151Z" fill="#8a7050" stroke-width=".7"/>
+    <ellipse cx="103.1" cy="151.5" rx="2.45" ry="3.35" fill="#3f4038" stroke="none"/>
+    <circle cx="104.2" cy="149.8" r=".7" fill="#e7ddc5" stroke="none"/>
+    <path d="M94 145C98 141 104 141 109 144M96 158L99 160M108 157L111 154M89 154L85 158" stroke-width=".62" opacity=".8"/>
+    <path d="M49 160C52 158 56 159 58 162L56 165L52 167L48 165C47 163 47 162 49 160Z" fill="#655b4c" stroke-width=".7"/>
+    <path d="M50 161L53 161M52 167L53 171M53 171C58 175 64 175 69 173M57 177C64 180 71 180 77 178" stroke-width=".7"/>
+    <!-- Whiskers stay thin and sparse, and the cheek fur follows the jaw. -->
+    <g stroke-width=".48" opacity=".72"><path d="M63 168C53 163 43 162 36 164M64 171C52 169 42 172 35 175M65 174C54 177 46 181 41 184M69 170C61 159 54 155 47 154M70 173C59 176 55 182 52 188"/><path d="M74 169L79 171M81 173L87 175M89 176L94 179M105 180L110 181M114 135L118 141M111 137L115 142M88 143L84 148M77 153L73 157M81 158L77 161"/></g>
+    <!-- Near foreleg descends from the chest in a narrow, lightly flexed column. -->
+    <path d="M143 220C148 231 147 241 141 252C136 264 132 278 129 291C129 294 134 297 132 301C127 306 112 308 97 307C91 307 87 305 89 302C91 299 101 297 111 295L116 289C121 271 122 253 125 240C128 228 135 221 143 220Z" fill="#baa382" fill-opacity=".9" stroke-width="1.2"/>
+    <path d="M139 231C138 247 131 264 127 282M121 293L116 298M96 302C106 300 115 300 123 301M102 301L100 306M109 301L108 306M117 301L116 306M124 301L123 305" stroke-width=".66" opacity=".76"/>
+    <path d="M129 244L127 257M125 268L122 282M118 293L113 297" stroke="#e1d0af" stroke-width="1.05" opacity=".78"/>
+    <!-- Great near thigh folds into an oblique shin and exceptionally long hind foot. -->
+    <path d="M250 194C268 197 280 211 283 229C286 246 280 257 271 266L291 279C297 282 302 287 301 292L296 300C282 307 251 311 224 310C217 310 211 308 212 304C215 300 230 298 245 296L267 290L278 286C263 282 245 277 236 266C224 251 223 233 229 216C233 204 241 197 250 194Z" fill="url(#pluviose-25-haunch)" stroke-width="1.15"/>
+    <path d="M250 201C238 208 232 223 234 238C236 254 247 263 260 267M275 222C281 239 274 251 265 258M243 265C252 274 265 277 278 281M279 286C285 287 291 287 294 290M270 294C251 301 231 301 220 305" stroke-width=".78" opacity=".76"/>
+    <path d="M223 305L220 309M230 304L228 309M237 303L236 309M245 302L245 308M289 296L293 294" stroke-width=".64" opacity=".78"/>
+    <path d="M241 208C234 219 232 229 235 240M256 199C267 206 274 217 276 228M248 301C264 299 283 296 290 292" stroke="#dfcbaa" stroke-width="1.15" opacity=".72"/>
+    <!-- Engraved agouti: short, uneven strokes follow neck, back, ribs and thigh. -->
+    <g stroke="#78664e" stroke-width=".56" opacity=".72">
+      <path d="M121 183L125 190M125 192L129 198M129 202L133 208M133 211L138 216M135 185L139 191M140 193L144 200M144 202L147 208M148 212L151 218M151 222L155 228M156 232L160 239M160 242L165 248"/>
+      <path d="M152 192L158 190M163 186L169 184M176 179L183 177M189 175L196 173M202 170L210 169M216 167L224 167M233 166L241 168M248 169L255 172M261 174L268 179M274 183L279 189M283 194L287 201M289 208L291 216"/>
+      <path d="M161 199L165 204M170 194L175 200M180 188L186 192M192 184L199 187M205 181L212 183M219 177L227 179M234 176L242 179M249 180L255 185M263 188L268 193M276 201L280 207M284 216L286 223"/>
+      <path d="M169 211L173 219M179 205L184 212M190 199L195 205M202 195L208 199M215 190L222 193M230 187L237 191M246 187L253 192M259 197L265 202M269 209L273 215"/>
+      <path d="M176 226L181 233M185 219L191 226M197 214L202 220M209 207L214 213M221 202L226 207M177 246L183 251M187 252L194 256M200 259L208 262M215 266L223 268M193 237L199 243M205 231L211 237M217 224L222 230"/>
+      <path d="M237 210L234 217M232 225L232 232M234 241L237 248M240 251L245 257M247 258L254 263M255 268L262 271M267 272L274 276M246 215L242 222M243 231L245 238M250 243L256 249M259 248L265 244M267 235L270 229M267 217L270 223M255 210L261 216M252 227L257 232"/>
+      <path d="M132 240L131 247M130 253L128 259M126 267L125 273M123 279L121 286M134 245L133 251M135 261L133 267M129 282L128 287M253 295L261 293M271 290L278 289M282 299L288 297"/>
+    </g>
+    <g stroke="#e0cba6" stroke-width=".65" opacity=".69">
+      <path d="M126 186L130 193M135 199L138 205M145 211L149 217M158 194L165 191M173 185L181 182M192 177L200 174M212 171L220 170M230 169L237 170M247 173L254 177M264 181L270 187M277 193L281 199M285 209L287 215"/>
+      <path d="M173 202L178 208M188 193L194 197M204 187L212 189M223 183L230 185M248 196L254 200M184 235L189 241M197 249L204 253M215 258L222 260M242 216L239 222M238 233L240 240M247 251L253 256M264 237L263 243M256 220L260 226M130 232L128 238"/>
+    </g>
+    <g stroke="#655c4b" stroke-width=".49" opacity=".66">
+      <path d="M99 131L96 135M105 132L104 137M92 137L88 141M86 147L82 151M92 159L88 163M95 163L91 167M104 165L102 170M110 163L109 168M116 157L116 162M121 144L123 150M119 171L117 175"/>
+      <path d="M201 174L206 177M214 170L219 174M228 168L233 172M241 171L246 175M258 179L262 183M273 192L276 196M184 197L187 200M207 202L210 206M224 214L226 219M251 238L254 242M263 255L260 259M276 281L281 283"/>
+    </g>
+    <!-- A few quiet strokes anchor the specimen without a painted ground. -->
+    <path d="M91 313C104 315 119 314 133 312M216 316C241 318 274 314 294 308M148 310L158 309" stroke="#99896e" stroke-width=".7" opacity=".32"/>
+  </g>
+</svg>

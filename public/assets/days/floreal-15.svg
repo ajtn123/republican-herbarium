@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="floreal15-title floreal15-desc">
+  <title id="floreal15-title">Ver à soie — Bombyx mori</title>
+  <desc id="floreal15-desc">A plump ivory domestic silkworm curves gently across a serrated, heart-based mulberry leaf. A small tawny head precedes three pairs of short jointed thoracic legs. Four pairs of soft abdominal prolegs and a terminal anal pair grip the leaf; a small horn rises from the eighth abdominal segment. Fine curved folds, minute lateral spiracles and a muted cream wash describe the larva. A single pale oval silk cocoon lies nearby.</desc>
+  <defs>
+    <linearGradient id="floreal15-leaf" x1="140" y1="117" x2="221" y2="283" gradientUnits="userSpaceOnUse"><stop stop-color="#b2b79b" stop-opacity=".68"/><stop offset=".48" stop-color="#96a183" stop-opacity=".72"/><stop offset="1" stop-color="#7e8d6c" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="floreal15-larva" x1="186" y1="132" x2="173" y2="202" gradientUnits="userSpaceOnUse"><stop stop-color="#f8f3e6"/><stop offset=".44" stop-color="#f0ead9"/><stop offset=".75" stop-color="#e3ddc9"/><stop offset="1" stop-color="#c7c2aa"/></linearGradient>
+    <linearGradient id="floreal15-proleg" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#e8e1cc"/><stop offset=".6" stop-color="#d8d1b9"/><stop offset="1" stop-color="#b6b198"/></linearGradient>
+    <linearGradient id="floreal15-head" x1="80" y1="145" x2="96" y2="168" gradientUnits="userSpaceOnUse"><stop stop-color="#ceb997"/><stop offset=".5" stop-color="#b49b76"/><stop offset="1" stop-color="#92795b"/></linearGradient>
+    <radialGradient id="floreal15-silk" cx=".36" cy=".3" r=".75"><stop stop-color="#f5edda" stop-opacity=".94"/><stop offset=".6" stop-color="#e6dcc0" stop-opacity=".92"/><stop offset="1" stop-color="#c7bfa2" stop-opacity=".88"/></radialGradient>
+  </defs>
+  <!-- One cordate mulberry blade, with irregularly paired teeth and a long acuminate tip. -->
+  <path d="M109 253C95 270 78 290 58 307L55 305C74 285 92 266 106 250Z" fill="#a2a687" stroke="#758161" stroke-width="1.2"/>
+  <path d="M108 252C96 261 81 254 73 243L68 245L68 235L62 236L64 225L58 224L62 214L57 211L63 202L59 197L67 190L64 184L74 178L72 171L83 167L83 161L94 158L95 151L108 149L111 142L124 141L127 135L141 135L145 129L159 129L164 124L178 124L183 119L197 119L204 114L218 114L225 109L239 109L245 104C261 101 277 95 294 85C291 99 292 112 294 123L300 124L298 136L304 139L300 151L306 156L301 166L306 172L299 181L303 187L295 195L298 201L288 207L290 214L279 219L280 226L268 231L267 238L255 241L252 248L239 250L236 257L223 258L217 265L204 265L198 272L186 270L179 277L167 273L160 280L148 274L141 279L130 272C118 267 113 259 108 252Z" fill="url(#floreal15-leaf)" stroke="#68785a" stroke-width="1.25"/>
+  <path d="M107 251C153 219 194 177 232 138C252 118 271 101 291 88" stroke="#657655" stroke-width="1.35"/>
+  <path d="M110 252C156 219 196 176 234 138M111 252C114 232 111 213 99 196C89 183 81 178 75 176M111 251C137 256 153 265 162 275M134 231C130 211 122 192 108 179C97 169 91 165 85 165M134 231C158 234 181 248 196 267M158 209C154 188 144 168 126 149M158 209C185 211 210 229 224 255M183 184C184 163 176 142 168 126M183 184C213 185 241 208 266 232M208 161C213 143 217 128 216 116M208 161C242 162 271 178 293 197M231 139C247 140 274 151 300 167M232 138C237 126 239 115 240 109M256 114C267 118 281 122 293 125" stroke="#728361" stroke-width=".76" opacity=".88"/>
+  <!-- Secondary veins fork toward the marginal teeth. -->
+  <g stroke="#788766" stroke-width=".55" opacity=".74">
+    <path d="M105 207L89 203L64 205M110 222L89 225L65 225M111 237L92 244L75 244M103 203L95 186L83 170M126 210L115 206L101 199M118 194L118 171L111 146M145 192L130 184L112 181M137 174L139 153L131 138M158 222L159 238L168 253M174 237L177 253L180 273M184 245L200 250L215 261M194 222L211 224L230 236M210 232L216 246L218 260M229 212L245 212L266 220M217 198L223 211L232 217M253 222L254 236L251 246M202 181L205 170L213 156M191 157L199 146L199 122M181 147L178 134M225 163L238 153L247 143M246 170L268 169L286 174M265 178L277 190L291 197M246 150L256 140L259 122M268 151L282 148L301 149M259 124L266 109L269 99M274 120L287 111"/>
+  </g>
+  <g stroke="#778464" stroke-width=".45" opacity=".44"><path d="M76 229L81 234M78 220L83 227M91 239L96 244M123 253L130 258M135 260L143 266M151 267L158 272M178 258L184 264M201 253L208 259M228 239L233 246M242 232L247 238M261 208L268 212M278 194L284 198M285 179L291 183M287 159L295 161M281 139L287 142M135 157L138 164M157 141L161 149M173 138L176 146M192 132L193 140M90 185L94 190"/></g>
+  <!-- Far-side thoracic legs: three short jointed appendages, separate from the fleshy prolegs. -->
+  <g fill="#c3b492" stroke="#8e8067" stroke-width=".8" opacity=".77">
+    <path d="M104 153L98 161L98 168L93 172L91 171L94 165L94 159L100 151Z"/>
+    <path d="M124 158L117 167L117 174L111 179L109 177L113 171L113 165L120 156Z"/>
+    <path d="M143 165L136 174L136 181L131 185L129 184L132 177L132 171L139 163Z"/>
+  </g>
+  <!-- Four abdominal pairs and the anal pair; the rear member of each pair is partly hidden. -->
+  <g fill="#c9c5ad" stroke="#928e76" stroke-width=".85" opacity=".9">
+    <path d="M199 184C197 190 195 198 197 204C201 207 206 204 206 201L207 189Z"/>
+    <path d="M219 193C217 200 216 207 219 213C224 216 228 212 228 208L229 197Z"/>
+    <path d="M240 196C237 201 237 209 240 213C244 215 248 211 248 207L249 196Z"/>
+    <path d="M260 190C257 196 257 204 261 208C265 209 269 205 268 201L269 190Z"/>
+    <path d="M290 176C286 182 285 188 288 193C292 196 296 193 296 188L298 177Z"/>
+  </g>
+  <!-- The small caudal horn is dorsal and arises near the hind end, not from the terminal tip. -->
+  <path d="M277 166C277 158 275 150 270 143C277 147 282 154 284 162Z" fill="#e7e0cd" stroke="#9d9780" stroke-width=".95"/>
+  <path d="M279 161C278 155 276 150 273 147" stroke="#b7b19a" stroke-width=".6"/>
+  <!-- A continuous soft body avoids a bead-like chain of separate ovals. -->
+  <path d="M92 145C95 135 104 129 114 129C119 128 123 130 127 131C133 127 141 127 147 132C154 132 161 136 166 140C173 140 180 146 184 151C192 151 200 157 204 162C212 162 220 167 225 171C232 169 240 172 244 174C251 171 258 172 262 173C269 168 275 168 279 166C286 161 293 154 299 153C305 154 309 162 307 169C305 177 300 181 293 182C289 187 281 193 274 191C268 198 256 203 246 200C237 204 226 202 218 198C208 198 200 191 196 187C187 185 179 179 176 176C166 174 158 167 153 164C143 165 134 161 128 159C119 162 109 157 106 154C101 159 95 158 92 153Z" fill="url(#floreal15-larva)" stroke="#918a73" stroke-width="1.2"/>
+  <!-- Warm, translucent shadow gathers in the ventral folds. -->
+  <path d="M102 148C114 150 117 155 127 153C140 151 146 158 154 158C167 158 169 171 178 171C189 171 192 182 200 182C209 182 215 193 225 193C236 199 244 194 250 195C260 195 268 189 274 186C286 185 296 174 304 166C304 175 298 178 292 180C283 190 279 190 273 189C265 198 255 200 246 198C235 202 226 200 218 196C208 196 202 190 196 185C184 183 182 179 176 174C164 172 158 164 153 162C142 163 134 159 128 157C119 160 109 155 106 152Z" fill="#aaa88c" fill-opacity=".18" stroke="none"/>
+  <path d="M98 140C105 134 113 133 120 135M133 133C139 131 143 133 148 136M156 140C161 141 166 145 169 149M177 149C182 152 185 156 188 161M197 161C202 165 205 169 207 172M219 174L225 178M234 177L241 181M251 177L257 178M271 173L277 171M291 163L298 159" stroke="#fffaf0" stroke-width="2" opacity=".65"/>
+  <!-- Curving intersegmental seams describe three thoracic and ten abdominal segments. -->
+  <g stroke="#a8a18a" stroke-width=".85" opacity=".92">
+    <path d="M111 130C104 136 103 146 108 154M128 131C120 139 121 151 128 159M148 133C139 140 142 155 153 163M166 141C156 148 161 164 176 175M184 152C174 159 180 175 196 186M204 163C195 171 202 190 218 197M225 172C218 181 222 196 232 201M244 175C239 183 241 195 246 200M262 174C261 181 265 190 274 191M279 167C279 174 285 181 293 182M291 159C290 166 295 174 301 177"/>
+  </g>
+  <g stroke="#b1ab94" stroke-width=".55" opacity=".72">
+    <path d="M109 133C104 139 104 145 106 149M126 134C122 140 123 149 127 153M146 137C142 143 145 153 150 157M164 145C160 150 165 162 171 167M181 156C179 164 185 174 191 179M202 167C199 174 205 186 212 190M222 178C220 186 225 194 229 197M242 180C240 187 242 193 245 196M265 178C265 183 269 187 273 188M282 169C283 173 287 177 291 179M294 161C293 165 297 170 300 172"/>
+    <path d="M110 151L113 154M114 151L117 155M130 155L134 158M134 155L139 160M154 159L159 164M159 160L164 167M178 172L182 177M182 173L188 180M199 184L204 189M205 186L210 193M233 196L236 200M252 196L256 199M278 185L282 188M296 175L300 175"/>
+  </g>
+  <!-- Minute lateral breathing pores follow the soft flank; no oversized eyes or markings. -->
+  <g fill="#b2a98c" stroke="#928c72" stroke-width=".5">
+    <ellipse cx="114" cy="147" rx="1.5" ry="1.05" transform="rotate(13 114 147)"/>
+    <ellipse cx="163" cy="161" rx="1.45" ry=".9" transform="rotate(36 163 161)"/>
+    <ellipse cx="184" cy="174" rx="1.45" ry=".9" transform="rotate(34 184 174)"/>
+    <ellipse cx="205" cy="187" rx="1.5" ry=".95" transform="rotate(30 205 187)"/>
+    <ellipse cx="229" cy="192" rx="1.5" ry=".95"/>
+    <ellipse cx="250" cy="191" rx="1.45" ry=".9" transform="rotate(-12 250 191)"/>
+    <ellipse cx="270" cy="183" rx="1.4" ry=".9" transform="rotate(-28 270 183)"/>
+    <ellipse cx="286" cy="174" rx="1.35" ry=".85" transform="rotate(-40 286 174)"/>
+  </g>
+  <!-- Near-side prolegs have broad soft bases, rounded soles and tiny crochet hooks. -->
+  <g fill="url(#floreal15-proleg)" stroke="#99927b" stroke-width=".95">
+    <path d="M206 190C207 196 205 205 209 211C212 215 220 215 222 211C224 207 218 201 218 196"/>
+    <path d="M228 198C229 203 227 211 232 216C236 220 243 216 243 212C243 208 239 205 240 201"/>
+    <path d="M249 198C249 203 247 209 252 213C256 216 263 212 262 208C261 204 258 202 258 197"/>
+    <path d="M270 188C270 194 268 200 273 204C277 207 284 203 283 199C282 196 278 193 279 187"/>
+    <path d="M296 179C295 184 295 190 299 193C302 196 308 192 307 188C306 184 302 183 302 178"/>
+  </g>
+  <g stroke="#a9a18a" stroke-width=".55"><path d="M210 198C210 205 212 210 217 211M232 205C232 211 235 214 238 214M252 204C252 209 255 211 258 211M273 194C273 199 276 202 279 201M298 184C298 189 301 191 304 190"/></g>
+  <g stroke="#867d65" stroke-width=".65"><path d="M211 214L212 212M214 215L215 213M218 214L218 212M233 218L234 215M237 217L237 215M240 216L240 214M252 214L253 212M256 214L256 212M259 212L259 210M274 205L275 202M277 205L278 202M281 203L281 201M299 194L300 192M302 194L303 192M305 192L305 190"/></g>
+  <!-- The near three true legs are slender, jointed and end in a single curved claw. -->
+  <g fill="#c6b998" stroke="#8c8067" stroke-width=".85">
+    <path d="M106 153C110 156 111 162 108 166L103 171L102 177L99 180L97 179L99 174L99 169L103 163L102 157Z"/>
+    <path d="M126 158C130 161 131 166 128 171L122 177L121 183L117 185L115 183L118 180L118 174L123 168L121 161Z"/>
+    <path d="M146 165C150 168 150 174 147 178L141 183L140 188L136 191L134 189L137 185L137 180L142 174L141 168Z"/>
+  </g>
+  <g stroke="#e6dcc0" stroke-width=".55"><path d="M106 158L107 163L102 170M126 163L127 168L121 176M145 170L146 175L140 182"/></g>
+  <g stroke="#8a7b60" stroke-width=".65"><path d="M100 169L104 171M118 174L122 177M137 180L141 183M98 179C96 180 94 179 94 177M116 184C113 186 112 184 112 182M135 190C132 192 131 190 131 188"/></g>
+  <!-- Small tawny head capsule, shallow sutures, minute stemmata and compact mouthparts. -->
+  <path d="M91 141C85 140 78 144 76 150C72 157 76 167 82 170C88 174 96 170 100 164C103 158 101 149 97 145C95 143 94 142 91 141Z" fill="url(#floreal15-head)" stroke="#8c785c" stroke-width="1.05"/>
+  <path d="M89 144C87 149 88 154 92 157L88 163M89 144C95 147 98 153 97 158M80 147C77 151 78 157 80 161" stroke="#e1ceb0" stroke-width=".7" opacity=".8"/>
+  <path d="M86 145C82 149 82 153 84 157L88 161M94 147C91 152 92 157 95 160M80 162C83 161 88 162 90 166L87 170C83 171 79 168 78 165Z" stroke="#8e795e" stroke-width=".7"/>
+  <path d="M80 164L84 165L86 168M78 166L75 168L77 171M87 169L89 172L92 170" stroke="#7d6a51" stroke-width=".75"/>
+  <g fill="#78684e"><circle cx="78.4" cy="156" r=".8"/><circle cx="78.2" cy="158.3" r=".6"/><circle cx="79.3" cy="160.1" r=".55"/></g>
+  <path d="M78 161L74 162L73 164M82 170L81 173" stroke="#927f61" stroke-width=".65"/>
+  <!-- One quiet oval cocoon, its fine crossing silk fibres following the swollen surface. -->
+  <g transform="rotate(-24 268 273)">
+    <path d="M236 271C237 256 249 251 266 252C282 250 298 258 300 271C302 284 289 292 272 293C255 294 240 288 237 278C236 276 236 273 236 271Z" fill="url(#floreal15-silk)" stroke="#aaa086" stroke-width="1"/>
+    <g stroke="#bdb393" stroke-width=".5" opacity=".7">
+      <path d="M242 262C252 254 275 255 288 264C299 272 293 283 279 287C266 292 249 285 244 277C238 269 248 259 265 260C282 260 296 269 290 279C285 290 255 291 244 281M239 269C251 260 272 261 290 272C299 279 287 289 274 291M247 257C257 266 281 275 295 277M241 264C251 275 274 285 287 286M250 255C265 253 290 265 295 273M240 278C253 286 275 285 290 278M246 284C254 272 275 258 285 257M254 291C258 277 277 261 290 261M265 291C265 281 280 268 296 268M239 273C248 268 255 260 261 254"/>
+    </g>
+    <g stroke="#f7efd9" stroke-width=".65" opacity=".8"><path d="M245 261C256 255 273 258 280 261M241 270C248 265 263 265 277 270M247 279C259 284 278 284 288 277M253 287C263 280 273 264 284 262"/></g>
+    <g stroke="#a99e7f" stroke-width=".45" opacity=".5"><path d="M239 268L238 273M244 281L248 285M252 289L259 291M283 289L289 286M295 280L298 274M290 259L294 263M263 253L270 253"/></g>
+  </g>
+</svg>

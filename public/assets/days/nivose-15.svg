@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="nivose-15-title nivose-15-desc">
+  <title id="nivose-15-title">Lapin — Oryctolagus cuniculus domesticus</title>
+  <desc id="nivose-15-desc">An adult grey-brown domestic European rabbit crouches quietly in left profile. Its compact back rises into a full rounded haunch, the short forelegs rest on furred paws, and a small cream cotton tail peeps from the rump. Two moderately short rounded ears have softly pink inner surfaces without black tips. Fine whiskers, a small brown eye, a divided upper lip and curved fur engraving accompany translucent warm grey watercolor.</desc>
+  <defs>
+    <linearGradient id="nivose-15-coat" x1="174" y1="153" x2="218" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b5afa0" stop-opacity=".79"/>
+      <stop offset=".46" stop-color="#a49a87" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#8e8371" stop-opacity=".88"/>
+    </linearGradient>
+    <linearGradient id="nivose-15-haunch" x1="224" y1="201" x2="262" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b5ac97" stop-opacity=".14"/>
+      <stop offset=".58" stop-color="#9d927d" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#7f7564" stop-opacity=".44"/>
+    </linearGradient>
+    <linearGradient id="nivose-15-head" x1="99" y1="144" x2="121" y2="213" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b5ac97" stop-opacity=".87"/>
+      <stop offset=".52" stop-color="#a59a85" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#c6baa0" stop-opacity=".87"/>
+    </linearGradient>
+    <linearGradient id="nivose-15-ear" x1="113" y1="80" x2="128" y2="151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b9ad95" stop-opacity=".89"/>
+      <stop offset="1" stop-color="#998d76" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="nivose-15-inner-ear" x1="112" y1="90" x2="127" y2="143" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c2a99b" stop-opacity=".66"/>
+      <stop offset="1" stop-color="#a68d7f" stop-opacity=".62"/>
+    </linearGradient>
+    <linearGradient id="nivose-15-cream" x1="133" y1="201" x2="145" y2="287" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#dfd5be" stop-opacity=".89"/>
+      <stop offset="1" stop-color="#c9bea6" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="nivose-15-far" x1="121" y1="231" x2="133" y2="294" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#958b78" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#b1a58c" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#665e4f">
+    <!-- The further foreleg rests just ahead of the near one. -->
+    <path d="M126 214C119 227 121 245 122 259L120 278C113 282 102 281 96 286C94 288 95 292 100 293L127 292C133 291 136 287 136 282L140 244L141 222Z" fill="url(#nivose-15-far)" stroke-width="1.2"/>
+    <path d="M126 245L127 272C126 280 123 283 116 285M99 286L102 290M106 285L109 290M113 285L116 290" stroke-width=".6" opacity=".74"/>
+    <!-- A cotton tail is small and rounded, with the pale underside turned toward us. -->
+    <path d="M286 234C291 228 299 227 303 230L307 230L308 233L312 235L312 240L315 244L312 248L312 252L307 255L304 258L298 257C290 258 285 253 283 247Z" fill="url(#nivose-15-cream)" stroke-width="1.15"/>
+    <path d="M296 232C300 234 303 240 301 245M308 237L306 241M311 244L307 247M303 251L300 254M291 240L293 244M289 247L293 250" stroke-width=".57" opacity=".6"/>
+    <path d="M299 231L303 235M308 243L306 249M294 253L298 254" stroke="#eee4ce" stroke-width="1" opacity=".85"/>
+    <!-- The low chest joins a short back and deep, rounded hindquarters. -->
+    <path d="M129 180C142 163 164 152 190 151C222 147 253 157 273 178C289 194 299 216 296 238C294 259 282 278 263 287C244 297 222 297 202 292C187 294 169 289 154 281C137 272 128 260 124 245C118 225 119 201 129 180Z" fill="url(#nivose-15-coat)" stroke-width="1.6"/>
+    <path d="M223 198C247 190 270 205 280 226C290 247 280 273 261 284C247 292 229 293 214 287C202 280 195 266 198 251C199 230 207 208 223 198Z" fill="url(#nivose-15-haunch)" stroke="none"/>
+    <!-- A light throat continues as fur over the folded breast. -->
+    <path d="M128 195C126 214 129 232 139 245C145 255 153 262 162 265C157 272 152 276 147 276C132 267 126 251 124 237C122 220 122 207 128 195Z" fill="url(#nivose-15-cream)" stroke="none"/>
+    <!-- Ears emerge close together; their rounded tips remain the coat color. -->
+    <path d="M128 150C127 134 133 116 140 99C145 86 150 78 154 79C160 82 159 94 155 107C151 126 143 143 138 152Z" fill="url(#nivose-15-ear)" stroke-width="1.25"/>
+    <path d="M134 145C135 131 142 111 149 95C152 89 154 87 155 87C155 98 150 113 146 124C142 135 138 143 136 146Z" fill="url(#nivose-15-inner-ear)" stroke-width=".62"/>
+    <path d="M137 141C140 126 147 109 152 96M143 123L146 118M150 108L152 102" stroke-width=".56" opacity=".63"/>
+    <path d="M111 151C106 139 100 123 97 109C93 96 92 83 96 78C103 77 111 88 116 100C123 116 126 133 126 148Z" fill="url(#nivose-15-ear)" stroke-width="1.3"/>
+    <path d="M114 143C107 127 101 104 99 88C106 92 111 102 115 112C120 125 121 136 121 145Z" fill="url(#nivose-15-inner-ear)" stroke-width=".65"/>
+    <path d="M116 139C110 122 104 104 101 93M108 115L107 107M114 131L112 123" stroke-width=".55" opacity=".66"/>
+    <path d="M95 87L96 96M99 109L102 118M105 128L108 136M119 108L122 117M148 89L145 96M155 111L152 119M143 143L141 147" stroke="#d7cbb1" stroke-width=".8" opacity=".83"/>
+    <!-- The adult head is low, with a full cheek and short blunt muzzle. -->
+    <path d="M116 141C128 140 140 148 145 158C153 170 152 185 144 197C138 206 126 212 114 212C102 212 95 207 89 203C81 205 73 203 68 200C63 197 61 192 64 188L73 182C77 165 86 152 99 146C104 143 110 141 116 141Z" fill="url(#nivose-15-head)" stroke-width="1.5"/>
+    <path d="M102 180C110 176 125 178 132 185C140 194 132 205 121 208C110 211 100 204 94 201C84 204 75 202 70 198C68 193 73 189 82 188C90 187 96 183 102 180Z" fill="#d1c4a9" fill-opacity=".65" stroke="none"/>
+    <path d="M126 155C138 164 144 176 140 188C138 196 133 201 125 204M114 147C123 148 130 154 133 161M95 154C87 162 84 171 82 178" stroke-width=".72" opacity=".71"/>
+    <!-- Small eye set high on the side of the head, framed by a pale fur rim. -->
+    <path d="M94 166C96 161 102 159 107 162C110 165 108 171 104 172C99 173 95 171 94 166Z" fill="#cec0a4" fill-opacity=".83" stroke-width=".62"/>
+    <path d="M97 166C98 163 102 162 105 164C107 166 105 169 102 170C99 170 97 169 97 166Z" fill="#514b3f" stroke-width=".7"/>
+    <circle cx="102.5" cy="165.1" r=".73" fill="#e9dfc8" stroke="none"/>
+    <path d="M94 162C98 158 104 157 109 161M97 173L101 174M106 171L108 169" stroke-width=".55" opacity=".69"/>
+    <!-- A nostril and short philtrum divide the upper lip. -->
+    <path d="M64 186C68 184 72 185 74 188C73 191 70 193 67 192L63 190Z" fill="#8e7c70" stroke-width=".85"/>
+    <path d="M65 187C68 186 70 187 71 188M68 192L69 196M69 196C74 198 79 198 83 196M69 196L66 198M72 201C77 203 84 203 89 201" stroke-width=".75"/>
+    <path d="M65 187L67 186" stroke="#d5c1ad" stroke-width=".75"/>
+    <!-- Long, fine whiskers arc from the muzzle pads, with no decorative dotting. -->
+    <g stroke-width=".5" opacity=".76">
+      <path d="M81 190C70 183 57 181 46 181M82 193C67 190 54 191 42 194M82 195C69 197 55 201 47 207M86 197C75 203 66 210 60 218"/>
+      <path d="M87 187C78 180 68 176 59 175M88 190C78 186 68 184 60 185M89 195C82 201 76 206 72 213" opacity=".55"/>
+    </g>
+    <path d="M84 180L89 177M89 184L94 182M95 188L99 186M101 192L106 191M109 195L114 195M116 201L122 200M127 195L130 191M133 181L135 185M130 171L132 176M117 156L120 159M109 151L113 152" stroke-width=".55" opacity=".59"/>
+    <!-- The near foreleg descends from a rounded shoulder, then bends into the paw. -->
+    <path d="M147 207C158 216 162 233 157 248C155 258 154 270 154 279C151 284 146 286 138 286L124 286C117 286 110 289 111 294C112 298 119 299 126 298L150 298C159 297 163 293 163 286L169 255C173 238 169 222 159 212" fill="url(#nivose-15-coat)" stroke-width="1.25"/>
+    <path d="M148 228C153 241 149 253 149 265L148 277M146 281C138 283 130 281 124 285M119 289L122 295M126 288L129 295M133 289L136 295" stroke-width=".67" opacity=".82"/>
+    <path d="M123 295L121 297M130 295L129 297M137 295L136 297" stroke="#706454" stroke-width=".75"/>
+    <path d="M140 246L143 254M144 258L147 265M154 274L152 281M154 287L151 291M114 291L117 293M138 293L143 293" stroke="#d8ccb2" stroke-width=".78" opacity=".78"/>
+    <!-- The big flexed hind thigh ends in a short, fur-covered forward-facing hind foot. -->
+    <path d="M241 211C264 212 280 231 279 251C279 266 269 277 258 283C251 288 240 289 229 288L206 288C198 288 190 291 190 296C191 300 200 301 208 300L247 299C263 299 274 292 280 281" fill="url(#nivose-15-coat)" stroke-width="1.25"/>
+    <path d="M239 216C222 215 210 227 207 243C205 256 211 269 221 274M247 219C262 222 270 235 270 247C271 261 263 270 253 274M221 280C232 281 241 280 248 277" stroke-width=".75" opacity=".76"/>
+    <path d="M194 293L198 297M202 292L206 298M211 292L215 298M221 291C230 293 242 291 250 289" stroke-width=".64" opacity=".76"/>
+    <path d="M199 297L198 299M207 298L206 300M216 298L215 300" stroke-width=".7"/>
+    <path d="M213 241C214 231 222 223 231 221M217 270L224 274M229 286L239 286M261 278L266 274" stroke="#d5c9af" stroke-width="1.1" opacity=".65"/>
+    <!-- Organic engraving follows the direction of the short, dense coat. -->
+    <g stroke="#766a56" stroke-width=".55" opacity=".64">
+      <path d="M147 173C154 168 160 166 166 166M170 160L178 158M186 157L194 157M201 157L209 158M217 159L225 162M233 164L240 168M247 172L253 176M261 181L266 186M272 192L276 198M282 207L285 214M290 222L291 230M290 241L288 249M283 260L279 267"/>
+      <path d="M161 178C157 185 157 194 159 201M174 169C169 180 169 190 172 198M185 168C180 176 180 184 182 192M196 168C194 174 194 181 196 187M210 169C210 175 211 181 214 187M228 175L232 182M245 187L249 193M264 201L268 208" opacity=".58"/>
+      <path d="M179 210L183 218M184 224L189 230M189 240L193 247M184 259L189 266M173 268L178 273M174 281L180 284M187 286L193 288M257 286L264 282M267 278L272 272"/>
+      <path d="M221 225L218 231M216 237L215 244M216 252L219 258M222 263L227 267M231 272L238 274M245 273L252 271M257 265L262 261M265 253L266 247M265 238L263 232M255 224L250 222"/>
+      <path d="M132 216L135 223M133 231L137 238M138 244L141 250M144 224L147 230M158 220L161 226M160 238L159 245M158 255L157 261M157 269L156 275M155 283L153 288"/>
+      <path d="M113 149L116 153M120 155L123 158M130 161L133 165M139 169L141 175M142 181L141 186M136 194L133 198M129 203L124 206M114 207L108 205M102 201L98 199M92 159L89 163M88 170L86 174"/>
+    </g>
+    <g stroke="#dfd4bc" stroke-width=".68" opacity=".73">
+      <path d="M142 172L148 168M156 164L163 161M179 155L187 154M198 154L205 155M219 157L227 160M242 167L248 171M266 185L270 191M282 210L285 218M288 232L287 239"/>
+      <path d="M174 178L173 185M187 175L186 181M201 178L202 185M184 213L187 219M190 228L193 233M198 258L201 265M171 277L177 280M219 227L216 233M221 259L226 265M247 279L254 276M269 241L270 248"/>
+      <path d="M107 148L112 147M120 151L124 153M137 162L140 167M133 199L129 203M113 207L108 204M87 169L85 175M139 225L142 232M146 270L146 276"/>
+    </g>
+    <path d="M95 304C111 302 127 304 141 303M160 304L181 304M201 305C222 303 242 305 263 302M274 301L286 300" stroke="#9e957f" stroke-width=".7" opacity=".28"/>
+  </g>
+</svg>

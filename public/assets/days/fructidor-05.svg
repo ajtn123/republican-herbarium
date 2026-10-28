@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fructidor-05-title fructidor-05-desc">
+  <title id="fructidor-05-title">Saumon — Salmo salar</title>
+  <desc id="fructidor-05-desc">An adult Atlantic salmon in its silvery sea-going phase, facing left. The elongated body has a muted blue olive back, silver cream sides and sparse small dark spots above its fine lateral line. A single rayed dorsal fin and a small fleshy adipose fin precede a moderately forked tail; pectoral, abdominal pelvic and posterior anal fins carry delicate engraved rays. The head has a natural small eye, a gently rounded snout and an unhooked jaw.</desc>
+  <defs>
+    <linearGradient id="fructidor-05-body" x1="164" y1="149" x2="166" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6e807d" stop-opacity=".87"/>
+      <stop offset=".22" stop-color="#97a29a" stop-opacity=".74"/>
+      <stop offset=".49" stop-color="#c2c8ba" stop-opacity=".7"/>
+      <stop offset=".73" stop-color="#dedfcf" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#c8c5ac" stop-opacity=".78"/>
+    </linearGradient>
+    <linearGradient id="fructidor-05-head" x1="70" y1="159" x2="80" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ba79c" stop-opacity=".45"/>
+      <stop offset=".6" stop-color="#e0dfca" stop-opacity=".56"/>
+      <stop offset="1" stop-color="#c1bfaa" stop-opacity=".48"/>
+    </linearGradient>
+    <linearGradient id="fructidor-05-fin" x1="177" y1="117" x2="181" y2="235" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#76817a" stop-opacity=".66"/>
+      <stop offset=".5" stop-color="#a2a793" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#b7b092" stop-opacity=".63"/>
+    </linearGradient>
+    <linearGradient id="fructidor-05-tail" x1="278" y1="184" x2="326" y2="183" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78877e" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#a4aa94" stop-opacity=".68"/>
+    </linearGradient>
+    <clipPath id="fructidor-05-scaled-flank"><path d="M99 159C129 146 167 148 199 158C229 168 247 178 278 177L282 190C254 190 232 201 210 207C176 217 135 219 98 204C106 190 107 174 99 159Z"/></clipPath>
+  </defs>
+  <g stroke="#62665a">
+    <!-- Far pelvic fin, behind the pale abdomen. -->
+    <path d="M177 211C183 220 191 228 200 230C196 220 192 213 186 209Z" fill="#a6aa95" fill-opacity=".56" stroke-width=".85"/>
+    <path d="M181 212L196 227M186 213L195 223" stroke-width=".55" opacity=".6"/>
+    <!-- A single soft dorsal, with a short base and slanting leading edge. -->
+    <path d="M128 152C134 142 139 124 145 114C152 116 158 124 165 129C172 135 178 143 187 154C165 151 146 150 128 152Z" fill="url(#fructidor-05-fin)" stroke-width="1.2"/>
+    <path d="M132 150L145 116M137 150L150 119M142 150L155 124M148 150L160 128M154 150L165 131M160 150L169 135M166 151L174 141M173 151L179 146M180 152L183 150" stroke-width=".65" opacity=".78"/>
+    <path d="M142 133L146 123M150 138L155 129M159 143L164 135M170 147L174 143" stroke="#d4d4b9" stroke-width=".62" opacity=".7"/>
+    <!-- Salmon caudal: broad, moderately forked, supported by an unkeeled stalk. -->
+    <path d="M274 177C291 172 306 154 325 145C322 157 315 172 304 183C315 194 323 209 326 223C308 216 291 199 275 194C273 189 273 182 274 177Z" fill="url(#fructidor-05-tail)" stroke-width="1.35"/>
+    <path d="M279 181C294 175 308 158 321 150M281 183C296 178 308 165 319 157M282 184C296 181 308 172 314 166M284 185L306 178M280 189C297 197 311 211 322 219M281 187C299 193 311 205 321 213M284 187C299 190 310 197 317 203M286 186L309 191" stroke-width=".65" opacity=".8"/>
+    <path d="M292 175L308 160M299 174L313 161M291 198L310 213M300 198L317 214M287 183L297 180M289 189L301 193" stroke="#d7d6bb" stroke-width=".6" opacity=".65"/>
+    <!-- A low, extended fusiform body, with no spawning hump or kype. -->
+    <path d="M39 179C47 172 56 166 68 163C82 159 93 155 106 153C134 148 161 148 186 154C214 160 234 173 255 177C264 179 273 178 280 177L285 182L283 190C266 190 252 193 235 199C208 210 180 217 148 216C124 215 104 210 87 203C73 198 59 193 47 190C41 189 37 186 38 184L43 182Z" fill="url(#fructidor-05-body)" stroke-width="1.45"/>
+    <path d="M70 163C101 152 131 148 159 152C190 154 210 164 232 174C201 164 179 160 155 160C125 158 100 164 75 169Z" fill="#647d7e" fill-opacity=".19" stroke="none"/>
+    <path d="M101 188C133 190 167 189 195 186C223 183 246 183 272 184C249 188 226 196 199 202C161 210 126 206 102 199Z" fill="#eef0df" fill-opacity=".3" stroke="none"/>
+    <path d="M41 179C55 171 67 166 82 161C94 166 101 175 101 187C102 198 98 204 94 206C76 201 62 194 47 190L39 186L43 182Z" fill="url(#fructidor-05-head)" stroke="none"/>
+    <!-- Fine lateral line curves along the silvery flank. -->
+    <path d="M101 181C130 176 160 178 189 182C217 186 245 186 277 184" stroke="#7c8778" stroke-width=".78" opacity=".73"/>
+    <path d="M106 184C134 179 160 181 183 184M194 185C219 188 242 188 264 186" stroke="#e3e6d2" stroke-width=".75" opacity=".67"/>
+    <!-- Small cycloid scales appear as short curved cuts, never a broad carp lattice. -->
+    <g clip-path="url(#fructidor-05-scaled-flank)" stroke="#788274" stroke-width=".43" opacity=".46">
+      <path d="M111 157q3 1 2 4M120 155q3 1 2 4M130 154q3 1 2 4M141 154q3 1 2 4M152 155q3 1 2 4M163 156q3 1 2 4M174 158q3 1 2 4M185 161q3 1 2 4M196 164q3 1 2 4M207 168q3 1 2 4M218 172q3 1 2 4M229 176q3 1 2 4M242 180q3 1 2 4M256 181q3 1 2 4"/>
+      <path d="M105 167q3 1 2 4M116 165q3 1 2 4M127 164q3 1 2 4M138 164q3 1 2 4M149 165q3 1 2 4M160 166q3 1 2 4M171 168q3 1 2 4M182 170q3 1 2 4M193 173q3 1 2 4M204 177q3 1 2 4M215 180q3 1 2 4M229 184q3 1 2 4M244 185q3 1 2 4M260 185q3 1 2 4" opacity=".68"/>
+      <path d="M111 177q3 1 2 4M122 175q3 1 2 4M133 175q3 1 2 4M144 175q3 1 2 4M155 176q3 1 2 4M166 177q3 1 2 4M177 180q3 1 2 4M188 182q3 1 2 4M199 184q3 1 2 4M212 187q3 1 2 4M225 188q3 1 2 4M239 189q3 1 2 4M253 188q3 1 2 4" opacity=".67"/>
+      <path d="M105 188q3 1 2 4M116 186q3 1 2 4M127 185q3 1 2 4M138 185q3 1 2 4M149 186q3 1 2 4M160 187q3 1 2 4M171 189q3 1 2 4M182 191q3 1 2 4M193 192q3 1 2 4M206 194q3 1 2 4M220 195q3 1 2 4M234 194q3 1 2 4" opacity=".7"/>
+      <path d="M111 198q3 1 2 4M123 196q3 1 2 4M135 196q3 1 2 4M147 197q3 1 2 4M159 198q3 1 2 4M171 200q3 1 2 4M183 201q3 1 2 4M195 202q3 1 2 4M209 202q3 1 2 4M223 200q3 1 2 4M126 207q3 1 2 4M140 207q3 1 2 4M154 208q3 1 2 4M169 209q3 1 2 4M183 209q3 1 2 4"/>
+    </g>
+    <!-- Sparse irregular dark spots are concentrated above the lateral line. -->
+    <g fill="#4d5b52" fill-opacity=".82" stroke="none">
+      <path d="M104 162l1.8-.8.8 1.7-1.7 1.1Z M118 158l1.7.5-.2 1.8-1.8-.4Z M130 163l1.9-1 .9 1.7-1.6 1.1Z M146 157l1.8.6-.5 1.5-1.6-.2Z M158 165l2-.5.4 1.6-1.9.6Z M172 160l1.4-.5 1 1.6-1.6.9Z M185 169l1.9-.8.8 1.6-1.7.9Z M200 169l1.9.4-.4 1.8-1.6-.2Z M214 177l1.5-.6.7 1.4-1.6.7Z M231 179l1.5.2-.1 1.5-1.6-.1Z"/>
+      <path d="M112 173l1.6-.6.9 1.4-1.7.8Z M140 169l1.8.3-.2 1.8-1.9-.5Z M153 173l1.4-.7.8 1.4-1.6.8Z M169 172l1.6.5-.4 1.6-1.5-.4Z M192 178l1.5-.4.6 1.5-1.7.5Z M78 167l1.6-.5.8 1.3-1.7.7Z M88 173l1.5-.5.8 1.4-1.6.7Z"/>
+    </g>
+    <!-- Compact eye and gently rounded jaws, without spawning distortion. -->
+    <path d="M60 175C60 171 63 168 67 169C71 169 73 173 71 176C69 180 63 179 60 175Z" fill="#c5c5a9" fill-opacity=".81" stroke-width=".72"/>
+    <circle cx="66.3" cy="173.7" r="2.9" fill="#49534a" stroke-width=".65"/>
+    <circle cx="65.4" cy="172.7" r=".73" fill="#efebd0" stroke="none"/>
+    <path d="M61 168C64 166 68 166 71 169M62 180C65 182 69 181 72 179M53 173l2-1M54 175l2-.3" stroke-width=".56" opacity=".78"/>
+    <path d="M40 181C50 182 59 184 69 185C73 185 76 183 77 181M40 186C49 190 60 192 69 191C73 191 77 189 79 187M46 185C53 187 62 188 69 188" stroke-width=".87"/>
+    <path d="M74 184C76 187 78 189 82 190M49 179l6 1M70 190l4-1" stroke-width=".6" opacity=".7"/>
+    <!-- Broad, smooth gill cover bounded by a curved rear edge. -->
+    <path d="M83 160C94 165 102 175 102 187C102 195 98 202 93 206M85 163C94 168 99 177 99 187C98 195 95 200 91 203" stroke-width=".95"/>
+    <path d="M80 173C85 176 88 182 87 188C87 195 83 198 78 199M81 192C85 194 90 194 94 192M77 165l5 1M83 202l5 2" stroke-width=".62" opacity=".73"/>
+    <!-- Near pectoral fin attaches low immediately behind the operculum. -->
+    <path d="M100 191C110 194 124 203 139 215C127 214 113 210 104 202C100 198 98 194 100 191Z" fill="url(#fructidor-05-fin)" stroke-width="1.05"/>
+    <path d="M101 194C112 201 125 209 135 213M102 197C111 205 121 210 130 212M106 194C118 200 127 206 132 210M106 202L120 210" stroke-width=".6" opacity=".8"/>
+    <!-- Abdominal pelvic fin, well behind the pectoral. -->
+    <path d="M164 215C172 215 178 213 181 212C184 220 190 228 192 236C181 232 169 225 164 215Z" fill="url(#fructidor-05-fin)" stroke-width="1.05"/>
+    <path d="M167 217L188 233M173 216L189 230M178 215L188 226M171 222L182 230" stroke-width=".6" opacity=".8"/>
+    <!-- Posterior anal fin and the small fleshy adipose, with no finlets. -->
+    <path d="M221 204C228 207 237 206 242 203C242 212 246 221 250 229C238 225 226 215 221 204Z" fill="url(#fructidor-05-fin)" stroke-width="1.1"/>
+    <path d="M225 206L246 226M230 206L246 222M235 206L245 218M239 205L243 213" stroke-width=".61" opacity=".8"/>
+    <path d="M241 173C244 167 246 160 249 158C253 157 255 162 255 166C255 172 257 175 261 178C253 177 247 176 241 173Z" fill="#8e9c88" fill-opacity=".78" stroke-width="1.05"/>
+    <path d="M246 172C248 168 248 162 250 161M250 174l5 1" stroke-width=".55" opacity=".65"/>
+    <!-- Curved engraving is gathered at the shoulder, belly and tail root. -->
+    <g stroke="#70796a" stroke-width=".53" opacity=".58">
+      <path d="M104 156l2 4M111 154l2 4M121 153l2 4M133 152l2 4M147 152l2 4M162 153l2 4M178 156l2 4M193 160l2 4M209 166l2 4M225 172l2 4M237 176l3 3"/>
+      <path d="M104 205q4 4 9 5M116 208q4 4 10 4M130 211q4 3 9 3M144 212q5 3 10 3M160 213q5 3 10 2M193 210q5 1 10-2M207 207q5 1 10-3M251 187l5-3M259 187l5-3M268 186l5-3M270 190l5-2"/>
+      <path d="M90 169l4 6M92 178l3 5M92 188l2 5M88 197l3 3M76 193l4 2M71 196l4 2M97 201l4 3M218 195l6-2M239 189l5-1"/>
+    </g>
+    <g stroke="#ebead4" stroke-width=".73" opacity=".7">
+      <path d="M95 157C112 152 130 151 143 152M158 153C173 154 185 158 195 161M111 209C125 213 137 215 149 214M196 211C207 208 218 204 226 201M52 178l5-2M80 200l7 3M278 181l4 1"/>
+      <path d="M118 188l6 1M137 191l6 1M159 193l6 1M180 194l6-.4M200 194l6-1M229 189l6-.5M79 180l3 4M89 182l2 4" opacity=".7"/>
+    </g>
+  </g>
+</svg>

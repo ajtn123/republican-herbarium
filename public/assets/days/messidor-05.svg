@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="messidor05-title messidor05-desc">
+  <title id="messidor05-title">Messidor 5 — Mulet</title>
+  <desc id="messidor05-desc">An adult rural mule stands facing right, its strong horse-shaped barrel and substantial limbs balanced beneath a high sloping neck. The lean head carries moderately long upright ears, a pale muzzle and a short dark standing mane. Four single hooves, a sparse tail with a dark terminal brush, and fine curved umber engraving distinguish the quiet grey-bay animal, shown without harness.</desc>
+  <defs>
+    <linearGradient id="messidor05-coat" x1="174" y1="121" x2="183" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#afa18c" stop-opacity=".71"/>
+      <stop offset=".47" stop-color="#a18b71" stop-opacity=".77"/>
+      <stop offset="1" stop-color="#85765f" stop-opacity=".86"/>
+    </linearGradient>
+    <linearGradient id="messidor05-far" x1="186" y1="209" x2="196" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#857762" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#a09278" stop-opacity=".87"/>
+    </linearGradient>
+    <linearGradient id="messidor05-ear" x1="256" y1="63" x2="257" y2="111" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b4a58b" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#92816b" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="messidor05-muzzle" x1="291" y1="137" x2="293" y2="165" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d9cfb9" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#bdb198" stop-opacity=".92"/>
+    </linearGradient>
+    <linearGradient id="messidor05-hair" x1="257" y1="102" x2="227" y2="145" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#615c4d" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#756a55" stop-opacity=".93"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#605747">
+    <!-- The distant hind leg is visible beneath the belly, behind the near thigh. -->
+    <path d="M116 202C128 203 140 216 143 230C145 235 141 241 135 249L127 259L136 290L140 298L138 305L121 305L118 301L126 295L120 268C117 260 116 255 120 249L128 235C120 229 111 223 108 214Z" fill="url(#messidor05-far)" stroke-width="1.35"/>
+    <!-- Far foreleg is set slightly forward, opening a narrow view of all four feet. -->
+    <path d="M233 195C244 195 250 206 251 220L251 241L262 279L267 292L274 298L273 304L255 304L252 299L256 293L251 279L240 247C238 241 239 234 239 228L231 211Z" fill="url(#messidor05-far)" stroke-width="1.35"/>
+    <path d="M126 295C129 297 135 298 138 296L140 299L138 305L121 305L118 301Z" fill="#6d6857" stroke-width="1.05"/>
+    <path d="M256 293C260 295 264 295 267 292L274 298L273 304L255 304L252 299Z" fill="#6d6857" stroke-width="1.05"/>
+    <g stroke-width=".65" opacity=".72">
+      <path d="M131 232L136 236L125 255M123 263L130 288M244 222L245 240M247 250L258 282M123 301L135 301M257 300L270 300"/>
+      <path d="M126 241L131 245M120 251L125 255M123 271L128 274M126 282L131 285M241 235L247 238M243 249L249 252M250 265L255 269M255 281L260 285"/>
+    </g>
+    <!-- The tail has a bare-haired dock, unlike the horse's full curtain of hair. -->
+    <path d="M78 158C65 164 59 178 57 195C55 212 53 226 48 239L52 243C58 230 60 213 62 197C64 180 68 170 80 165Z" fill="#a09076" fill-opacity=".88" stroke-width="1.25"/>
+    <path d="M50 234C42 238 40 246 41 254C42 265 39 271 39 278L43 275L45 282L49 278L52 281C53 274 56 269 56 262C57 253 55 243 50 234Z" fill="#6e6552" fill-opacity=".92" stroke-width="1.15"/>
+    <g stroke-width=".6" opacity=".8">
+      <path d="M76 163C63 176 62 189 60 203M49 240C45 254 47 266 45 276M46 242C42 254 46 265 43 273M51 243C53 255 51 268 50 276M54 253C54 262 51 267 52 273"/>
+      <path d="M70 170C64 183 63 194 62 203M48 244C46 255 49 264 47 271" stroke="#bfb097" opacity=".8"/>
+    </g>
+    <!-- Long barrel, rising withers and a muscular neck show the horse parentage. -->
+    <path d="M249 102C238 108 234 125 226 140C202 142 179 145 156 145C133 142 109 139 92 146C77 152 70 166 72 184C72 201 79 214 88 223C93 230 99 234 102 238L86 251C82 255 84 261 86 265L86 291L80 302L81 309L100 309L103 303L97 299L97 268C99 263 100 259 104 256L121 238C127 231 129 226 130 221C155 231 192 231 218 220L217 241L213 287L208 300L209 309L230 309L233 304L227 297L228 267L233 244C236 232 239 218 238 206C250 191 255 173 260 154C270 162 280 166 291 166L305 162C311 159 313 152 309 147L295 132C285 120 278 108 266 104L258 102Z" fill="url(#messidor05-coat)" stroke-width="1.65"/>
+    <!-- Pale short hair under the throat and abdomen is a soft wash. -->
+    <path d="M260 150C255 174 248 192 237 208L231 220L220 224C223 211 228 198 236 184C246 168 248 158 251 147Z" fill="#c3b69c" fill-opacity=".45" stroke="none"/>
+    <path d="M130 215C152 226 190 229 217 216L216 224C190 234 154 230 130 221Z" fill="#d2c6ac" fill-opacity=".49" stroke="none"/>
+    <!-- Ears are long and narrow, but proportionately shorter than those of the ass. -->
+    <path d="M248 108C245 96 239 84 238 72C238 66 239 62 241 59C247 64 251 74 253 84L257 105Z" fill="url(#messidor05-ear)" stroke-width="1.2"/>
+    <path d="M249 99C245 86 241 74 242 66C247 75 249 87 251 99Z" fill="#927d6e" fill-opacity=".5" stroke-width=".6"/>
+    <path d="M259 105C260 92 261 79 265 68C267 63 270 60 273 59C275 65 273 76 270 85L265 107Z" fill="url(#messidor05-ear)" stroke-width="1.3"/>
+    <path d="M263 99C265 86 267 73 271 65C271 75 267 90 265 100Z" fill="#917b6a" fill-opacity=".57" stroke-width=".6"/>
+    <path d="M241 73L245 86M271 73L267 87M250 93L252 101M264 93L263 100" stroke="#d4c5a8" stroke-width=".65" opacity=".8"/>
+    <!-- Upright mane is short, with irregular soft bristles along the neck crest. -->
+    <path d="M259 102L255 99L252 101L250 97L247 102L245 100L242 108L240 106L237 115L235 114L232 123L230 122L226 132L223 131L221 140L226 145C234 133 238 120 245 113C249 109 253 107 259 108L263 106Z" fill="url(#messidor05-hair)" stroke-width="1.05"/>
+    <g stroke-width=".58" opacity=".82">
+      <path d="M252 103L248 110M246 106L241 115M241 112L237 121M236 119L232 129M231 127L227 137M226 135L224 141"/>
+      <path d="M249 104L245 111M238 117L234 127M230 132L227 141" stroke="#b4a58a" opacity=".73"/>
+    </g>
+    <!-- Lean facial bones and rounded jaw, with a pale muzzle and modest dark eye. -->
+    <path d="M296 133C290 134 285 139 285 145C285 154 283 160 280 164C284 166 288 166 291 166L305 162C311 159 313 152 309 147Z" fill="url(#messidor05-muzzle)" stroke-width=".7"/>
+    <path d="M270 112C279 120 282 129 293 139M266 129C261 137 262 147 269 154C274 158 279 159 285 157M260 130C257 136 255 143 254 151" stroke-width=".87" opacity=".85"/>
+    <path d="M270 119C267 115 262 114 258 117C259 122 263 124 267 123Z" fill="#c8b89b" fill-opacity=".65" stroke-width=".65"/>
+    <path d="M268 119C265 116 261 117 260 119C262 122 266 122 268 119Z" fill="#514c40" stroke-width=".65"/>
+    <circle cx="263.3" cy="118.8" r=".68" fill="#e0d5bc" stroke="none"/>
+    <path d="M258 114C261 111 266 112 270 115M260 124L262 126M267 125L269 123M273 125L278 132" stroke-width=".58" opacity=".74"/>
+    <path d="M300 144C296 141 292 143 292 147C294 150 298 151 301 149C303 148 302 145 300 144Z" fill="#736c59" stroke-width=".8"/>
+    <path d="M300 145C297 143 294 144 294 146M309 155C302 160 294 160 289 158L285 158M307 151L304 153M291 163L287 163" stroke-width=".73"/>
+    <path d="M302 158L302 161M297 160L297 163M289 151L287 153M281 147L280 151M271 141L272 146" stroke-width=".5" opacity=".61"/>
+    <!-- Shoulder, deep chest and sloping neck muscles turn beneath the short coat. -->
+    <path d="M240 120C236 137 233 148 227 159M250 133C244 151 242 163 232 180M227 148C215 158 209 174 211 188C212 202 219 212 218 220M230 153C236 168 234 186 226 200M238 206C233 213 227 217 221 220M219 224L222 242M220 246C224 251 225 257 223 264" stroke-width=".9" opacity=".8"/>
+    <path d="M241 147C238 161 232 174 228 181M220 158C214 172 215 186 219 195M216 228L218 239" stroke="#d1c1a1" stroke-width="1.3" opacity=".63"/>
+    <!-- Convex ribs, abdomen and the rounded working haunch. -->
+    <path d="M143 154C165 160 192 159 212 152M139 187C158 213 189 219 213 210M154 162C149 179 156 198 165 206M176 163C171 181 178 201 186 209M197 160C191 177 198 196 207 202" stroke-width=".64" opacity=".35"/>
+    <path d="M96 154C110 151 123 160 128 172C132 183 128 195 121 203M82 164C75 181 81 197 92 206C101 213 111 221 117 233M102 211C110 216 117 220 126 220M97 226L106 232M91 246L100 249M87 260C90 262 93 262 96 261" stroke-width=".9" opacity=".77"/>
+    <path d="M89 157C80 166 77 178 80 187M103 156C115 159 122 168 123 178M135 218C158 227 191 228 210 219M91 271L92 290M221 271L219 288" stroke="#d0bea0" stroke-width="1.25" opacity=".6"/>
+    <!-- Cannon tendons and fetlocks lead into undivided dark horn hooves. -->
+    <path d="M91 270L91 292L88 300M223 267L218 291L216 299M91 251L89 255M219 242L225 244" stroke-width=".75" opacity=".82"/>
+    <path d="M83 298C87 300 93 302 97 299L103 303L100 309L81 309L80 302Z" fill="#6c6554" stroke-width="1.1"/>
+    <path d="M211 297C216 300 222 300 227 297L233 304L230 309L209 309L208 300Z" fill="#6c6554" stroke-width="1.1"/>
+    <path d="M84 305L98 305M212 305L228 305M89 302L87 307M219 302L217 307" stroke="#bfb397" stroke-width=".62" opacity=".77"/>
+    <!-- Sparse curved and oblique engraving follows the direction of the coat. -->
+    <g stroke="#76654f" stroke-width=".56" opacity=".63">
+      <path d="M250 113L247 119M245 121L242 129M242 132L239 140M246 142L242 151M240 155L236 163M235 167L232 175M251 124L249 131M257 112L255 118"/>
+      <path d="M278 125L281 130M282 132L286 137M272 133L272 139M274 146L278 151M260 143L261 149M285 153L284 158"/>
+      <path d="M215 161L212 169M215 174L215 182M215 187L218 195M220 193L223 200M225 179L226 186M228 166L230 173M226 205L222 212M219 214L216 219"/>
+      <path d="M147 154L155 156M166 156L175 157M188 155L198 153M140 197L147 203M150 207L158 211M164 214L172 217M178 218L187 220M193 219L202 217M207 214L213 210M141 176L144 183M155 188L159 195M175 199L181 205M193 203L199 207" opacity=".62"/>
+      <path d="M85 164L82 172M81 177L82 184M84 190L88 196M89 193L95 200M96 199L103 204M115 188L121 187M122 177L126 183M119 202L114 207M107 214L113 219M110 222L115 228M99 235L104 240M93 246L98 250"/>
+      <path d="M87 268L92 272M88 279L93 283M88 289L93 293M217 232L222 236M217 245L222 249M216 259L221 263M215 274L219 278M214 285L218 289"/>
+    </g>
+    <g stroke="#d9c9aa" stroke-width=".65" opacity=".62">
+      <path d="M246 118L243 125M245 143L241 152M225 155L220 162M148 150L157 152M170 152L180 152M192 150L202 149M108 153L115 157M91 162L87 169M105 173L109 180M162 168L162 176M183 168L184 177M204 166L205 174M145 212L152 215M171 221L179 222M219 276L217 287M91 279L91 289"/>
+    </g>
+  </g>
+</svg>

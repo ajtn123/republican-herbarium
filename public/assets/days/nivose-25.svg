@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="nivose-25-title nivose-25-desc">
+  <title id="nivose-25-title">Chat — Felis catus</title>
+  <desc id="nivose-25-desc">An adult rustic grey and umber tabby sits quietly in three-quarter profile, watching toward the left. Pointed furred ears, a small wedge-shaped nose, restrained almond eyes and fine sweeping whiskers distinguish its face. A long curved ringed tail rests beside the rounded haunch; two straight forelegs end in small separate paws. Fine engraved fur follows the muted watercolor coat and irregular mackerel stripes.</desc>
+  <defs>
+    <linearGradient id="nivose-25-coat" x1="155" y1="142" x2="250" y2="289" gradientUnits="userSpaceOnUse"><stop stop-color="#b4afa1" stop-opacity=".78"/><stop offset=".46" stop-color="#9b988b" stop-opacity=".83"/><stop offset="1" stop-color="#8d8676" stop-opacity=".88"/></linearGradient>
+    <linearGradient id="nivose-25-head" x1="121" y1="77" x2="155" y2="148" gradientUnits="userSpaceOnUse"><stop stop-color="#b5b1a0" stop-opacity=".85"/><stop offset="1" stop-color="#9b9481" stop-opacity=".86"/></linearGradient>
+    <linearGradient id="nivose-25-far" x1="184" y1="188" x2="185" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#8e8a7b" stop-opacity=".9"/><stop offset="1" stop-color="#a69b85" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="nivose-25-cream" x1="137" y1="144" x2="159" y2="294" gradientUnits="userSpaceOnUse"><stop stop-color="#d8ceba" stop-opacity=".83"/><stop offset=".68" stop-color="#c6bda7" stop-opacity=".69"/><stop offset="1" stop-color="#bab09a" stop-opacity=".82"/></linearGradient>
+    <linearGradient id="nivose-25-tail" x1="255" y1="267" x2="315" y2="285" gradientUnits="userSpaceOnUse"><stop stop-color="#96907e" stop-opacity=".93"/><stop offset=".65" stop-color="#a59e89" stop-opacity=".89"/><stop offset="1" stop-color="#898371" stop-opacity=".94"/></linearGradient>
+  </defs>
+  <g stroke="#635e4e">
+    <!-- The tail grows from the rump, lies beside the haunch and turns up at its tapering tip. -->
+    <path d="M248 265C269 270 285 283 300 281C313 279 316 268 312 259C310 254 305 250 307 247C310 243 315 249 319 256C327 272 320 289 306 294C290 301 269 290 248 282Z" fill="url(#nivose-25-tail)" stroke-width="1.45"/>
+    <g fill="#6e6a59" fill-opacity=".75" stroke-width=".45">
+      <path d="M262 269C261 274 258 280 258 286L264 289C264 282 267 277 269 273Z"/>
+      <path d="M279 279C278 284 276 289 277 294L283 296C282 290 284 286 285 282Z"/>
+      <path d="M296 281L295 296L301 296L302 281Z"/>
+      <path d="M310 276L320 281L322 276L313 271Z"/>
+      <path d="M313 261L322 263L320 257L310 254Z"/>
+      <path d="M307 247C310 244 315 249 317 253L309 252C307 250 306 249 307 247Z"/>
+    </g>
+    <path d="M256 273C273 279 285 290 299 288C316 287 320 273 316 263" stroke="#c5bca3" stroke-width=".95" opacity=".7"/>
+    <path d="M265 281L270 285M285 291L290 293M306 288L310 285M318 272L317 268M310 249L313 252" stroke-width=".55" opacity=".67"/>
+    <!-- Far foreleg is partly covered by the near leg and the breast. -->
+    <path d="M176 171C191 179 197 200 195 224C193 248 192 273 194 289C202 291 206 294 205 299C204 303 196 304 186 303L175 301C174 297 177 291 179 288C176 265 175 243 172 221C169 203 166 184 176 171Z" fill="url(#nivose-25-far)" stroke-width="1.25"/>
+    <path d="M180 207C184 233 185 265 185 288M180 290C186 291 190 291 194 289M193 295L193 301M199 296L199 301" stroke-width=".7" opacity=".8"/>
+    <path d="M175 225C180 228 185 229 194 227L193 233C185 234 180 232 176 231M177 249L192 251L192 256C186 256 182 255 178 254" fill="#6c6858" fill-opacity=".65" stroke-width=".5"/>
+    <!-- High shoulder, curved spine, tucked abdomen and full seated haunch. -->
+    <path d="M148 133C160 137 171 145 182 156C198 164 211 174 221 187C236 205 245 226 251 247C260 260 266 274 263 286C261 296 250 301 234 302L210 302C198 301 190 294 184 287C176 278 172 269 168 255C160 236 153 218 149 198C142 184 137 171 136 156C135 147 139 138 148 133Z" fill="url(#nivose-25-coat)" stroke-width="1.6"/>
+    <!-- A subtle pale throat and inner foreleg are watercolor, without a sharp bib edge. -->
+    <path d="M138 141C142 146 148 151 155 154C154 171 158 185 164 198C169 214 168 235 166 253C164 269 164 283 167 289C174 291 179 294 178 299C177 304 167 306 156 305L140 305C133 304 131 300 135 295L144 289C146 266 144 241 143 221C142 204 144 194 141 184C136 171 134 156 138 141Z" fill="url(#nivose-25-cream)" stroke="none"/>
+    <path d="M146 174C148 185 151 192 154 201C157 222 154 251 154 272L153 289M163 198C167 216 166 236 165 252C163 269 164 282 167 289C174 291 179 294 178 299C177 304 167 306 156 305L140 305C133 304 131 300 135 295L144 289C146 266 144 241 143 221C142 206 144 196 141 184" stroke-width="1.15"/>
+    <path d="M144 289C148 292 158 293 167 289M144 297C146 299 146 303 145 305M153 297C156 300 155 303 155 305M163 297C166 299 165 302 164 305" stroke-width=".75"/>
+    <!-- The bent hind limb sits in front of the pelvis and ends in a modest tucked paw. -->
+    <path d="M227 224C210 217 195 225 192 242C189 257 196 272 207 281C204 286 196 290 195 294C195 299 204 302 213 302L242 301C251 300 255 296 254 291C253 286 248 284 239 282C250 263 247 238 227 224Z" fill="url(#nivose-25-coat)" stroke-width="1.15"/>
+    <path d="M203 235C195 248 200 262 209 270C218 276 230 278 239 282M207 281C215 286 229 286 239 282M206 293C214 296 230 296 244 292M214 295L213 301M223 296L223 301M233 295L234 301" stroke-width=".75" opacity=".85"/>
+    <path d="M202 231C209 226 220 228 227 234M196 250C197 261 203 271 211 276M207 288C216 291 232 291 241 287" stroke="#d2c8ad" stroke-width="1.15" opacity=".7"/>
+    <!-- Mackerel bars narrow and fork as they turn around shoulder, ribs and haunch. -->
+    <g fill="#6f6b5b" fill-opacity=".69" stroke-width=".48">
+      <path d="M172 150C178 160 175 169 179 181C181 186 185 190 190 193C183 182 184 170 182 158Z"/>
+      <path d="M189 160C194 172 189 185 194 197C197 204 202 209 208 213C201 202 199 193 201 184C201 176 198 170 196 165Z"/>
+      <path d="M207 174C214 188 206 199 213 211L224 225C218 212 219 204 220 198C219 189 214 181 207 174Z"/>
+      <path d="M224 191C231 205 223 217 229 229L238 243C233 227 238 222 234 211Z"/>
+      <path d="M152 157C153 165 159 172 167 175L164 167C159 164 157 160 156 155Z"/>
+      <path d="M151 180C157 186 165 188 172 186L174 191C166 194 158 191 153 187Z"/>
+      <path d="M144 211C150 215 157 217 166 214L166 220C157 223 150 220 144 217Z"/>
+      <path d="M144 232C151 237 158 238 166 236L165 242C157 243 150 241 145 238Z"/>
+      <path d="M145 258C150 261 157 262 164 260L164 266C158 268 150 266 145 264Z"/>
+      <path d="M214 224C209 237 216 242 228 247C235 251 238 256 238 263C240 251 234 245 224 240C217 237 216 231 220 226Z"/>
+      <path d="M199 231C198 240 201 247 207 251L214 254C206 245 204 240 206 227Z"/>
+      <path d="M194 253C204 256 211 263 214 271L220 274C216 264 208 254 194 249Z"/>
+      <path d="M228 268C233 272 236 276 236 282L241 281C243 275 237 269 231 266Z"/>
+    </g>
+    <!-- Small adult head, with the far ear visible beyond the forehead. -->
+    <path d="M113 92C108 82 105 68 106 57C115 61 125 72 131 85L128 99Z" fill="url(#nivose-25-head)" stroke-width="1.2"/>
+    <path d="M112 83L110 65C116 71 120 77 122 85Z" fill="#ac9585" fill-opacity=".65" stroke-width=".55"/>
+    <path d="M116 88C124 80 138 79 149 85C161 90 166 101 164 113C165 122 160 134 152 141L147 149C133 153 118 147 113 139C107 140 100 138 97 133C95 130 97 126 100 123C107 118 111 114 112 107C111 101 112 94 116 88Z" fill="url(#nivose-25-head)" stroke-width="1.45"/>
+    <path d="M139 90C138 80 142 63 147 52C155 62 160 78 158 94L151 104Z" fill="url(#nivose-25-head)" stroke-width="1.3"/>
+    <path d="M145 87C144 78 145 66 148 60C153 68 156 79 154 89L150 95Z" fill="#ae9584" fill-opacity=".66" stroke-width=".65"/>
+    <path d="M148 65C148 74 149 83 150 89M146 79L148 86M153 77L153 86" stroke="#d9c5af" stroke-width=".7" opacity=".8"/>
+    <path d="M107 65L108 74M112 80L115 85M143 67L141 76M158 80L159 87" stroke-width=".55" opacity=".74"/>
+    <!-- Cheek ruff and pale muzzle retain the small wedge shape of a domestic cat. -->
+    <path d="M110 120C115 120 120 122 122 127C125 132 134 133 139 131C136 141 129 145 120 142C116 142 113 140 112 137C106 140 100 137 97 133C94 129 98 125 101 124Z" fill="#ddd2bb" fill-opacity=".78" stroke-width=".6"/>
+    <path d="M147 110C153 113 155 119 153 125L156 124L153 130L155 129L150 137L148 142L144 141" stroke-width=".8"/>
+    <path d="M99 124C102 122 107 123 108 126L104 130L99 128Z" fill="#8d7467" stroke-width=".85"/>
+    <path d="M100 125L104 125" stroke="#c2a18e" stroke-width=".65"/>
+    <path d="M104 130L105 133C109 136 114 135 118 133M105 133L101 134M118 139C124 143 132 143 137 138" stroke-width=".7"/>
+    <!-- The small olive eye has a narrow vertical pupil under a natural, level upper lid. -->
+    <path d="M113 109C117 104 124 103 128 106C125 111 119 113 113 109Z" fill="#b4af83" fill-opacity=".92" stroke-width=".85"/>
+    <path d="M120 105C119 107 119 109 120 111C121 110 122 107 121 105Z" fill="#4f5043" stroke="none"/>
+    <circle cx="122.3" cy="106.6" r=".55" fill="#e8dfc7" stroke="none"/>
+    <path d="M112 107C116 103 123 102 128 105M114 112L117 114M126 110L129 108M107 115L109 112M132 100C137 103 139 108 140 112" stroke-width=".65" opacity=".78"/>
+    <!-- Tabby forehead M, cheek bars and short occipital fur. -->
+    <g fill="#6e6a59" fill-opacity=".75" stroke-width=".4">
+      <path d="M119 88L117 98L120 102L123 94L127 99L132 96L135 101L138 90L134 87L132 93L126 89L123 96L124 84Z"/>
+      <path d="M130 112C137 113 142 116 148 117L152 114C142 114 138 109 133 109Z"/>
+      <path d="M134 122C140 126 145 127 152 125L150 130C144 131 140 128 136 127Z"/>
+      <path d="M153 97C157 101 160 105 163 105L162 110L156 106Z"/>
+      <path d="M149 139C154 143 160 146 165 146L170 153C160 151 154 148 147 144Z"/>
+    </g>
+    <g stroke="#6c6655" stroke-width=".53" opacity=".74">
+      <path d="M119 91L117 96M126 85L127 89M137 84L136 89M140 96L142 100M151 99L154 104M156 112L158 118M146 119L149 121M143 130L146 133M137 136L140 134M132 144L137 144M113 116L116 117"/>
+      <path d="M140 149L141 156M143 155L146 161M146 166L149 171M147 177L150 183M152 178L155 184M157 190L160 196M163 200L165 206M145 202L147 208M147 222L150 228M156 225L157 231M159 245L159 251M147 249L149 255M150 274L149 282M160 276L161 283"/>
+      <path d="M174 160L177 165M181 161L184 166M188 169L190 174M197 175L198 181M205 186L207 192M216 187L218 193M225 203L227 209M233 221L235 228M244 245L246 251M251 259L253 265M255 276L256 282"/>
+      <path d="M182 201L185 208M185 216L187 222M185 241L188 246M184 263L187 269M186 278L188 284M205 235L206 241M210 242L214 247M216 252L220 257M225 254L230 260M230 263L234 268M199 264L204 270M211 277L217 280M227 286L233 285M246 284L250 287"/>
+    </g>
+    <g stroke="#dfd6bf" stroke-width=".64" opacity=".74">
+      <path d="M114 92L113 99M127 82L133 83M156 95L159 100M128 117L133 120M139 126L143 127M139 149L141 153M144 162L147 169M147 185L151 192M151 204L152 210M151 236L151 243M151 268L151 276M140 299L143 300M159 299L160 302"/>
+      <path d="M174 156L181 162M187 166L193 171M202 176L206 181M218 196L221 202M237 232L240 240M250 266L253 273M207 231L214 229M198 244L199 250M204 261L208 267M216 282L225 284M237 295L243 294"/>
+    </g>
+    <!-- A few exceptionally fine whiskers sweep away from the muzzle pads. -->
+    <g stroke="#6a6354" stroke-width=".53" opacity=".77">
+      <path d="M110 130C99 124 87 121 78 122M111 132C98 130 87 131 78 135M112 135C100 135 89 140 83 145M122 132C130 126 139 124 148 125M122 135C133 133 145 134 153 137M122 137C133 139 141 144 147 149"/>
+      <path d="M118 101C116 97 113 95 111 94M124 99C124 95 123 92 121 90"/>
+    </g>
+    <path d="M108 128L110 128M113 130L115 130M116 133L117 133" stroke="#8e806b" stroke-width=".7"/>
+  </g>
+</svg>
